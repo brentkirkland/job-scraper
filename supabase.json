@@ -1,0 +1,148 @@
+{
+  "departments": [
+    {
+      "id": 4029204004,
+      "name": "Engineering",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://boards.greenhouse.io/supabase/jobs/4307459004",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 4165885004,
+          "location": {
+            "name": "Remote"
+          },
+          "metadata": null,
+          "id": 4307459004,
+          "updated_at": "2023-01-16T20:15:25-05:00",
+          "requisition_id": "17",
+          "title": "Cloud Platform / Site Reliability Engineer"
+        },
+        {
+          "absolute_url": "https://boards.greenhouse.io/supabase/jobs/4253732004",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 4165873004,
+          "location": {
+            "name": "Remote"
+          },
+          "metadata": null,
+          "id": 4253732004,
+          "updated_at": "2022-12-22T16:44:47-05:00",
+          "requisition_id": "10",
+          "title": "Ex-Founders"
+        },
+        {
+          "absolute_url": "https://boards.greenhouse.io/supabase/jobs/4776924004",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 4472080004,
+          "location": {
+            "name": "Remote"
+          },
+          "metadata": null,
+          "id": 4776924004,
+          "updated_at": "2023-01-19T15:46:54-05:00",
+          "requisition_id": "40",
+          "title": "Frontend Engineer (marketing focus)"
+        },
+        {
+          "absolute_url": "https://boards.greenhouse.io/supabase/jobs/4307456004",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 4165883004,
+          "location": {
+            "name": "Remote"
+          },
+          "metadata": null,
+          "id": 4307456004,
+          "updated_at": "2023-01-04T21:49:46-05:00",
+          "requisition_id": "16",
+          "title": "Postgres Core Contributor"
+        }
+      ]
+    },
+    {
+      "id": 4029206004,
+      "name": "Growth",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://boards.greenhouse.io/supabase/jobs/4775849004",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 4471493004,
+          "location": {
+            "name": "Remote"
+          },
+          "metadata": null,
+          "id": 4775849004,
+          "updated_at": "2023-01-27T16:38:39-05:00",
+          "requisition_id": "39",
+          "title": "Integrations / Marketplace Lead"
+        },
+        {
+          "absolute_url": "https://boards.greenhouse.io/supabase/jobs/4777008004",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 4472097004,
+          "location": {
+            "name": "Remote"
+          },
+          "metadata": null,
+          "id": 4777008004,
+          "updated_at": "2023-01-26T16:40:22-05:00",
+          "requisition_id": "41",
+          "title": "Social Media and Community Manager"
+        }
+      ]
+    },
+    {
+      "id": 4029205004,
+      "name": "Operations",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 0,
+      "name": "No Department",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    }
+  ]
+}
