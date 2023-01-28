@@ -5,8 +5,8 @@ permissions: write-all
 on:
   push:
   workflow_dispatch:
-  schedule:
-    - cron: "6 * * * 1,2,3,4,5"
+    schedule:
+      - cron: "6 * * * 1,2,3,4,5"
 
 jobs:
   scheduled:

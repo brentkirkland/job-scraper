@@ -1,4 +1,4 @@
-name: Scrape Alchemy jobs
+name: Stripe Alchemy jobs
 
 permissions: write-all
 
@@ -6,7 +6,7 @@ on:
   push:
   workflow_dispatch:
     schedule:
-      - cron: "10 * * * 1,2,3,4,5"
+      - cron: "11 * * * 1,2,3,4,5"
 
 jobs:
   scheduled:
@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v3
       - name: Fetch latest data
         run: |-
-          curl https://api.greenhouse.io/v1/boards/alchemy/embed/departments | jq . > alchemy.json
+          curl https://api.greenhouse.io/v1/boards/stripe/embed/departments | jq . > stripe.json
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"
