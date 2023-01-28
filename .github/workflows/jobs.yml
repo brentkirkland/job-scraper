@@ -15,12 +15,14 @@ jobs:
       - name: Check out this repo
         uses: actions/checkout@v3
       - name: Install rust
-        uses: actions-rs/install@v0.1
+      - uses: actions-rs/toolchain@v1
         with:
-          crate: cargo-audit
-          version: latest
+          toolchain: stable
       - name: Install htmlq
-        run: cargo install htmlq
+      uses: actions-rs/cargo@v1
+        with:
+          command: install
+          args: htmlq
       - name: Fetch latest data
         run: |-
           curl https://api.greenhouse.io/v1/boards/alchemy/embed/departments | jq . > alchemy.json
