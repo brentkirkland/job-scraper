@@ -1,0 +1,27 @@
+name: Scrape Vercel jobs
+
+permissions: write-all
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "8 * * * 1,2,3,4,5"
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out this repo
+        uses: actions/checkout@v3
+      - name: Fetch latest data
+        run: |-
+          curl https://api.greenhouse.io/v1/boards/vercel/embed/departments | jq . > vercel.json
+      - name: Commit and push if it changed
+        run: |-
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Latest data: ${timestamp}" || exit 0
+          git push
