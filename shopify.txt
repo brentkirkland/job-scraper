@@ -10,7 +10,6 @@ https://shopifyschoolofcommerce.com/?utm_source=Shopify-careers&utm_medium=early
 /careers/staff-production-engineer-kubernetes-foundations-remote-americas_3977073d-97f9-471d-8cbb-900d6c0de3f8
 /careers/senior-site-reliability-engineer-remote-apac_f9fb7562-3847-4b21-8dc9-538a8369c810
 /careers/staff-site-reliability-engineer-remote-apac_726fc30c-086b-4921-b06e-b2847c806a8d
-/careers/lead-production-engineer-restricted-infrastructure-and-stacks-remote-emea_a940ea48-a1c6-4d37-a02a-11ae2d8a19de
 /careers/lead-production-engineer-restricted-infrastructure-and-stacks-remote-americas-eastern-time-zone_caefd502-60d8-46c5-931c-174588dc78e7
 /careers/senior-staff-engineer-frontend-checkout-americas-remote_9b58cb41-522a-42f0-a38d-a6e08520e01a
 /careers/infrastructure-engineer-discovery-experience-remote-emea_ae37dd69-d833-40c8-949e-4b5902a29c32
