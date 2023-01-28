@@ -14,6 +14,13 @@ jobs:
     steps:
       - name: Check out this repo
         uses: actions/checkout@v3
+      - name: Install rust
+        uses: actions-rs/install@v0.1
+        with:
+          crate: cargo-audit
+          version: latest
+      - name: Install htmlq
+        run: cargo install htmlq
       - name: Fetch latest data
         run: |-
           curl https://api.greenhouse.io/v1/boards/alchemy/embed/departments | jq . > alchemy.json
@@ -22,7 +29,7 @@ jobs:
           curl https://api.greenhouse.io/v1/boards/planetscale/embed/departments | jq . > planetscale.json
           curl https://api.greenhouse.io/v1/boards/stripe/embed/departments | jq . > stripe.json
           curl https://api.greenhouse.io/v1/boards/vercel/embed/departments | jq . > vercel.json
-          curl https://www.shopify.com/careers?search%5Bkeywords%5D=&search%5Bteams%5D%5B%5D=engineering > shopify.html
+          curl https://www.shopify.com/careers?search%5Bkeywords%5D=&search%5Bteams%5D%5B%5D=engineering | htmlq . > shopify.html
 
       - name: Commit and push if it changed
         run: |-
