@@ -1,0 +1,137 @@
+{
+  "departments": [
+    {
+      "id": 28255,
+      "name": "Business Systems",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 77852,
+      "name": "Contractor",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78542,
+      "name": "Design",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 28244,
+      "name": "Engineering",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 59792,
+      "name": "Executive",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 27782,
+      "name": "Finance",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 28251,
+      "name": "Human Resources",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 28253,
+      "name": "Legal",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 28247,
+      "name": "Marketing",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 77684,
+      "name": "Operations",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 28252,
+      "name": "Product",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 79845,
+      "name": "Referrals",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 28249,
+      "name": "Sales",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 28248,
+      "name": "Security",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 28246,
+      "name": "Social Impact",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 28243,
+      "name": "Support",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 76311,
+      "name": "ZZ - Do Not Use - TA Training/Test",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 82448,
+      "name": "ZZ - Retired/Do not Use Fields",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 0,
+      "name": "No Department",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    }
+  ]
+}
