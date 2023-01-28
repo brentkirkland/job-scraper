@@ -31,6 +31,7 @@ jobs:
           curl --silent  https://api.greenhouse.io/v1/boards/planetscale/embed/departments | jq . > planetscale.json
           curl --silent  https://api.greenhouse.io/v1/boards/stripe/embed/departments | jq . > stripe.json
           curl --silent  https://api.greenhouse.io/v1/boards/vercel/embed/departments | jq . > vercel.json
+          curl --silent  https://api.greenhouse.io/v1/boards/github/embed/departments | jq . > github.json
           curl --silent "https://www.shopify.com/careers?search%5Bkeywords%5D=&search%5Bteams%5D%5B%5D=engineering" | htmlq --attribute href a | grep /careers/ > shopify.txt
 
       - name: Commit and push if it changed
