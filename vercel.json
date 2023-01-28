@@ -1,0 +1,676 @@
+{
+  "departments": [
+    {
+      "id": 4028457004,
+      "name": "Customer Success ",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 4063259004,
+      "name": "Data",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 4063261004,
+      "name": "Design",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 4063266004,
+      "name": "Developer Relationship",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 4042495004,
+      "name": "Engineering",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://boards.greenhouse.io/vercel/jobs/4758834004",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 4461742004,
+          "location": {
+            "name": "Remote - United States"
+          },
+          "metadata": [
+            {
+              "id": 4535220004,
+              "name": "Location(s)",
+              "value": [
+                "United States"
+              ],
+              "value_type": "multi_select"
+            }
+          ],
+          "id": 4758834004,
+          "updated_at": "2023-01-25T16:30:33-05:00",
+          "requisition_id": "2022-282",
+          "title": "Technical Program Manager"
+        }
+      ]
+    },
+    {
+      "id": 4028444004,
+      "name": "Executive",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 4028450004,
+      "name": "Finance & Accounting",
+      "parent_id": 4063267004,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://boards.greenhouse.io/vercel/jobs/4624676004",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 4394901004,
+          "location": {
+            "name": "Remote - United States"
+          },
+          "metadata": [
+            {
+              "id": 4535220004,
+              "name": "Location(s)",
+              "value": [
+                "United States"
+              ],
+              "value_type": "multi_select"
+            }
+          ],
+          "id": 4624676004,
+          "updated_at": "2023-01-19T16:32:18-05:00",
+          "requisition_id": "2022-248",
+          "title": "Senior Finance Manager"
+        }
+      ]
+    },
+    {
+      "id": 4063267004,
+      "name": "Finance & Operations",
+      "parent_id": null,
+      "child_ids": [
+        4028450004,
+        4028451004
+      ],
+      "jobs": []
+    },
+    {
+      "id": 4028447004,
+      "name": "Infrastructure Engineering",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://boards.greenhouse.io/vercel/jobs/4159198004",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 4105378004,
+          "location": {
+            "name": "Remote - United States"
+          },
+          "metadata": [
+            {
+              "id": 4535220004,
+              "name": "Location(s)",
+              "value": [
+                "United States"
+              ],
+              "value_type": "multi_select"
+            }
+          ],
+          "id": 4159198004,
+          "updated_at": "2023-01-24T18:14:13-05:00",
+          "requisition_id": "2021-14",
+          "title": "Infrastructure Engineer"
+        }
+      ]
+    },
+    {
+      "id": 4028449004,
+      "name": "Marketing ",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://boards.greenhouse.io/vercel/jobs/4625781004",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 4395537004,
+          "location": {
+            "name": "Remote - United States"
+          },
+          "metadata": [
+            {
+              "id": 4535220004,
+              "name": "Location(s)",
+              "value": [
+                "United States"
+              ],
+              "value_type": "multi_select"
+            }
+          ],
+          "id": 4625781004,
+          "updated_at": "2023-01-13T16:17:08-05:00",
+          "requisition_id": "2022-249",
+          "title": "Marketing Operations Manager"
+        }
+      ]
+    },
+    {
+      "id": 4028451004,
+      "name": "Operations",
+      "parent_id": 4063267004,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 4028452004,
+      "name": "People",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 4063260004,
+      "name": "Product",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://boards.greenhouse.io/vercel/jobs/4163976004",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 4112389004,
+          "location": {
+            "name": "Remote - United States"
+          },
+          "metadata": [
+            {
+              "id": 4535220004,
+              "name": "Location(s)",
+              "value": [
+                "United States"
+              ],
+              "value_type": "multi_select"
+            }
+          ],
+          "id": 4163976004,
+          "updated_at": "2023-01-13T16:17:08-05:00",
+          "requisition_id": "2021-28-1",
+          "title": "Senior Product Manager, Next.js"
+        },
+        {
+          "absolute_url": "https://boards.greenhouse.io/vercel/jobs/4434286004",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 4285982004,
+          "location": {
+            "name": "Remote - EMEA"
+          },
+          "metadata": [
+            {
+              "id": 4535220004,
+              "name": "Location(s)",
+              "value": [
+                "Germany",
+                "United Kingdom"
+              ],
+              "value_type": "multi_select"
+            }
+          ],
+          "id": 4434286004,
+          "updated_at": "2023-01-13T16:17:08-05:00",
+          "requisition_id": "2022-175",
+          "title": "Senior Product Manager, Next.js, Europe"
+        }
+      ]
+    },
+    {
+      "id": 4028462004,
+      "name": "RevOps",
+      "parent_id": 4028448004,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 4028448004,
+      "name": "Sales",
+      "parent_id": null,
+      "child_ids": [
+        4028462004,
+        4028459004,
+        4028461004,
+        4042499004,
+        4042498004,
+        4042500004,
+        4028458004
+      ],
+      "jobs": []
+    },
+    {
+      "id": 4028459004,
+      "name": "Sales ",
+      "parent_id": 4028448004,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://boards.greenhouse.io/vercel/jobs/4768433004",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 4467060004,
+          "location": {
+            "name": "Remote - United States"
+          },
+          "metadata": [
+            {
+              "id": 4535220004,
+              "name": "Location(s)",
+              "value": [
+                "United States"
+              ],
+              "value_type": "multi_select"
+            }
+          ],
+          "id": 4768433004,
+          "updated_at": "2023-01-26T17:32:57-05:00",
+          "requisition_id": "2022-286",
+          "title": "Account Executive, Mid-Market "
+        },
+        {
+          "absolute_url": "https://boards.greenhouse.io/vercel/jobs/4765803004",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 4465669004,
+          "location": {
+            "name": "Remote - United States"
+          },
+          "metadata": [
+            {
+              "id": 4535220004,
+              "name": "Location(s)",
+              "value": [
+                "United States"
+              ],
+              "value_type": "multi_select"
+            }
+          ],
+          "id": 4765803004,
+          "updated_at": "2023-01-25T15:25:22-05:00",
+          "requisition_id": "2022-285",
+          "title": "Enterprise Account Executive, AMER"
+        },
+        {
+          "absolute_url": "https://boards.greenhouse.io/vercel/jobs/4346323004",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 4223275004,
+          "location": {
+            "name": "Remote - Australia"
+          },
+          "metadata": [
+            {
+              "id": 4535220004,
+              "name": "Location(s)",
+              "value": [
+                "Australia"
+              ],
+              "value_type": "multi_select"
+            }
+          ],
+          "id": 4346323004,
+          "updated_at": "2023-01-13T16:17:08-05:00",
+          "requisition_id": "2022-149",
+          "title": "Enterprise Account Executive, Australia"
+        },
+        {
+          "absolute_url": "https://boards.greenhouse.io/vercel/jobs/4235041004",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 4153508004,
+          "location": {
+            "name": "Remote - EMEA"
+          },
+          "metadata": [
+            {
+              "id": 4535220004,
+              "name": "Location(s)",
+              "value": [
+                "Germany",
+                "United Kingdom"
+              ],
+              "value_type": "multi_select"
+            }
+          ],
+          "id": 4235041004,
+          "updated_at": "2023-01-13T16:17:08-05:00",
+          "requisition_id": "2021-70",
+          "title": "Enterprise Account Executive, Europe"
+        },
+        {
+          "absolute_url": "https://boards.greenhouse.io/vercel/jobs/4180390004",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 4124617004,
+          "location": {
+            "name": "Remote - EMEA"
+          },
+          "metadata": [
+            {
+              "id": 4535220004,
+              "name": "Location(s)",
+              "value": [
+                "Germany",
+                "United Kingdom"
+              ],
+              "value_type": "multi_select"
+            }
+          ],
+          "id": 4180390004,
+          "updated_at": "2023-01-13T16:17:08-05:00",
+          "requisition_id": "2021-39",
+          "title": "Mid-Market Account Executive, Europe"
+        }
+      ]
+    },
+    {
+      "id": 4028461004,
+      "name": "Sales - Business Development",
+      "parent_id": 4028448004,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 4042499004,
+      "name": "Sales Development",
+      "parent_id": 4028448004,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://boards.greenhouse.io/vercel/jobs/4783855004",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 4476470004,
+          "location": {
+            "name": "Remote - United States"
+          },
+          "metadata": [
+            {
+              "id": 4535220004,
+              "name": "Location(s)",
+              "value": [
+                "United States"
+              ],
+              "value_type": "multi_select"
+            }
+          ],
+          "id": 4783855004,
+          "updated_at": "2023-01-26T13:12:04-05:00",
+          "requisition_id": "2023-289",
+          "title": "Sales Development Representative"
+        },
+        {
+          "absolute_url": "https://boards.greenhouse.io/vercel/jobs/4713832004",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 4435241004,
+          "location": {
+            "name": "Remote - Australia "
+          },
+          "metadata": [
+            {
+              "id": 4535220004,
+              "name": "Location(s)",
+              "value": [
+                "Australia"
+              ],
+              "value_type": "multi_select"
+            }
+          ],
+          "id": 4713832004,
+          "updated_at": "2023-01-23T16:24:00-05:00",
+          "requisition_id": "2022-270",
+          "title": "Sales Development Representative, Australia "
+        },
+        {
+          "absolute_url": "https://boards.greenhouse.io/vercel/jobs/4646256004",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 4404503004,
+          "location": {
+            "name": "Remote - EMEA"
+          },
+          "metadata": [
+            {
+              "id": 4535220004,
+              "name": "Location(s)",
+              "value": [
+                "Germany",
+                "United Kingdom"
+              ],
+              "value_type": "multi_select"
+            }
+          ],
+          "id": 4646256004,
+          "updated_at": "2023-01-13T16:17:08-05:00",
+          "requisition_id": "2022-253",
+          "title": "Sales Development Representative, Enterprise, Europe"
+        },
+        {
+          "absolute_url": "https://boards.greenhouse.io/vercel/jobs/4717737004",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 4437612004,
+          "location": {
+            "name": "Remote - Europe"
+          },
+          "metadata": [
+            {
+              "id": 4535220004,
+              "name": "Location(s)",
+              "value": [
+                "Germany",
+                "United Kingdom"
+              ],
+              "value_type": "multi_select"
+            }
+          ],
+          "id": 4717737004,
+          "updated_at": "2023-01-23T16:24:00-05:00",
+          "requisition_id": "2022-272",
+          "title": "Sales Development Representative, Mid Market Europe"
+        }
+      ]
+    },
+    {
+      "id": 4042498004,
+      "name": "Sales Engineering",
+      "parent_id": 4028448004,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://boards.greenhouse.io/vercel/jobs/4182467004",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 4126006004,
+          "location": {
+            "name": "Remote - EMEA"
+          },
+          "metadata": [
+            {
+              "id": 4535220004,
+              "name": "Location(s)",
+              "value": [
+                "Germany",
+                "United Kingdom"
+              ],
+              "value_type": "multi_select"
+            }
+          ],
+          "id": 4182467004,
+          "updated_at": "2023-01-13T16:17:08-05:00",
+          "requisition_id": "2021-42",
+          "title": "Sales Engineer, Europe"
+        }
+      ]
+    },
+    {
+      "id": 4042500004,
+      "name": "Sales - Partnerships",
+      "parent_id": 4028448004,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 4042496004,
+      "name": "Security & IT",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 4028458004,
+      "name": "Solutions ",
+      "parent_id": 4028448004,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 4027442004,
+      "name": "Talent Acquisition",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://boards.greenhouse.io/vercel/jobs/4569242004",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 4370448004,
+          "location": {
+            "name": "Remote - AMER, Remote - EMEA, Remote - APAC"
+          },
+          "metadata": [
+            {
+              "id": 4535220004,
+              "name": "Location(s)",
+              "value": [
+                "United States",
+                "Germany",
+                "United Kingdom"
+              ],
+              "value_type": "multi_select"
+            }
+          ],
+          "id": 4569242004,
+          "updated_at": "2023-01-13T16:17:08-05:00",
+          "requisition_id": "2022-227",
+          "title": "Vercel General Application "
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "No Department",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    }
+  ]
+}
