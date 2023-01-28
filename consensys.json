@@ -1,0 +1,671 @@
+{
+  "departments": [
+    {
+      "id": 84520,
+      "name": "Codefi",
+      "parent_id": 75998,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4803572",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2451267,
+          "location": {
+            "name": "UNITED STATES - Remote"
+          },
+          "metadata": null,
+          "id": 4803572,
+          "updated_at": "2023-01-13T11:33:26-05:00",
+          "requisition_id": "1933",
+          "title": "Senior DevSecOps Engineer - U.S."
+        }
+      ]
+    },
+    {
+      "id": 76003,
+      "name": "Corporate Development",
+      "parent_id": 75999,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 84508,
+      "name": "Cryptoeconomics",
+      "parent_id": 75999,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 50809,
+      "name": "Customer Success",
+      "parent_id": 76000,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 32525,
+      "name": "Diligence",
+      "parent_id": 75998,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 32545,
+      "name": "Finance",
+      "parent_id": 75999,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4658035",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2397892,
+          "location": {
+            "name": "UNITED STATES - Remote"
+          },
+          "metadata": null,
+          "id": 4658035,
+          "updated_at": "2023-01-13T11:53:40-05:00",
+          "requisition_id": "1880",
+          "title": "Accounting Director, Revenue & Digital Assets "
+        },
+        {
+          "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4664551",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2400217,
+          "location": {
+            "name": "UNITED STATES - Remote"
+          },
+          "metadata": null,
+          "id": 4664551,
+          "updated_at": "2023-01-18T05:50:18-05:00",
+          "requisition_id": "1883",
+          "title": "GTM Strategic Finance Manager"
+        }
+      ]
+    },
+    {
+      "id": 76000,
+      "name": "Go To Market",
+      "parent_id": null,
+      "child_ids": [
+        50809,
+        84509,
+        49407,
+        76006
+      ],
+      "jobs": []
+    },
+    {
+      "id": 32536,
+      "name": "Infura",
+      "parent_id": 75998,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4691403",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2408887,
+          "location": {
+            "name": "UNITED STATES - Remote"
+          },
+          "metadata": null,
+          "id": 4691403,
+          "updated_at": "2023-01-18T05:58:00-05:00",
+          "requisition_id": "1893",
+          "title": "Senior Full Stack API Engineer (Infura NFT)"
+        },
+        {
+          "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4635510",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2390157,
+          "location": {
+            "name": "UNITED STATES - Remote"
+          },
+          "metadata": null,
+          "id": 4635510,
+          "updated_at": "2023-01-26T17:27:28-05:00",
+          "requisition_id": "1878",
+          "title": "Senior Product Manager (Infura NFT)"
+        }
+      ]
+    },
+    {
+      "id": 85654,
+      "name": "Innovation Lab",
+      "parent_id": 83368,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 76017,
+      "name": "Internship",
+      "parent_id": 75998,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 84529,
+      "name": "IT & Security",
+      "parent_id": 75999,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 74113,
+      "name": "Legal",
+      "parent_id": 75999,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 84509,
+      "name": "Marketing",
+      "parent_id": 76000,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4696969",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2410748,
+          "location": {
+            "name": "UNITED STATES - Remote"
+          },
+          "metadata": null,
+          "id": 4696969,
+          "updated_at": "2023-01-18T05:38:03-05:00",
+          "requisition_id": "1895",
+          "title": "Director of Community"
+        },
+        {
+          "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4795738",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2448312,
+          "location": {
+            "name": "UNITED STATES - Remote"
+          },
+          "metadata": null,
+          "id": 4795738,
+          "updated_at": "2023-01-18T05:41:20-05:00",
+          "requisition_id": "1923",
+          "title": "Director of Developer Relations"
+        },
+        {
+          "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4696980",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2410756,
+          "location": {
+            "name": "UNITED STATES - Remote"
+          },
+          "metadata": null,
+          "id": 4696980,
+          "updated_at": "2023-01-18T05:43:54-05:00",
+          "requisition_id": "1898",
+          "title": "Director of Global Events"
+        },
+        {
+          "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4415735",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2316768,
+          "location": {
+            "name": "UNITED STATES - Remote"
+          },
+          "metadata": null,
+          "id": 4415735,
+          "updated_at": "2023-01-18T05:48:01-05:00",
+          "requisition_id": "1814",
+          "title": "Global Head of Growth Marketing"
+        },
+        {
+          "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4273312",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2269387,
+          "location": {
+            "name": "UNITED STATES - Remote"
+          },
+          "metadata": null,
+          "id": 4273312,
+          "updated_at": "2023-01-18T05:53:47-05:00",
+          "requisition_id": "1740",
+          "title": "Senior Growth Marketing Manager (Dev Tools) "
+        }
+      ]
+    },
+    {
+      "id": 32543,
+      "name": "MetaMask",
+      "parent_id": 75998,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4307104",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2272776,
+          "location": {
+            "name": "UNITED STATES - Remote"
+          },
+          "metadata": null,
+          "id": 4307104,
+          "updated_at": "2023-01-18T05:43:17-05:00",
+          "requisition_id": "1756",
+          "title": "Director of Engineering (MetaMask)"
+        },
+        {
+          "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4749993",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2430384,
+          "location": {
+            "name": "UNITED STATES - Remote"
+          },
+          "metadata": null,
+          "id": 4749993,
+          "updated_at": "2023-01-13T11:49:55-05:00",
+          "requisition_id": "1918",
+          "title": "Fullstack Engineer (MetaMask Grants)"
+        },
+        {
+          "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4750011",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2430437,
+          "location": {
+            "name": "UNITED STATES - Remote"
+          },
+          "metadata": null,
+          "id": 4750011,
+          "updated_at": "2023-01-18T05:35:15-05:00",
+          "requisition_id": "1919",
+          "title": "NodeJS Backend Engineer (API Platform) - MetaMask"
+        },
+        {
+          "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4734749",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2424698,
+          "location": {
+            "name": "UNITED STATES - Remote"
+          },
+          "metadata": null,
+          "id": 4734749,
+          "updated_at": "2023-01-13T11:27:27-05:00",
+          "requisition_id": "1914",
+          "title": "NodeJS Backend Engineer (OnRamp) - MetaMask"
+        },
+        {
+          "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4739997",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2277145,
+          "location": {
+            "name": "UNITED STATES - Remote"
+          },
+          "metadata": null,
+          "id": 4739997,
+          "updated_at": "2023-01-18T05:52:36-05:00",
+          "requisition_id": "1768",
+          "title": "Security Researcher "
+        },
+        {
+          "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=3649036",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2037476,
+          "location": {
+            "name": "UNITED STATES - Remote"
+          },
+          "metadata": null,
+          "id": 3649036,
+          "updated_at": "2023-01-18T05:54:26-05:00",
+          "requisition_id": "1473",
+          "title": "Senior Mobile Software Engineer - React Native"
+        },
+        {
+          "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4822761",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2430616,
+          "location": {
+            "name": "UNITED STATES - Remote"
+          },
+          "metadata": null,
+          "id": 4822761,
+          "updated_at": "2023-01-23T18:46:27-05:00",
+          "requisition_id": "1921",
+          "title": "Senior Product Designer (MetaMask Portfolio)"
+        },
+        {
+          "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=3648641",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2037295,
+          "location": {
+            "name": "UNITED STATES - Remote"
+          },
+          "metadata": null,
+          "id": 3648641,
+          "updated_at": "2023-01-18T05:55:14-05:00",
+          "requisition_id": "1430",
+          "title": "Senior Product Manager (Mobile Platform)"
+        },
+        {
+          "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4816466",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2456753,
+          "location": {
+            "name": "UNITED STATES - Remote"
+          },
+          "metadata": null,
+          "id": 4816466,
+          "updated_at": "2023-01-25T05:58:40-05:00",
+          "requisition_id": "1934",
+          "title": "Senior Product Manager - Pdapp/portfolio view"
+        },
+        {
+          "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4042660",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2188600,
+          "location": {
+            "name": "UNITED STATES - Remote"
+          },
+          "metadata": null,
+          "id": 4042660,
+          "updated_at": "2023-01-18T05:56:28-05:00",
+          "requisition_id": "1644",
+          "title": "Senior Software Engineer (DevEx / Dapp API)"
+        },
+        {
+          "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4788493",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2431161,
+          "location": {
+            "name": "UNITED STATES - Remote"
+          },
+          "metadata": null,
+          "id": 4788493,
+          "updated_at": "2023-01-18T05:56:47-05:00",
+          "requisition_id": "1922",
+          "title": "Senior Software Engineer (LavaMoat/Security Lab)"
+        },
+        {
+          "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4739118",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2426264,
+          "location": {
+            "name": "UNITED STATES - Remote"
+          },
+          "metadata": null,
+          "id": 4739118,
+          "updated_at": "2023-01-18T05:57:31-05:00",
+          "requisition_id": "1916",
+          "title": "Software Engineer (Application Security)"
+        },
+        {
+          "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4806002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2427392,
+          "location": {
+            "name": "United States, Remote"
+          },
+          "metadata": null,
+          "id": 4806002,
+          "updated_at": "2023-01-18T05:59:12-05:00",
+          "requisition_id": "1917",
+          "title": "Threat Intelligence Analyst"
+        }
+      ]
+    },
+    {
+      "id": 76009,
+      "name": "NFT Business",
+      "parent_id": 75998,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 83368,
+      "name": "Office of the CTO",
+      "parent_id": 75999,
+      "child_ids": [
+        85654
+      ],
+      "jobs": []
+    },
+    {
+      "id": 76004,
+      "name": "Operations",
+      "parent_id": 75999,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 32526,
+      "name": "People and Talent",
+      "parent_id": 75999,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 75998,
+      "name": "Product",
+      "parent_id": null,
+      "child_ids": [
+        84520,
+        32525,
+        32536,
+        76017,
+        32543,
+        76009,
+        84521,
+        41276,
+        76918,
+        32535
+      ],
+      "jobs": []
+    },
+    {
+      "id": 84521,
+      "name": "Product Technology",
+      "parent_id": 75998,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 49407,
+      "name": "Professional Services",
+      "parent_id": 76000,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 41276,
+      "name": "Protocols Engineering",
+      "parent_id": 75998,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 76918,
+      "name": "Quorum",
+      "parent_id": 75998,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 76006,
+      "name": "Sales",
+      "parent_id": 76000,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 76002,
+      "name": "Strategy",
+      "parent_id": 75999,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 75999,
+      "name": "Support",
+      "parent_id": null,
+      "child_ids": [
+        76003,
+        84508,
+        32545,
+        84529,
+        74113,
+        83368,
+        76004,
+        32526,
+        76002,
+        85654
+      ],
+      "jobs": []
+    },
+    {
+      "id": 32535,
+      "name": "Truffle",
+      "parent_id": 75998,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 0,
+      "name": "No Department",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    }
+  ]
+}
