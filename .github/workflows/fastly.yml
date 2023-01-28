@@ -1,5 +1,7 @@
 name: Scrape Fastly jobs
 
+permissions: write-all
+
 on:
   push:
   workflow_dispatch:
