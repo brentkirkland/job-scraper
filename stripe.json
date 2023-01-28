@@ -1,0 +1,8634 @@
+{
+  "departments": [
+    {
+      "id": 78922,
+      "name": "1110 New Business Sales",
+      "parent_id": 78703,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 79915,
+      "name": "1120 Training & Certification",
+      "parent_id": 81959,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78923,
+      "name": "1130 Sales Development Reps",
+      "parent_id": 81960,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4786539",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2444699,
+          "location": {
+            "name": "Singapore"
+          },
+          "metadata": null,
+          "id": 4786539,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Head of Sales Development, APAC"
+        }
+      ]
+    },
+    {
+      "id": 80449,
+      "name": "1130 Scaled Sales [UR]",
+      "parent_id": 80544,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 61572,
+      "name": "1140 Professional Services",
+      "parent_id": 81959,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81740,
+      "name": "1140 Professional Services  [UR]",
+      "parent_id": 80544,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 85701,
+      "name": "1145 Technical Services",
+      "parent_id": 81959,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78780,
+      "name": "1150 Solutions Architecture",
+      "parent_id": 81959,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4480411",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2339641,
+          "location": {
+            "name": "Japan"
+          },
+          "metadata": null,
+          "id": 4480411,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Solutions Architect, Japan"
+        }
+      ]
+    },
+    {
+      "id": 78924,
+      "name": "1160 Partner Solution Engineering",
+      "parent_id": 81959,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 76996,
+      "name": "1170 GEO Sales HQ (NA)",
+      "parent_id": 81961,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4616638",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2383758,
+          "location": {
+            "name": "San Francisco, Seattle, Chicago, New York"
+          },
+          "metadata": null,
+          "id": 4616638,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Head of Enterprise Sales, AMER"
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4825065",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2460467,
+          "location": {
+            "name": "Chicago, IL"
+          },
+          "metadata": null,
+          "id": 4825065,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Manager, Mid-Market Sales"
+        }
+      ]
+    },
+    {
+      "id": 81430,
+      "name": "1175 Account Executives (NA)",
+      "parent_id": 81961,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 76997,
+      "name": "1180 GEO Sales HQ (EMEA)",
+      "parent_id": 81962,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81431,
+      "name": "1185 Account Executives (EMEA)",
+      "parent_id": 81962,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 76998,
+      "name": "1190 GEO Sales HQ (APAC)",
+      "parent_id": 81963,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81432,
+      "name": "1195 Account Executives (APAC)",
+      "parent_id": 81963,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 84697,
+      "name": "1310 Account Management",
+      "parent_id": 78704,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 84698,
+      "name": "1320 Existing Business Sales",
+      "parent_id": 78704,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 76999,
+      "name": "1340 Customer Success",
+      "parent_id": 81964,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 61573,
+      "name": "1510 GTM Business Operations",
+      "parent_id": 81965,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4209294",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2247946,
+          "location": {
+            "name": "US-Remote, NYC, Seattle, Chicago, San Francisco"
+          },
+          "metadata": null,
+          "id": 4209294,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Head of Sales Strategy and Operations, Americas"
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4722396",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2420199,
+          "location": {
+            "name": "Dublin"
+          },
+          "metadata": null,
+          "id": 4722396,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Renewals Specialist"
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4582414",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2372859,
+          "location": {
+            "name": "San Francisco, New York, Seattle, Chicago, Remote"
+          },
+          "metadata": null,
+          "id": 4582414,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Sales Strategy & Operations Specialist "
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=3946113",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "education": "education_required",
+          "internal_job_id": null,
+          "location": {
+            "name": "San Francisco, Seattle, Chicago, New York City, Remote"
+          },
+          "metadata": null,
+          "id": 3946113,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": null,
+          "title": "AMER Sales Ops Analyst"
+        }
+      ]
+    },
+    {
+      "id": 81433,
+      "name": "1511 Global Productivity",
+      "parent_id": 81965,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81434,
+      "name": "1512 Global Sales Enablement",
+      "parent_id": 81965,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78927,
+      "name": "1520 Sales Operations (SS&O)",
+      "parent_id": 81965,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4723376",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2420595,
+          "location": {
+            "name": "London, Dublin"
+          },
+          "metadata": null,
+          "id": 4723376,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Head of EMEA Sales Operations"
+        }
+      ]
+    },
+    {
+      "id": 75780,
+      "name": "1520 Sales Operations (SS&O) [UR]",
+      "parent_id": 80544,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 86071,
+      "name": "1530 Strategy, Planning & Insights",
+      "parent_id": 86070,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 86073,
+      "name": "1540 Global Sales & Business Ops HQ",
+      "parent_id": 86072,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 77001,
+      "name": "1620 Revenue & Growth Programs",
+      "parent_id": 81966,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 86696,
+      "name": "1621 Account Executives (Global & Strategic Accounts)",
+      "parent_id": 86695,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78929,
+      "name": "1630 GTM Partnerships",
+      "parent_id": 81967,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78930,
+      "name": "1640 Product Sales",
+      "parent_id": 85336,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4582400",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2372853,
+          "location": {
+            "name": "United States "
+          },
+          "metadata": null,
+          "id": 4582400,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Head of Global Product Sales    "
+        }
+      ]
+    },
+    {
+      "id": 86074,
+      "name": "1641 Product Sales - RFM & Tax",
+      "parent_id": 85336,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 86075,
+      "name": "1642 Product Sales - Issuing",
+      "parent_id": 85336,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4828347",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2461731,
+          "location": {
+            "name": "Remote in United States"
+          },
+          "metadata": null,
+          "id": 4828347,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Head of BaaS Revenue & Growth, AMER"
+        }
+      ]
+    },
+    {
+      "id": 78688,
+      "name": "2210 Business Operations",
+      "parent_id": 61561,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 75777,
+      "name": "2210 Business Operations [UR]",
+      "parent_id": 80537,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 80642,
+      "name": "2212 Corporate Strategy",
+      "parent_id": 78719,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 84692,
+      "name": "2221 M&A Integration",
+      "parent_id": 78687,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 80466,
+      "name": "2222 Corporate Development",
+      "parent_id": 78687,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 85888,
+      "name": "2223 M&A/Investments - Evaluation/DD",
+      "parent_id": 78687,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 84720,
+      "name": "2310 Marketing",
+      "parent_id": 78697,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 79916,
+      "name": "2311 Marketing - AMER",
+      "parent_id": 78697,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 79917,
+      "name": "2312 Marketing - EMEA",
+      "parent_id": 78697,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 79918,
+      "name": "2313 Marketing - APAC",
+      "parent_id": 78697,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 79919,
+      "name": "2314 Marketing - Demand Generation",
+      "parent_id": 78697,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4743420",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2427924,
+          "location": {
+            "name": "South San Francisco, Seattle, Chicago, New York, U.S. Remote"
+          },
+          "metadata": null,
+          "id": 4743420,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Customer Marketing Manager"
+        }
+      ]
+    },
+    {
+      "id": 79920,
+      "name": "2315 Marketing - Martech",
+      "parent_id": 78697,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 79921,
+      "name": "2316 Marketing - Partner",
+      "parent_id": 78697,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 79922,
+      "name": "2317 Marketing - PMM",
+      "parent_id": 78697,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4784512",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2443806,
+          "location": {
+            "name": "SF/NYC/SEA"
+          },
+          "metadata": null,
+          "id": 4784512,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Head of Product Marketing, Emerging Products"
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4827150",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2461316,
+          "location": {
+            "name": "US"
+          },
+          "metadata": null,
+          "id": 4827150,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Product Marketing Manager, Billing"
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4746052",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2428751,
+          "location": {
+            "name": "London, UK; Dublin, Ireland; Berlin, Germany; Paris, France; Amsterdam, Netherlands"
+          },
+          "metadata": null,
+          "id": 4746052,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Product Marketing Manager, EMEA"
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4814482",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2455871,
+          "location": {
+            "name": "US"
+          },
+          "metadata": null,
+          "id": 4814482,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Product Marketing Manager, Solutions"
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4796034",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2448447,
+          "location": {
+            "name": "San Francisco/New York City/Seattle/Chicago/US-Remote"
+          },
+          "metadata": null,
+          "id": 4796034,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Product Marketing Manager - Stripe Issuing & Treasury"
+        }
+      ]
+    },
+    {
+      "id": 79923,
+      "name": "2318 Marketing - CMO",
+      "parent_id": 78697,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4802801",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2450810,
+          "location": {
+            "name": "SF, NYC, Chicago, Seattle, US remote"
+          },
+          "metadata": null,
+          "id": 4802801,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Executive Content & Customer Advocacy Manager"
+        }
+      ]
+    },
+    {
+      "id": 79924,
+      "name": "2319 Marketing - GTM",
+      "parent_id": 78697,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 84703,
+      "name": "2321 Consumer Marketing",
+      "parent_id": 78804,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 87142,
+      "name": "2322 Kings - Tap to Pay",
+      "parent_id": 78697,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78698,
+      "name": "2330 Ecosystem",
+      "parent_id": 79978,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 79742,
+      "name": "2411 Communications",
+      "parent_id": 78692,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4482665",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2340460,
+          "location": {
+            "name": "South San Francisco, Seattle, Chicago, New York, US Remote"
+          },
+          "metadata": null,
+          "id": 4482665,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Corporate Communications"
+        }
+      ]
+    },
+    {
+      "id": 78699,
+      "name": "2510 Events",
+      "parent_id": 79978,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 70809,
+      "name": "3110 Risk Operations",
+      "parent_id": 84940,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4789238",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2445701,
+          "location": {
+            "name": "Dublin, London"
+          },
+          "metadata": null,
+          "id": 4789238,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Safety & Risk Operations Program Manager"
+        }
+      ]
+    },
+    {
+      "id": 71619,
+      "name": "3130 Risk & Reward",
+      "parent_id": 81627,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4743209",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2427838,
+          "location": {
+            "name": "NY, SEA, SF or remote"
+          },
+          "metadata": null,
+          "id": 4743209,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Global Head of Risk Partnerships and Strategy"
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4743335",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2427881,
+          "location": {
+            "name": "San Francisco, Seattle, New York, US-Remote"
+          },
+          "metadata": null,
+          "id": 4743335,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Head of Brand Risk"
+        }
+      ]
+    },
+    {
+      "id": 81435,
+      "name": "3131 Risk User Strategy",
+      "parent_id": 81628,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81436,
+      "name": "3132 Risk Product Strategy",
+      "parent_id": 81629,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81437,
+      "name": "3133 Risk Partner Strategy",
+      "parent_id": 81630,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4746219",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2428813,
+          "location": {
+            "name": "USA (remote), US-SF, US-Chicago, US-Seattle"
+          },
+          "metadata": null,
+          "id": 4746219,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Product Risk Lead, Risk Readiness"
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4746336",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2428848,
+          "location": {
+            "name": "SF, SEA, NY or REMOTE"
+          },
+          "metadata": null,
+          "id": 4746336,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Risk Partner Manager, Card Networks"
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4746343",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2428851,
+          "location": {
+            "name": "Singapore"
+          },
+          "metadata": null,
+          "id": 4746343,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Risk Partnerships & Strategy, APAC"
+        }
+      ]
+    },
+    {
+      "id": 78742,
+      "name": "3310 Global Compliance",
+      "parent_id": 80194,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4098621",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2209824,
+          "location": {
+            "name": "Dublin"
+          },
+          "metadata": null,
+          "id": 4098621,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Compliance Officer (PCF-12) for Stripe Technology Europe Ltd, EMEA Enterprise Risk & Compliance"
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4723914",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2420822,
+          "location": {
+            "name": "NYC, SF, SEA, US-Remote"
+          },
+          "metadata": null,
+          "id": 4723914,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Product Compliance Lead"
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4730075",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2423019,
+          "location": {
+            "name": "Singapore, Remote in Thailand"
+          },
+          "metadata": null,
+          "id": 4730075,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Regulatory Reporting Program Manager, Asia-Pacific"
+        }
+      ]
+    },
+    {
+      "id": 76994,
+      "name": "3510 Global Partnerships",
+      "parent_id": 78690,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 76832,
+      "name": "3510 Global Partnerships [UR]",
+      "parent_id": 80539,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 68117,
+      "name": "3511 Financial Partnerships",
+      "parent_id": 78690,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4554760",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2364389,
+          "location": {
+            "name": "United States"
+          },
+          "metadata": null,
+          "id": 4554760,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Partner Manager, Financial Partnerships"
+        }
+      ]
+    },
+    {
+      "id": 68119,
+      "name": "3512 Technology Partnerships",
+      "parent_id": 78690,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 79925,
+      "name": "3520 Payment Methods",
+      "parent_id": 84701,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 60589,
+      "name": "3710 Atlas",
+      "parent_id": 78878,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 61568,
+      "name": "4110 Operations",
+      "parent_id": 78701,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 61567,
+      "name": "4111 Vendor Delivery",
+      "parent_id": 84925,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4465175",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2334420,
+          "location": {
+            "name": "AMER, EMEA"
+          },
+          "metadata": null,
+          "id": 4465175,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Head of Global Vendor and WFM Operations"
+        }
+      ]
+    },
+    {
+      "id": 87191,
+      "name": "4112 Core Operations",
+      "parent_id": 87190,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 87193,
+      "name": "4113 Technology Enablement Operations",
+      "parent_id": 87192,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 87195,
+      "name": "4114 Operations Strategy & Analytics",
+      "parent_id": 87194,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 87196,
+      "name": "4115 Operations Platform",
+      "parent_id": 87194,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 87197,
+      "name": "4116 Executive Customer Relations",
+      "parent_id": 87194,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 87199,
+      "name": "4117 Product Enablement Operations",
+      "parent_id": 87198,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4743130",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2427803,
+          "location": {
+            "name": "Chicago, New York"
+          },
+          "metadata": null,
+          "id": 4743130,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Supply Chain Operations Manager, Issuing Card Operations "
+        }
+      ]
+    },
+    {
+      "id": 87200,
+      "name": "4119 Product Support",
+      "parent_id": 84925,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4626324",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2387225,
+          "location": {
+            "name": "Thailand"
+          },
+          "metadata": null,
+          "id": 4626324,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Product Support & Operations Specialist (Thai Speaking)"
+        }
+      ]
+    },
+    {
+      "id": 61565,
+      "name": "4121 zzz-Priority Operations",
+      "parent_id": 84925,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 79946,
+      "name": "4122 SMB Operations [UR]",
+      "parent_id": 79945,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 61564,
+      "name": "4122 zzz-SMB Operations",
+      "parent_id": 84925,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 80643,
+      "name": "4123 Consumer Operations",
+      "parent_id": 84926,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 84353,
+      "name": "4124 TaxJar Operations",
+      "parent_id": 84925,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 80644,
+      "name": "4125 SDC - Operations",
+      "parent_id": 84927,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 85058,
+      "name": "4126 SDC - Financial Crimes",
+      "parent_id": 84927,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4581387",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2372493,
+          "location": {
+            "name": "Bangalore "
+          },
+          "metadata": null,
+          "id": 4581387,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Head of Financial Crimes, Stripe Delivery Center  "
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4581390",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2372495,
+          "location": {
+            "name": "Bangalore "
+          },
+          "metadata": null,
+          "id": 4581390,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Program Manager, Financial Crimes "
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4581395",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2372497,
+          "location": {
+            "name": "Bangalore "
+          },
+          "metadata": null,
+          "id": 4581395,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Quality Insights Analyst, Financial Crimes "
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4580961",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2372355,
+          "location": {
+            "name": "Bengaluru"
+          },
+          "metadata": null,
+          "id": 4580961,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Sanctions Manager, Stripe Delivery Center"
+        }
+      ]
+    },
+    {
+      "id": 87201,
+      "name": "4127 Operations - Central",
+      "parent_id": 87194,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 87203,
+      "name": "4128 SDC - Product Support",
+      "parent_id": 84927,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4819634",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2458068,
+          "location": {
+            "name": "Bangalore"
+          },
+          "metadata": null,
+          "id": 4819634,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Operations Associate"
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4743677",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "education": "education_required",
+          "internal_job_id": 2428058,
+          "location": {
+            "name": "Bangalore"
+          },
+          "metadata": null,
+          "id": 4743677,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Operations Associate, New Grad"
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4785772",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2444331,
+          "location": {
+            "name": "Bangalore"
+          },
+          "metadata": null,
+          "id": 4785772,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Product Support Operations Manager, Stripe Delivery Center"
+        }
+      ]
+    },
+    {
+      "id": 87204,
+      "name": "4129 SDC - Risk Operations",
+      "parent_id": 84927,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4808207",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2452866,
+          "location": {
+            "name": "Bangalore "
+          },
+          "metadata": null,
+          "id": 4808207,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Credit Risk Operations Associate "
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4721023",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2419830,
+          "location": {
+            "name": "Bangalore"
+          },
+          "metadata": null,
+          "id": 4721023,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Credit Risk Operations Manager, Stripe Delivery Center"
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4808219",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2452871,
+          "location": {
+            "name": "Bangalore "
+          },
+          "metadata": null,
+          "id": 4808219,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Fraud Operations Associate"
+        }
+      ]
+    },
+    {
+      "id": 68129,
+      "name": "4130 Paid Support",
+      "parent_id": 84925,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4732240",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2423668,
+          "location": {
+            "name": "Chicago, IL or Remote United States"
+          },
+          "metadata": null,
+          "id": 4732240,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Enterprise Product Support Specialist"
+        }
+      ]
+    },
+    {
+      "id": 87205,
+      "name": "4131 SDC - Central",
+      "parent_id": 84927,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 87206,
+      "name": "4132 SDC - TaxJar Operations",
+      "parent_id": 84927,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 87207,
+      "name": "4133 Community Operations",
+      "parent_id": 84925,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78936,
+      "name": "4140 Merchant Verifications",
+      "parent_id": 78785,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 76988,
+      "name": "4145 Support Products - Eng",
+      "parent_id": 87389,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78702,
+      "name": "4150 Technical Support",
+      "parent_id": 84925,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78695,
+      "name": "4200 Helm",
+      "parent_id": 78694,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 80645,
+      "name": "4202 SDC - FinOps",
+      "parent_id": 78708,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4580200",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2372172,
+          "location": {
+            "name": "Bangalore, India"
+          },
+          "metadata": null,
+          "id": 4580200,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Finance Operations, Travel & Expense Process Specialist"
+        }
+      ]
+    },
+    {
+      "id": 86076,
+      "name": "4203 SDC - Accounting",
+      "parent_id": 78708,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4204149",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2246164,
+          "location": {
+            "name": "Bangalore"
+          },
+          "metadata": null,
+          "id": 4204149,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Accounting Analyst"
+        }
+      ]
+    },
+    {
+      "id": 68172,
+      "name": "5110 General Engineering",
+      "parent_id": 78823,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78915,
+      "name": "5111 Tech Enablement",
+      "parent_id": 86122,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 84360,
+      "name": "5112 General University",
+      "parent_id": 84359,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78899,
+      "name": "5801 Acquisition - S&O",
+      "parent_id": 80646,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78901,
+      "name": "5802 Acquisition - Product Development",
+      "parent_id": 80647,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78902,
+      "name": "5803 Acquisition - G&A",
+      "parent_id": 80648,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78903,
+      "name": "5804 Acquisition - S&M",
+      "parent_id": 80649,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78904,
+      "name": "5805 Acquisition - Margin",
+      "parent_id": 80650,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78905,
+      "name": "5806 Acquisition - Cost of Revenue",
+      "parent_id": 80651,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78906,
+      "name": "5807 zzz-Acquisition - Allocated",
+      "parent_id": 80652,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 86077,
+      "name": "5810 Paystack - General & Admin",
+      "parent_id": 78890,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 86078,
+      "name": "5811 Paystack - Support & Ops",
+      "parent_id": 78890,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 86079,
+      "name": "5812 Paystack - Sales & Marketing",
+      "parent_id": 78890,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 79926,
+      "name": "5901 Tax S&M",
+      "parent_id": 84719,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 79927,
+      "name": "5902 Tax Autofile",
+      "parent_id": 84719,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 79928,
+      "name": "5903 Tax Customer Support",
+      "parent_id": 84719,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78931,
+      "name": "6110 G&A",
+      "parent_id": 78757,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78755,
+      "name": "6111 Settlements",
+      "parent_id": 78754,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 80198,
+      "name": "6112 Merchant Balances Bad Debt",
+      "parent_id": 80197,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78748,
+      "name": "6210 Executive",
+      "parent_id": 78747,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 84695,
+      "name": "6211 Frontier Climate",
+      "parent_id": 84696,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 85770,
+      "name": "6212 Corporate Donations",
+      "parent_id": 86080,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 86082,
+      "name": "6213 Internal Events",
+      "parent_id": 86081,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 61580,
+      "name": "6220 Executive Operations",
+      "parent_id": 78707,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78764,
+      "name": "6290 zzz-Leadership Hiring",
+      "parent_id": 78747,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 76987,
+      "name": "6310 Corporate Affairs",
+      "parent_id": 80199,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78721,
+      "name": "6311 Data Protection & Privacy",
+      "parent_id": 80200,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 76986,
+      "name": "6312 APAC Regulatory Affairs",
+      "parent_id": 80201,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 76989,
+      "name": "6313 EMEA Regulatory Affairs",
+      "parent_id": 80202,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 57223,
+      "name": "6314 Public Policy",
+      "parent_id": 80203,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 8294,
+      "name": "6315 Compliance & Oversight",
+      "parent_id": 78741,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 85771,
+      "name": "6316 Corporate Insurance",
+      "parent_id": 81627,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78722,
+      "name": "6320 Commercial Legal",
+      "parent_id": 80654,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 76985,
+      "name": "6330 Americas Regulatory Affairs",
+      "parent_id": 80205,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 68147,
+      "name": "6340 Employment Legal",
+      "parent_id": 80206,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78723,
+      "name": "6350 Intellectual Property",
+      "parent_id": 80207,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 68149,
+      "name": "6360 Product & Partnering Legal",
+      "parent_id": 80208,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78996,
+      "name": "6360 Product & Partnering Legal [UR]",
+      "parent_id": 80541,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78724,
+      "name": "6370 Legal operations",
+      "parent_id": 80209,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78725,
+      "name": "6380 Litigation",
+      "parent_id": 80210,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 50261,
+      "name": "6390 Corporate Security",
+      "parent_id": 78717,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 61587,
+      "name": "6410 Treasury Finance",
+      "parent_id": 86124,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78745,
+      "name": "6411 Cryptocurrency",
+      "parent_id": 78744,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 84706,
+      "name": "6412 Impairment",
+      "parent_id": 84705,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 87209,
+      "name": "6414 Investor Relations",
+      "parent_id": 87208,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 61585,
+      "name": "6420 Accounting",
+      "parent_id": 78708,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4739965",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2426593,
+          "location": {
+            "name": "SF, SEA, NYC, US REMOTE"
+          },
+          "metadata": null,
+          "id": 4739965,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Equity & Reporting Accountant"
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4743051",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2427778,
+          "location": {
+            "name": "San Francisco, Seattle, NYC, US Remote"
+          },
+          "metadata": null,
+          "id": 4743051,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Financial Services, BaaS, and Emerging Products Accounting Lead"
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4734904",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2424782,
+          "location": {
+            "name": "SEA, SF, NYC, REM"
+          },
+          "metadata": null,
+          "id": 4734904,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Technical Revenue Accounting Lead"
+        }
+      ]
+    },
+    {
+      "id": 68136,
+      "name": "6425 Finance Operations",
+      "parent_id": 78708,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 61586,
+      "name": "6430 Tax",
+      "parent_id": 78708,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81787,
+      "name": "6440 Finance & Strategy [UR]",
+      "parent_id": 81786,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 73758,
+      "name": "6441 Corporate F&S",
+      "parent_id": 78737,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4811551",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2454409,
+          "location": {
+            "name": "SF, SEA, NYC, US-REM"
+          },
+          "metadata": null,
+          "id": 4811551,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Business Finance & Strategy Partner"
+        }
+      ]
+    },
+    {
+      "id": 73760,
+      "name": "6442 zzz-Product/Eng F&S",
+      "parent_id": 78752,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 73759,
+      "name": "6443 GTM F&S",
+      "parent_id": 78739,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 80655,
+      "name": "6444 Deal Pricing",
+      "parent_id": 78739,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78933,
+      "name": "6445 Partnerships F&S",
+      "parent_id": 87210,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 87212,
+      "name": "6446 BaaS, SaaS, Network F&S",
+      "parent_id": 87211,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 87214,
+      "name": "6447 Product Pricing",
+      "parent_id": 87213,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4796220",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2448555,
+          "location": {
+            "name": "SF, SEA, NY or remote"
+          },
+          "metadata": null,
+          "id": 4796220,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Head of Product Pricing "
+        }
+      ]
+    },
+    {
+      "id": 87215,
+      "name": "6448 Payments F&S",
+      "parent_id": 87210,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 62016,
+      "name": "6480 Internal Audit",
+      "parent_id": 78708,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 76979,
+      "name": "6481 ERM",
+      "parent_id": 78708,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78709,
+      "name": "6482 SOX",
+      "parent_id": 78708,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 70806,
+      "name": "6483 Risk Partnerships",
+      "parent_id": 79929,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78972,
+      "name": "6490 New Ventures",
+      "parent_id": 78840,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 68154,
+      "name": "6510 People Operations",
+      "parent_id": 78728,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78771,
+      "name": "6511 People Strategy, Comms and Programs",
+      "parent_id": 78728,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78772,
+      "name": "6512 People Analytics & Research",
+      "parent_id": 78728,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=3898560",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2134769,
+          "location": {
+            "name": "San Francisco, Seattle, New York, Chicago, North America (Remote)"
+          },
+          "metadata": null,
+          "id": 3898560,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Data Engineer, People "
+        }
+      ]
+    },
+    {
+      "id": 83871,
+      "name": "6513 People Systems & Solutions",
+      "parent_id": 78728,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 61581,
+      "name": "6520 Recruiting",
+      "parent_id": 78726,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78768,
+      "name": "6521 Candidates",
+      "parent_id": 78726,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78765,
+      "name": "6522 Talent & Careers",
+      "parent_id": 78726,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78767,
+      "name": "6523 RSOE",
+      "parent_id": 78726,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78766,
+      "name": "6524 Talent Pipelines",
+      "parent_id": 78726,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78769,
+      "name": "6525 Leadership Recruiting",
+      "parent_id": 78726,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78770,
+      "name": "6526 University Recruiting",
+      "parent_id": 78726,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78773,
+      "name": "6531 Compensation",
+      "parent_id": 78728,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4597935",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2377653,
+          "location": {
+            "name": "Remote"
+          },
+          "metadata": null,
+          "id": 4597935,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Compensation Partner, Go-To-Market & Revenue"
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4827273",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2461374,
+          "location": {
+            "name": "US-Remote"
+          },
+          "metadata": null,
+          "id": 4827273,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Compensation Program Manager"
+        }
+      ]
+    },
+    {
+      "id": 78774,
+      "name": "6532 Benefits",
+      "parent_id": 78728,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78775,
+      "name": "6533 Global Mobility",
+      "parent_id": 78728,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78776,
+      "name": "6534 Equity",
+      "parent_id": 78728,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 68155,
+      "name": "6540 Talent Development",
+      "parent_id": 78728,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 61617,
+      "name": "6550 People Partners",
+      "parent_id": 78728,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4356471",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2298598,
+          "location": {
+            "name": "Remote, SF, SEA, CHI, NYC"
+          },
+          "metadata": null,
+          "id": 4356471,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Global Employee Relations Lead"
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4542329",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2360187,
+          "location": {
+            "name": "Remote (US,Canada), SF, SEA, CHI, NYC"
+          },
+          "metadata": null,
+          "id": 4542329,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "People Partner"
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4820029",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2458231,
+          "location": {
+            "name": "SEA, SF, CHI, NYC"
+          },
+          "metadata": null,
+          "id": 4820029,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "People Specialist"
+        }
+      ]
+    },
+    {
+      "id": 86018,
+      "name": "6560 zzz-People Programs and Analytics",
+      "parent_id": 78728,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78729,
+      "name": "6610 Food",
+      "parent_id": 78727,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 21683,
+      "name": "6620 Workplace Services",
+      "parent_id": 78727,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78730,
+      "name": "6630 Real Estate",
+      "parent_id": 78727,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78932,
+      "name": "6650 Tax - allocable",
+      "parent_id": 78757,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78971,
+      "name": "6730 zzz-Capitalized internally developed software",
+      "parent_id": 78806,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78735,
+      "name": "6740 Finance Systems - allocable",
+      "parent_id": 78734,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78731,
+      "name": "6750 [Overhead - non allocable]",
+      "parent_id": 78727,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 84962,
+      "name": "6910 Financial Partnership Management",
+      "parent_id": 78690,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 75779,
+      "name": "7110 Data Science [UR]",
+      "parent_id": 80529,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 8291,
+      "name": "7110 zzz-Data Science",
+      "parent_id": 78812,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78954,
+      "name": "7111 Data science allocable",
+      "parent_id": 78812,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 84354,
+      "name": "7112 Product & Technology Data Science",
+      "parent_id": 78812,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 84355,
+      "name": "7113 Core Data and Growth",
+      "parent_id": 78812,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4740879",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2426947,
+          "location": {
+            "name": "US Remote"
+          },
+          "metadata": null,
+          "id": 4740879,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Staff Engineer, Growth Engineering"
+        }
+      ]
+    },
+    {
+      "id": 84356,
+      "name": "7114 Risk & Financial Strategy Data Science",
+      "parent_id": 78812,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4482291",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2340346,
+          "location": {
+            "name": "San Francisco, Seattle, New York, or Remote in North America"
+          },
+          "metadata": null,
+          "id": 4482291,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Head of Risk Interventions Data Science"
+        }
+      ]
+    },
+    {
+      "id": 69946,
+      "name": "7310 Corporate Technology",
+      "parent_id": 78806,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78950,
+      "name": "7311 Corporate Technology - Projects",
+      "parent_id": 78806,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81950,
+      "name": "7312 CorpTech Customer Success",
+      "parent_id": 78806,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4584593",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2373452,
+          "location": {
+            "name": "New York"
+          },
+          "metadata": null,
+          "id": 4584593,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "IT Support Engineer Tier 2"
+        }
+      ]
+    },
+    {
+      "id": 81952,
+      "name": "7313 CorpTech Corporate Engineering",
+      "parent_id": 78806,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 68139,
+      "name": "7420 Finance Systems",
+      "parent_id": 78734,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 76833,
+      "name": "7420 Finance Systems [UR]",
+      "parent_id": 80534,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 61590,
+      "name": "8110 Foundation",
+      "parent_id": 86127,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78977,
+      "name": "8111 Developers",
+      "parent_id": 78885,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 66153,
+      "name": "8112 Business Continuity & Reliability",
+      "parent_id": 86128,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 68131,
+      "name": "8113 Communications & Brand Design",
+      "parent_id": 78815,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78956,
+      "name": "8114 Creative Production",
+      "parent_id": 78815,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 68167,
+      "name": "8116 Developer Platform - Eng",
+      "parent_id": 78881,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78959,
+      "name": "8118 Infrastructure Staff",
+      "parent_id": 86127,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78952,
+      "name": "8121 Revenue Foundations",
+      "parent_id": 86129,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4724350",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2420932,
+          "location": {
+            "name": "Dublin HQ"
+          },
+          "metadata": null,
+          "id": 4724350,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Software Engineer, Stripe Tax Compliance "
+        }
+      ]
+    },
+    {
+      "id": 78953,
+      "name": "8122 Data Platform",
+      "parent_id": 78811,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4227005",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2254733,
+          "location": {
+            "name": "US / Canada"
+          },
+          "metadata": null,
+          "id": 4227005,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Engineering Manager, Streaming Platform"
+        }
+      ]
+    },
+    {
+      "id": 79930,
+      "name": "8123 People Systems - Tech",
+      "parent_id": 78827,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 80656,
+      "name": "8124 GTM Systems",
+      "parent_id": 78826,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 80657,
+      "name": "8125 Distributed Systems",
+      "parent_id": 86131,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 80658,
+      "name": "8126 Developer Infrastructure",
+      "parent_id": 86132,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4819519",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2458006,
+          "location": {
+            "name": "Dublin"
+          },
+          "metadata": null,
+          "id": 4819519,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Program Manager, Technology Controls and Compliance"
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4825296",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2458006,
+          "location": {
+            "name": "Dublin"
+          },
+          "metadata": null,
+          "id": 4825296,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Program Manager, Technology Risk"
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4802916",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2450962,
+          "location": {
+            "name": "Seattle, San Francisco, or Remote (USA)"
+          },
+          "metadata": null,
+          "id": 4802916,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Software Engineer, Observability"
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4804640",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2451685,
+          "location": {
+            "name": "US/ Canada "
+          },
+          "metadata": null,
+          "id": 4804640,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Software Engineer, Service Platform"
+        }
+      ]
+    },
+    {
+      "id": 80659,
+      "name": "8127 Core Infrastructure",
+      "parent_id": 86133,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4748523",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2429799,
+          "location": {
+            "name": "US"
+          },
+          "metadata": null,
+          "id": 4748523,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Engineering Manager of Managers, Core Infrastructure "
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4813901",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2455611,
+          "location": {
+            "name": "US, Canada "
+          },
+          "metadata": null,
+          "id": 4813901,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Infrastructure Engineer - Orchestration"
+        }
+      ]
+    },
+    {
+      "id": 86085,
+      "name": "8128 Applications Platforms",
+      "parent_id": 86084,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4805412",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2451958,
+          "location": {
+            "name": "US / Canada"
+          },
+          "metadata": null,
+          "id": 4805412,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Staff Software Engineer, High Availability "
+        }
+      ]
+    },
+    {
+      "id": 87216,
+      "name": "8129 EDC - India - Infrastructure",
+      "parent_id": 86133,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4746577",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2428926,
+          "location": {
+            "name": "IN-Bengaluru"
+          },
+          "metadata": null,
+          "id": 4746577,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Distributed Systems Engineer, Database"
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4785686",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2428926,
+          "location": {
+            "name": "IN-Bengaluru"
+          },
+          "metadata": null,
+          "id": 4785686,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Distributed Systems Engineer, Network"
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4746655",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2428947,
+          "location": {
+            "name": "IN-Bengaluru"
+          },
+          "metadata": null,
+          "id": 4746655,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Engineering Manager, Core Infrastructure"
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4746651",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2428945,
+          "location": {
+            "name": "IN-Bengaluru"
+          },
+          "metadata": null,
+          "id": 4746651,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Engineering Manager of Managers, Network Infrastructure"
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4746653",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2428946,
+          "location": {
+            "name": "IN-Bengaluru"
+          },
+          "metadata": null,
+          "id": 4746653,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Senior Staff Infrastructure Engineer, Compute  "
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4746675",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2428959,
+          "location": {
+            "name": "IN-Bengaluru"
+          },
+          "metadata": null,
+          "id": 4746675,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Staff Network Infrastructure Engineer, Compute"
+        }
+      ]
+    },
+    {
+      "id": 78960,
+      "name": "8140 Foundation Operations",
+      "parent_id": 86127,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 68170,
+      "name": "8150 Trumpet",
+      "parent_id": 78817,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 83096,
+      "name": "8185 Collaboration",
+      "parent_id": 86122,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 83097,
+      "name": "8186 Central Programs",
+      "parent_id": 86122,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78955,
+      "name": "8212 ML Infrastructure - Eng",
+      "parent_id": 78813,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4414039",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2316127,
+          "location": {
+            "name": "US / Canada"
+          },
+          "metadata": null,
+          "id": 4414039,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Staff Machine Learning Infrastructure Engineer (Technical Leader)"
+        }
+      ]
+    },
+    {
+      "id": 80527,
+      "name": "8212 ML Infrastructure - Eng [UR]",
+      "parent_id": 80530,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 79931,
+      "name": "8213 Risk Eng",
+      "parent_id": 84721,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78937,
+      "name": "8215 Identity - Eng",
+      "parent_id": 78801,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78914,
+      "name": "8216 Onboarding - Eng",
+      "parent_id": 87390,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 83098,
+      "name": "8250 Connect - PM",
+      "parent_id": 83115,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4525301",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2355004,
+          "location": {
+            "name": "Remote - US"
+          },
+          "metadata": null,
+          "id": 4525301,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Product Manager, Stripe Connect, Platform Experiences"
+        }
+      ]
+    },
+    {
+      "id": 83099,
+      "name": "8251 Tax Reporting - PM",
+      "parent_id": 83116,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 83100,
+      "name": "8252 Payouts - Eng",
+      "parent_id": 83117,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 83101,
+      "name": "8253 Payouts - PM",
+      "parent_id": 83118,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 83102,
+      "name": "8254 MMS Payouts - Eng",
+      "parent_id": 83119,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 83103,
+      "name": "8255 MMS Payouts - PM",
+      "parent_id": 83120,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 83104,
+      "name": "8256 BaaS - PM",
+      "parent_id": 83121,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 83105,
+      "name": "8257 Capital - PM",
+      "parent_id": 83122,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 83106,
+      "name": "8258 Terminal - PM",
+      "parent_id": 83123,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 83107,
+      "name": "8259 Support Products - PM",
+      "parent_id": 87389,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 83108,
+      "name": "8260 Onboarding - PM",
+      "parent_id": 87390,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 83109,
+      "name": "8261 Data Migration - Eng",
+      "parent_id": 87390,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 83110,
+      "name": "8262 APAC - PM",
+      "parent_id": 83127,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 83111,
+      "name": "8263 EMEA - PM",
+      "parent_id": 83128,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 83112,
+      "name": "8264 LATAM - PM",
+      "parent_id": 83129,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 85016,
+      "name": "8265 Cards Network - Eng",
+      "parent_id": 85015,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 85018,
+      "name": "8266 Bank Network - Eng",
+      "parent_id": 85017,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78918,
+      "name": "8310 Leverage Engineers",
+      "parent_id": 78866,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 79932,
+      "name": "8410 Applications Engineers",
+      "parent_id": 79978,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78962,
+      "name": "8411 Site Eng",
+      "parent_id": 78823,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 66154,
+      "name": "8412 Billing Products",
+      "parent_id": 84718,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4799327",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2449847,
+          "location": {
+            "name": "Remote in North America"
+          },
+          "metadata": null,
+          "id": 4799327,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Full Stack Engineer, Billing Experience"
+        }
+      ]
+    },
+    {
+      "id": 66155,
+      "name": "8413 Financial Operations Products",
+      "parent_id": 84717,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 66156,
+      "name": "8414 StripeXP - Eng",
+      "parent_id": 81332,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 73922,
+      "name": "8415 Revenue & Financial Management",
+      "parent_id": 78874,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 73923,
+      "name": "8416 B2B Payments Products",
+      "parent_id": 84716,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81953,
+      "name": "8417 Accounting Products",
+      "parent_id": 84717,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 61593,
+      "name": "8510 Payments Infrastructure",
+      "parent_id": 78866,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 66168,
+      "name": "8511 Radar - Eng",
+      "parent_id": 78843,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 66157,
+      "name": "8512 Terminal - Eng",
+      "parent_id": 78862,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 66167,
+      "name": "8513 Payments Experience",
+      "parent_id": 78866,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 66162,
+      "name": "8514 Connect - Eng",
+      "parent_id": 83374,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 61599,
+      "name": "8515 Capital - Eng",
+      "parent_id": 78793,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 66161,
+      "name": "8516 LATAM - Eng",
+      "parent_id": 78829,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 68169,
+      "name": "8517 EMEA - Eng",
+      "parent_id": 78817,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 66159,
+      "name": "8518 APAC - Eng",
+      "parent_id": 78789,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78991,
+      "name": "8525 Enterprise Product",
+      "parent_id": 78856,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78942,
+      "name": "8526 Product Experience Operations",
+      "parent_id": 87198,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78945,
+      "name": "8527 Keystone",
+      "parent_id": 84712,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78946,
+      "name": "8528 FSB Risk and Capital Markets",
+      "parent_id": 83122,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 84357,
+      "name": "8529 AIX Global",
+      "parent_id": 84361,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78951,
+      "name": "8531 Crypto Product",
+      "parent_id": 78808,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78934,
+      "name": "8532 Accounts - PM",
+      "parent_id": 78784,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78935,
+      "name": "8533 Accounts - Eng",
+      "parent_id": 78784,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78938,
+      "name": "8534 Identity - PM",
+      "parent_id": 78801,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78939,
+      "name": "8535 Risk - Eng",
+      "parent_id": 78787,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4827069",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2461281,
+          "location": {
+            "name": "US/Canada"
+          },
+          "metadata": null,
+          "id": 4827069,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Backend / API Engineer, Financial Crimes"
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4730071",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2423016,
+          "location": {
+            "name": "San Francisco"
+          },
+          "metadata": null,
+          "id": 4730071,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Head of Engineering, Credit Intelligence (ML)"
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4827067",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2461280,
+          "location": {
+            "name": "US/Canada"
+          },
+          "metadata": null,
+          "id": 4827067,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Machine Learning Engineer, Fraud"
+        }
+      ]
+    },
+    {
+      "id": 78940,
+      "name": "8536 Risk Tech - PM",
+      "parent_id": 78787,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78941,
+      "name": "8537 Risk Platform - Eng",
+      "parent_id": 78787,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78963,
+      "name": "8538 MMS APIs & Experiences - PM",
+      "parent_id": 81336,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78964,
+      "name": "8539 MMS APIs & Experiences - Eng",
+      "parent_id": 78833,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78897,
+      "name": "8540 Indie Hackers",
+      "parent_id": 78893,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78965,
+      "name": "8541 MMS Bank Integrations - PM",
+      "parent_id": 81337,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78966,
+      "name": "8542 MMS Bank Integrations - Eng",
+      "parent_id": 78834,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78967,
+      "name": "8543 Treasury - PM",
+      "parent_id": 84710,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78969,
+      "name": "8544 MMS Platform - PM",
+      "parent_id": 81338,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78898,
+      "name": "8545 Paystack - Product & Engineering",
+      "parent_id": 78890,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78970,
+      "name": "8546 MMS Platform - Eng",
+      "parent_id": 78836,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78973,
+      "name": "8547 Cards Online - PM",
+      "parent_id": 81339,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 61598,
+      "name": "8548 Cards Online - Eng",
+      "parent_id": 78842,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78948,
+      "name": "8549 Commerce - PM",
+      "parent_id": 81340,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78949,
+      "name": "8551 Commerce - Eng",
+      "parent_id": 78797,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 74551,
+      "name": "8552 Radar - PM",
+      "parent_id": 81341,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78983,
+      "name": "8553 Cards Settlement - PM",
+      "parent_id": 81342,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78984,
+      "name": "8554 Cards Settlement - Eng",
+      "parent_id": 78844,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78985,
+      "name": "8555 LPM Core - PM",
+      "parent_id": 81343,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78986,
+      "name": "8556 LPM Core - Eng",
+      "parent_id": 78846,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4552548",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2363612,
+          "location": {
+            "name": "Dublin, Ireland"
+          },
+          "metadata": null,
+          "id": 4552548,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Engineering Manager, Wallets "
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4582924",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2373056,
+          "location": {
+            "name": "San Francisco, Seattle, New York, Chicago"
+          },
+          "metadata": null,
+          "id": 4582924,
+          "updated_at": "2023-01-27T17:18:03-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Staff Frontend Engineer, Local Payment Methods"
+        }
+      ]
+    },
+    {
+      "id": 78987,
+      "name": "8557 Payments Admin",
+      "parent_id": 78848,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78988,
+      "name": "8558 Payments Architecture - Eng",
+      "parent_id": 84715,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78989,
+      "name": "8559 Disputes - PM",
+      "parent_id": 84714,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 67370,
+      "name": "8560 Bank Connections",
+      "parent_id": 78801,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4814698",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2455939,
+          "location": {
+            "name": "San Francisco, Seattle, New York, or Remote North America"
+          },
+          "metadata": null,
+          "id": 4814698,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Backend / API Engineer, Financial Connections"
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4507473",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2348876,
+          "location": {
+            "name": "San Francisco, Seattle, New York, or Remote North America"
+          },
+          "metadata": null,
+          "id": 4507473,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Engineering Manager of Managers, Financial Connections"
+        }
+      ]
+    },
+    {
+      "id": 78990,
+      "name": "8561 Disputes - Eng",
+      "parent_id": 78849,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78992,
+      "name": "8562 Express",
+      "parent_id": 78858,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78981,
+      "name": "8563 Payments Business",
+      "parent_id": 78860,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78982,
+      "name": "8564 SaaS Platform & Distribution",
+      "parent_id": 78861,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78980,
+      "name": "8565 Tax Reporting - Eng",
+      "parent_id": 83130,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78974,
+      "name": "8566 Developer Platform - PM",
+      "parent_id": 81345,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4754949",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2432204,
+          "location": {
+            "name": "Remote - US"
+          },
+          "metadata": null,
+          "id": 4754949,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Product Manager, API and Webhooks"
+        }
+      ]
+    },
+    {
+      "id": 78975,
+      "name": "8567 Developer Relations - Eng",
+      "parent_id": 86122,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78993,
+      "name": "8568 Docs",
+      "parent_id": 86122,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78976,
+      "name": "8569 StripeXP - PM",
+      "parent_id": 81346,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 76682,
+      "name": "8570 Consumer Network",
+      "parent_id": 78804,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78978,
+      "name": "8571 StripeApps - PM",
+      "parent_id": 78886,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78979,
+      "name": "8572 StripeApps - Eng",
+      "parent_id": 81347,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78961,
+      "name": "8573 Financial Services Admin",
+      "parent_id": 78821,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78947,
+      "name": "8575 Climate",
+      "parent_id": 78794,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81722,
+      "name": "8575 Climate [UR]",
+      "parent_id": 81721,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 80211,
+      "name": "8576 BBPOS - S&O",
+      "parent_id": 80646,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 80212,
+      "name": "8577 BBPOS - Product",
+      "parent_id": 80647,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 80213,
+      "name": "8578 BBPOS - G&A",
+      "parent_id": 80648,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 80214,
+      "name": "8579 BBPOS - S&M",
+      "parent_id": 80649,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 80660,
+      "name": "8581 Stripe Devices Team",
+      "parent_id": 83135,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81349,
+      "name": "8582 Checkout & Elements - Eng",
+      "parent_id": 81348,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4735720",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2425144,
+          "location": {
+            "name": "Remote"
+          },
+          "metadata": null,
+          "id": 4735720,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Engineering Manager, Merchant Success"
+        }
+      ]
+    },
+    {
+      "id": 81351,
+      "name": "8583 A&S Dashboard - Eng",
+      "parent_id": 81350,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81353,
+      "name": "8584 Payments Dashboard - Eng",
+      "parent_id": 81352,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81355,
+      "name": "8585 Payments Business UI - Eng",
+      "parent_id": 81354,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81357,
+      "name": "8586 Checkout & Elements - PM",
+      "parent_id": 81356,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81358,
+      "name": "8587 A&S Dashboard - PM",
+      "parent_id": 81344,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81360,
+      "name": "8588 Standard Library",
+      "parent_id": 81359,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78943,
+      "name": "8590 BaaS - Eng",
+      "parent_id": 78792,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78917,
+      "name": "8591 Checkout",
+      "parent_id": 78866,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 68171,
+      "name": "8592 Mobile",
+      "parent_id": 78831,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 84702,
+      "name": "8593 Treasury",
+      "parent_id": 84701,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78944,
+      "name": "8594 B&FP Group",
+      "parent_id": 84701,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78968,
+      "name": "8595 Treasury - Eng",
+      "parent_id": 84711,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 68258,
+      "name": "8596 Tax Products",
+      "parent_id": 80661,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 61595,
+      "name": "8610 Security Engineers",
+      "parent_id": 86134,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 80547,
+      "name": "8610 Security Engineers [UR]",
+      "parent_id": 80546,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81946,
+      "name": "8611 Security Analytics",
+      "parent_id": 86135,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81948,
+      "name": "8612 Security Infrastructure",
+      "parent_id": 81947,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81955,
+      "name": "8613 Data Privacy",
+      "parent_id": 86136,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81957,
+      "name": "8614 Office of the CISO & Partnership",
+      "parent_id": 81956,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78900,
+      "name": "8710 Runkit Engineers",
+      "parent_id": 78896,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 68132,
+      "name": "8810 Design",
+      "parent_id": 78815,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 68133,
+      "name": "8811 Product Design",
+      "parent_id": 78815,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 68134,
+      "name": "8812 UX Research",
+      "parent_id": 78815,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 68135,
+      "name": "8813 Web Presence & Platform",
+      "parent_id": 78815,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78957,
+      "name": "8814 UX Writing",
+      "parent_id": 78815,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78958,
+      "name": "8820 Stripe Films",
+      "parent_id": 78815,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 67749,
+      "name": "8910 Technical Program Management",
+      "parent_id": 86122,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4821731",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2459028,
+          "location": {
+            "name": "US / Canada, San Francisco, Seattle"
+          },
+          "metadata": null,
+          "id": 4821731,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Technical Program Manager, Infrastructure "
+        }
+      ]
+    },
+    {
+      "id": 61566,
+      "name": "8911 Product Operations",
+      "parent_id": 86122,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81739,
+      "name": "8911 Product Operations [UR]",
+      "parent_id": 81738,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78916,
+      "name": "8912 PgM - Tech programs",
+      "parent_id": 86122,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78707,
+      "name": "ABPs (Planning Group)",
+      "parent_id": 78706,
+      "child_ids": [
+        61580
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78706,
+      "name": "ABPs (Planning Org)",
+      "parent_id": 61563,
+      "child_ids": [
+        78707,
+        61580
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78783,
+      "name": "Account Intelligence and Experience (AIX) (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        78784,
+        84361,
+        78785,
+        87390,
+        78787,
+        87389,
+        78934,
+        78935,
+        84357,
+        78936,
+        78914,
+        83108,
+        83109,
+        78939,
+        78940,
+        78941,
+        76988,
+        83107
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78784,
+      "name": "Accounts (Planning Group)",
+      "parent_id": 78783,
+      "child_ids": [
+        78934,
+        78935
+      ],
+      "jobs": []
+    },
+    {
+      "id": 80652,
+      "name": "Acquisition - Allocated (Planning Group)",
+      "parent_id": 80195,
+      "child_ids": [
+        78906
+      ],
+      "jobs": []
+    },
+    {
+      "id": 80651,
+      "name": "Acquisition - Cost of Revenue (Planning Group)",
+      "parent_id": 80195,
+      "child_ids": [
+        78905
+      ],
+      "jobs": []
+    },
+    {
+      "id": 80648,
+      "name": "Acquisition - G&A (Planning Group)",
+      "parent_id": 80195,
+      "child_ids": [
+        78902,
+        80213
+      ],
+      "jobs": []
+    },
+    {
+      "id": 80650,
+      "name": "Acquisition - Margin (Planning Group)",
+      "parent_id": 80195,
+      "child_ids": [
+        78904
+      ],
+      "jobs": []
+    },
+    {
+      "id": 80647,
+      "name": "Acquisition - Product Development (Planning Group)",
+      "parent_id": 80195,
+      "child_ids": [
+        78901,
+        80212
+      ],
+      "jobs": []
+    },
+    {
+      "id": 80195,
+      "name": "Acquisitions - General (Planning Org)",
+      "parent_id": 78684,
+      "child_ids": [
+        80652,
+        80651,
+        80648,
+        80650,
+        80647,
+        80649,
+        80646,
+        78906,
+        78905,
+        78902,
+        80213,
+        78904,
+        78901,
+        80212,
+        78903,
+        80214,
+        78899,
+        80211
+      ],
+      "jobs": []
+    },
+    {
+      "id": 80649,
+      "name": "Acquisition - S&M (Planning Group)",
+      "parent_id": 80195,
+      "child_ids": [
+        78903,
+        80214
+      ],
+      "jobs": []
+    },
+    {
+      "id": 80646,
+      "name": "Acquisition - S&O (Planning Group)",
+      "parent_id": 80195,
+      "child_ids": [
+        78899,
+        80211
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78684,
+      "name": "Acquisitions & Other",
+      "parent_id": null,
+      "child_ids": [
+        80195,
+        78889,
+        78891,
+        81023,
+        78892,
+        77860,
+        80652,
+        80651,
+        80648,
+        80650,
+        80647,
+        80649,
+        80646,
+        78906,
+        78905,
+        78902,
+        80213,
+        78904,
+        78901,
+        80212,
+        78903,
+        80214,
+        78899,
+        80211,
+        78893,
+        78897,
+        78895,
+        78896,
+        78900,
+        79196,
+        79197,
+        79194,
+        79206,
+        79202,
+        79195,
+        79207,
+        79199,
+        79201,
+        79203,
+        79198,
+        79200,
+        79204,
+        79205
+      ],
+      "jobs": []
+    },
+    {
+      "id": 84361,
+      "name": "AIX Global (Planning Group)",
+      "parent_id": 78783,
+      "child_ids": [
+        84357
+      ],
+      "jobs": []
+    },
+    {
+      "id": 80205,
+      "name": "Americas Regulatory Affairs (Planning Group)",
+      "parent_id": 8300,
+      "child_ids": [
+        76985
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78789,
+      "name": "APAC - Eng (Planning Group)",
+      "parent_id": 83134,
+      "child_ids": [
+        66159
+      ],
+      "jobs": []
+    },
+    {
+      "id": 83127,
+      "name": "APAC - PM (Planning Group)",
+      "parent_id": 83134,
+      "child_ids": [
+        83110
+      ],
+      "jobs": []
+    },
+    {
+      "id": 80201,
+      "name": "APAC Regulatory Affairs (Planning Group)",
+      "parent_id": 8300,
+      "child_ids": [
+        76986
+      ],
+      "jobs": []
+    },
+    {
+      "id": 84699,
+      "name": "Apps & Surfaces (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81350,
+      "name": "A&S Dashboard - Eng (Planning Group)",
+      "parent_id": 78841,
+      "child_ids": [
+        81351
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81344,
+      "name": "A&S Dashboard - PM (Planning Group)",
+      "parent_id": 78841,
+      "child_ids": [
+        81358
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78878,
+      "name": "Atlas (Planning Group)",
+      "parent_id": 87354,
+      "child_ids": [
+        60589
+      ],
+      "jobs": []
+    },
+    {
+      "id": 87354,
+      "name": "Atlas (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        78878,
+        60589
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78919,
+      "name": "[AUDIT]",
+      "parent_id": 81063,
+      "child_ids": [
+        8296,
+        8298,
+        8304,
+        74558,
+        74556,
+        68157,
+        74547,
+        74546,
+        70807,
+        74553,
+        68164
+      ],
+      "jobs": []
+    },
+    {
+      "id": 8296,
+      "name": "[AUDIT] Engineering",
+      "parent_id": 78919,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 8298,
+      "name": "[AUDIT] Finance",
+      "parent_id": 78919,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 8304,
+      "name": "[AUDIT] Product Management",
+      "parent_id": 78919,
+      "child_ids": [
+        74558,
+        74556,
+        68157,
+        74547,
+        74546,
+        70807,
+        74553,
+        68164
+      ],
+      "jobs": []
+    },
+    {
+      "id": 79196,
+      "name": "AutoFile",
+      "parent_id": 77860,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 84716,
+      "name": "B2B Payments (Planning Group)",
+      "parent_id": 78872,
+      "child_ids": [
+        73923
+      ],
+      "jobs": []
+    },
+    {
+      "id": 84701,
+      "name": "BaaS (Planning Group)",
+      "parent_id": 78790,
+      "child_ids": [
+        79925,
+        84702,
+        78944
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78790,
+      "name": "BaaS (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        84701,
+        78791,
+        78793,
+        83122,
+        84709,
+        78792,
+        83121,
+        84712,
+        78835,
+        84711,
+        84710,
+        79925,
+        84702,
+        78944,
+        61599,
+        83105,
+        78946,
+        78943,
+        83104,
+        78945,
+        78968,
+        78967
+      ],
+      "jobs": []
+    },
+    {
+      "id": 87211,
+      "name": "BaaS, SaaS, Network F&S (Planning Group)",
+      "parent_id": 86125,
+      "child_ids": [
+        87212
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78791,
+      "name": "BaaS Servicing (Planning Group)",
+      "parent_id": 78790,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 80197,
+      "name": "Bad Debt Expense (Planning Group)",
+      "parent_id": 55005,
+      "child_ids": [
+        80198
+      ],
+      "jobs": []
+    },
+    {
+      "id": 85017,
+      "name": "Bank Network (Planning Group)",
+      "parent_id": 78841,
+      "child_ids": [
+        85018
+      ],
+      "jobs": []
+    },
+    {
+      "id": 84700,
+      "name": "B&FP (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81720,
+      "name": "B&FP (Planning Org) [UR]",
+      "parent_id": 80531,
+      "child_ids": [
+        81721,
+        81722
+      ],
+      "jobs": []
+    },
+    {
+      "id": 74558,
+      "name": "B&FP PM",
+      "parent_id": 8304,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78810,
+      "name": "Billing & Regulatory Reporting (Planning Group)",
+      "parent_id": 86083,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 80537,
+      "name": "Business Operations (Planning Group) [UR]",
+      "parent_id": 80536,
+      "child_ids": [
+        75777
+      ],
+      "jobs": []
+    },
+    {
+      "id": 80536,
+      "name": "Business Operations (Planning Org) [UR]",
+      "parent_id": 79943,
+      "child_ids": [
+        80537,
+        75777
+      ],
+      "jobs": []
+    },
+    {
+      "id": 79943,
+      "name": "Business [UR]",
+      "parent_id": 75776,
+      "child_ids": [
+        80536,
+        80538,
+        79944,
+        75778,
+        80537,
+        75777,
+        80539,
+        76832,
+        79945,
+        79946,
+        80544,
+        80449,
+        81740,
+        75780
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78793,
+      "name": "Capital - Eng (Planning Group)",
+      "parent_id": 78790,
+      "child_ids": [
+        61599
+      ],
+      "jobs": []
+    },
+    {
+      "id": 86123,
+      "name": "Capital Markets (Treasury & IR) (Planning Org)",
+      "parent_id": 61563,
+      "child_ids": [
+        87208,
+        86124,
+        87209,
+        61587
+      ],
+      "jobs": []
+    },
+    {
+      "id": 83122,
+      "name": "Capital - PM (Planning Group)",
+      "parent_id": 78790,
+      "child_ids": [
+        83105,
+        78946
+      ],
+      "jobs": []
+    },
+    {
+      "id": 85015,
+      "name": "Card Network (Planning Group)",
+      "parent_id": 78841,
+      "child_ids": [
+        85016
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78842,
+      "name": "Cards Online - Eng (Planning Group)",
+      "parent_id": 78841,
+      "child_ids": [
+        61598
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81339,
+      "name": "Cards Online - PM (Planning Group)",
+      "parent_id": 78841,
+      "child_ids": [
+        78973
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78844,
+      "name": "Cards Settlement - Eng (Planning Group)",
+      "parent_id": 78841,
+      "child_ids": [
+        78984
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81342,
+      "name": "Cards Settlement - PM (Planning Group)",
+      "parent_id": 78841,
+      "child_ids": [
+        78983
+      ],
+      "jobs": []
+    },
+    {
+      "id": 83114,
+      "name": "Central Programs (Planning Group)",
+      "parent_id": 83132,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81348,
+      "name": "Checkout & Elements - Eng (Planning Group)",
+      "parent_id": 78841,
+      "child_ids": [
+        81349
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81356,
+      "name": "Checkout & Elements - PM (Planning Group)",
+      "parent_id": 78841,
+      "child_ids": [
+        81357
+      ],
+      "jobs": []
+    },
+    {
+      "id": 79197,
+      "name": "Client Services Organization",
+      "parent_id": 77860,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78794,
+      "name": "Climate (Planning Group)",
+      "parent_id": 84928,
+      "child_ids": [
+        78947
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81721,
+      "name": "Climate (Planning Group) [UR]",
+      "parent_id": 81720,
+      "child_ids": [
+        81722
+      ],
+      "jobs": []
+    },
+    {
+      "id": 84928,
+      "name": "Climate (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        78794,
+        78947
+      ],
+      "jobs": []
+    },
+    {
+      "id": 83113,
+      "name": "Collaboration (Planning Group)",
+      "parent_id": 83132,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78797,
+      "name": "Commerce - Eng (Planning Group)",
+      "parent_id": 81331,
+      "child_ids": [
+        78949
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81340,
+      "name": "Commerce - PM (Planning Group)",
+      "parent_id": 81331,
+      "child_ids": [
+        78948
+      ],
+      "jobs": []
+    },
+    {
+      "id": 80654,
+      "name": "Commercial Legal (Planning Group)",
+      "parent_id": 8300,
+      "child_ids": [
+        78722
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78692,
+      "name": "Communications (Planning Group)",
+      "parent_id": 78691,
+      "child_ids": [
+        79742
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78691,
+      "name": "Communications (Planning Org)",
+      "parent_id": 61563,
+      "child_ids": [
+        78692,
+        79742
+      ],
+      "jobs": []
+    },
+    {
+      "id": 83374,
+      "name": "Connect - Eng (Planning Group)",
+      "parent_id": 78841,
+      "child_ids": [
+        66162
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78801,
+      "name": "Connections (Planning Group)",
+      "parent_id": 78798,
+      "child_ids": [
+        78937,
+        78938,
+        67370
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78798,
+      "name": "Connections (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        78801,
+        78937,
+        78938,
+        67370
+      ],
+      "jobs": []
+    },
+    {
+      "id": 83115,
+      "name": "Connect - PM (Planning Group)",
+      "parent_id": 78841,
+      "child_ids": [
+        83098
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78804,
+      "name": "Consumer Network (Planning Group)",
+      "parent_id": 78803,
+      "child_ids": [
+        84703,
+        76682
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78803,
+      "name": "Consumer Network (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        78804,
+        84703,
+        76682
+      ],
+      "jobs": []
+    },
+    {
+      "id": 84926,
+      "name": "Consumer Operations (Planning Group)",
+      "parent_id": 78700,
+      "child_ids": [
+        80643
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78708,
+      "name": "Controllership (Planning Group)",
+      "parent_id": 76978,
+      "child_ids": [
+        80645,
+        86076,
+        61585,
+        68136,
+        61586,
+        62016,
+        76979,
+        78709
+      ],
+      "jobs": []
+    },
+    {
+      "id": 76978,
+      "name": "Controllership (Planning Org)",
+      "parent_id": 61563,
+      "child_ids": [
+        78708,
+        80645,
+        86076,
+        61585,
+        68136,
+        61586,
+        62016,
+        76979,
+        78709
+      ],
+      "jobs": []
+    },
+    {
+      "id": 61563,
+      "name": "Core",
+      "parent_id": null,
+      "child_ids": [
+        78706,
+        86123,
+        78691,
+        76978,
+        78736,
+        78686,
+        78716,
+        78718,
+        78743,
+        78746,
+        84694,
+        86125,
+        78740,
+        84704,
+        78689,
+        78738,
+        8300,
+        78756,
+        78700,
+        78758,
+        8303,
+        78732,
+        78751,
+        78707,
+        61580,
+        87208,
+        86124,
+        87209,
+        61587,
+        78692,
+        79742,
+        78708,
+        80645,
+        86076,
+        61585,
+        68136,
+        61586,
+        62016,
+        76979,
+        78709,
+        78687,
+        84692,
+        80466,
+        85888,
+        78717,
+        50261,
+        78719,
+        80642,
+        78744,
+        78745,
+        86080,
+        78747,
+        86081,
+        85770,
+        78748,
+        78764,
+        86082,
+        84705,
+        84706,
+        87211,
+        78737,
+        78752,
+        78739,
+        78759,
+        87210,
+        87213,
+        87212,
+        73758,
+        73760,
+        73759,
+        80655,
+        78933,
+        87215,
+        87214,
+        78741,
+        8294,
+        84696,
+        84695,
+        78690,
+        76994,
+        68117,
+        68119,
+        84962,
+        80205,
+        80201,
+        80654,
+        80199,
+        80200,
+        80202,
+        80206,
+        80194,
+        80207,
+        80209,
+        80210,
+        80208,
+        80203,
+        78754,
+        76985,
+        76986,
+        78722,
+        76987,
+        78721,
+        76989,
+        68147,
+        78742,
+        78723,
+        78724,
+        78725,
+        68149,
+        57223,
+        78755,
+        78757,
+        78931,
+        78932,
+        84926,
+        87190,
+        87194,
+        78701,
+        87198,
+        84925,
+        84940,
+        87202,
+        84927,
+        87192,
+        80643,
+        87191,
+        87195,
+        87196,
+        87197,
+        87201,
+        61568,
+        87199,
+        78942,
+        61567,
+        87200,
+        61565,
+        61564,
+        84353,
+        68129,
+        87207,
+        78702,
+        70809,
+        80644,
+        85058,
+        87203,
+        87204,
+        87205,
+        87206,
+        87193,
+        78728,
+        78726,
+        78727,
+        68154,
+        78771,
+        78772,
+        83871,
+        78773,
+        78774,
+        78775,
+        78776,
+        68155,
+        61617,
+        86018,
+        61581,
+        78768,
+        78765,
+        78767,
+        78766,
+        78769,
+        78770,
+        78729,
+        21683,
+        78730,
+        78731,
+        79929,
+        81630,
+        81629,
+        81627,
+        81628,
+        70806,
+        81437,
+        81436,
+        71619,
+        85771,
+        81435
+      ],
+      "jobs": []
+    },
+    {
+      "id": 86083,
+      "name": "Core Applications (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        78810,
+        86129,
+        86084,
+        78952,
+        86085
+      ],
+      "jobs": []
+    },
+    {
+      "id": 83870,
+      "name": "Core Developer Services (Planning Group)",
+      "parent_id": 78818,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 86133,
+      "name": "Core Infrastructure (Planning Group)",
+      "parent_id": 86126,
+      "child_ids": [
+        80659,
+        87216
+      ],
+      "jobs": []
+    },
+    {
+      "id": 87190,
+      "name": "Core Operations (Planning Group)",
+      "parent_id": 78700,
+      "child_ids": [
+        87191
+      ],
+      "jobs": []
+    },
+    {
+      "id": 80532,
+      "name": "Core [UR]",
+      "parent_id": 75776,
+      "child_ids": [
+        81785,
+        80533,
+        80540,
+        81786,
+        81787,
+        80534,
+        76833,
+        80541,
+        78996
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81786,
+      "name": "Corp F&S (FP&A, IR, Treasury) (Planning Group) [UR]",
+      "parent_id": 81785,
+      "child_ids": [
+        81787
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78736,
+      "name": "Corp F&S (FP&A, IR, Treasury) (Planning Org)",
+      "parent_id": 61563,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81785,
+      "name": "Corp F&S (FP&A, IR, Treasury) (Planning Org) [UR]",
+      "parent_id": 80532,
+      "child_ids": [
+        81786,
+        81787
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78737,
+      "name": "Corp F&S (Planning Group)",
+      "parent_id": 86125,
+      "child_ids": [
+        73758
+      ],
+      "jobs": []
+    },
+    {
+      "id": 80199,
+      "name": "Corporate Affairs (Planning Group)",
+      "parent_id": 8300,
+      "child_ids": [
+        76987
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78687,
+      "name": "Corporate Development (Planning Group)",
+      "parent_id": 78686,
+      "child_ids": [
+        84692,
+        80466,
+        85888
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78686,
+      "name": "Corporate Development (Planning Org)",
+      "parent_id": 61563,
+      "child_ids": [
+        78687,
+        84692,
+        80466,
+        85888
+      ],
+      "jobs": []
+    },
+    {
+      "id": 86080,
+      "name": "Corporate Donations (Planning Group)",
+      "parent_id": 78746,
+      "child_ids": [
+        85770
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78717,
+      "name": "Corporate Security (Planning Group)",
+      "parent_id": 78716,
+      "child_ids": [
+        50261
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78716,
+      "name": "Corporate Security (Planning Org)",
+      "parent_id": 61563,
+      "child_ids": [
+        78717,
+        50261
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78719,
+      "name": "Corporate Strategy (Planning Group)",
+      "parent_id": 78718,
+      "child_ids": [
+        80642
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78718,
+      "name": "Corporate Strategy (Planning Org)",
+      "parent_id": 61563,
+      "child_ids": [
+        78719,
+        80642
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78806,
+      "name": "Corporate Technology (Planning Group)",
+      "parent_id": 82453,
+      "child_ids": [
+        78971,
+        69946,
+        78950,
+        81950,
+        81952
+      ],
+      "jobs": []
+    },
+    {
+      "id": 74556,
+      "name": "Corporate Technology PM",
+      "parent_id": 8304,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81951,
+      "name": "CorpTech Corporate Engineering (Planning Group)",
+      "parent_id": 82453,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81949,
+      "name": "CorpTech Customer Success (Planning Group)",
+      "parent_id": 82453,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78744,
+      "name": "Cryptocurrency (Planning Group)",
+      "parent_id": 78743,
+      "child_ids": [
+        78745
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78743,
+      "name": "Cryptocurrency (Planning Org)",
+      "parent_id": 61563,
+      "child_ids": [
+        78744,
+        78745
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78808,
+      "name": "Crypto Product (Planning Group)",
+      "parent_id": 78807,
+      "child_ids": [
+        78951
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78807,
+      "name": "Crypto Product (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        78808,
+        78951
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81964,
+      "name": "Customer Success (Planning Group)",
+      "parent_id": 78703,
+      "child_ids": [
+        76999
+      ],
+      "jobs": []
+    },
+    {
+      "id": 83126,
+      "name": "Data Migration - Eng (Planning Group)",
+      "parent_id": 78877,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 80528,
+      "name": "Data Org (Planning Org) [UR]",
+      "parent_id": 80531,
+      "child_ids": [
+        80529,
+        80530,
+        75779,
+        80527
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78811,
+      "name": "Data Platform (Planning Group)",
+      "parent_id": 86130,
+      "child_ids": [
+        78953
+      ],
+      "jobs": []
+    },
+    {
+      "id": 86130,
+      "name": "Data Platform (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        78811,
+        78953
+      ],
+      "jobs": []
+    },
+    {
+      "id": 86136,
+      "name": "Data Privacy (Planning Group)",
+      "parent_id": 78875,
+      "child_ids": [
+        81955
+      ],
+      "jobs": []
+    },
+    {
+      "id": 80200,
+      "name": "Data Protection & Privacy (Planning Group)",
+      "parent_id": 8300,
+      "child_ids": [
+        78721
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78812,
+      "name": "Data Science & Growth (Planning Group)",
+      "parent_id": 82453,
+      "child_ids": [
+        8291,
+        78954,
+        84354,
+        84355,
+        84356
+      ],
+      "jobs": []
+    },
+    {
+      "id": 80529,
+      "name": "Data Science (Planning Group) [UR] ",
+      "parent_id": 80528,
+      "child_ids": [
+        75779
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78809,
+      "name": "Data Systems (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 70135,
+      "name": "[DEPRECATED] LEADERSHIP",
+      "parent_id": 81063,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78752,
+      "name": "(deprecated) Tech F&S (Planning Group)",
+      "parent_id": 86125,
+      "child_ids": [
+        73760
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78815,
+      "name": "Design (Planning Group)",
+      "parent_id": 78814,
+      "child_ids": [
+        68131,
+        78956,
+        68132,
+        68133,
+        68134,
+        68135,
+        78957,
+        78958
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78814,
+      "name": "Design (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        78815,
+        68131,
+        78956,
+        68132,
+        68133,
+        68134,
+        68135,
+        78957,
+        78958
+      ],
+      "jobs": []
+    },
+    {
+      "id": 86132,
+      "name": "Developer Infrastructure (Planning Group)",
+      "parent_id": 86126,
+      "child_ids": [
+        80658
+      ],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4735847",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2425207,
+          "location": {
+            "name": "San Francisco "
+          },
+          "metadata": null,
+          "id": 4735847,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Engineering Manager of Managers, Service Platform    "
+        },
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4724348",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2420931,
+          "location": {
+            "name": "San Francisco "
+          },
+          "metadata": null,
+          "id": 4724348,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Engineering Manager, Storage Abstraction      "
+        }
+      ]
+    },
+    {
+      "id": 78881,
+      "name": "Developer Platform - Eng (Planning Group)",
+      "parent_id": 81331,
+      "child_ids": [
+        68167
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81345,
+      "name": "Developer Platform - PM (Planning Group)",
+      "parent_id": 81331,
+      "child_ids": [
+        78974
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78882,
+      "name": "Developer Relations - Eng (Planning Group)",
+      "parent_id": 83132,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78849,
+      "name": "Disputes - Eng (Planning Group)",
+      "parent_id": 78841,
+      "child_ids": [
+        78990
+      ],
+      "jobs": []
+    },
+    {
+      "id": 84714,
+      "name": "Disputes - PM (Planning Group)",
+      "parent_id": 78841,
+      "child_ids": [
+        78989
+      ],
+      "jobs": []
+    },
+    {
+      "id": 86131,
+      "name": "Distributed Systems (Planning Group)",
+      "parent_id": 86126,
+      "child_ids": [
+        80657
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78883,
+      "name": "Docs (Planning Group)",
+      "parent_id": 83132,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78817,
+      "name": "EMEA (Planning Group)",
+      "parent_id": 83134,
+      "child_ids": [
+        68170,
+        68169
+      ],
+      "jobs": []
+    },
+    {
+      "id": 83128,
+      "name": "EMEA - PM (Planning Group)",
+      "parent_id": 83134,
+      "child_ids": [
+        83111
+      ],
+      "jobs": []
+    },
+    {
+      "id": 80202,
+      "name": "EMEA Regulatory Affairs (Planning Group)",
+      "parent_id": 8300,
+      "child_ids": [
+        76989
+      ],
+      "jobs": []
+    },
+    {
+      "id": 76837,
+      "name": "Employee Impact & Experience [UR]",
+      "parent_id": 76836,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 80206,
+      "name": "Employment Legal (Planning Group)",
+      "parent_id": 8300,
+      "child_ids": [
+        68147
+      ],
+      "jobs": []
+    },
+    {
+      "id": 79194,
+      "name": "Engineering",
+      "parent_id": 77860,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78856,
+      "name": "Enterprise Product (Planning Group)",
+      "parent_id": 78852,
+      "child_ids": [
+        78991
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78747,
+      "name": "Executive (Planning Group)",
+      "parent_id": 78746,
+      "child_ids": [
+        78748,
+        78764
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78746,
+      "name": "Executive (Planning Org)",
+      "parent_id": 61563,
+      "child_ids": [
+        86080,
+        78747,
+        86081,
+        85770,
+        78748,
+        78764,
+        86082
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78858,
+      "name": "Express (Planning Group)",
+      "parent_id": 78852,
+      "child_ids": [
+        78992
+      ],
+      "jobs": []
+    },
+    {
+      "id": 84705,
+      "name": "FA & Lease Impairment (Planning Group)",
+      "parent_id": 84694,
+      "child_ids": [
+        84706
+      ],
+      "jobs": []
+    },
+    {
+      "id": 84694,
+      "name": "FA & Lease Impairment (Planning Org)",
+      "parent_id": 61563,
+      "child_ids": [
+        84705,
+        84706
+      ],
+      "jobs": []
+    },
+    {
+      "id": 86125,
+      "name": "Finance & Strategy (Planning Org)",
+      "parent_id": 61563,
+      "child_ids": [
+        87211,
+        78737,
+        78752,
+        78739,
+        78759,
+        87210,
+        87213,
+        87212,
+        73758,
+        73760,
+        73759,
+        80655,
+        78933,
+        87215,
+        87214
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78734,
+      "name": "Finance Systems (Planning Group)",
+      "parent_id": 78733,
+      "child_ids": [
+        78735,
+        68139
+      ],
+      "jobs": []
+    },
+    {
+      "id": 80534,
+      "name": "Finance Systems (Planning Group) [UR]",
+      "parent_id": 80533,
+      "child_ids": [
+        76833
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78733,
+      "name": "Finance Systems (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        78734,
+        78735,
+        68139
+      ],
+      "jobs": []
+    },
+    {
+      "id": 80533,
+      "name": "Finance Systems (Planning Org) [UR]",
+      "parent_id": 80532,
+      "child_ids": [
+        80534,
+        76833
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78741,
+      "name": "Financial Crimes (Planning Group)",
+      "parent_id": 78740,
+      "child_ids": [
+        8294
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78740,
+      "name": "Financial Crimes (Planning Org)",
+      "parent_id": 61563,
+      "child_ids": [
+        78741,
+        8294
+      ],
+      "jobs": []
+    },
+    {
+      "id": 84717,
+      "name": "Financial Operations (Planning Group)",
+      "parent_id": 78872,
+      "child_ids": [
+        66155,
+        81953
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78819,
+      "name": "Foundation (Planning Group)",
+      "parent_id": 78818,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78818,
+      "name": "Foundation (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        83870,
+        78819,
+        83869
+      ],
+      "jobs": []
+    },
+    {
+      "id": 84696,
+      "name": "Frontier Climate (Planning Group)",
+      "parent_id": 84704,
+      "child_ids": [
+        84695
+      ],
+      "jobs": []
+    },
+    {
+      "id": 84704,
+      "name": "Frontier Climate (Planning Org)",
+      "parent_id": 61563,
+      "child_ids": [
+        84696,
+        84695
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78821,
+      "name": "FS Admin (Planning Group)",
+      "parent_id": 78820,
+      "child_ids": [
+        78961
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78820,
+      "name": "FS Admin (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        78821,
+        81359,
+        78961,
+        81360
+      ],
+      "jobs": []
+    },
+    {
+      "id": 84709,
+      "name": "FSB Risk and Capital Markets (Planning Group)",
+      "parent_id": 78790,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78823,
+      "name": "General Engineering (Planning Group)",
+      "parent_id": 78822,
+      "child_ids": [
+        68172,
+        78962
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78822,
+      "name": "General Engineering (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        78823,
+        68172,
+        78962
+      ],
+      "jobs": []
+    },
+    {
+      "id": 61596,
+      "name": "General Engineering [UR]",
+      "parent_id": 80531,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 84359,
+      "name": "General University (Planning Group)",
+      "parent_id": 85287,
+      "child_ids": [
+        84360
+      ],
+      "jobs": []
+    },
+    {
+      "id": 85287,
+      "name": "General University (Planning Org)",
+      "parent_id": 85288,
+      "child_ids": [
+        84359,
+        84360
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81963,
+      "name": "GEO Sales (APAC) (Planning Group)",
+      "parent_id": 85896,
+      "child_ids": [
+        76998,
+        81432
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81962,
+      "name": "GEO Sales (EMEA) (Planning Group)",
+      "parent_id": 85896,
+      "child_ids": [
+        76997,
+        81431
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81961,
+      "name": "GEO Sales (NA) (Planning Group)",
+      "parent_id": 85896,
+      "child_ids": [
+        76996,
+        81430
+      ],
+      "jobs": []
+    },
+    {
+      "id": 86695,
+      "name": "GEO Sales (Strategic Accounts) (Planning Group)",
+      "parent_id": 85896,
+      "child_ids": [
+        86696
+      ],
+      "jobs": []
+    },
+    {
+      "id": 80194,
+      "name": "Global Compliance (Planning Group)",
+      "parent_id": 8300,
+      "child_ids": [
+        78742
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78690,
+      "name": "Global Partnerships (Planning Group)",
+      "parent_id": 78689,
+      "child_ids": [
+        76994,
+        68117,
+        68119,
+        84962
+      ],
+      "jobs": []
+    },
+    {
+      "id": 80539,
+      "name": "Global Partnerships (Planning Group) [UR]",
+      "parent_id": 80538,
+      "child_ids": [
+        76832
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78689,
+      "name": "Global Partnerships (Planning Org)",
+      "parent_id": 61563,
+      "child_ids": [
+        78690,
+        76994,
+        68117,
+        68119,
+        84962
+      ],
+      "jobs": []
+    },
+    {
+      "id": 80538,
+      "name": "Global Partnerships (Planning Org) [UR]",
+      "parent_id": 79943,
+      "child_ids": [
+        80539,
+        76832
+      ],
+      "jobs": []
+    },
+    {
+      "id": 83134,
+      "name": "Global (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        78789,
+        83127,
+        78817,
+        83128,
+        78829,
+        83129,
+        78890,
+        66159,
+        83110,
+        68170,
+        68169,
+        83111,
+        66161,
+        83112,
+        86077,
+        86078,
+        86079,
+        78898
+      ],
+      "jobs": []
+    },
+    {
+      "id": 68157,
+      "name": "Global PM",
+      "parent_id": 8304,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 86072,
+      "name": "Global Sales & Business Ops HQ (Planning Group)",
+      "parent_id": 85896,
+      "child_ids": [
+        86073
+      ],
+      "jobs": []
+    },
+    {
+      "id": 85896,
+      "name": "Global Sales & Business Ops (Planning Org)",
+      "parent_id": 61561,
+      "child_ids": [
+        81963,
+        81962,
+        81961,
+        86695,
+        86072,
+        85336,
+        81965,
+        81960,
+        86070,
+        76998,
+        81432,
+        76997,
+        81431,
+        76996,
+        81430,
+        86696,
+        86073,
+        78930,
+        86074,
+        86075,
+        61573,
+        81433,
+        81434,
+        78927,
+        78923,
+        86071
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81966,
+      "name": "Global Sales (Planning Group)",
+      "parent_id": 78703,
+      "child_ids": [
+        77001
+      ],
+      "jobs": []
+    },
+    {
+      "id": 61561,
+      "name": "GTM",
+      "parent_id": null,
+      "child_ids": [
+        78688,
+        85896,
+        78693,
+        78696,
+        78703,
+        81963,
+        81962,
+        81961,
+        86695,
+        86072,
+        85336,
+        81965,
+        81960,
+        86070,
+        76998,
+        81432,
+        76997,
+        81431,
+        76996,
+        81430,
+        86696,
+        86073,
+        78930,
+        86074,
+        86075,
+        61573,
+        81433,
+        81434,
+        78927,
+        78923,
+        86071,
+        78694,
+        78695,
+        78697,
+        84720,
+        79916,
+        79917,
+        79918,
+        79919,
+        79920,
+        79921,
+        79922,
+        79923,
+        79924,
+        87142,
+        78922,
+        81964,
+        81966,
+        81967,
+        78704,
+        81959,
+        76999,
+        77001,
+        78929,
+        84697,
+        84698,
+        79915,
+        61572,
+        85701,
+        78780,
+        78924
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78739,
+      "name": "GTM F&S (Planning Group)",
+      "parent_id": 86125,
+      "child_ids": [
+        73759,
+        80655
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78738,
+      "name": "GTM F&S (Planning Org)",
+      "parent_id": 61563,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81967,
+      "name": "GTM Partnerships (Planning Group)",
+      "parent_id": 78703,
+      "child_ids": [
+        78929
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78826,
+      "name": "GTM Systems (Planning Group)",
+      "parent_id": 82453,
+      "child_ids": [
+        80656
+      ],
+      "jobs": []
+    },
+    {
+      "id": 83135,
+      "name": "Hardware (Planning Group)",
+      "parent_id": 83133,
+      "child_ids": [
+        80660
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78694,
+      "name": "Helm (Planning Group)",
+      "parent_id": 78693,
+      "child_ids": [
+        78695
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78693,
+      "name": "Helm (Planning Org)",
+      "parent_id": 61561,
+      "child_ids": [
+        78694,
+        78695
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78785,
+      "name": "Identity (Planning Group)",
+      "parent_id": 78783,
+      "child_ids": [
+        78936
+      ],
+      "jobs": []
+    },
+    {
+      "id": 79978,
+      "name": "Inactive",
+      "parent_id": 55005,
+      "child_ids": [
+        78698,
+        78699,
+        79932
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78893,
+      "name": "Indie Hackers (Planning Group)",
+      "parent_id": 78889,
+      "child_ids": [
+        78897
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78889,
+      "name": "Indie Hackers (Planning Org)",
+      "parent_id": 78684,
+      "child_ids": [
+        78893,
+        78897
+      ],
+      "jobs": []
+    },
+    {
+      "id": 82453,
+      "name": "Information (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        78806,
+        81951,
+        81949,
+        78812,
+        78826,
+        78813,
+        78827,
+        78971,
+        69946,
+        78950,
+        81950,
+        81952,
+        8291,
+        78954,
+        84354,
+        84355,
+        84356,
+        80656,
+        78955,
+        79930
+      ],
+      "jobs": []
+    },
+    {
+      "id": 79206,
+      "name": "Information Technology",
+      "parent_id": 77860,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 86127,
+      "name": "Infra Product & Staff (Planning Group)",
+      "parent_id": 86126,
+      "child_ids": [
+        61590,
+        78959,
+        78960
+      ],
+      "jobs": []
+    },
+    {
+      "id": 86126,
+      "name": "Infrastructure (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        86133,
+        86132,
+        86131,
+        86127,
+        86128,
+        80659,
+        87216,
+        80658,
+        80657,
+        61590,
+        78959,
+        78960,
+        66153
+      ],
+      "jobs": []
+    },
+    {
+      "id": 80207,
+      "name": "Intellectual Property (Planning Group)",
+      "parent_id": 8300,
+      "child_ids": [
+        78723
+      ],
+      "jobs": []
+    },
+    {
+      "id": 86081,
+      "name": "Internal Events (Planning Group)",
+      "parent_id": 78746,
+      "child_ids": [
+        86082
+      ],
+      "jobs": []
+    },
+    {
+      "id": 87208,
+      "name": "Investor Relations (Planning Group)",
+      "parent_id": 86123,
+      "child_ids": [
+        87209
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78792,
+      "name": "Issuing - Eng (Planning Group)",
+      "parent_id": 78790,
+      "child_ids": [
+        78943
+      ],
+      "jobs": []
+    },
+    {
+      "id": 83121,
+      "name": "Issuing - PM (Planning Group)",
+      "parent_id": 78790,
+      "child_ids": [
+        83104
+      ],
+      "jobs": []
+    },
+    {
+      "id": 84712,
+      "name": "Keystone (Planning Group)",
+      "parent_id": 78790,
+      "child_ids": [
+        78945
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78829,
+      "name": "LATAM - Eng (Planning Group)",
+      "parent_id": 83134,
+      "child_ids": [
+        66161
+      ],
+      "jobs": []
+    },
+    {
+      "id": 83129,
+      "name": "LATAM - PM (Planning Group)",
+      "parent_id": 83134,
+      "child_ids": [
+        83112
+      ],
+      "jobs": []
+    },
+    {
+      "id": 79202,
+      "name": "Leadership TaxJar",
+      "parent_id": 77860,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 80209,
+      "name": "Legal Operations (Planning Group)",
+      "parent_id": 8300,
+      "child_ids": [
+        78724
+      ],
+      "jobs": []
+    },
+    {
+      "id": 8300,
+      "name": "Legal (Planning Org)",
+      "parent_id": 61563,
+      "child_ids": [
+        80205,
+        80201,
+        80654,
+        80199,
+        80200,
+        80202,
+        80206,
+        80194,
+        80207,
+        80209,
+        80210,
+        80208,
+        80203,
+        78754,
+        76985,
+        76986,
+        78722,
+        76987,
+        78721,
+        76989,
+        68147,
+        78742,
+        78723,
+        78724,
+        78725,
+        68149,
+        57223,
+        78755
+      ],
+      "jobs": []
+    },
+    {
+      "id": 80540,
+      "name": "Legal (Planning Org) [UR]",
+      "parent_id": 80532,
+      "child_ids": [
+        80541,
+        78996
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81945,
+      "name": "Lifecycle Security (Planning Group)",
+      "parent_id": 78875,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 80210,
+      "name": "Litigation (Planning Group)",
+      "parent_id": 8300,
+      "child_ids": [
+        78725
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78846,
+      "name": "LPM Core - Eng (Planning Group)",
+      "parent_id": 78841,
+      "child_ids": [
+        78986
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81343,
+      "name": "LPM Core - PM (Planning Group)",
+      "parent_id": 78841,
+      "child_ids": [
+        78985
+      ],
+      "jobs": []
+    },
+    {
+      "id": 79195,
+      "name": "Marketing",
+      "parent_id": 77860,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78697,
+      "name": "Marketing (Planning Group)",
+      "parent_id": 78696,
+      "child_ids": [
+        84720,
+        79916,
+        79917,
+        79918,
+        79919,
+        79920,
+        79921,
+        79922,
+        79923,
+        79924,
+        87142
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78696,
+      "name": "Marketing (Planning Org)",
+      "parent_id": 61561,
+      "child_ids": [
+        78697,
+        84720,
+        79916,
+        79917,
+        79918,
+        79919,
+        79920,
+        79921,
+        79922,
+        79923,
+        79924,
+        87142
+      ],
+      "jobs": []
+    },
+    {
+      "id": 76834,
+      "name": "Marketing [UR]",
+      "parent_id": 75776,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 84721,
+      "name": "Merchant Intelligence (Planning Group)",
+      "parent_id": 84708,
+      "child_ids": [
+        79931
+      ],
+      "jobs": []
+    },
+    {
+      "id": 84708,
+      "name": "Merchant Intelligence (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        84721,
+        79931
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78813,
+      "name": "ML Infra (Planning Group)",
+      "parent_id": 82453,
+      "child_ids": [
+        78955
+      ],
+      "jobs": []
+    },
+    {
+      "id": 80530,
+      "name": "ML Infra (Planning Group) [UR]",
+      "parent_id": 80528,
+      "child_ids": [
+        80527
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78833,
+      "name": "MMS APIs & Experiences - Eng (Planning Group)",
+      "parent_id": 78832,
+      "child_ids": [
+        78964
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81336,
+      "name": "MMS APIs & Experiences - PM (Planning Group)",
+      "parent_id": 78832,
+      "child_ids": [
+        78963
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78834,
+      "name": "MMS Bank Integrations - Eng (Planning Group)",
+      "parent_id": 78832,
+      "child_ids": [
+        78966
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81337,
+      "name": "MMS Bank Integrations - PM (Planning Group)",
+      "parent_id": 78832,
+      "child_ids": [
+        78965
+      ],
+      "jobs": []
+    },
+    {
+      "id": 83119,
+      "name": "MMS Payouts - Eng (Planning Group)",
+      "parent_id": 78832,
+      "child_ids": [
+        83102
+      ],
+      "jobs": []
+    },
+    {
+      "id": 83120,
+      "name": "MMS Payouts - PM (Planning Group)",
+      "parent_id": 78832,
+      "child_ids": [
+        83103
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78836,
+      "name": "MMS Platform - Eng (Planning Group)",
+      "parent_id": 78832,
+      "child_ids": [
+        78970
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81338,
+      "name": "MMS Platform - PM (Planning Group)",
+      "parent_id": 78832,
+      "child_ids": [
+        78969
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78831,
+      "name": "Mobile (Planning Group)",
+      "parent_id": 78830,
+      "child_ids": [
+        68171
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78830,
+      "name": "Mobile (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        78831,
+        68171
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78832,
+      "name": "Money Movement & Storage (MMS) (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        78833,
+        81336,
+        78834,
+        81337,
+        83119,
+        83120,
+        78836,
+        81338,
+        78964,
+        78963,
+        78966,
+        78965,
+        83102,
+        83103,
+        78970,
+        78969
+      ],
+      "jobs": []
+    },
+    {
+      "id": 85288,
+      "name": "n/a",
+      "parent_id": null,
+      "child_ids": [
+        85287,
+        84359,
+        84360
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78757,
+      "name": "Non-Income Taxes (Planning Group)",
+      "parent_id": 78756,
+      "child_ids": [
+        78931,
+        78932
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78756,
+      "name": "Non-Income Taxes (Planning Org)",
+      "parent_id": 61563,
+      "child_ids": [
+        78757,
+        78931,
+        78932
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81956,
+      "name": "Office of the CISO (Planning Group)",
+      "parent_id": 78875,
+      "child_ids": [
+        81957
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78879,
+      "name": "Onboarding - Eng (Planning Group)",
+      "parent_id": 78877,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 87390,
+      "name": "Onboarding (Planning Group)",
+      "parent_id": 78783,
+      "child_ids": [
+        78914,
+        83108,
+        83109
+      ],
+      "jobs": []
+    },
+    {
+      "id": 83125,
+      "name": "Onboarding - PM (Planning Group)",
+      "parent_id": 78877,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 83869,
+      "name": "Online Databases (Planning Group)",
+      "parent_id": 78818,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78835,
+      "name": "Opal (Planning Group)",
+      "parent_id": 78790,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 87194,
+      "name": "Operations Enablement (Planning Group)",
+      "parent_id": 78700,
+      "child_ids": [
+        87195,
+        87196,
+        87197,
+        87201
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78701,
+      "name": "Operations (Planning Group)",
+      "parent_id": 78700,
+      "child_ids": [
+        61568
+      ],
+      "jobs": []
+    },
+    {
+      "id": 79945,
+      "name": "Operations (Planning Group) [UR]",
+      "parent_id": 79944,
+      "child_ids": [
+        79946
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78700,
+      "name": "Operations (Planning Org)",
+      "parent_id": 61563,
+      "child_ids": [
+        84926,
+        87190,
+        87194,
+        78701,
+        87198,
+        84925,
+        84940,
+        87202,
+        84927,
+        87192,
+        80643,
+        87191,
+        87195,
+        87196,
+        87197,
+        87201,
+        61568,
+        87199,
+        78942,
+        61567,
+        87200,
+        61565,
+        61564,
+        84353,
+        68129,
+        87207,
+        78702,
+        70809,
+        80644,
+        85058,
+        87203,
+        87204,
+        87205,
+        87206,
+        87193
+      ],
+      "jobs": []
+    },
+    {
+      "id": 79944,
+      "name": "Operations [UR]",
+      "parent_id": 79943,
+      "child_ids": [
+        79945,
+        79946
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78838,
+      "name": "Other (Planning Group)",
+      "parent_id": 78837,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78837,
+      "name": "Other (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        78838
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78840,
+      "name": "Other (product) (Planning Group)",
+      "parent_id": 78839,
+      "child_ids": [
+        78972
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78839,
+      "name": "Other (product) (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        78840,
+        78972
+      ],
+      "jobs": []
+    },
+    {
+      "id": 79207,
+      "name": "Other TaxJar",
+      "parent_id": 77860,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 79199,
+      "name": "Partnerships",
+      "parent_id": 77860,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78759,
+      "name": "Partnerships F&S (Planning Group)",
+      "parent_id": 86125,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78758,
+      "name": "Partnerships F&S (Planning Org)",
+      "parent_id": 61563,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78848,
+      "name": "Payments Admin (Planning Group)",
+      "parent_id": 78841,
+      "child_ids": [
+        78987
+      ],
+      "jobs": []
+    },
+    {
+      "id": 84715,
+      "name": "Payments Architecture - Eng (Planning Group)",
+      "parent_id": 78841,
+      "child_ids": [
+        78988
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78860,
+      "name": "Payments Business (Planning Group)",
+      "parent_id": 78852,
+      "child_ids": [
+        78981
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78852,
+      "name": "Payments & Connect Business (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        78856,
+        78858,
+        78860,
+        78861,
+        78991,
+        78992,
+        78981,
+        78982
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78841,
+      "name": "Payments & Connect (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        81350,
+        81344,
+        85017,
+        85015,
+        78842,
+        81339,
+        78844,
+        81342,
+        81348,
+        81356,
+        83374,
+        83115,
+        78849,
+        84714,
+        78846,
+        81343,
+        78848,
+        84715,
+        81352,
+        81354,
+        83117,
+        83118,
+        78843,
+        81341,
+        83130,
+        83116,
+        81351,
+        81358,
+        85018,
+        85016,
+        61598,
+        78973,
+        78984,
+        78983,
+        81349,
+        81357,
+        66162,
+        83098,
+        78990,
+        78989,
+        78986,
+        78985,
+        78987,
+        78988,
+        81353,
+        81355,
+        83100,
+        83101,
+        66168,
+        74551,
+        78980,
+        83099
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81352,
+      "name": "Payments Dashboard - Eng (Planning Group)",
+      "parent_id": 78841,
+      "child_ids": [
+        81353
+      ],
+      "jobs": []
+    },
+    {
+      "id": 87210,
+      "name": "Payments F&S (Planning Group)",
+      "parent_id": 86125,
+      "child_ids": [
+        78933,
+        87215
+      ],
+      "jobs": []
+    },
+    {
+      "id": 84713,
+      "name": "Payments (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81354,
+      "name": "Payments UI Platform - Eng (Planning Group)",
+      "parent_id": 78841,
+      "child_ids": [
+        81355
+      ],
+      "jobs": []
+    },
+    {
+      "id": 83117,
+      "name": "Payouts - Eng (Planning Group)",
+      "parent_id": 78841,
+      "child_ids": [
+        83100
+      ],
+      "jobs": []
+    },
+    {
+      "id": 83118,
+      "name": "Payouts - PM (Planning Group)",
+      "parent_id": 78841,
+      "child_ids": [
+        83101
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78890,
+      "name": "Paystack (Planning Group)",
+      "parent_id": 83134,
+      "child_ids": [
+        86077,
+        86078,
+        86079,
+        78898
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78866,
+      "name": "PayXP (Planning Group)",
+      "parent_id": 78864,
+      "child_ids": [
+        78918,
+        61593,
+        66167,
+        78917
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78864,
+      "name": "PayXP (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        78866,
+        78918,
+        61593,
+        66167,
+        78917
+      ],
+      "jobs": []
+    },
+    {
+      "id": 79201,
+      "name": "People Experience",
+      "parent_id": 77860,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78728,
+      "name": "People (ex-Recruiting) (Planning Group)",
+      "parent_id": 8303,
+      "child_ids": [
+        68154,
+        78771,
+        78772,
+        83871,
+        78773,
+        78774,
+        78775,
+        78776,
+        68155,
+        61617,
+        86018
+      ],
+      "jobs": []
+    },
+    {
+      "id": 8303,
+      "name": "People & Places (Planning Org)",
+      "parent_id": 61563,
+      "child_ids": [
+        78728,
+        78726,
+        78727,
+        68154,
+        78771,
+        78772,
+        83871,
+        78773,
+        78774,
+        78775,
+        78776,
+        68155,
+        61617,
+        86018,
+        61581,
+        78768,
+        78765,
+        78767,
+        78766,
+        78769,
+        78770,
+        78729,
+        21683,
+        78730,
+        78731
+      ],
+      "jobs": []
+    },
+    {
+      "id": 76836,
+      "name": "People & Places (Planning Org) [UR]",
+      "parent_id": 75776,
+      "child_ids": [
+        76837
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78827,
+      "name": "People Systems (Planning Group)",
+      "parent_id": 82453,
+      "child_ids": [
+        79930
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81331,
+      "name": "Platform & Ecosystem (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        78797,
+        81340,
+        78881,
+        81345,
+        81347,
+        78886,
+        81332,
+        81346,
+        78949,
+        78948,
+        68167,
+        78974,
+        78979,
+        78978,
+        66156,
+        78976
+      ],
+      "jobs": []
+    },
+    {
+      "id": 79203,
+      "name": "Plus",
+      "parent_id": 77860,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 87213,
+      "name": "Pricing F&S (Planning Group)",
+      "parent_id": 86125,
+      "child_ids": [
+        87214
+      ],
+      "jobs": []
+    },
+    {
+      "id": 79198,
+      "name": "Product",
+      "parent_id": 77860,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 74547,
+      "name": "Product and Partner Platform PM",
+      "parent_id": 8304,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 87198,
+      "name": "Product Enablement Ops (Planning Group)",
+      "parent_id": 78700,
+      "child_ids": [
+        87199,
+        78942
+      ],
+      "jobs": []
+    },
+    {
+      "id": 76835,
+      "name": "Product Management [UR]",
+      "parent_id": 80531,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 80208,
+      "name": "Product & Partnering Legal (Planning Group)",
+      "parent_id": 8300,
+      "child_ids": [
+        68149
+      ],
+      "jobs": []
+    },
+    {
+      "id": 80541,
+      "name": "Product & Partnering Legal (Planning Group) [UR]",
+      "parent_id": 80540,
+      "child_ids": [
+        78996
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78732,
+      "name": "Product Risk Mgmt & Strategy (Planning Org)",
+      "parent_id": 61563,
+      "child_ids": [
+        79929,
+        81630,
+        81629,
+        81627,
+        81628,
+        70806,
+        81437,
+        81436,
+        71619,
+        85771,
+        81435
+      ],
+      "jobs": []
+    },
+    {
+      "id": 85336,
+      "name": "Product Sales (Planning Group)",
+      "parent_id": 85896,
+      "child_ids": [
+        78930,
+        86074,
+        86075
+      ],
+      "jobs": []
+    },
+    {
+      "id": 84925,
+      "name": "Product Support & Operations (Planning Group)",
+      "parent_id": 78700,
+      "child_ids": [
+        61567,
+        87200,
+        61565,
+        61564,
+        84353,
+        68129,
+        87207,
+        78702
+      ],
+      "jobs": []
+    },
+    {
+      "id": 80203,
+      "name": "Public Policy (Planning Group)",
+      "parent_id": 8300,
+      "child_ids": [
+        57223
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78843,
+      "name": "Radar - Eng (Planning Group)",
+      "parent_id": 78841,
+      "child_ids": [
+        66168
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81341,
+      "name": "Radar - PM (Planning Group)",
+      "parent_id": 78841,
+      "child_ids": [
+        74551
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78891,
+      "name": "Recent Acquisitions",
+      "parent_id": 78684,
+      "child_ids": [
+        78895
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78895,
+      "name": "Recent Acquisitions (Planning Group)",
+      "parent_id": 78891,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81023,
+      "name": "Recko",
+      "parent_id": 78684,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78726,
+      "name": "Recruiting (Planning Group)",
+      "parent_id": 8303,
+      "child_ids": [
+        61581,
+        78768,
+        78765,
+        78767,
+        78766,
+        78769,
+        78770
+      ],
+      "jobs": []
+    },
+    {
+      "id": 84718,
+      "name": "Recurring Revenue (Planning Group)",
+      "parent_id": 78872,
+      "child_ids": [
+        66154
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78870,
+      "name": "Reliability (Planning Group)",
+      "parent_id": 78868,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78868,
+      "name": "Reliability (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        78870
+      ],
+      "jobs": []
+    },
+    {
+      "id": 86128,
+      "name": "Reliability Tooling (Planning Group)",
+      "parent_id": 86126,
+      "child_ids": [
+        66153
+      ],
+      "jobs": []
+    },
+    {
+      "id": 74546,
+      "name": "Revenue and Reporting PM",
+      "parent_id": 8304,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78874,
+      "name": "Revenue & Financial Management Central (Planning Group)",
+      "parent_id": 78872,
+      "child_ids": [
+        73922
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78872,
+      "name": "Revenue & Financial Management (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        84716,
+        84717,
+        84718,
+        78874,
+        80661,
+        84719,
+        73923,
+        66155,
+        81953,
+        66154,
+        73922,
+        68258,
+        79926,
+        79927,
+        79928
+      ],
+      "jobs": []
+    },
+    {
+      "id": 86129,
+      "name": "Revenue Foundations (Planning Group)",
+      "parent_id": 86083,
+      "child_ids": [
+        78952
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81965,
+      "name": "Revenue Operations (Planning Group)",
+      "parent_id": 85896,
+      "child_ids": [
+        61573,
+        81433,
+        81434,
+        78927
+      ],
+      "jobs": []
+    },
+    {
+      "id": 84940,
+      "name": "Risk Operations (Planning Group)",
+      "parent_id": 78700,
+      "child_ids": [
+        70809
+      ],
+      "jobs": []
+    },
+    {
+      "id": 79929,
+      "name": "Risk Partnerships & Strategy (Planning Group)",
+      "parent_id": 78732,
+      "child_ids": [
+        70806
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81630,
+      "name": "Risk Partner Strategy (Planning Group)",
+      "parent_id": 78732,
+      "child_ids": [
+        81437
+      ],
+      "jobs": []
+    },
+    {
+      "id": 70807,
+      "name": "Risk PM",
+      "parent_id": 8304,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81629,
+      "name": "Risk Product Strategy (Planning Group)",
+      "parent_id": 78732,
+      "child_ids": [
+        81436
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81627,
+      "name": "Risk & Reward (Planning Group)",
+      "parent_id": 78732,
+      "child_ids": [
+        71619,
+        85771
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78787,
+      "name": "Risk Tech (Planning Group)",
+      "parent_id": 78783,
+      "child_ids": [
+        78939,
+        78940,
+        78941
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81628,
+      "name": "Risk User Strategy (Planning Group)",
+      "parent_id": 78732,
+      "child_ids": [
+        81435
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78896,
+      "name": "Runkit (Planning Group)",
+      "parent_id": 78892,
+      "child_ids": [
+        78900
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78892,
+      "name": "Runkit (Planning Org)",
+      "parent_id": 78684,
+      "child_ids": [
+        78896,
+        78900
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78861,
+      "name": "SaaS Platform & Distribution (Planning Group)",
+      "parent_id": 78852,
+      "child_ids": [
+        78982
+      ],
+      "jobs": []
+    },
+    {
+      "id": 79200,
+      "name": "Sales",
+      "parent_id": 77860,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 79204,
+      "name": "Sales Operations",
+      "parent_id": 77860,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78704,
+      "name": "Sales (Planning Group)",
+      "parent_id": 78703,
+      "child_ids": [
+        84697,
+        84698
+      ],
+      "jobs": []
+    },
+    {
+      "id": 80544,
+      "name": "Sales (Planning Group) [UR]",
+      "parent_id": 75778,
+      "child_ids": [
+        80449,
+        81740,
+        75780
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78703,
+      "name": "Sales (Planning Org)",
+      "parent_id": 61561,
+      "child_ids": [
+        78922,
+        81964,
+        81966,
+        81967,
+        78704,
+        81959,
+        76999,
+        77001,
+        78929,
+        84697,
+        84698,
+        79915,
+        61572,
+        85701,
+        78780,
+        78924
+      ],
+      "jobs": []
+    },
+    {
+      "id": 75778,
+      "name": "Sales (Planning Org) [UR]",
+      "parent_id": 79943,
+      "child_ids": [
+        80544,
+        80449,
+        81740,
+        75780
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81960,
+      "name": "Scaled Sales (Planning Group)",
+      "parent_id": 85896,
+      "child_ids": [
+        78923
+      ],
+      "jobs": []
+    },
+    {
+      "id": 87202,
+      "name": "SDC - Ops (Planning Group)",
+      "parent_id": 78700,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 79205,
+      "name": "Security",
+      "parent_id": 77860,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 86135,
+      "name": "Security Analytics (Planning Group)",
+      "parent_id": 78875,
+      "child_ids": [
+        81946
+      ],
+      "jobs": []
+    },
+    {
+      "id": 86134,
+      "name": "Security Engineers (Planning Group)",
+      "parent_id": 78875,
+      "child_ids": [
+        61595
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81947,
+      "name": "Security Foundations (Planning Group)",
+      "parent_id": 78875,
+      "child_ids": [
+        81948
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78876,
+      "name": "Security (Planning Group)",
+      "parent_id": 78875,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 80546,
+      "name": "Security (Planning Group) [UR]",
+      "parent_id": 80545,
+      "child_ids": [
+        80547
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78875,
+      "name": "Security (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        86136,
+        81945,
+        81956,
+        86135,
+        86134,
+        81947,
+        78876,
+        81954,
+        81955,
+        81957,
+        81946,
+        61595,
+        81948
+      ],
+      "jobs": []
+    },
+    {
+      "id": 80545,
+      "name": "Security (Planning Org) [UR]",
+      "parent_id": 80531,
+      "child_ids": [
+        80546,
+        80547
+      ],
+      "jobs": []
+    },
+    {
+      "id": 74553,
+      "name": "Security PM",
+      "parent_id": 8304,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78877,
+      "name": "Self-serve & Onboarding (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        83126,
+        78879,
+        83125,
+        84707,
+        83124
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78754,
+      "name": "Settlements (Planning Group)",
+      "parent_id": 8300,
+      "child_ids": [
+        78755
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81359,
+      "name": "Standard Library (Planning Group)",
+      "parent_id": 78820,
+      "child_ids": [
+        81360
+      ],
+      "jobs": []
+    },
+    {
+      "id": 86070,
+      "name": "Strategy, Planning & Insights (Planning Group)",
+      "parent_id": 85896,
+      "child_ids": [
+        86071
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81347,
+      "name": "StripeApps - Eng (Planning Group)",
+      "parent_id": 81331,
+      "child_ids": [
+        78979
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78886,
+      "name": "StripeApps - PM (Planning Group)",
+      "parent_id": 81331,
+      "child_ids": [
+        78978
+      ],
+      "jobs": []
+    },
+    {
+      "id": 84927,
+      "name": "Stripe Delivery Centers - Ops (Planning Group)",
+      "parent_id": 78700,
+      "child_ids": [
+        80644,
+        85058,
+        87203,
+        87204,
+        87205,
+        87206
+      ],
+      "jobs": []
+    },
+    {
+      "id": 86122,
+      "name": "Stripe Enablement (Planning Group)",
+      "parent_id": 83132,
+      "child_ids": [
+        78915,
+        83096,
+        83097,
+        78975,
+        78993,
+        67749,
+        61566,
+        78916
+      ],
+      "jobs": []
+    },
+    {
+      "id": 83132,
+      "name": "Stripe Enablement (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        83114,
+        83113,
+        78882,
+        78883,
+        86122,
+        83657,
+        78915,
+        83096,
+        83097,
+        78975,
+        78993,
+        67749,
+        61566,
+        78916
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78885,
+      "name": "Stripe Product and Developer Platform (Planning Group)",
+      "parent_id": 78880,
+      "child_ids": [
+        78977
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78880,
+      "name": "Stripe Product and Developer Platform (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        78885,
+        78977
+      ],
+      "jobs": []
+    },
+    {
+      "id": 80661,
+      "name": "Stripe Tax Product Development (Planning Group)",
+      "parent_id": 78872,
+      "child_ids": [
+        68258
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81332,
+      "name": "StripeXP - Eng (Planning Group)",
+      "parent_id": 81331,
+      "child_ids": [
+        66156
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81346,
+      "name": "StripeXP - PM (Planning Group)",
+      "parent_id": 81331,
+      "child_ids": [
+        78976
+      ],
+      "jobs": []
+    },
+    {
+      "id": 84707,
+      "name": "Support Products - Eng (Planning Group)",
+      "parent_id": 78877,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4547059",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2361774,
+          "location": {
+            "name": "SF, Seattle, Remote (NA)"
+          },
+          "metadata": null,
+          "id": 4547059,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Engineering Manager, Support Experience  "
+        }
+      ]
+    },
+    {
+      "id": 87389,
+      "name": "Support Products (Planning Group)",
+      "parent_id": 78783,
+      "child_ids": [
+        76988,
+        83107
+      ],
+      "jobs": []
+    },
+    {
+      "id": 83124,
+      "name": "Support Products - PM (Planning Group)",
+      "parent_id": 78877,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 77860,
+      "name": "TaxJar",
+      "parent_id": 78684,
+      "child_ids": [
+        79196,
+        79197,
+        79194,
+        79206,
+        79202,
+        79195,
+        79207,
+        79199,
+        79201,
+        79203,
+        79198,
+        79200,
+        79204,
+        79205
+      ],
+      "jobs": []
+    },
+    {
+      "id": 84719,
+      "name": "Tax (Planning Group)",
+      "parent_id": 78872,
+      "child_ids": [
+        79926,
+        79927,
+        79928
+      ],
+      "jobs": []
+    },
+    {
+      "id": 83130,
+      "name": "Tax Reporting - Eng (Planning Group)",
+      "parent_id": 78841,
+      "child_ids": [
+        78980
+      ],
+      "jobs": []
+    },
+    {
+      "id": 83116,
+      "name": "Tax Reporting - PM (Planning Group)",
+      "parent_id": 78841,
+      "child_ids": [
+        83099
+      ],
+      "jobs": []
+    },
+    {
+      "id": 61579,
+      "name": "Tech",
+      "parent_id": null,
+      "child_ids": [
+        78783,
+        84699,
+        87354,
+        78790,
+        84700,
+        84928,
+        78798,
+        78803,
+        86083,
+        78807,
+        86130,
+        78809,
+        78814,
+        78733,
+        78818,
+        78820,
+        78822,
+        83134,
+        82453,
+        86126,
+        84708,
+        78830,
+        78832,
+        78837,
+        78839,
+        78852,
+        78841,
+        84713,
+        78864,
+        81331,
+        78868,
+        78872,
+        78875,
+        78877,
+        83132,
+        78880,
+        78887,
+        83133,
+        78784,
+        84361,
+        78785,
+        87390,
+        78787,
+        87389,
+        78934,
+        78935,
+        84357,
+        78936,
+        78914,
+        83108,
+        83109,
+        78939,
+        78940,
+        78941,
+        76988,
+        83107,
+        78878,
+        60589,
+        84701,
+        78791,
+        78793,
+        83122,
+        84709,
+        78792,
+        83121,
+        84712,
+        78835,
+        84711,
+        84710,
+        79925,
+        84702,
+        78944,
+        61599,
+        83105,
+        78946,
+        78943,
+        83104,
+        78945,
+        78968,
+        78967,
+        78794,
+        78947,
+        78801,
+        78937,
+        78938,
+        67370,
+        78804,
+        84703,
+        76682,
+        78810,
+        86129,
+        86084,
+        78952,
+        86085,
+        78808,
+        78951,
+        78811,
+        78953,
+        78815,
+        68131,
+        78956,
+        68132,
+        68133,
+        68134,
+        68135,
+        78957,
+        78958,
+        78734,
+        78735,
+        68139,
+        83870,
+        78819,
+        83869,
+        78821,
+        81359,
+        78961,
+        81360,
+        78823,
+        68172,
+        78962,
+        78789,
+        83127,
+        78817,
+        83128,
+        78829,
+        83129,
+        78890,
+        66159,
+        83110,
+        68170,
+        68169,
+        83111,
+        66161,
+        83112,
+        86077,
+        86078,
+        86079,
+        78898,
+        78806,
+        81951,
+        81949,
+        78812,
+        78826,
+        78813,
+        78827,
+        78971,
+        69946,
+        78950,
+        81950,
+        81952,
+        8291,
+        78954,
+        84354,
+        84355,
+        84356,
+        80656,
+        78955,
+        79930,
+        86133,
+        86132,
+        86131,
+        86127,
+        86128,
+        80659,
+        87216,
+        80658,
+        80657,
+        61590,
+        78959,
+        78960,
+        66153,
+        84721,
+        79931,
+        78831,
+        68171,
+        78833,
+        81336,
+        78834,
+        81337,
+        83119,
+        83120,
+        78836,
+        81338,
+        78964,
+        78963,
+        78966,
+        78965,
+        83102,
+        83103,
+        78970,
+        78969,
+        78838,
+        78840,
+        78972,
+        78856,
+        78858,
+        78860,
+        78861,
+        78991,
+        78992,
+        78981,
+        78982,
+        81350,
+        81344,
+        85017,
+        85015,
+        78842,
+        81339,
+        78844,
+        81342,
+        81348,
+        81356,
+        83374,
+        83115,
+        78849,
+        84714,
+        78846,
+        81343,
+        78848,
+        84715,
+        81352,
+        81354,
+        83117,
+        83118,
+        78843,
+        81341,
+        83130,
+        83116,
+        81351,
+        81358,
+        85018,
+        85016,
+        61598,
+        78973,
+        78984,
+        78983,
+        81349,
+        81357,
+        66162,
+        83098,
+        78990,
+        78989,
+        78986,
+        78985,
+        78987,
+        78988,
+        81353,
+        81355,
+        83100,
+        83101,
+        66168,
+        74551,
+        78980,
+        83099,
+        78866,
+        78918,
+        61593,
+        66167,
+        78917,
+        78797,
+        81340,
+        78881,
+        81345,
+        81347,
+        78886,
+        81332,
+        81346,
+        78949,
+        78948,
+        68167,
+        78974,
+        78979,
+        78978,
+        66156,
+        78976,
+        78870,
+        84716,
+        84717,
+        84718,
+        78874,
+        80661,
+        84719,
+        73923,
+        66155,
+        81953,
+        66154,
+        73922,
+        68258,
+        79926,
+        79927,
+        79928,
+        86136,
+        81945,
+        81956,
+        86135,
+        86134,
+        81947,
+        78876,
+        81954,
+        81955,
+        81957,
+        81946,
+        61595,
+        81948,
+        83126,
+        78879,
+        83125,
+        84707,
+        83124,
+        83114,
+        83113,
+        78882,
+        78883,
+        86122,
+        83657,
+        78915,
+        83096,
+        83097,
+        78975,
+        78993,
+        67749,
+        61566,
+        78916,
+        78885,
+        78977,
+        78888,
+        83135,
+        78862,
+        83123,
+        80660,
+        66157,
+        83106
+      ],
+      "jobs": []
+    },
+    {
+      "id": 87192,
+      "name": "Tech Enablement Ops (Planning Group)",
+      "parent_id": 78700,
+      "child_ids": [
+        87193
+      ],
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4049037",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2191187,
+          "location": {
+            "name": "NYC, CHI, SEA, SF, US - Remote, DUB, IE-Remote, LON, BER, PAR"
+          },
+          "metadata": null,
+          "id": 4049037,
+          "updated_at": "2023-01-27T15:41:16-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Head of Global Incident Response and Management"
+        }
+      ]
+    },
+    {
+      "id": 83657,
+      "name": "Tech Enablement (Planning Group)",
+      "parent_id": 83132,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 78751,
+      "name": "Tech F&S (Planning Org)",
+      "parent_id": 61563,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81959,
+      "name": "Technical Services (Planning Group)",
+      "parent_id": 78703,
+      "child_ids": [
+        79915,
+        61572,
+        85701,
+        78780,
+        78924
+      ],
+      "jobs": []
+    },
+    {
+      "id": 80531,
+      "name": "Technical [UR]",
+      "parent_id": 75776,
+      "child_ids": [
+        81720,
+        80528,
+        61596,
+        76835,
+        80545,
+        81737,
+        81721,
+        81722,
+        80529,
+        80530,
+        75779,
+        80527,
+        80546,
+        80547,
+        81738,
+        81739
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78888,
+      "name": "Tech Programs (Planning Group)",
+      "parent_id": 78887,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 81738,
+      "name": "Tech Programs (Planning Group) [UR]",
+      "parent_id": 81737,
+      "child_ids": [
+        81739
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78887,
+      "name": "Tech Programs (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        78888
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81737,
+      "name": "Tech Programs (Planning Org) [UR]",
+      "parent_id": 80531,
+      "child_ids": [
+        81738,
+        81739
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78862,
+      "name": "Terminal - Eng (Planning Group)",
+      "parent_id": 83133,
+      "child_ids": [
+        66157
+      ],
+      "jobs": []
+    },
+    {
+      "id": 83133,
+      "name": "Terminal (Planning Org)",
+      "parent_id": 61579,
+      "child_ids": [
+        83135,
+        78862,
+        83123,
+        80660,
+        66157,
+        83106
+      ],
+      "jobs": []
+    },
+    {
+      "id": 83123,
+      "name": "Terminal - PM (Planning Group)",
+      "parent_id": 83133,
+      "child_ids": [
+        83106
+      ],
+      "jobs": []
+    },
+    {
+      "id": 55005,
+      "name": "[TEST DEPARTMENT]",
+      "parent_id": null,
+      "child_ids": [
+        80197,
+        79978,
+        81290,
+        80198,
+        78698,
+        78699,
+        79932
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81290,
+      "name": "[TEST P&P]",
+      "parent_id": 55005,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 80543,
+      "name": "TEST [UR]",
+      "parent_id": 75776,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 68164,
+      "name": "Touchtech PM",
+      "parent_id": 8304,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 84711,
+      "name": "Treasury - Eng (Planning Group)",
+      "parent_id": 78790,
+      "child_ids": [
+        78968
+      ],
+      "jobs": []
+    },
+    {
+      "id": 86124,
+      "name": "Treasury (Planning Group)",
+      "parent_id": 86123,
+      "child_ids": [
+        61587
+      ],
+      "jobs": []
+    },
+    {
+      "id": 84710,
+      "name": "Treasury - PM (Planning Group)",
+      "parent_id": 78790,
+      "child_ids": [
+        78967
+      ],
+      "jobs": []
+    },
+    {
+      "id": 75776,
+      "name": "UNIVERSITY",
+      "parent_id": null,
+      "child_ids": [
+        79943,
+        80532,
+        76834,
+        76836,
+        80531,
+        80543,
+        80536,
+        80538,
+        79944,
+        75778,
+        80537,
+        75777,
+        80539,
+        76832,
+        79945,
+        79946,
+        80544,
+        80449,
+        81740,
+        75780,
+        81785,
+        80533,
+        80540,
+        81786,
+        81787,
+        80534,
+        76833,
+        80541,
+        78996,
+        76837,
+        81720,
+        80528,
+        61596,
+        76835,
+        80545,
+        81737,
+        81721,
+        81722,
+        80529,
+        80530,
+        75779,
+        80527,
+        80546,
+        80547,
+        81738,
+        81739
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81954,
+      "name": "User Trust (Planning Group)",
+      "parent_id": 78875,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 86084,
+      "name": "V1 Foundations (Planning Group)",
+      "parent_id": 86083,
+      "child_ids": [
+        86085
+      ],
+      "jobs": []
+    },
+    {
+      "id": 78727,
+      "name": "Workplace (Planning Group)",
+      "parent_id": 8303,
+      "child_ids": [
+        78729,
+        21683,
+        78730,
+        78731
+      ],
+      "jobs": []
+    },
+    {
+      "id": 81063,
+      "name": "[ZZZ - DEPRECATED]",
+      "parent_id": null,
+      "child_ids": [
+        78919,
+        70135,
+        8296,
+        8298,
+        8304,
+        74558,
+        74556,
+        68157,
+        74547,
+        74546,
+        70807,
+        74553,
+        68164
+      ],
+      "jobs": []
+    },
+    {
+      "id": 0,
+      "name": "No Department",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    }
+  ]
+}
