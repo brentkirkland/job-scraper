@@ -1083,6 +1083,25 @@
           "updated_at": "2022-12-15T07:48:02-05:00",
           "requisition_id": "558",
           "title": "Product Support Specialist - Portuguese Speaking (London, UK)"
+        },
+        {
+          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4783986004",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 4476544004,
+          "location": {
+            "name": "Tokyo"
+          },
+          "metadata": null,
+          "id": 4783986004,
+          "updated_at": "2023-01-28T21:44:35-05:00",
+          "requisition_id": "851",
+          "title": "Technical Quality Specialist (Tokyo, Japan) "
         }
       ]
     },
