@@ -2,7 +2,7 @@
   {
     "id": 4521876,
     "title": "Global Sales Compensation Manager",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "San Francisco, CA"
     },
@@ -11,7 +11,7 @@
   {
     "id": 4603526,
     "title": "Senior Sales Engineer - ASEAN",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "Singapore (Remote)"
     },
@@ -20,7 +20,7 @@
   {
     "id": 4632215,
     "title": "Data Governance Manager",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "US (Remote)"
     },
@@ -29,7 +29,7 @@
   {
     "id": 4659578,
     "title": "Senior Analytics Engineer",
-    "updated_at": "2023-01-30T16:38:04-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "US (Remote)"
     },
@@ -38,7 +38,7 @@
   {
     "id": 4715604,
     "title": "Senior Software Engineer - Network Control and Optimization",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "US (Remote)"
     },
@@ -47,7 +47,7 @@
   {
     "id": 4716109,
     "title": "Principal Software Engineer, Bot Management and Anti-Fraud",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "US (Remote)"
     },
@@ -56,7 +56,7 @@
   {
     "id": 4718923,
     "title": "Senior Software Engineer - Security Products",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "US (Remote)"
     },
@@ -65,16 +65,25 @@
   {
     "id": 4718941,
     "title": "Senior Software Engineer - Security Products",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "Canada (Remote)"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4718941"
   },
   {
+    "id": 4726859,
+    "title": "Customer Solutions Engineer",
+    "updated_at": "2023-01-30T17:50:55-05:00",
+    "location": {
+      "name": "US"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4726859"
+  },
+  {
     "id": 4732318,
     "title": "Staff Frontend Engineer",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "US (Remote)"
     },
@@ -83,7 +92,7 @@
   {
     "id": 4747700,
     "title": "Salesforce Developer",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "US (Remote)"
     },
@@ -92,7 +101,7 @@
   {
     "id": 4747701,
     "title": "Salesforce Developer",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "Canada (Remote)"
     },
@@ -101,7 +110,7 @@
   {
     "id": 4748270,
     "title": "Senior Salesforce Developer",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "US (Remote)"
     },
@@ -110,7 +119,7 @@
   {
     "id": 4748271,
     "title": "Senior Salesforce Developer",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "Canada (Remote)"
     },
@@ -119,7 +128,7 @@
   {
     "id": 4761860,
     "title": "Staff Software Engineer - Edge Protocols",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "Tokyo, Japan"
     },
@@ -128,7 +137,7 @@
   {
     "id": 4764373,
     "title": "Staff Software Engineer - Edge Protocols",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "San Francisco, CA"
     },
@@ -137,7 +146,7 @@
   {
     "id": 4770264,
     "title": "Staff Network Engineer",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "United Kingdom (Remote)"
     },
@@ -146,7 +155,7 @@
   {
     "id": 4770922,
     "title": "Staff Network Engineer",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "London, United Kingdom"
     },
@@ -155,7 +164,7 @@
   {
     "id": 4782332,
     "title": "Senior Product Manager, Full Site Delivery",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "US (Remote)"
     },
@@ -164,7 +173,7 @@
   {
     "id": 4782427,
     "title": "Senior Finance Systems Analyst (Order to Cash)",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "US (Remote)"
     },
@@ -173,7 +182,7 @@
   {
     "id": 4790007,
     "title": "Network Engineer",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "US West (Remote)"
     },
@@ -182,7 +191,7 @@
   {
     "id": 4790088,
     "title": "Network Engineer",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "San Francisco, CA"
     },
@@ -191,7 +200,7 @@
   {
     "id": 4790918,
     "title": "Senior Manager, Accounting",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "San Francisco, CA"
     },
@@ -200,7 +209,7 @@
   {
     "id": 4794031,
     "title": "Director, Accounting",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "San Francisco, CA"
     },
@@ -209,7 +218,7 @@
   {
     "id": 4794078,
     "title": "Incident Responder",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "US West (Remote)"
     },
@@ -218,7 +227,7 @@
   {
     "id": 4794195,
     "title": "Incident Responder",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "US (Remote)"
     },
@@ -227,7 +236,7 @@
   {
     "id": 4795116,
     "title": "Global Sales Compensation Systems Manager",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "San Francisco, CA"
     },
@@ -236,7 +245,7 @@
   {
     "id": 4795767,
     "title": "Staff Software Engineer - Observability Products",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "Canada (Remote)"
     },
@@ -245,7 +254,7 @@
   {
     "id": 4795768,
     "title": "Staff Software Engineer - Observability Products",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "US (Remote)"
     },
@@ -254,7 +263,7 @@
   {
     "id": 4797108,
     "title": "Program Manager, Customer Experience - Spanish Speaking",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "Madrid, Spain"
     },
@@ -263,7 +272,7 @@
   {
     "id": 4798973,
     "title": "Staff Software Engineer, Edge Delivery",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "US (Remote)"
     },
@@ -272,7 +281,7 @@
   {
     "id": 4798976,
     "title": "Staff Software Engineer, Edge Delivery",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "Canada (Remote)"
     },
@@ -281,7 +290,7 @@
   {
     "id": 4800711,
     "title": "Senior Software Engineer, Infrastructure Tools",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "US East (Remote)"
     },
@@ -290,7 +299,7 @@
   {
     "id": 4800833,
     "title": "Senior Software Engineer, Infrastructure Tools",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "US (Remote)"
     },
@@ -299,7 +308,7 @@
   {
     "id": 4800912,
     "title": "Senior Security Technical Account Manager",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "London, United Kingdom"
     },
@@ -308,7 +317,7 @@
   {
     "id": 4801593,
     "title": "Principal Software Engineer - Language Runtimes",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "US (Remote)"
     },
@@ -317,7 +326,7 @@
   {
     "id": 4801594,
     "title": "Principal Software Engineer - Language Runtimes",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "Canada (Remote)"
     },
@@ -326,7 +335,7 @@
   {
     "id": 4819921,
     "title": "Software Engineer, Summer Undergraduate Intern",
-    "updated_at": "2023-01-30T16:32:13-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "San Francisco, CA"
     },
@@ -335,7 +344,7 @@
   {
     "id": 4822607,
     "title": "Senior Customer Support Engineer - Japanese Speaking",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "London, United Kingdom"
     },
@@ -344,7 +353,7 @@
   {
     "id": 4822706,
     "title": "Senior Serverless Solutions Strategist - Edge Compute ",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "London, United Kingdom"
     },
@@ -353,7 +362,7 @@
   {
     "id": 4822738,
     "title": "Senior Serverless Solutions Strategist",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "Spain (Remote)"
     },
@@ -362,7 +371,7 @@
   {
     "id": 4824597,
     "title": "SMB Account Executive",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "US West (Remote)"
     },
@@ -371,7 +380,7 @@
   {
     "id": 4825082,
     "title": "Staff Product Manager - Logging and Monitoring Products",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "US (Remote)"
     },
@@ -380,7 +389,7 @@
   {
     "id": 4825982,
     "title": "SMB Account Executive - Media",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "US Central (Remote)"
     },
@@ -389,7 +398,7 @@
   {
     "id": 4826433,
     "title": "Senior Sales Engineer",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "US East (Remote)"
     },
@@ -398,7 +407,7 @@
   {
     "id": 4828292,
     "title": "Staff Software Engineer - Edge Protocols",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "Singapore (Remote)"
     },
@@ -407,7 +416,7 @@
   {
     "id": 4828293,
     "title": "Staff Software Engineer - Edge Protocols",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "Australia (Remote)"
     },
@@ -416,7 +425,7 @@
   {
     "id": 4828640,
     "title": "Senior Account Executive - ASEAN",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "Singapore (Remote)"
     },
@@ -425,7 +434,7 @@
   {
     "id": 4828796,
     "title": "SMB Account Executive",
-    "updated_at": "2023-01-30T14:13:47-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "San Francisco, CA"
     },
@@ -434,7 +443,7 @@
   {
     "id": 4829274,
     "title": "Enterprise Senior Account Executive",
-    "updated_at": "2023-01-30T14:16:09-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "San Francisco, CA"
     },
@@ -443,7 +452,7 @@
   {
     "id": 4829853,
     "title": "Sales Development Representative ",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "San Francisco, CA"
     },
@@ -452,7 +461,7 @@
   {
     "id": 4829951,
     "title": "Senior Technology Compliance Analyst",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "US (Remote)"
     },
@@ -461,7 +470,7 @@
   {
     "id": 4831403,
     "title": "Sales Development Representative ",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "New York City, NY"
     },
@@ -470,7 +479,7 @@
   {
     "id": 4831675,
     "title": "Senior Account Executive - Commercial",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "US East (Remote)"
     },
@@ -479,7 +488,7 @@
   {
     "id": 4832448,
     "title": "Account Executive - ASEAN",
-    "updated_at": "2023-01-30T14:10:52-05:00",
+    "updated_at": "2023-01-30T17:48:21-05:00",
     "location": {
       "name": "Singapore (Remote)"
     },
