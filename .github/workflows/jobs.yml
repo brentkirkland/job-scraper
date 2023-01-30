@@ -9,7 +9,8 @@ on:
     - cron: "9 */4 * * 1,2,3,4,5"
 
 env:
-  jq_greenhouse: "[.departments[]|{id:.jobs[].id,title:.jobs[].title,updated_at:.jobs[].updated_at,location:.jobs[].location,absolute_url:.jobs[].absolute_url,department:.name}]|sort_by(.id)"
+  # jq_greenhouse: "[.departments[]|{id:.jobs[].id,title:.jobs[].title,updated_at:.jobs[].updated_at,location:.jobs[].location,absolute_url:.jobs[].absolute_url,department:.name}]|sort_by(.id)"
+  jq_greenhouse: "[.departments[].jobs[]|{id:.id,title,updated_at,location,absolute_url}]|sort_by(.id)"
 
 jobs:
   scheduled:
@@ -17,16 +18,11 @@ jobs:
     steps:
       - name: Check out this repo
         uses: actions/checkout@v3
-      - name: Install rust
-        uses: actions-rs/toolchain@v1
-        with:
-          toolchain: stable
       - name: Install htmlq
-        uses: actions-rs/cargo@v1
+        uses: baptiste0928/cargo-install@v1
         with:
-          command: install
-          args: htmlq
-      - name: Fetch latest data
+          crate: htmlq
+      - name: Scrape jobs
         run: |-
           curl --silent  https://api.greenhouse.io/v1/boards/alchemy/embed/departments | jq -r "$jq_greenhouse" > alchemy.json
           curl --silent  https://api.greenhouse.io/v1/boards/fastly/embed/departments | jq -r "$jq_greenhouse" > fastly.json
