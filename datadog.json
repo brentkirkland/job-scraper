@@ -64,7 +64,7 @@
             }
           ],
           "id": 4679623,
-          "updated_at": "2023-01-27T10:45:44-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3834",
           "title": "Strategic Channel Sales Manager (EMEA)"
         }
@@ -147,7 +147,7 @@
             }
           ],
           "id": 4752199,
-          "updated_at": "2023-01-19T15:27:43-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3997",
           "title": "Administrative Assistant"
         },
@@ -215,7 +215,7 @@
             }
           ],
           "id": 4738405,
-          "updated_at": "2023-01-19T15:27:13-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3397",
           "title": "Executive Assistant"
         },
@@ -283,7 +283,7 @@
             }
           ],
           "id": 4762185,
-          "updated_at": "2023-01-19T15:27:44-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3899",
           "title": "Maintenance Associate"
         },
@@ -351,7 +351,7 @@
             }
           ],
           "id": 4761603,
-          "updated_at": "2023-01-19T15:27:44-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R4017",
           "title": "Senior Analyst, Real Estate"
         }
@@ -370,74 +370,6 @@
       "parent_id": 9021,
       "child_ids": [],
       "jobs": [
-        {
-          "absolute_url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 1069922,
-          "location": {
-            "name": "Denver, Colorado, USA"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "Full time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Sales - Commercial Sales",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "North America",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "65000.0"
-              },
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "70000.0"
-              },
-              "value_type": "currency"
-            }
-          ],
-          "id": 1694375,
-          "updated_at": "2023-01-19T15:26:27-05:00",
-          "requisition_id": "R121",
-          "title": "Commercial Account Executive"
-        },
         {
           "absolute_url": "https://careers.datadoghq.com/detail/4769669/?gh_jid=4769669",
           "data_compliance": [
@@ -496,7 +428,7 @@
             }
           ],
           "id": 4769669,
-          "updated_at": "2023-01-19T15:27:44-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R4032",
           "title": "Commercial Account Executive"
         },
@@ -564,8 +496,76 @@
             }
           ],
           "id": 1497543,
-          "updated_at": "2023-01-19T15:26:26-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R29",
+          "title": "Commercial Account Executive"
+        },
+        {
+          "absolute_url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 1069922,
+          "location": {
+            "name": "Denver, Colorado, USA"
+          },
+          "metadata": [
+            {
+              "id": 33310,
+              "name": "Time Type",
+              "value": "Full time",
+              "value_type": "single_select"
+            },
+            {
+              "id": 166208,
+              "name": "Area - Engineering",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 498252,
+              "name": "Cost Center",
+              "value": "Sales - Commercial Sales",
+              "value_type": "single_select"
+            },
+            {
+              "id": 516515,
+              "name": "Geography",
+              "value": "North America",
+              "value_type": "single_select"
+            },
+            {
+              "id": 9593635,
+              "name": "Early Career Time Type",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 11038379,
+              "name": "Pay Disclosure Salary Min (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "65000.0"
+              },
+              "value_type": "currency"
+            },
+            {
+              "id": 11038395,
+              "name": "Pay Disclosure Salary Max (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "70000.0"
+              },
+              "value_type": "currency"
+            }
+          ],
+          "id": 1694375,
+          "updated_at": "2023-01-30T15:40:22-05:00",
+          "requisition_id": "R121",
           "title": "Commercial Account Executive"
         },
         {
@@ -626,77 +626,9 @@
             }
           ],
           "id": 2978210,
-          "updated_at": "2023-01-19T15:26:40-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R420",
           "title": "Commercial Account Executive (DACH)"
-        },
-        {
-          "absolute_url": "https://careers.datadoghq.com/detail/3758458/?gh_jid=3758458",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2081328,
-          "location": {
-            "name": "Denver, Colorado, USA"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "Full time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Sales - Commercial Sales",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "North America",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "65000.0"
-              },
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "70000.0"
-              },
-              "value_type": "currency"
-            }
-          ],
-          "id": 3758458,
-          "updated_at": "2023-01-19T15:26:48-05:00",
-          "requisition_id": "R1752",
-          "title": "Commercial Account Executive (LATAM, Spanish or Portuguese)"
         },
         {
           "absolute_url": "https://careers.datadoghq.com/detail/3758418/?gh_jid=3758418",
@@ -762,7 +694,75 @@
             }
           ],
           "id": 3758418,
-          "updated_at": "2023-01-19T15:26:48-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
+          "requisition_id": "R1752",
+          "title": "Commercial Account Executive (LATAM, Spanish or Portuguese)"
+        },
+        {
+          "absolute_url": "https://careers.datadoghq.com/detail/3758458/?gh_jid=3758458",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2081328,
+          "location": {
+            "name": "Denver, Colorado, USA"
+          },
+          "metadata": [
+            {
+              "id": 33310,
+              "name": "Time Type",
+              "value": "Full time",
+              "value_type": "single_select"
+            },
+            {
+              "id": 166208,
+              "name": "Area - Engineering",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 498252,
+              "name": "Cost Center",
+              "value": "Sales - Commercial Sales",
+              "value_type": "single_select"
+            },
+            {
+              "id": 516515,
+              "name": "Geography",
+              "value": "North America",
+              "value_type": "single_select"
+            },
+            {
+              "id": 9593635,
+              "name": "Early Career Time Type",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 11038379,
+              "name": "Pay Disclosure Salary Min (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "65000.0"
+              },
+              "value_type": "currency"
+            },
+            {
+              "id": 11038395,
+              "name": "Pay Disclosure Salary Max (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "70000.0"
+              },
+              "value_type": "currency"
+            }
+          ],
+          "id": 3758458,
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R1752",
           "title": "Commercial Account Executive (LATAM, Spanish or Portuguese)"
         },
@@ -830,7 +830,7 @@
             }
           ],
           "id": 4648890,
-          "updated_at": "2023-01-19T15:27:29-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3760",
           "title": "Director, Commercial Sales (Boston)"
         },
@@ -898,7 +898,7 @@
             }
           ],
           "id": 4692991,
-          "updated_at": "2023-01-19T15:27:32-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3854",
           "title": "Manager, Commercial Sales (Boston)"
         },
@@ -966,7 +966,7 @@
             }
           ],
           "id": 4692996,
-          "updated_at": "2023-01-19T15:27:32-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3853",
           "title": "Manager, Commercial Sales (Denver)"
         },
@@ -1028,7 +1028,7 @@
             }
           ],
           "id": 4753384,
-          "updated_at": "2023-01-19T15:27:45-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3995",
           "title": "Manager, Commercial Sales (France)"
         },
@@ -1096,7 +1096,7 @@
             }
           ],
           "id": 4754252,
-          "updated_at": "2023-01-19T15:27:43-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R4008",
           "title": "Manager, Mid-Market Sales (New York)"
         }
@@ -1108,74 +1108,6 @@
       "parent_id": 9022,
       "child_ids": [],
       "jobs": [
-        {
-          "absolute_url": "https://careers.datadoghq.com/detail/4589389/?gh_jid=4589389",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2374752,
-          "location": {
-            "name": "New York, USA, Remote"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "Full time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": "Full Stack",
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Engineering - Community",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "North America",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": {
-                "unit": null,
-                "amount": "0.0"
-              },
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": {
-                "unit": null,
-                "amount": "0.0"
-              },
-              "value_type": "currency"
-            }
-          ],
-          "id": 4589389,
-          "updated_at": "2023-01-26T13:02:55-05:00",
-          "requisition_id": null,
-          "title": "Senior Full-stack Engineer - Demo Engineering"
-        },
         {
           "absolute_url": "https://careers.datadoghq.com/detail/4826460/?gh_jid=4826460",
           "data_compliance": [
@@ -1240,7 +1172,75 @@
             }
           ],
           "id": 4826460,
-          "updated_at": "2023-01-26T13:03:08-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
+          "requisition_id": null,
+          "title": "Senior Full-stack Engineer - Demo Engineering"
+        },
+        {
+          "absolute_url": "https://careers.datadoghq.com/detail/4589389/?gh_jid=4589389",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2374752,
+          "location": {
+            "name": "New York, USA, Remote"
+          },
+          "metadata": [
+            {
+              "id": 33310,
+              "name": "Time Type",
+              "value": "Full time",
+              "value_type": "single_select"
+            },
+            {
+              "id": 166208,
+              "name": "Area - Engineering",
+              "value": "Full Stack",
+              "value_type": "single_select"
+            },
+            {
+              "id": 498252,
+              "name": "Cost Center",
+              "value": "Engineering - Community",
+              "value_type": "single_select"
+            },
+            {
+              "id": 516515,
+              "name": "Geography",
+              "value": "North America",
+              "value_type": "single_select"
+            },
+            {
+              "id": 9593635,
+              "name": "Early Career Time Type",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 11038379,
+              "name": "Pay Disclosure Salary Min (US Only)",
+              "value": {
+                "unit": null,
+                "amount": "0.0"
+              },
+              "value_type": "currency"
+            },
+            {
+              "id": 11038395,
+              "name": "Pay Disclosure Salary Max (US Only)",
+              "value": {
+                "unit": null,
+                "amount": "0.0"
+              },
+              "value_type": "currency"
+            }
+          ],
+          "id": 4589389,
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Senior Full-stack Engineer - Demo Engineering"
         },
@@ -1308,7 +1308,7 @@
             }
           ],
           "id": 4806697,
-          "updated_at": "2023-01-19T15:27:46-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Technical Content Writer"
         }
@@ -1391,7 +1391,7 @@
             }
           ],
           "id": 4181651,
-          "updated_at": "2023-01-24T16:22:52-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "766",
           "title": "Strategy and Corporate Development Lead"
         },
@@ -1459,7 +1459,7 @@
             }
           ],
           "id": 4814547,
-          "updated_at": "2023-01-23T05:18:22-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Strategy and Corporate Development Lead (Europe) "
         }
@@ -1478,68 +1478,6 @@
       "parent_id": 9021,
       "child_ids": [],
       "jobs": [
-        {
-          "absolute_url": "https://careers.datadoghq.com/detail/4224365/?gh_jid=4224365",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2253573,
-          "location": {
-            "name": "Tokyo, Japan"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "Full time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Sales - Customer Success",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "APAC",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": null,
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": null,
-              "value_type": "currency"
-            }
-          ],
-          "id": 4224365,
-          "updated_at": "2023-01-19T15:26:59-05:00",
-          "requisition_id": "R2754",
-          "title": "Customer Success Manager"
-        },
         {
           "absolute_url": "https://careers.datadoghq.com/detail/4767880/?gh_jid=4767880",
           "data_compliance": [
@@ -1604,8 +1542,70 @@
             }
           ],
           "id": 4767880,
-          "updated_at": "2023-01-25T10:20:05-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R4023",
+          "title": "Customer Success Manager"
+        },
+        {
+          "absolute_url": "https://careers.datadoghq.com/detail/4224365/?gh_jid=4224365",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2253573,
+          "location": {
+            "name": "Tokyo, Japan"
+          },
+          "metadata": [
+            {
+              "id": 33310,
+              "name": "Time Type",
+              "value": "Full time",
+              "value_type": "single_select"
+            },
+            {
+              "id": 166208,
+              "name": "Area - Engineering",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 498252,
+              "name": "Cost Center",
+              "value": "Sales - Customer Success",
+              "value_type": "single_select"
+            },
+            {
+              "id": 516515,
+              "name": "Geography",
+              "value": "APAC",
+              "value_type": "single_select"
+            },
+            {
+              "id": 9593635,
+              "name": "Early Career Time Type",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 11038379,
+              "name": "Pay Disclosure Salary Min (US Only)",
+              "value": null,
+              "value_type": "currency"
+            },
+            {
+              "id": 11038395,
+              "name": "Pay Disclosure Salary Max (US Only)",
+              "value": null,
+              "value_type": "currency"
+            }
+          ],
+          "id": 4224365,
+          "updated_at": "2023-01-30T15:40:22-05:00",
+          "requisition_id": "R2754",
           "title": "Customer Success Manager"
         },
         {
@@ -1672,7 +1672,7 @@
             }
           ],
           "id": 4710525,
-          "updated_at": "2023-01-19T15:27:34-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3856",
           "title": "Director, Customer Success (West)"
         },
@@ -1740,7 +1740,7 @@
             }
           ],
           "id": 4818795,
-          "updated_at": "2023-01-24T15:58:11-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R4077",
           "title": "Enterprise Customer Success Manager"
         },
@@ -1802,7 +1802,7 @@
             }
           ],
           "id": 4488729,
-          "updated_at": "2023-01-29T17:34:19-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3439",
           "title": "Senior Director, Customer Success (APAC)"
         }
@@ -1878,7 +1878,7 @@
             }
           ],
           "id": 4247235,
-          "updated_at": "2023-01-27T16:49:54-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R2808",
           "title": "Demand Generation Marketing Manager II - Organic/SEO"
         },
@@ -1946,7 +1946,7 @@
             }
           ],
           "id": 4746536,
-          "updated_at": "2023-01-26T15:59:08-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3983",
           "title": "Senior Manager, Demand Generation - ABM"
         }
@@ -2016,7 +2016,7 @@
             }
           ],
           "id": 2206302,
-          "updated_at": "2023-01-19T15:26:34-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Library Software Engineer - C++"
         },
@@ -2078,7 +2078,7 @@
             }
           ],
           "id": 1826201,
-          "updated_at": "2023-01-19T15:26:29-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Library Software Engineer - Go"
         },
@@ -2140,7 +2140,7 @@
             }
           ],
           "id": 1826225,
-          "updated_at": "2023-01-19T15:26:30-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Library Software Engineer - Java"
         },
@@ -2202,7 +2202,7 @@
             }
           ],
           "id": 2115965,
-          "updated_at": "2023-01-19T15:26:32-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Library Software Engineer - .NET / C#"
         },
@@ -2264,7 +2264,7 @@
             }
           ],
           "id": 1826252,
-          "updated_at": "2023-01-19T15:26:31-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Library Software Engineer - Node.js"
         },
@@ -2326,7 +2326,7 @@
             }
           ],
           "id": 2147503,
-          "updated_at": "2023-01-19T15:26:33-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Library Software Engineer - PHP "
         },
@@ -2388,7 +2388,7 @@
             }
           ],
           "id": 2422927,
-          "updated_at": "2023-01-19T15:26:38-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Library Software Engineer - Python"
         },
@@ -2450,71 +2450,9 @@
             }
           ],
           "id": 2147488,
-          "updated_at": "2023-01-19T15:26:32-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Library Software Engineer - Ruby"
-        },
-        {
-          "absolute_url": "https://careers.datadoghq.com/detail/1826184/?gh_jid=1826184",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 1143231,
-          "location": {
-            "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "full-time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": "Integrations",
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Engineering - Dev Eng",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "EMEA",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": null,
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": null,
-              "value_type": "currency"
-            }
-          ],
-          "id": 1826184,
-          "updated_at": "2023-01-19T15:26:30-05:00",
-          "requisition_id": null,
-          "title": "Open Source Software Engineer - Container Ecosystems"
         },
         {
           "absolute_url": "https://careers.datadoghq.com/detail/1825852/?gh_jid=1825852",
@@ -2580,7 +2518,69 @@
             }
           ],
           "id": 1825852,
-          "updated_at": "2023-01-19T15:26:25-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
+          "requisition_id": null,
+          "title": "Open Source Software Engineer - Container Ecosystems"
+        },
+        {
+          "absolute_url": "https://careers.datadoghq.com/detail/1826184/?gh_jid=1826184",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 1143231,
+          "location": {
+            "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
+          },
+          "metadata": [
+            {
+              "id": 33310,
+              "name": "Time Type",
+              "value": "full-time",
+              "value_type": "single_select"
+            },
+            {
+              "id": 166208,
+              "name": "Area - Engineering",
+              "value": "Integrations",
+              "value_type": "single_select"
+            },
+            {
+              "id": 498252,
+              "name": "Cost Center",
+              "value": "Engineering - Dev Eng",
+              "value_type": "single_select"
+            },
+            {
+              "id": 516515,
+              "name": "Geography",
+              "value": "EMEA",
+              "value_type": "single_select"
+            },
+            {
+              "id": 9593635,
+              "name": "Early Career Time Type",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 11038379,
+              "name": "Pay Disclosure Salary Min (US Only)",
+              "value": null,
+              "value_type": "currency"
+            },
+            {
+              "id": 11038395,
+              "name": "Pay Disclosure Salary Max (US Only)",
+              "value": null,
+              "value_type": "currency"
+            }
+          ],
+          "id": 1826184,
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Open Source Software Engineer - Container Ecosystems"
         },
@@ -2642,7 +2642,7 @@
             }
           ],
           "id": 1826211,
-          "updated_at": "2023-01-19T15:26:31-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Open Source Software Engineer - Integrations"
         },
@@ -2704,7 +2704,7 @@
             }
           ],
           "id": 1826258,
-          "updated_at": "2023-01-19T15:26:31-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Open Source Software Engineer - Systems"
         },
@@ -2766,7 +2766,7 @@
             }
           ],
           "id": 4661573,
-          "updated_at": "2023-01-19T15:26:44-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Senior Build & Release Engineer - Agent Platform"
         },
@@ -2828,7 +2828,7 @@
             }
           ],
           "id": 4599148,
-          "updated_at": "2023-01-25T08:57:11-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Senior Software Engineer"
         },
@@ -2890,7 +2890,7 @@
             }
           ],
           "id": 4599135,
-          "updated_at": "2023-01-19T15:27:10-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Senior Software Engineer - Alerting"
         },
@@ -2952,7 +2952,7 @@
             }
           ],
           "id": 4599156,
-          "updated_at": "2023-01-19T15:27:12-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Senior Software Engineer - API Management"
         },
@@ -3014,7 +3014,7 @@
             }
           ],
           "id": 4397492,
-          "updated_at": "2023-01-30T05:55:24-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Senior Software Engineer - Capacity Management"
         },
@@ -3076,7 +3076,7 @@
             }
           ],
           "id": 4599154,
-          "updated_at": "2023-01-19T15:27:12-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Senior Software Engineer - Cloud Security Platform"
         },
@@ -3138,7 +3138,7 @@
             }
           ],
           "id": 2190185,
-          "updated_at": "2023-01-19T15:26:34-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Senior Software Engineer - Dashboards"
         },
@@ -3200,7 +3200,7 @@
             }
           ],
           "id": 1826266,
-          "updated_at": "2023-01-19T15:26:30-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Senior Software Engineer - Data Visualization"
         },
@@ -3262,7 +3262,7 @@
             }
           ],
           "id": 4599111,
-          "updated_at": "2023-01-19T15:27:09-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Senior Software Engineer - Distributed Systems"
         },
@@ -3324,7 +3324,7 @@
             }
           ],
           "id": 1826178,
-          "updated_at": "2023-01-19T15:26:29-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Senior Software Engineer - Frontend"
         },
@@ -3386,7 +3386,7 @@
             }
           ],
           "id": 3366799,
-          "updated_at": "2023-01-19T15:26:28-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Senior Software Engineer (Frontend) - Security Platform"
         },
@@ -3448,7 +3448,7 @@
             }
           ],
           "id": 1826072,
-          "updated_at": "2023-01-19T15:26:26-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Senior Software Engineer - Full Stack"
         },
@@ -3510,7 +3510,7 @@
             }
           ],
           "id": 4071910,
-          "updated_at": "2023-01-19T15:26:25-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Senior Software Engineer - Site Reliability"
         },
@@ -3572,7 +3572,7 @@
             }
           ],
           "id": 4022783,
-          "updated_at": "2023-01-19T15:26:44-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Senior Systems Engineer - CI Reliability"
         },
@@ -3640,7 +3640,7 @@
             }
           ],
           "id": 1630991,
-          "updated_at": "2023-01-19T15:26:24-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Senior Technical Program Manager"
         },
@@ -3702,7 +3702,7 @@
             }
           ],
           "id": 2297901,
-          "updated_at": "2023-01-27T10:48:40-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Senior Technical Program Manager - SRE"
         },
@@ -3770,7 +3770,7 @@
             }
           ],
           "id": 3851935,
-          "updated_at": "2023-01-19T15:26:53-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer "
         },
@@ -3838,7 +3838,7 @@
             }
           ],
           "id": 4454526,
-          "updated_at": "2023-01-19T15:26:50-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Authorization & Access Management"
         },
@@ -3900,7 +3900,7 @@
             }
           ],
           "id": 3712935,
-          "updated_at": "2023-01-19T15:26:35-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Chaos Platform"
         },
@@ -3968,7 +3968,7 @@
             }
           ],
           "id": 4452851,
-          "updated_at": "2023-01-26T10:52:52-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - CI Reliability"
         },
@@ -4036,7 +4036,7 @@
             }
           ],
           "id": 4454528,
-          "updated_at": "2023-01-19T15:26:51-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Cloud Metrics"
         },
@@ -4098,7 +4098,7 @@
             }
           ],
           "id": 1825908,
-          "updated_at": "2023-01-19T15:26:22-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Compute"
         },
@@ -4166,71 +4166,9 @@
             }
           ],
           "id": 4039906,
-          "updated_at": "2023-01-19T15:26:56-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Database Integrations"
-        },
-        {
-          "absolute_url": "https://careers.datadoghq.com/detail/1825950/?gh_jid=1825950",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 1143089,
-          "location": {
-            "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Dublin, Ireland; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "full-time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": "Infrastructure",
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Engineering - Dev Eng",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "EMEA",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": null,
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": null,
-              "value_type": "currency"
-            }
-          ],
-          "id": 1825950,
-          "updated_at": "2023-01-19T15:26:24-05:00",
-          "requisition_id": null,
-          "title": "Software Engineer - Database Reliability"
         },
         {
           "absolute_url": "https://careers.datadoghq.com/detail/1826111/?gh_jid=1826111",
@@ -4296,7 +4234,69 @@
             }
           ],
           "id": 1826111,
-          "updated_at": "2023-01-19T15:26:30-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
+          "requisition_id": null,
+          "title": "Software Engineer - Database Reliability"
+        },
+        {
+          "absolute_url": "https://careers.datadoghq.com/detail/1825950/?gh_jid=1825950",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 1143089,
+          "location": {
+            "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Dublin, Ireland; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
+          },
+          "metadata": [
+            {
+              "id": 33310,
+              "name": "Time Type",
+              "value": "full-time",
+              "value_type": "single_select"
+            },
+            {
+              "id": 166208,
+              "name": "Area - Engineering",
+              "value": "Infrastructure",
+              "value_type": "single_select"
+            },
+            {
+              "id": 498252,
+              "name": "Cost Center",
+              "value": "Engineering - Dev Eng",
+              "value_type": "single_select"
+            },
+            {
+              "id": 516515,
+              "name": "Geography",
+              "value": "EMEA",
+              "value_type": "single_select"
+            },
+            {
+              "id": 9593635,
+              "name": "Early Career Time Type",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 11038379,
+              "name": "Pay Disclosure Salary Min (US Only)",
+              "value": null,
+              "value_type": "currency"
+            },
+            {
+              "id": 11038395,
+              "name": "Pay Disclosure Salary Max (US Only)",
+              "value": null,
+              "value_type": "currency"
+            }
+          ],
+          "id": 1825950,
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Database Reliability"
         },
@@ -4358,7 +4358,7 @@
             }
           ],
           "id": 1825918,
-          "updated_at": "2023-01-19T15:26:23-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Data Infrastructure"
         },
@@ -4426,7 +4426,7 @@
             }
           ],
           "id": 4557554,
-          "updated_at": "2023-01-19T15:26:58-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Data Infrastructure"
         },
@@ -4494,7 +4494,7 @@
             }
           ],
           "id": 4144409,
-          "updated_at": "2023-01-19T15:26:57-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Data Infrastructure"
         },
@@ -4556,7 +4556,7 @@
             }
           ],
           "id": 1796891,
-          "updated_at": "2023-01-19T15:26:23-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Data Science"
         },
@@ -4624,7 +4624,7 @@
             }
           ],
           "id": 4452852,
-          "updated_at": "2023-01-26T10:53:22-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Developer Efficiency"
         },
@@ -4692,7 +4692,7 @@
             }
           ],
           "id": 4452904,
-          "updated_at": "2023-01-19T15:26:52-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Distributed Caching"
         },
@@ -4760,7 +4760,7 @@
             }
           ],
           "id": 3851927,
-          "updated_at": "2023-01-19T15:26:50-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Distributed Systems"
         },
@@ -4822,7 +4822,7 @@
             }
           ],
           "id": 3684438,
-          "updated_at": "2023-01-19T15:26:46-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - eBPF developer"
         },
@@ -4890,7 +4890,7 @@
             }
           ],
           "id": 4732393,
-          "updated_at": "2023-01-19T15:27:40-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Frontend"
         },
@@ -4958,7 +4958,7 @@
             }
           ],
           "id": 2292480,
-          "updated_at": "2023-01-19T15:26:29-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Global Data Platform"
         },
@@ -5026,7 +5026,7 @@
             }
           ],
           "id": 3056596,
-          "updated_at": "2023-01-19T15:26:27-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Global Data Platform"
         },
@@ -5094,7 +5094,7 @@
             }
           ],
           "id": 4141349,
-          "updated_at": "2023-01-19T15:26:51-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Hot Storage"
         },
@@ -5156,7 +5156,7 @@
             }
           ],
           "id": 4598600,
-          "updated_at": "2023-01-19T15:26:27-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Mobile SDK (Android)"
         },
@@ -5224,7 +5224,7 @@
             }
           ],
           "id": 4452860,
-          "updated_at": "2023-01-26T10:53:07-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Package Management"
         },
@@ -5286,7 +5286,7 @@
             }
           ],
           "id": 1826034,
-          "updated_at": "2023-01-19T15:26:24-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Performance"
         },
@@ -5354,7 +5354,7 @@
             }
           ],
           "id": 4141302,
-          "updated_at": "2023-01-19T15:26:49-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Query Engine"
         },
@@ -5422,9 +5422,71 @@
             }
           ],
           "id": 4141386,
-          "updated_at": "2023-01-19T15:26:49-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Query Language"
+        },
+        {
+          "absolute_url": "https://careers.datadoghq.com/detail/2217548/?gh_jid=2217548",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 1362939,
+          "location": {
+            "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Dublin, Ireland; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
+          },
+          "metadata": [
+            {
+              "id": 33310,
+              "name": "Time Type",
+              "value": "full-time",
+              "value_type": "single_select"
+            },
+            {
+              "id": 166208,
+              "name": "Area - Engineering",
+              "value": "Infrastructure",
+              "value_type": "single_select"
+            },
+            {
+              "id": 498252,
+              "name": "Cost Center",
+              "value": "Engineering - Dev Eng",
+              "value_type": "single_select"
+            },
+            {
+              "id": 516515,
+              "name": "Geography",
+              "value": "EMEA",
+              "value_type": "single_select"
+            },
+            {
+              "id": 9593635,
+              "name": "Early Career Time Type",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 11038379,
+              "name": "Pay Disclosure Salary Min (US Only)",
+              "value": null,
+              "value_type": "currency"
+            },
+            {
+              "id": 11038395,
+              "name": "Pay Disclosure Salary Max (US Only)",
+              "value": null,
+              "value_type": "currency"
+            }
+          ],
+          "id": 2217548,
+          "updated_at": "2023-01-30T15:40:22-05:00",
+          "requisition_id": null,
+          "title": "Software Engineer - Resilience"
         },
         {
           "absolute_url": "https://careers.datadoghq.com/detail/4452918/?gh_jid=4452918",
@@ -5490,201 +5552,9 @@
             }
           ],
           "id": 4452918,
-          "updated_at": "2023-01-19T15:26:50-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Resilience"
-        },
-        {
-          "absolute_url": "https://careers.datadoghq.com/detail/2217548/?gh_jid=2217548",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 1362939,
-          "location": {
-            "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Dublin, Ireland; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "full-time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": "Infrastructure",
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Engineering - Dev Eng",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "EMEA",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": null,
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": null,
-              "value_type": "currency"
-            }
-          ],
-          "id": 2217548,
-          "updated_at": "2023-01-19T15:26:35-05:00",
-          "requisition_id": null,
-          "title": "Software Engineer - Resilience"
-        },
-        {
-          "absolute_url": "https://careers.datadoghq.com/detail/4452817/?gh_jid=4452817",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2116194,
-          "location": {
-            "name": "New York, New York, USA; Boston, Massachusetts, USA"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "Full time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": "Infrastructure",
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Engineering - Dev Eng",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "North America",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "130000.0"
-              },
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "300000.0"
-              },
-              "value_type": "currency"
-            }
-          ],
-          "id": 4452817,
-          "updated_at": "2023-01-19T15:26:51-05:00",
-          "requisition_id": null,
-          "title": "Software Engineer - Site Reliability"
-        },
-        {
-          "absolute_url": "https://careers.datadoghq.com/detail/1826047/?gh_jid=1826047",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 1143143,
-          "location": {
-            "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Dublin, Ireland; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "full-time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": "Infrastructure",
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Engineering - Dev Eng",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "EMEA",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": null,
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": null,
-              "value_type": "currency"
-            }
-          ],
-          "id": 1826047,
-          "updated_at": "2023-01-19T15:26:26-05:00",
-          "requisition_id": null,
-          "title": "Software Engineer - Site Reliability"
         },
         {
           "absolute_url": "https://careers.datadoghq.com/detail/4452892/?gh_jid=4452892",
@@ -5750,7 +5620,137 @@
             }
           ],
           "id": 4452892,
-          "updated_at": "2023-01-26T10:53:52-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
+          "requisition_id": null,
+          "title": "Software Engineer - Site Reliability"
+        },
+        {
+          "absolute_url": "https://careers.datadoghq.com/detail/4452817/?gh_jid=4452817",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2116194,
+          "location": {
+            "name": "New York, New York, USA; Boston, Massachusetts, USA"
+          },
+          "metadata": [
+            {
+              "id": 33310,
+              "name": "Time Type",
+              "value": "Full time",
+              "value_type": "single_select"
+            },
+            {
+              "id": 166208,
+              "name": "Area - Engineering",
+              "value": "Infrastructure",
+              "value_type": "single_select"
+            },
+            {
+              "id": 498252,
+              "name": "Cost Center",
+              "value": "Engineering - Dev Eng",
+              "value_type": "single_select"
+            },
+            {
+              "id": 516515,
+              "name": "Geography",
+              "value": "North America",
+              "value_type": "single_select"
+            },
+            {
+              "id": 9593635,
+              "name": "Early Career Time Type",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 11038379,
+              "name": "Pay Disclosure Salary Min (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "130000.0"
+              },
+              "value_type": "currency"
+            },
+            {
+              "id": 11038395,
+              "name": "Pay Disclosure Salary Max (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "300000.0"
+              },
+              "value_type": "currency"
+            }
+          ],
+          "id": 4452817,
+          "updated_at": "2023-01-30T15:40:22-05:00",
+          "requisition_id": null,
+          "title": "Software Engineer - Site Reliability"
+        },
+        {
+          "absolute_url": "https://careers.datadoghq.com/detail/1826047/?gh_jid=1826047",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 1143143,
+          "location": {
+            "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Dublin, Ireland; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
+          },
+          "metadata": [
+            {
+              "id": 33310,
+              "name": "Time Type",
+              "value": "full-time",
+              "value_type": "single_select"
+            },
+            {
+              "id": 166208,
+              "name": "Area - Engineering",
+              "value": "Infrastructure",
+              "value_type": "single_select"
+            },
+            {
+              "id": 498252,
+              "name": "Cost Center",
+              "value": "Engineering - Dev Eng",
+              "value_type": "single_select"
+            },
+            {
+              "id": 516515,
+              "name": "Geography",
+              "value": "EMEA",
+              "value_type": "single_select"
+            },
+            {
+              "id": 9593635,
+              "name": "Early Career Time Type",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 11038379,
+              "name": "Pay Disclosure Salary Min (US Only)",
+              "value": null,
+              "value_type": "currency"
+            },
+            {
+              "id": 11038395,
+              "name": "Pay Disclosure Salary Max (US Only)",
+              "value": null,
+              "value_type": "currency"
+            }
+          ],
+          "id": 1826047,
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Site Reliability"
         },
@@ -5818,7 +5818,7 @@
             }
           ],
           "id": 4656142,
-          "updated_at": "2023-01-19T15:27:29-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Vector Data Processing"
         },
@@ -5880,7 +5880,7 @@
             }
           ],
           "id": 2418842,
-          "updated_at": "2023-01-19T15:26:38-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Web Browser SDK"
         },
@@ -5948,7 +5948,7 @@
             }
           ],
           "id": 3448445,
-          "updated_at": "2023-01-19T15:26:44-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Staff Software Engineer - Frontend"
         }
@@ -6025,7 +6025,7 @@
             }
           ],
           "id": 4550817,
-          "updated_at": "2023-01-19T15:27:24-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3597",
           "title": "Technical Solutions Enablement Technical Trainer"
         }
@@ -6114,7 +6114,7 @@
             }
           ],
           "id": 4482860,
-          "updated_at": "2023-01-19T15:27:19-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Intern & Co-op"
         }
@@ -6190,7 +6190,7 @@
             }
           ],
           "id": 4789693,
-          "updated_at": "2023-01-26T16:06:39-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R4009",
           "title": "Enterprise Sales Executive (Illinois)"
         },
@@ -6258,7 +6258,7 @@
             }
           ],
           "id": 4718543,
-          "updated_at": "2023-01-20T11:19:25-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Enterprise Sales Executive - Italy"
         },
@@ -6326,7 +6326,7 @@
             }
           ],
           "id": 4544992,
-          "updated_at": "2023-01-19T15:27:24-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3596",
           "title": "Enterprise Sales Executive (Ohio Valley)"
         },
@@ -6394,7 +6394,7 @@
             }
           ],
           "id": 4725062,
-          "updated_at": "2023-01-20T11:26:12-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Enterprise Sales Executive - Switzerland"
         },
@@ -6456,7 +6456,7 @@
             }
           ],
           "id": 4203989,
-          "updated_at": "2023-01-19T15:26:58-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R2239",
           "title": "Regional Vice President of Enterprise Sales"
         }
@@ -6539,7 +6539,7 @@
             }
           ],
           "id": 4750149,
-          "updated_at": "2023-01-27T14:36:25-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3996",
           "title": "Director, Global Field Marketing"
         },
@@ -6601,7 +6601,7 @@
             }
           ],
           "id": 4663002,
-          "updated_at": "2023-01-19T15:27:30-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3792",
           "title": "Field Marketing Manager (UK & Ireland)"
         },
@@ -6669,77 +6669,9 @@
             }
           ],
           "id": 4746549,
-          "updated_at": "2023-01-25T14:53:54-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3985",
           "title": "Senior Event Marketing Manager"
-        },
-        {
-          "absolute_url": "https://careers.datadoghq.com/detail/3971933/?gh_jid=3971933",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2157477,
-          "location": {
-            "name": "Denver, Colorado, USA"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "Full time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Marketing - Field Marketing",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "North America",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "118000.0"
-              },
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "157000.0"
-              },
-              "value_type": "currency"
-            }
-          ],
-          "id": 3971933,
-          "updated_at": "2023-01-27T18:42:40-05:00",
-          "requisition_id": "R2163",
-          "title": "Senior Field Marketing Manager - West"
         },
         {
           "absolute_url": "https://careers.datadoghq.com/detail/3962108/?gh_jid=3962108",
@@ -6805,7 +6737,75 @@
             }
           ],
           "id": 3962108,
-          "updated_at": "2023-01-27T18:41:27-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
+          "requisition_id": "R2163",
+          "title": "Senior Field Marketing Manager - West"
+        },
+        {
+          "absolute_url": "https://careers.datadoghq.com/detail/3971933/?gh_jid=3971933",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2157477,
+          "location": {
+            "name": "Denver, Colorado, USA"
+          },
+          "metadata": [
+            {
+              "id": 33310,
+              "name": "Time Type",
+              "value": "Full time",
+              "value_type": "single_select"
+            },
+            {
+              "id": 166208,
+              "name": "Area - Engineering",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 498252,
+              "name": "Cost Center",
+              "value": "Marketing - Field Marketing",
+              "value_type": "single_select"
+            },
+            {
+              "id": 516515,
+              "name": "Geography",
+              "value": "North America",
+              "value_type": "single_select"
+            },
+            {
+              "id": 9593635,
+              "name": "Early Career Time Type",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 11038379,
+              "name": "Pay Disclosure Salary Min (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "118000.0"
+              },
+              "value_type": "currency"
+            },
+            {
+              "id": 11038395,
+              "name": "Pay Disclosure Salary Max (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "157000.0"
+              },
+              "value_type": "currency"
+            }
+          ],
+          "id": 3971933,
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R2163",
           "title": "Senior Field Marketing Manager - West"
         }
@@ -6881,7 +6881,7 @@
             }
           ],
           "id": 4414575,
-          "updated_at": "2023-01-30T13:00:18-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3264",
           "title": "Accounts Payable Analyst"
         },
@@ -6949,7 +6949,7 @@
             }
           ],
           "id": 4729940,
-          "updated_at": "2023-01-19T15:27:39-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3908",
           "title": "Deal Desk Senior Analyst"
         },
@@ -7017,7 +7017,7 @@
             }
           ],
           "id": 4761606,
-          "updated_at": "2023-01-19T15:27:44-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3999",
           "title": "Staff Accountant"
         }
@@ -7123,7 +7123,7 @@
             }
           ],
           "id": 4750104,
-          "updated_at": "2023-01-23T15:30:16-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Director, Engineering - Production Security"
         },
@@ -7191,7 +7191,7 @@
             }
           ],
           "id": 4701805,
-          "updated_at": "2023-01-19T15:27:33-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Director, Product Management - Service Management"
         },
@@ -7259,7 +7259,7 @@
             }
           ],
           "id": 4689579,
-          "updated_at": "2023-01-19T15:27:32-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Engineering Manager 1, Profiler"
         },
@@ -7327,77 +7327,9 @@
             }
           ],
           "id": 4303424,
-          "updated_at": "2023-01-19T15:27:07-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Group Product Manager - Serverless"
-        },
-        {
-          "absolute_url": "https://careers.datadoghq.com/detail/4382032/?gh_jid=4382032",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2162854,
-          "location": {
-            "name": "Seattle, USA, Remote"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "Full time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": "Product Management",
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Engineering - Product Management",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "North America",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "272000.0"
-              },
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "400000.0"
-              },
-              "value_type": "currency"
-            }
-          ],
-          "id": 4382032,
-          "updated_at": "2023-01-19T15:26:54-05:00",
-          "requisition_id": null,
-          "title": "Head of Product, CSPM"
         },
         {
           "absolute_url": "https://careers.datadoghq.com/detail/3976237/?gh_jid=3976237",
@@ -7463,7 +7395,75 @@
             }
           ],
           "id": 3976237,
-          "updated_at": "2023-01-19T15:26:54-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
+          "requisition_id": null,
+          "title": "Head of Product, CSPM"
+        },
+        {
+          "absolute_url": "https://careers.datadoghq.com/detail/4382032/?gh_jid=4382032",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2162854,
+          "location": {
+            "name": "Seattle, USA, Remote"
+          },
+          "metadata": [
+            {
+              "id": 33310,
+              "name": "Time Type",
+              "value": "Full time",
+              "value_type": "single_select"
+            },
+            {
+              "id": 166208,
+              "name": "Area - Engineering",
+              "value": "Product Management",
+              "value_type": "single_select"
+            },
+            {
+              "id": 498252,
+              "name": "Cost Center",
+              "value": "Engineering - Product Management",
+              "value_type": "single_select"
+            },
+            {
+              "id": 516515,
+              "name": "Geography",
+              "value": "North America",
+              "value_type": "single_select"
+            },
+            {
+              "id": 9593635,
+              "name": "Early Career Time Type",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 11038379,
+              "name": "Pay Disclosure Salary Min (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "272000.0"
+              },
+              "value_type": "currency"
+            },
+            {
+              "id": 11038395,
+              "name": "Pay Disclosure Salary Max (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "400000.0"
+              },
+              "value_type": "currency"
+            }
+          ],
+          "id": 4382032,
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Head of Product, CSPM"
         },
@@ -7531,7 +7531,7 @@
             }
           ],
           "id": 4687938,
-          "updated_at": "2023-01-19T15:27:33-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Manager, Engineering I - AWS Contexts"
         },
@@ -7599,7 +7599,7 @@
             }
           ],
           "id": 4562097,
-          "updated_at": "2023-01-19T15:27:24-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Manager, Engineering II - CI Visibility"
         },
@@ -7667,7 +7667,7 @@
             }
           ],
           "id": 4831978,
-          "updated_at": "2023-01-30T08:50:31-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Manager, Engineering II - Data Visualization"
         },
@@ -7735,7 +7735,7 @@
             }
           ],
           "id": 4709352,
-          "updated_at": "2023-01-19T15:27:33-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Manager, Engineering II - Streams"
         },
@@ -7803,7 +7803,7 @@
             }
           ],
           "id": 4693590,
-          "updated_at": "2023-01-19T15:27:32-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Manager, Engineering I - Profiler"
         }
@@ -7879,7 +7879,7 @@
             }
           ],
           "id": 4663014,
-          "updated_at": "2023-01-26T17:07:35-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3545",
           "title": "Product Counsel"
         }
@@ -7970,7 +7970,7 @@
             }
           ],
           "id": 4746527,
-          "updated_at": "2023-01-19T15:27:42-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3982",
           "title": "Senior Manager, Marketing Analytics"
         }
@@ -8046,77 +8046,9 @@
             }
           ],
           "id": 4748039,
-          "updated_at": "2023-01-19T15:27:42-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3956",
           "title": "Integrated Project Manager - Marketing Operations"
-        },
-        {
-          "absolute_url": "https://careers.datadoghq.com/detail/3862985/?gh_jid=3862985",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2120974,
-          "location": {
-            "name": "New York, New York, USA"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "Full time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Marketing - Marketing Operations",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "North America",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "134000.0"
-              },
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "172500.0"
-              },
-              "value_type": "currency"
-            }
-          ],
-          "id": 3862985,
-          "updated_at": "2023-01-19T15:26:53-05:00",
-          "requisition_id": "R1898",
-          "title": "Manager, Marketing Operations"
         }
       ]
     },
@@ -8191,7 +8123,7 @@
             }
           ],
           "id": 4826532,
-          "updated_at": "2023-01-30T04:13:01-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R4079",
           "title": "EMEA Payroll Project Lead"
         },
@@ -8259,7 +8191,7 @@
             }
           ],
           "id": 4750479,
-          "updated_at": "2023-01-27T16:49:11-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3986",
           "title": "Payroll Coordinator"
         },
@@ -8321,7 +8253,7 @@
             }
           ],
           "id": 4715358,
-          "updated_at": "2023-01-19T15:27:35-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3898",
           "title": "Payroll Coordinator (Fixed Term)"
         },
@@ -8389,7 +8321,7 @@
             }
           ],
           "id": 4744911,
-          "updated_at": "2023-01-26T17:07:53-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3980",
           "title": "People Business Partner"
         },
@@ -8457,7 +8389,7 @@
             }
           ],
           "id": 4760980,
-          "updated_at": "2023-01-19T15:27:44-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R4011",
           "title": "People Business Partner (Engineering)"
         }
@@ -8533,7 +8465,7 @@
             }
           ],
           "id": 4828205,
-          "updated_at": "2023-01-27T11:37:00-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Product Designer - Cloud Security Management"
         },
@@ -8601,7 +8533,7 @@
             }
           ],
           "id": 4830880,
-          "updated_at": "2023-01-27T13:23:46-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Product Design Manager - APM Core"
         },
@@ -8669,7 +8601,7 @@
             }
           ],
           "id": 4749849,
-          "updated_at": "2023-01-25T09:44:47-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Senior Product Designer, Tracing"
         }
@@ -8745,7 +8677,7 @@
             }
           ],
           "id": 4592866,
-          "updated_at": "2023-01-19T15:27:26-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Product Manager - Enterprise Access Control"
         },
@@ -8813,7 +8745,7 @@
             }
           ],
           "id": 4573618,
-          "updated_at": "2023-01-19T15:27:25-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Product Manager - Observability Pipelines"
         },
@@ -8881,7 +8813,7 @@
             }
           ],
           "id": 1826128,
-          "updated_at": "2023-01-19T15:26:30-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Product Manager - Observability Products"
         },
@@ -8949,7 +8881,7 @@
             }
           ],
           "id": 4709534,
-          "updated_at": "2023-01-19T15:27:33-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Product Manager - Platform Integrations "
         },
@@ -9017,7 +8949,7 @@
             }
           ],
           "id": 4582189,
-          "updated_at": "2023-01-19T15:27:25-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Product Manager - Revenue Engineering & Subscriptions"
         },
@@ -9079,7 +9011,7 @@
             }
           ],
           "id": 4507255,
-          "updated_at": "2023-01-19T15:27:21-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Senior Product Manager - CI/CD Pipeline Visibility"
         },
@@ -9147,7 +9079,7 @@
             }
           ],
           "id": 4524266,
-          "updated_at": "2023-01-19T15:27:24-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Senior Product Manager - CWS Detection & Response"
         },
@@ -9215,7 +9147,7 @@
             }
           ],
           "id": 4387216,
-          "updated_at": "2023-01-19T15:27:09-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Senior Product Manager - Datadog Apps"
         },
@@ -9283,7 +9215,7 @@
             }
           ],
           "id": 4701577,
-          "updated_at": "2023-01-19T15:27:33-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Senior Product Manager - Google Cloud Integrations "
         },
@@ -9351,7 +9283,7 @@
             }
           ],
           "id": 4730735,
-          "updated_at": "2023-01-19T15:27:39-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Senior Product Manager - Mobile Application Testing and Monitoring"
         },
@@ -9419,7 +9351,7 @@
             }
           ],
           "id": 4064513,
-          "updated_at": "2023-01-19T15:26:27-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Senior Product Manager - Observability Products"
         },
@@ -9487,7 +9419,7 @@
             }
           ],
           "id": 4727765,
-          "updated_at": "2023-01-19T15:27:38-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Senior Product Manager - Service Management"
         }
@@ -9563,7 +9495,7 @@
             }
           ],
           "id": 4715616,
-          "updated_at": "2023-01-27T11:16:27-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3907",
           "title": "Group Manager, Product Marketing - Security"
         },
@@ -9631,7 +9563,7 @@
             }
           ],
           "id": 4715602,
-          "updated_at": "2023-01-20T10:05:27-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3906",
           "title": "Product Marketing Manager - Cloud Workload Security"
         }
@@ -9701,7 +9633,7 @@
             }
           ],
           "id": 4556423,
-          "updated_at": "2023-01-19T15:27:25-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3551",
           "title": "Partner Solutions Architect"
         }
@@ -9793,7 +9725,7 @@
             }
           ],
           "id": 4722439,
-          "updated_at": "2023-01-19T15:27:38-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3911",
           "title": "Manager, Sales Development (Boston)"
         },
@@ -9861,7 +9793,7 @@
             }
           ],
           "id": 1830883,
-          "updated_at": "2023-01-19T15:26:33-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R80",
           "title": "Sales Development Representative"
         },
@@ -9923,7 +9855,7 @@
             }
           ],
           "id": 4731612,
-          "updated_at": "2023-01-19T15:27:40-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3952",
           "title": "Sales Development Representative (Benelux)"
         },
@@ -9985,7 +9917,7 @@
             }
           ],
           "id": 3736635,
-          "updated_at": "2023-01-19T15:26:48-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R1664",
           "title": "Sales Development Representative (DACH)"
         },
@@ -10053,7 +9985,7 @@
             }
           ],
           "id": 4604538,
-          "updated_at": "2023-01-19T16:14:54-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3674",
           "title": "Sales Development Representative (LATAM) - Portuguese Speaking"
         }
@@ -10065,74 +9997,6 @@
       "parent_id": 9023,
       "child_ids": [],
       "jobs": [
-        {
-          "absolute_url": "https://careers.datadoghq.com/detail/4230532/?gh_jid=4230532",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2255912,
-          "location": {
-            "name": "San Francisco, California, USA"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "Full time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Technical Solutions - Sales Engineering - Mid-Market",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "North America",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "80000.0"
-              },
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "110000.0"
-              },
-              "value_type": "currency"
-            }
-          ],
-          "id": 4230532,
-          "updated_at": "2023-01-19T15:27:00-05:00",
-          "requisition_id": null,
-          "title": "Commercial Sales Engineer"
-        },
         {
           "absolute_url": "https://careers.datadoghq.com/detail/4230534/?gh_jid=4230534",
           "data_compliance": [
@@ -10197,7 +10061,75 @@
             }
           ],
           "id": 4230534,
-          "updated_at": "2023-01-19T15:26:59-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
+          "requisition_id": null,
+          "title": "Commercial Sales Engineer"
+        },
+        {
+          "absolute_url": "https://careers.datadoghq.com/detail/4230532/?gh_jid=4230532",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2255912,
+          "location": {
+            "name": "San Francisco, California, USA"
+          },
+          "metadata": [
+            {
+              "id": 33310,
+              "name": "Time Type",
+              "value": "Full time",
+              "value_type": "single_select"
+            },
+            {
+              "id": 166208,
+              "name": "Area - Engineering",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 498252,
+              "name": "Cost Center",
+              "value": "Technical Solutions - Sales Engineering - Mid-Market",
+              "value_type": "single_select"
+            },
+            {
+              "id": 516515,
+              "name": "Geography",
+              "value": "North America",
+              "value_type": "single_select"
+            },
+            {
+              "id": 9593635,
+              "name": "Early Career Time Type",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 11038379,
+              "name": "Pay Disclosure Salary Min (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "80000.0"
+              },
+              "value_type": "currency"
+            },
+            {
+              "id": 11038395,
+              "name": "Pay Disclosure Salary Max (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "110000.0"
+              },
+              "value_type": "currency"
+            }
+          ],
+          "id": 4230532,
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Commercial Sales Engineer"
         },
@@ -10265,7 +10197,7 @@
             }
           ],
           "id": 4496184,
-          "updated_at": "2023-01-19T15:27:19-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3433",
           "title": "Commercial Sales Engineering - Team Lead (Manager)"
         },
@@ -10333,7 +10265,7 @@
             }
           ],
           "id": 4723418,
-          "updated_at": "2023-01-19T15:27:38-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3926",
           "title": "Director, Sales Engineering (Customer Success)"
         },
@@ -10401,145 +10333,9 @@
             }
           ],
           "id": 4723432,
-          "updated_at": "2023-01-19T15:27:38-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3926",
           "title": "Director, Sales Engineering (Customer Success)"
-        },
-        {
-          "absolute_url": "https://careers.datadoghq.com/detail/4714266/?gh_jid=4714266",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2417404,
-          "location": {
-            "name": "Illinois, USA, Remote"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "Full time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Technical Solutions - Sales Engineering",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "North America",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "98000.0"
-              },
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "143000.0"
-              },
-              "value_type": "currency"
-            }
-          ],
-          "id": 4714266,
-          "updated_at": "2023-01-26T16:24:11-05:00",
-          "requisition_id": "R3886",
-          "title": "Enterprise Sales Engineer"
-        },
-        {
-          "absolute_url": "https://careers.datadoghq.com/detail/4725019/?gh_jid=4725019",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2417404,
-          "location": {
-            "name": "St. Louis, Missouri, USA"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "Full time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Technical Solutions - Sales Engineering",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "North America",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "98000.0"
-              },
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "143000.0"
-              },
-              "value_type": "currency"
-            }
-          ],
-          "id": 4725019,
-          "updated_at": "2023-01-26T16:24:11-05:00",
-          "requisition_id": "R3886",
-          "title": "Enterprise Sales Engineer"
         },
         {
           "absolute_url": "https://careers.datadoghq.com/detail/4725000/?gh_jid=4725000",
@@ -10605,12 +10401,12 @@
             }
           ],
           "id": 4725000,
-          "updated_at": "2023-01-26T16:24:11-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3886",
           "title": "Enterprise Sales Engineer"
         },
         {
-          "absolute_url": "https://careers.datadoghq.com/detail/4724998/?gh_jid=4724998",
+          "absolute_url": "https://careers.datadoghq.com/detail/4714266/?gh_jid=4714266",
           "data_compliance": [
             {
               "type": "gdpr",
@@ -10620,7 +10416,7 @@
           ],
           "internal_job_id": 2417404,
           "location": {
-            "name": "Milwaukee, Wisconsin, USA"
+            "name": "Illinois, USA, Remote"
           },
           "metadata": [
             {
@@ -10672,8 +10468,8 @@
               "value_type": "currency"
             }
           ],
-          "id": 4724998,
-          "updated_at": "2023-01-26T16:24:11-05:00",
+          "id": 4714266,
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3886",
           "title": "Enterprise Sales Engineer"
         },
@@ -10741,12 +10537,12 @@
             }
           ],
           "id": 4714235,
-          "updated_at": "2023-01-26T16:24:11-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3886",
           "title": "Enterprise Sales Engineer"
         },
         {
-          "absolute_url": "https://careers.datadoghq.com/detail/4725025/?gh_jid=4725025",
+          "absolute_url": "https://careers.datadoghq.com/detail/4724998/?gh_jid=4724998",
           "data_compliance": [
             {
               "type": "gdpr",
@@ -10756,7 +10552,7 @@
           ],
           "internal_job_id": 2417404,
           "location": {
-            "name": "Illinois, USA, Remote"
+            "name": "Milwaukee, Wisconsin, USA"
           },
           "metadata": [
             {
@@ -10808,10 +10604,78 @@
               "value_type": "currency"
             }
           ],
-          "id": 4725025,
-          "updated_at": "2023-01-26T16:24:11-05:00",
+          "id": 4724998,
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3886",
-          "title": "PreSales Solutions Architect"
+          "title": "Enterprise Sales Engineer"
+        },
+        {
+          "absolute_url": "https://careers.datadoghq.com/detail/4725019/?gh_jid=4725019",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2417404,
+          "location": {
+            "name": "St. Louis, Missouri, USA"
+          },
+          "metadata": [
+            {
+              "id": 33310,
+              "name": "Time Type",
+              "value": "Full time",
+              "value_type": "single_select"
+            },
+            {
+              "id": 166208,
+              "name": "Area - Engineering",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 498252,
+              "name": "Cost Center",
+              "value": "Technical Solutions - Sales Engineering",
+              "value_type": "single_select"
+            },
+            {
+              "id": 516515,
+              "name": "Geography",
+              "value": "North America",
+              "value_type": "single_select"
+            },
+            {
+              "id": 9593635,
+              "name": "Early Career Time Type",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 11038379,
+              "name": "Pay Disclosure Salary Min (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "98000.0"
+              },
+              "value_type": "currency"
+            },
+            {
+              "id": 11038395,
+              "name": "Pay Disclosure Salary Max (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "143000.0"
+              },
+              "value_type": "currency"
+            }
+          ],
+          "id": 4725019,
+          "updated_at": "2023-01-30T15:40:22-05:00",
+          "requisition_id": "R3886",
+          "title": "Enterprise Sales Engineer"
         },
         {
           "absolute_url": "https://careers.datadoghq.com/detail/4725027/?gh_jid=4725027",
@@ -10877,7 +10741,75 @@
             }
           ],
           "id": 4725027,
-          "updated_at": "2023-01-26T16:24:11-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
+          "requisition_id": "R3886",
+          "title": "PreSales Solutions Architect"
+        },
+        {
+          "absolute_url": "https://careers.datadoghq.com/detail/4725025/?gh_jid=4725025",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2417404,
+          "location": {
+            "name": "Illinois, USA, Remote"
+          },
+          "metadata": [
+            {
+              "id": 33310,
+              "name": "Time Type",
+              "value": "Full time",
+              "value_type": "single_select"
+            },
+            {
+              "id": 166208,
+              "name": "Area - Engineering",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 498252,
+              "name": "Cost Center",
+              "value": "Technical Solutions - Sales Engineering",
+              "value_type": "single_select"
+            },
+            {
+              "id": 516515,
+              "name": "Geography",
+              "value": "North America",
+              "value_type": "single_select"
+            },
+            {
+              "id": 9593635,
+              "name": "Early Career Time Type",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 11038379,
+              "name": "Pay Disclosure Salary Min (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "98000.0"
+              },
+              "value_type": "currency"
+            },
+            {
+              "id": 11038395,
+              "name": "Pay Disclosure Salary Max (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "143000.0"
+              },
+              "value_type": "currency"
+            }
+          ],
+          "id": 4725025,
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3886",
           "title": "PreSales Solutions Architect"
         },
@@ -10945,7 +10877,7 @@
             }
           ],
           "id": 4725026,
-          "updated_at": "2023-01-26T16:24:11-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3886",
           "title": "PreSales Solutions Architect "
         },
@@ -11007,7 +10939,7 @@
             }
           ],
           "id": 4664759,
-          "updated_at": "2023-01-19T15:27:30-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3078",
           "title": "Regional Manager, Enterprise Sales Engineering (France)"
         }
@@ -11083,7 +11015,7 @@
             }
           ],
           "id": 4685889,
-          "updated_at": "2023-01-19T15:27:32-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3840",
           "title": "Sales Revenue Analyst"
         }
@@ -11159,7 +11091,7 @@
             }
           ],
           "id": 4533697,
-          "updated_at": "2023-01-19T15:27:23-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3589",
           "title": "GTM Strategy and Operations Associate "
         },
@@ -11227,7 +11159,7 @@
             }
           ],
           "id": 4736577,
-          "updated_at": "2023-01-19T15:27:41-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3957",
           "title": "GTM Strategy and Operations Senior Associate"
         },
@@ -11295,7 +11227,7 @@
             }
           ],
           "id": 4675007,
-          "updated_at": "2023-01-19T15:27:32-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3799",
           "title": "GTM Strategy and Operations Senior Associate (Customer GTM)"
         }
@@ -11371,7 +11303,7 @@
             }
           ],
           "id": 4828783,
-          "updated_at": "2023-01-27T14:00:40-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Security of Secrets"
         },
@@ -11439,7 +11371,7 @@
             }
           ],
           "id": 4829278,
-          "updated_at": "2023-01-27T14:00:41-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Security of Secrets"
         },
@@ -11507,7 +11439,7 @@
             }
           ],
           "id": 4829277,
-          "updated_at": "2023-01-27T14:00:41-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Security of Secrets"
         }
@@ -11519,6 +11451,74 @@
       "parent_id": 9023,
       "child_ids": [],
       "jobs": [
+        {
+          "absolute_url": "https://careers.datadoghq.com/detail/4449601/?gh_jid=4449601",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2328352,
+          "location": {
+            "name": "San Francisco, California, USA"
+          },
+          "metadata": [
+            {
+              "id": 33310,
+              "name": "Time Type",
+              "value": "Full time",
+              "value_type": "single_select"
+            },
+            {
+              "id": 166208,
+              "name": "Area - Engineering",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 498252,
+              "name": "Cost Center",
+              "value": "Technical Solutions - Solutions Engineering",
+              "value_type": "single_select"
+            },
+            {
+              "id": 516515,
+              "name": "Geography",
+              "value": "North America",
+              "value_type": "single_select"
+            },
+            {
+              "id": 9593635,
+              "name": "Early Career Time Type",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 11038379,
+              "name": "Pay Disclosure Salary Min (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "174000.0"
+              },
+              "value_type": "currency"
+            },
+            {
+              "id": 11038395,
+              "name": "Pay Disclosure Salary Max (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "255000.0"
+              },
+              "value_type": "currency"
+            }
+          ],
+          "id": 4449601,
+          "updated_at": "2023-01-30T15:40:22-05:00",
+          "requisition_id": "R3349",
+          "title": "Director, Premier Support Engineering"
+        },
         {
           "absolute_url": "https://careers.datadoghq.com/detail/4447326/?gh_jid=4447326",
           "data_compliance": [
@@ -11583,7 +11583,7 @@
             }
           ],
           "id": 4447326,
-          "updated_at": "2023-01-19T15:27:10-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3349",
           "title": "Director, Premier Support Engineering"
         },
@@ -11651,75 +11651,7 @@
             }
           ],
           "id": 4449599,
-          "updated_at": "2023-01-19T15:27:10-05:00",
-          "requisition_id": "R3349",
-          "title": "Director, Premier Support Engineering"
-        },
-        {
-          "absolute_url": "https://careers.datadoghq.com/detail/4449601/?gh_jid=4449601",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2328352,
-          "location": {
-            "name": "San Francisco, California, USA"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "Full time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Technical Solutions - Solutions Engineering",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "North America",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "174000.0"
-              },
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "255000.0"
-              },
-              "value_type": "currency"
-            }
-          ],
-          "id": 4449601,
-          "updated_at": "2023-01-19T15:27:11-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3349",
           "title": "Director, Premier Support Engineering"
         },
@@ -11787,7 +11719,7 @@
             }
           ],
           "id": 4449597,
-          "updated_at": "2023-01-19T15:27:11-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3349",
           "title": "Director, Premier Support Engineering"
         },
@@ -11855,7 +11787,7 @@
             }
           ],
           "id": 4833512,
-          "updated_at": "2023-01-30T10:13:37-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3349",
           "title": "Director, Premier Support Engineering"
         },
@@ -11923,7 +11855,7 @@
             }
           ],
           "id": 4552092,
-          "updated_at": "2023-01-19T15:27:24-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3605",
           "title": "Head of Technical Solutions Operations"
         },
@@ -11991,77 +11923,9 @@
             }
           ],
           "id": 4355888,
-          "updated_at": "2023-01-19T15:27:08-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3152",
           "title": "Manager 1, Technical Escalations Engineer - New York"
-        },
-        {
-          "absolute_url": "https://careers.datadoghq.com/detail/4822540/?gh_jid=4822540",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2434555,
-          "location": {
-            "name": "Boston, Massachusetts, USA"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "Full time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Technical Solutions - Solutions Engineering",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "North America",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "212000.0"
-              },
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "311000.0"
-              },
-              "value_type": "currency"
-            }
-          ],
-          "id": 4822540,
-          "updated_at": "2023-01-23T16:22:42-05:00",
-          "requisition_id": "R4016",
-          "title": "Senior Director, Technical Support Engineering"
         },
         {
           "absolute_url": "https://careers.datadoghq.com/detail/4761268/?gh_jid=4761268",
@@ -12127,7 +11991,75 @@
             }
           ],
           "id": 4761268,
-          "updated_at": "2023-01-19T15:27:44-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
+          "requisition_id": "R4016",
+          "title": "Senior Director, Technical Support Engineering"
+        },
+        {
+          "absolute_url": "https://careers.datadoghq.com/detail/4822540/?gh_jid=4822540",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2434555,
+          "location": {
+            "name": "Boston, Massachusetts, USA"
+          },
+          "metadata": [
+            {
+              "id": 33310,
+              "name": "Time Type",
+              "value": "Full time",
+              "value_type": "single_select"
+            },
+            {
+              "id": 166208,
+              "name": "Area - Engineering",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 498252,
+              "name": "Cost Center",
+              "value": "Technical Solutions - Solutions Engineering",
+              "value_type": "single_select"
+            },
+            {
+              "id": 516515,
+              "name": "Geography",
+              "value": "North America",
+              "value_type": "single_select"
+            },
+            {
+              "id": 9593635,
+              "name": "Early Career Time Type",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 11038379,
+              "name": "Pay Disclosure Salary Min (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "212000.0"
+              },
+              "value_type": "currency"
+            },
+            {
+              "id": 11038395,
+              "name": "Pay Disclosure Salary Max (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "311000.0"
+              },
+              "value_type": "currency"
+            }
+          ],
+          "id": 4822540,
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R4016",
           "title": "Senior Director, Technical Support Engineering"
         },
@@ -12195,7 +12127,7 @@
             }
           ],
           "id": 4761605,
-          "updated_at": "2023-01-19T15:27:44-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R4016",
           "title": "Senior Director, Technical Support Engineering"
         },
@@ -12263,7 +12195,7 @@
             }
           ],
           "id": 4740488,
-          "updated_at": "2023-01-19T15:27:42-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3958",
           "title": "Senior Technical Escalations Engineer (Serverless) - Atlanta"
         },
@@ -12331,7 +12263,7 @@
             }
           ],
           "id": 4740489,
-          "updated_at": "2023-01-19T15:27:41-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3958",
           "title": "Senior Technical Escalations Engineer (Serverless) - Boston"
         },
@@ -12399,7 +12331,7 @@
             }
           ],
           "id": 4738465,
-          "updated_at": "2023-01-19T15:27:42-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3958",
           "title": "Senior Technical Escalations Engineer (Serverless) - New York"
         },
@@ -12461,9 +12393,77 @@
             }
           ],
           "id": 4742198,
-          "updated_at": "2023-01-19T15:27:18-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "853",
           "title": "Senior Technical Support Engineer (Paris)"
+        },
+        {
+          "absolute_url": "https://careers.datadoghq.com/detail/4719334/?gh_jid=4719334",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2401278,
+          "location": {
+            "name": "San Francisco, California, USA"
+          },
+          "metadata": [
+            {
+              "id": 33310,
+              "name": "Time Type",
+              "value": "Full time",
+              "value_type": "single_select"
+            },
+            {
+              "id": 166208,
+              "name": "Area - Engineering",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 498252,
+              "name": "Cost Center",
+              "value": "Technical Solutions - Solutions Engineering",
+              "value_type": "single_select"
+            },
+            {
+              "id": 516515,
+              "name": "Geography",
+              "value": "North America",
+              "value_type": "single_select"
+            },
+            {
+              "id": 9593635,
+              "name": "Early Career Time Type",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 11038379,
+              "name": "Pay Disclosure Salary Min (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "110000.0"
+              },
+              "value_type": "currency"
+            },
+            {
+              "id": 11038395,
+              "name": "Pay Disclosure Salary Max (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "162000.0"
+              },
+              "value_type": "currency"
+            }
+          ],
+          "id": 4719334,
+          "updated_at": "2023-01-30T15:40:22-05:00",
+          "requisition_id": "R3798",
+          "title": "Staff Technical Escalations Engineer (Syn/RUM)"
         },
         {
           "absolute_url": "https://careers.datadoghq.com/detail/4719333/?gh_jid=4719333",
@@ -12529,7 +12529,7 @@
             }
           ],
           "id": 4719333,
-          "updated_at": "2023-01-19T15:27:30-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3798",
           "title": "Staff Technical Escalations Engineer (Syn/RUM)"
         },
@@ -12597,75 +12597,7 @@
             }
           ],
           "id": 4748183,
-          "updated_at": "2023-01-19T15:27:31-05:00",
-          "requisition_id": "R3798",
-          "title": "Staff Technical Escalations Engineer (Syn/RUM)"
-        },
-        {
-          "absolute_url": "https://careers.datadoghq.com/detail/4719334/?gh_jid=4719334",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2401278,
-          "location": {
-            "name": "San Francisco, California, USA"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "Full time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Technical Solutions - Solutions Engineering",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "North America",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "110000.0"
-              },
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "162000.0"
-              },
-              "value_type": "currency"
-            }
-          ],
-          "id": 4719334,
-          "updated_at": "2023-01-19T15:27:31-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3798",
           "title": "Staff Technical Escalations Engineer (Syn/RUM)"
         },
@@ -12733,7 +12665,7 @@
             }
           ],
           "id": 4748182,
-          "updated_at": "2023-01-19T15:27:31-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3798",
           "title": "Staff Technical Escalations Engineer (Syn/RUM)"
         },
@@ -12801,7 +12733,7 @@
             }
           ],
           "id": 4748181,
-          "updated_at": "2023-01-19T15:27:31-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3798",
           "title": "Staff Technical Escalations Engineer (Syn/RUM)"
         },
@@ -12863,7 +12795,7 @@
             }
           ],
           "id": 4671497,
-          "updated_at": "2023-01-19T15:27:31-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3808",
           "title": "Staff Technical Support Engineer"
         },
@@ -12925,7 +12857,7 @@
             }
           ],
           "id": 4346237,
-          "updated_at": "2023-01-19T15:27:07-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3115",
           "title": "Support Operations Engineer (EMEA)"
         },
@@ -12993,7 +12925,7 @@
             }
           ],
           "id": 4342074,
-          "updated_at": "2023-01-19T15:27:07-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R2832",
           "title": "Support Operations Engineer (US East)"
         },
@@ -13055,7 +12987,7 @@
             }
           ],
           "id": 4492865,
-          "updated_at": "2023-01-19T15:27:19-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "853",
           "title": "Technical Support Engineer 2 (Paris)"
         }
@@ -13131,7 +13063,7 @@
             }
           ],
           "id": 4770368,
-          "updated_at": "2023-01-19T15:27:28-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3703",
           "title": "Services Architect Intern"
         },
@@ -13199,7 +13131,7 @@
             }
           ],
           "id": 4770369,
-          "updated_at": "2023-01-19T15:27:28-05:00",
+          "updated_at": "2023-01-30T15:40:22-05:00",
           "requisition_id": "R3703",
           "title": "Support Operations Engineering Intern"
         }

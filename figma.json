@@ -896,6 +896,25 @@
           "updated_at": "2023-01-09T12:13:04-05:00",
           "requisition_id": "569",
           "title": "Benefits Partner"
+        },
+        {
+          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4785687004",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 4477523004,
+          "location": {
+            "name": "San Francisco or New York or Remote"
+          },
+          "metadata": null,
+          "id": 4785687004,
+          "updated_at": "2023-01-30T16:10:41-05:00",
+          "requisition_id": "596",
+          "title": "HRIS Manager"
         }
       ]
     },

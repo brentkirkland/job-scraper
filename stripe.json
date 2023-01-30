@@ -127,25 +127,6 @@
           "updated_at": "2023-01-27T15:41:16-05:00",
           "requisition_id": "See Opening ID",
           "title": "Head of Enterprise Sales, AMER"
-        },
-        {
-          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4825065",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2460467,
-          "location": {
-            "name": "Chicago, IL"
-          },
-          "metadata": null,
-          "id": 4825065,
-          "updated_at": "2023-01-27T15:41:16-05:00",
-          "requisition_id": "See Opening ID",
-          "title": "Manager, Mid-Market Sales"
         }
       ]
     },
@@ -154,7 +135,27 @@
       "name": "1175 Account Executives (NA)",
       "parent_id": 81961,
       "child_ids": [],
-      "jobs": []
+      "jobs": [
+        {
+          "absolute_url": "https://stripe.com/jobs/search?gh_jid=4829603",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2462173,
+          "location": {
+            "name": "New York, NY"
+          },
+          "metadata": null,
+          "id": 4829603,
+          "updated_at": "2023-01-30T15:34:02-05:00",
+          "requisition_id": "See Opening ID",
+          "title": "Account Executive, Enterprise"
+        }
+      ]
     },
     {
       "id": 76997,
