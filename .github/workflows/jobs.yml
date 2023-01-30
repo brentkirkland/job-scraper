@@ -9,7 +9,7 @@ on:
     - cron: "9 */4 * * 1,2,3,4,5"
 
 env:
-  jq_greenhouse: "jq -r '[.departments[].jobs[]|{id:.id,title,updated_at,location,absolute_url}] | sort_by(.id)'"
+  jq_greenhouse: "jq -r '[.departments[].jobs[]|{id:.id,title,updated_at,location,absolute_url}]|sort_by(.id)'"
   htmlq_href: "htmlq --attribute href a"
 
 jobs:
