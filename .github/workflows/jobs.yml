@@ -29,7 +29,7 @@ jobs:
           args: htmlq
       - name: Fetch latest data
         run: |-
-          curl --silent  https://api.greenhouse.io/v1/boards/alchemy/embed/departments | $jq_greenhouse > alchemy.json
+          curl --silent  https://api.greenhouse.io/v1/boards/alchemy/embed/departments | jq -r '[.departments[].jobs[]|{id:.id,title,updated_at,location,absolute_url}]|sort_by(.id)' > alchemy.json
           curl --silent  https://api.greenhouse.io/v1/boards/fastly/embed/departments | $jq_greenhouse > fastly.json
           curl --silent  https://api.greenhouse.io/v1/boards/figma/embed/departments | $jq_greenhouse > figma.json
           curl --silent  https://api.greenhouse.io/v1/boards/planetscale/embed/departments | $jq_greenhouse > planetscale.json
