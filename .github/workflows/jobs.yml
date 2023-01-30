@@ -9,7 +9,7 @@ on:
     - cron: "9 */4 * * 1,2,3,4,5"
 
 env:
-  jq_greenhouse: "[.departments[].jobs[]|{id:.id,title,updated_at,location,absolute_url}]|sort_by(.id)"
+  jq_greenhouse: "[.departments[]|{id:.jobs[].id,title:.jobs[].title,updated_at:.jobs[].updated_at,location:.jobs[].location,absolute_url:.jobs[].absolute_url,department:.name}]|sort_by(.id)"
 
 jobs:
   scheduled:
