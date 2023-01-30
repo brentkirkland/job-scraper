@@ -72,6 +72,25 @@
           "title": "FedRAMP Compliance Manager"
         },
         {
+          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4783062004",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 4475973004,
+          "location": {
+            "name": "London"
+          },
+          "metadata": null,
+          "id": 4783062004,
+          "updated_at": "2023-01-30T12:46:11-05:00",
+          "requisition_id": "593",
+          "title": "Legal Contracts Manager"
+        },
+        {
           "absolute_url": "https://boards.greenhouse.io/figma/jobs/4734545004",
           "data_compliance": [
             {
@@ -1300,6 +1319,25 @@
           "updated_at": "2023-01-19T11:54:49-05:00",
           "requisition_id": "576",
           "title": "Account Manager, Customer Experience "
+        },
+        {
+          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4313511004",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 4197286004,
+          "location": {
+            "name": "Berlin"
+          },
+          "metadata": null,
+          "id": 4313511004,
+          "updated_at": "2023-01-30T12:35:41-05:00",
+          "requisition_id": "156",
+          "title": "Account Manager, Enterprise DACH (Berlin, Germany)"
         },
         {
           "absolute_url": "https://boards.greenhouse.io/figma/jobs/4313113004",
