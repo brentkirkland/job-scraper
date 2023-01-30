@@ -681,25 +681,6 @@
           "title": "Designer Advocate (Tokyo, Japan)"
         },
         {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4551183004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4359994004,
-          "location": {
-            "name": "San Francisco or New York or Remote US"
-          },
-          "metadata": [],
-          "id": 4551183004,
-          "updated_at": "2022-10-12T03:14:19-04:00",
-          "requisition_id": "400",
-          "title": "Developer Advocate"
-        },
-        {
           "absolute_url": "https://boards.greenhouse.io/figma/jobs/4772787004",
           "data_compliance": [
             {
@@ -1745,27 +1726,7 @@
       "name": "Talent",
       "parent_id": null,
       "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4767089004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4466428004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": null,
-          "id": 4767089004,
-          "updated_at": "2023-01-05T11:46:52-05:00",
-          "requisition_id": "574",
-          "title": "Recruiting Manager, Product and Design"
-        }
-      ]
+      "jobs": []
     },
     {
       "id": 0,
