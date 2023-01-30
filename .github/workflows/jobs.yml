@@ -8,25 +8,21 @@ on:
   schedule:
     - cron: "9 */4 * * 1,2,3,4,5"
 
-env:
-  jq_greenhouse: "jq -r '[.departments[].jobs[]|{id:.id,title,updated_at,location,absolute_url}]|sort_by(.id)'"
-  htmlq_href: "htmlq --attribute href a"
-
 jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps:
       - name: Check out this repo
         uses: actions/checkout@v3
-      # - name: Install rust
-      #   uses: actions-rs/toolchain@v1
-      #   with:
-      #     toolchain: stable
-      # - name: Install htmlq
-      #   uses: actions-rs/cargo@v1
-      #   with:
-      #     command: install
-      #     args: htmlq
+      - name: Install rust
+        uses: actions-rs/toolchain@v1
+        with:
+          toolchain: stable
+      - name: Install htmlq
+        uses: actions-rs/cargo@v1
+        with:
+          command: install
+          args: htmlq
       - name: Fetch latest data
         run: |-
           curl --silent  https://api.greenhouse.io/v1/boards/alchemy/embed/departments | jq -r '[.departments[].jobs[]|{id:.id,title,updated_at,location,absolute_url}]|sort_by(.id)' > alchemy.json
@@ -41,8 +37,8 @@ jobs:
           curl --silent  https://api.greenhouse.io/v1/boards/consensys/embed/departments | jq -r '[.departments[].jobs[]|{id:.id,title,updated_at,location,absolute_url}]|sort_by(.id)' > consensys.json
           curl --silent  https://api.greenhouse.io/v1/boards/cloudflare/embed/departments | jq -r '[.departments[].jobs[]|{id:.id,title,updated_at,location,absolute_url}]|sort_by(.id)' > cloudflare.json
           curl --silent  https://api.greenhouse.io/v1/boards/sentry/embed/departments | jq -r '[.departments[].jobs[]|{id:.id,title,updated_at,location,absolute_url}]|sort_by(.id)' > sentry.json
-          # curl --silent "https://www.shopify.com/careers?search%5Bkeywords%5D=&search%5Bteams%5D%5B%5D=engineering" | htmlq --attribute href a | grep /careers/ > shopify.txt
-          # curl --silent "https://careers.squareup.com/us/en/jobs" | htmlq --attribute href a | grep https://www.smartrecruiters.com/Square/ > square.txt
+          curl --silent "https://www.shopify.com/careers?search%5Bkeywords%5D=&search%5Bteams%5D%5B%5D=engineering" | htmlq --attribute href a | grep /careers/ > shopify.txt
+          curl --silent "https://careers.squareup.com/us/en/jobs" | htmlq --attribute href a | grep https://www.smartrecruiters.com/Square/ > square.txt
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"
