@@ -8,6 +8,9 @@ on:
   schedule:
     - cron: "9 */4 * * 1,2,3,4,5"
 
+env:
+  jq_greenhouse: "[.departments[].jobs[]|{id:.id,title,updated_at,location,absolute_url}]|sort_by(.id)"
+
 jobs:
   scheduled:
     runs-on: ubuntu-latest
@@ -25,18 +28,18 @@ jobs:
           args: htmlq
       - name: Fetch latest data
         run: |-
-          curl --silent  https://api.greenhouse.io/v1/boards/alchemy/embed/departments | jq -r '[.departments[].jobs[]|{id:.id,title,updated_at,location,absolute_url}]|sort_by(.id)' > alchemy.json
-          curl --silent  https://api.greenhouse.io/v1/boards/fastly/embed/departments | jq -r '[.departments[].jobs[]|{id:.id,title,updated_at,location,absolute_url}]|sort_by(.id)' > fastly.json
-          curl --silent  https://api.greenhouse.io/v1/boards/figma/embed/departments | jq -r '[.departments[].jobs[]|{id:.id,title,updated_at,location,absolute_url}]|sort_by(.id)' > figma.json
-          curl --silent  https://api.greenhouse.io/v1/boards/planetscale/embed/departments | jq -r '[.departments[].jobs[]|{id:.id,title,updated_at,location,absolute_url}]|sort_by(.id)' > planetscale.json
-          curl --silent  https://api.greenhouse.io/v1/boards/stripe/embed/departments | jq -r '[.departments[].jobs[]|{id:.id,title,updated_at,location,absolute_url}]|sort_by(.id)' > stripe.json
-          curl --silent  https://api.greenhouse.io/v1/boards/vercel/embed/departments | jq -r '[.departments[].jobs[]|{id:.id,title,updated_at,location,absolute_url}]|sort_by(.id)' > vercel.json
-          curl --silent  https://api.greenhouse.io/v1/boards/github/embed/departments | jq -r '[.departments[].jobs[]|{id:.id,title,updated_at,location,absolute_url}]|sort_by(.id)' > github.json
-          curl --silent  https://api.greenhouse.io/v1/boards/supabase/embed/departments | jq -r '[.departments[].jobs[]|{id:.id,title,updated_at,location,absolute_url}]|sort_by(.id)' > supabase.json
-          curl --silent  https://api.greenhouse.io/v1/boards/datadog/embed/departments | jq -r '[.departments[].jobs[]|{id:.id,title,updated_at,location,absolute_url}]|sort_by(.id)' > datadog.json
-          curl --silent  https://api.greenhouse.io/v1/boards/consensys/embed/departments | jq -r '[.departments[].jobs[]|{id:.id,title,updated_at,location,absolute_url}]|sort_by(.id)' > consensys.json
-          curl --silent  https://api.greenhouse.io/v1/boards/cloudflare/embed/departments | jq -r '[.departments[].jobs[]|{id:.id,title,updated_at,location,absolute_url}]|sort_by(.id)' > cloudflare.json
-          curl --silent  https://api.greenhouse.io/v1/boards/sentry/embed/departments | jq -r '[.departments[].jobs[]|{id:.id,title,updated_at,location,absolute_url}]|sort_by(.id)' > sentry.json
+          curl --silent  https://api.greenhouse.io/v1/boards/alchemy/embed/departments | jq -r '$jq_greenhouse' > alchemy.json
+          curl --silent  https://api.greenhouse.io/v1/boards/fastly/embed/departments | jq -r '$jq_greenhouse' > fastly.json
+          curl --silent  https://api.greenhouse.io/v1/boards/figma/embed/departments | jq -r '$jq_greenhouse' > figma.json
+          curl --silent  https://api.greenhouse.io/v1/boards/planetscale/embed/departments | jq -r '$jq_greenhouse' > planetscale.json
+          curl --silent  https://api.greenhouse.io/v1/boards/stripe/embed/departments | jq -r '$jq_greenhouse' > stripe.json
+          curl --silent  https://api.greenhouse.io/v1/boards/vercel/embed/departments | jq -r '$jq_greenhouse' > vercel.json
+          curl --silent  https://api.greenhouse.io/v1/boards/github/embed/departments | jq -r '$jq_greenhouse' > github.json
+          curl --silent  https://api.greenhouse.io/v1/boards/supabase/embed/departments | jq -r '$jq_greenhouse' > supabase.json
+          curl --silent  https://api.greenhouse.io/v1/boards/datadog/embed/departments | jq -r '$jq_greenhouse' > datadog.json
+          curl --silent  https://api.greenhouse.io/v1/boards/consensys/embed/departments | jq -r '$jq_greenhouse' > consensys.json
+          curl --silent  https://api.greenhouse.io/v1/boards/cloudflare/embed/departments | jq -r '$jq_greenhouse' > cloudflare.json
+          curl --silent  https://api.greenhouse.io/v1/boards/sentry/embed/departments | jq -r '$jq_greenhouse' > sentry.json
           curl --silent "https://www.shopify.com/careers?search%5Bkeywords%5D=&search%5Bteams%5D%5B%5D=engineering" | htmlq --attribute href a | grep /careers/ > shopify.txt
           curl --silent "https://careers.squareup.com/us/en/jobs" | htmlq --attribute href a | grep https://www.smartrecruiters.com/Square/ > square.txt
       - name: Commit and push if it changed
