@@ -2,7 +2,6 @@
   {
     "id": 1497543,
     "title": "Commercial Account Executive",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Boston, Massachusetts, USA"
     },
@@ -11,7 +10,6 @@
   {
     "id": 1630991,
     "title": "Senior Technical Program Manager",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -20,7 +18,6 @@
   {
     "id": 1694375,
     "title": "Commercial Account Executive",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Denver, Colorado, USA"
     },
@@ -29,7 +26,6 @@
   {
     "id": 1796891,
     "title": "Software Engineer - Data Science",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
     },
@@ -38,7 +34,6 @@
   {
     "id": 1825852,
     "title": "Open Source Software Engineer - Container Ecosystems",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA; Boston, Massachusetts, USA"
     },
@@ -47,7 +42,6 @@
   {
     "id": 1825908,
     "title": "Software Engineer - Compute",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Dublin, Ireland; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
     },
@@ -56,7 +50,6 @@
   {
     "id": 1825918,
     "title": "Software Engineer - Data Infrastructure",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
     },
@@ -65,7 +58,6 @@
   {
     "id": 1825950,
     "title": "Software Engineer - Database Reliability",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Dublin, Ireland; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
     },
@@ -74,7 +66,6 @@
   {
     "id": 1826034,
     "title": "Software Engineer - Performance",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Dublin, Ireland; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
     },
@@ -83,7 +74,6 @@
   {
     "id": 1826047,
     "title": "Software Engineer - Site Reliability",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Dublin, Ireland; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
     },
@@ -92,7 +82,6 @@
   {
     "id": 1826072,
     "title": "Senior Software Engineer - Full Stack",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Montpellier, France "
     },
@@ -101,7 +90,6 @@
   {
     "id": 1826111,
     "title": "Software Engineer - Database Reliability",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -110,7 +98,6 @@
   {
     "id": 1826128,
     "title": "Product Manager - Observability Products",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA; Boston, Massachusetts, USA"
     },
@@ -119,7 +106,6 @@
   {
     "id": 1826178,
     "title": "Senior Software Engineer - Frontend",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Montpellier,France"
     },
@@ -128,7 +114,6 @@
   {
     "id": 1826184,
     "title": "Open Source Software Engineer - Container Ecosystems",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
     },
@@ -137,7 +122,6 @@
   {
     "id": 1826201,
     "title": "Library Software Engineer - Go",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Tel Aviv, Israel"
     },
@@ -146,7 +130,6 @@
   {
     "id": 1826211,
     "title": "Open Source Software Engineer - Integrations",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Tel Aviv, Israel"
     },
@@ -155,7 +138,6 @@
   {
     "id": 1826225,
     "title": "Library Software Engineer - Java",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Tel Aviv, Israel"
     },
@@ -164,7 +146,6 @@
   {
     "id": 1826252,
     "title": "Library Software Engineer - Node.js",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Tel Aviv, Israel"
     },
@@ -173,7 +154,6 @@
   {
     "id": 1826258,
     "title": "Open Source Software Engineer - Systems",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Tel Aviv, Israel"
     },
@@ -182,7 +162,6 @@
   {
     "id": 1826266,
     "title": "Senior Software Engineer - Data Visualization",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Montpellier, France "
     },
@@ -191,7 +170,6 @@
   {
     "id": 1830883,
     "title": "Sales Development Representative",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Boston, Massachusetts, USA"
     },
@@ -200,7 +178,6 @@
   {
     "id": 2115965,
     "title": "Library Software Engineer - .NET / C#",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Tel Aviv, Israel"
     },
@@ -209,7 +186,6 @@
   {
     "id": 2147488,
     "title": "Library Software Engineer - Ruby",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Tel Aviv, Israel"
     },
@@ -218,7 +194,6 @@
   {
     "id": 2147503,
     "title": "Library Software Engineer - PHP ",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Tel Aviv, Israel"
     },
@@ -227,7 +202,6 @@
   {
     "id": 2190185,
     "title": "Senior Software Engineer - Dashboards",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Montpellier, France; Montpellier, France"
     },
@@ -236,7 +210,6 @@
   {
     "id": 2206302,
     "title": "Library Software Engineer - C++",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Tel Aviv, Israel"
     },
@@ -245,7 +218,6 @@
   {
     "id": 2217548,
     "title": "Software Engineer - Resilience",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Dublin, Ireland; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
     },
@@ -254,7 +226,6 @@
   {
     "id": 2292480,
     "title": "Software Engineer - Global Data Platform",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, USA, Remote; Massachusetts, USA, Remote; Georgia, USA, Remote; Illinois, USA, Remote; California, USA, Remote; Washington, US, Remote"
     },
@@ -263,7 +234,6 @@
   {
     "id": 2297901,
     "title": "Senior Technical Program Manager - SRE",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France"
     },
@@ -272,7 +242,6 @@
   {
     "id": 2418842,
     "title": "Software Engineer - Web Browser SDK",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Dublin, Ireland; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
     },
@@ -281,7 +250,6 @@
   {
     "id": 2422927,
     "title": "Library Software Engineer - Python",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Tel Aviv, Israel"
     },
@@ -290,7 +258,6 @@
   {
     "id": 2978210,
     "title": "Commercial Account Executive (DACH)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Amsterdam, Netherlands; Dublin, Ireland"
     },
@@ -299,7 +266,6 @@
   {
     "id": 3056596,
     "title": "Software Engineer - Global Data Platform",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "\bNew York, New York, USA; Boston, Massachusetts, USA"
     },
@@ -308,7 +274,6 @@
   {
     "id": 3366799,
     "title": "Senior Software Engineer (Frontend) - Security Platform",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Montpellier, France"
     },
@@ -317,7 +282,6 @@
   {
     "id": 3448445,
     "title": "Staff Software Engineer - Frontend",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA; Boston, Massachusetts, USA"
     },
@@ -326,7 +290,6 @@
   {
     "id": 3684438,
     "title": "Software Engineer - eBPF developer",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Tel Aviv, Israel"
     },
@@ -335,7 +298,6 @@
   {
     "id": 3712935,
     "title": "Software Engineer - Chaos Platform",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Dublin, Ireland; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
     },
@@ -344,7 +306,6 @@
   {
     "id": 3736635,
     "title": "Sales Development Representative (DACH)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Amsterdam, Netherlands; Dublin, Ireland "
     },
@@ -353,7 +314,6 @@
   {
     "id": 3758418,
     "title": "Commercial Account Executive (LATAM, Spanish or Portuguese)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Boston, Massachusetts, USA"
     },
@@ -362,7 +322,6 @@
   {
     "id": 3758458,
     "title": "Commercial Account Executive (LATAM, Spanish or Portuguese)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Denver, Colorado, USA"
     },
@@ -371,7 +330,6 @@
   {
     "id": 3851927,
     "title": "Software Engineer - Distributed Systems",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Boston, Massachusetts, United States; New York, New York, United States"
     },
@@ -380,7 +338,6 @@
   {
     "id": 3851935,
     "title": "Software Engineer ",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA; Boston, Massachusetts, USA"
     },
@@ -389,7 +346,6 @@
   {
     "id": 3962108,
     "title": "Senior Field Marketing Manager - West",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "California, USA, Remote"
     },
@@ -398,7 +354,6 @@
   {
     "id": 3971933,
     "title": "Senior Field Marketing Manager - West",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Denver, Colorado, USA"
     },
@@ -407,7 +362,6 @@
   {
     "id": 3976237,
     "title": "Head of Product, CSPM",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA; Boston, Massachusetts, USA; San Francisco, California, USA"
     },
@@ -416,7 +370,6 @@
   {
     "id": 4022783,
     "title": "Senior Systems Engineer - CI Reliability",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Dublin, Ireland; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
     },
@@ -425,7 +378,6 @@
   {
     "id": 4039906,
     "title": "Software Engineer - Database Integrations",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA; Boston, Massachusetts, USA"
     },
@@ -434,7 +386,6 @@
   {
     "id": 4064513,
     "title": "Senior Product Manager - Observability Products",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA; Boston, Massachusetts, USA; San Francisco, California, USA"
     },
@@ -443,7 +394,6 @@
   {
     "id": 4071910,
     "title": "Senior Software Engineer - Site Reliability",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Dublin, Ireland; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
     },
@@ -452,7 +402,6 @@
   {
     "id": 4141302,
     "title": "Software Engineer - Query Engine",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Boston, Massachusetts, United States; New York, New York, United States"
     },
@@ -461,7 +410,6 @@
   {
     "id": 4141349,
     "title": "Software Engineer - Hot Storage",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, United States; Boston, Massachusetts, United States"
     },
@@ -470,7 +418,6 @@
   {
     "id": 4141386,
     "title": "Software Engineer - Query Language",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Boston, Massachusetts, United States; New York, New York, United States"
     },
@@ -479,7 +426,6 @@
   {
     "id": 4144409,
     "title": "Software Engineer - Data Infrastructure",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA; Boston, Massachusetts, USA"
     },
@@ -488,7 +434,6 @@
   {
     "id": 4181651,
     "title": "Strategy and Corporate Development Lead",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -497,7 +442,6 @@
   {
     "id": 4203989,
     "title": "Regional Vice President of Enterprise Sales",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Tokyo, Japan"
     },
@@ -506,7 +450,6 @@
   {
     "id": 4224365,
     "title": "Customer Success Manager",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Tokyo, Japan"
     },
@@ -515,7 +458,6 @@
   {
     "id": 4230532,
     "title": "Commercial Sales Engineer",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "San Francisco, California, USA"
     },
@@ -524,7 +466,6 @@
   {
     "id": 4230534,
     "title": "Commercial Sales Engineer",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Denver, Colorado, USA"
     },
@@ -533,7 +474,6 @@
   {
     "id": 4247235,
     "title": "Demand Generation Marketing Manager II - Organic/SEO",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -542,7 +482,6 @@
   {
     "id": 4303424,
     "title": "Group Product Manager - Serverless",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA; Boston, Massachusetts, USA"
     },
@@ -551,7 +490,6 @@
   {
     "id": 4342074,
     "title": "Support Operations Engineer (US East)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Atlanta, Georgia, USA; Boston, Massachusetts, USA; New York, New York, USA"
     },
@@ -560,7 +498,6 @@
   {
     "id": 4346237,
     "title": "Support Operations Engineer (EMEA)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Dublin, Ireland"
     },
@@ -569,7 +506,6 @@
   {
     "id": 4355888,
     "title": "Manager 1, Technical Escalations Engineer - New York",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -578,7 +514,6 @@
   {
     "id": 4382032,
     "title": "Head of Product, CSPM",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Seattle, USA, Remote"
     },
@@ -587,7 +522,6 @@
   {
     "id": 4387216,
     "title": "Senior Product Manager - Datadog Apps",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -596,7 +530,6 @@
   {
     "id": 4397492,
     "title": "Senior Software Engineer - Capacity Management",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Dublin, Ireland; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
     },
@@ -605,7 +538,6 @@
   {
     "id": 4414575,
     "title": "Accounts Payable Analyst",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -614,7 +546,6 @@
   {
     "id": 4447326,
     "title": "Director, Premier Support Engineering",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Atlanta, Georgia, USA"
     },
@@ -623,7 +554,6 @@
   {
     "id": 4449597,
     "title": "Director, Premier Support Engineering",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Boston, Massachusetts, USA"
     },
@@ -632,7 +562,6 @@
   {
     "id": 4449599,
     "title": "Director, Premier Support Engineering",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -641,7 +570,6 @@
   {
     "id": 4449601,
     "title": "Director, Premier Support Engineering",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "San Francisco, California, USA"
     },
@@ -650,7 +578,6 @@
   {
     "id": 4452817,
     "title": "Software Engineer - Site Reliability",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA; Boston, Massachusetts, USA"
     },
@@ -659,7 +586,6 @@
   {
     "id": 4452851,
     "title": "Software Engineer - CI Reliability",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -668,7 +594,6 @@
   {
     "id": 4452852,
     "title": "Software Engineer - Developer Efficiency",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA; Boston, Massachusetts, USA"
     },
@@ -677,7 +602,6 @@
   {
     "id": 4452860,
     "title": "Software Engineer - Package Management",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -686,7 +610,6 @@
   {
     "id": 4452892,
     "title": "Software Engineer - Site Reliability",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -695,7 +618,6 @@
   {
     "id": 4452904,
     "title": "Software Engineer - Distributed Caching",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -704,7 +626,6 @@
   {
     "id": 4452918,
     "title": "Software Engineer - Resilience",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA; Boston, Massachusetts, USA"
     },
@@ -713,7 +634,6 @@
   {
     "id": 4454526,
     "title": "Software Engineer - Authorization & Access Management",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA; Boston, Massachusetts, USA"
     },
@@ -722,7 +642,6 @@
   {
     "id": 4454528,
     "title": "Software Engineer - Cloud Metrics",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA; Boston, Massachusetts, USA"
     },
@@ -731,7 +650,6 @@
   {
     "id": 4482860,
     "title": "Software Engineer - Intern & Co-op",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain"
     },
@@ -740,7 +658,6 @@
   {
     "id": 4488729,
     "title": "Senior Director, Customer Success (APAC)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Singapore, Singapore"
     },
@@ -749,7 +666,6 @@
   {
     "id": 4492865,
     "title": "Technical Support Engineer 2 (Paris)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France "
     },
@@ -758,7 +674,6 @@
   {
     "id": 4496184,
     "title": "Commercial Sales Engineering - Team Lead (Manager)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Boston, Massachusetts, USA"
     },
@@ -767,7 +682,6 @@
   {
     "id": 4507255,
     "title": "Senior Product Manager - CI/CD Pipeline Visibility",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France"
     },
@@ -776,7 +690,6 @@
   {
     "id": 4524266,
     "title": "Senior Product Manager - CWS Detection & Response",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA; Boston, Massachusetts, USA; San Francisco, California, USA; Seattle, Washington, USA"
     },
@@ -785,7 +698,6 @@
   {
     "id": 4533697,
     "title": "GTM Strategy and Operations Associate ",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -794,7 +706,6 @@
   {
     "id": 4544992,
     "title": "Enterprise Sales Executive (Ohio Valley)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Ohio, USA, Remote"
     },
@@ -803,7 +714,6 @@
   {
     "id": 4550817,
     "title": "Technical Solutions Enablement Technical Trainer",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Sydney, Australia "
     },
@@ -812,7 +722,6 @@
   {
     "id": 4552092,
     "title": "Head of Technical Solutions Operations",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "San Francisco, California, USA"
     },
@@ -821,7 +730,6 @@
   {
     "id": 4556423,
     "title": "Partner Solutions Architect",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France"
     },
@@ -830,7 +738,6 @@
   {
     "id": 4557554,
     "title": "Software Engineer - Data Infrastructure",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Denver, Colorado, USA"
     },
@@ -839,7 +746,6 @@
   {
     "id": 4562097,
     "title": "Manager, Engineering II - CI Visibility",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Madrid, Spain"
     },
@@ -848,7 +754,6 @@
   {
     "id": 4573618,
     "title": "Product Manager - Observability Pipelines",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -857,7 +762,6 @@
   {
     "id": 4582189,
     "title": "Product Manager - Revenue Engineering & Subscriptions",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA; Boston, Massachusetts, USA"
     },
@@ -866,7 +770,6 @@
   {
     "id": 4589389,
     "title": "Senior Full-stack Engineer - Demo Engineering",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, USA, Remote"
     },
@@ -875,7 +778,6 @@
   {
     "id": 4592866,
     "title": "Product Manager - Enterprise Access Control",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -884,7 +786,6 @@
   {
     "id": 4598600,
     "title": "Software Engineer - Mobile SDK (Android)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
     },
@@ -893,7 +794,6 @@
   {
     "id": 4599111,
     "title": "Senior Software Engineer - Distributed Systems",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
     },
@@ -902,7 +802,6 @@
   {
     "id": 4599135,
     "title": "Senior Software Engineer - Alerting",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
     },
@@ -911,7 +810,6 @@
   {
     "id": 4599148,
     "title": "Senior Software Engineer",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
     },
@@ -920,7 +818,6 @@
   {
     "id": 4599154,
     "title": "Senior Software Engineer - Cloud Security Platform",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
     },
@@ -929,7 +826,6 @@
   {
     "id": 4599156,
     "title": "Senior Software Engineer - API Management",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Tel Aviv, Israel"
     },
@@ -938,7 +834,6 @@
   {
     "id": 4604538,
     "title": "Sales Development Representative (LATAM) - Portuguese Speaking",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Boston, Massachusetts, USA"
     },
@@ -947,7 +842,6 @@
   {
     "id": 4648890,
     "title": "Director, Commercial Sales (Boston)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Boston, Massachusetts, USA"
     },
@@ -956,7 +850,6 @@
   {
     "id": 4656142,
     "title": "Software Engineer - Vector Data Processing",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Tel Aviv, Israel"
     },
@@ -965,7 +858,6 @@
   {
     "id": 4661573,
     "title": "Senior Build & Release Engineer - Agent Platform",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
     },
@@ -974,7 +866,6 @@
   {
     "id": 4663002,
     "title": "Field Marketing Manager (UK & Ireland)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "London, United Kingdom; Dublin, Ireland "
     },
@@ -983,7 +874,6 @@
   {
     "id": 4663014,
     "title": "Product Counsel",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA; San Francisco, California, USA; Boston, Massachusetts, USA; Denver, Colorado, USA; Atlanta, Georgia, USA"
     },
@@ -992,7 +882,6 @@
   {
     "id": 4664759,
     "title": "Regional Manager, Enterprise Sales Engineering (France)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "France, Remote "
     },
@@ -1001,7 +890,6 @@
   {
     "id": 4671497,
     "title": "Staff Technical Support Engineer",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Tokyo, Japan"
     },
@@ -1010,7 +898,6 @@
   {
     "id": 4675007,
     "title": "GTM Strategy and Operations Senior Associate (Customer GTM)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -1019,7 +906,6 @@
   {
     "id": 4679623,
     "title": "Strategic Channel Sales Manager (EMEA)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France"
     },
@@ -1028,7 +914,6 @@
   {
     "id": 4685889,
     "title": "Sales Revenue Analyst",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Boston, Massachusetts, USA; New York, New York, USA"
     },
@@ -1037,7 +922,6 @@
   {
     "id": 4687938,
     "title": "Manager, Engineering I - AWS Contexts",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France"
     },
@@ -1046,7 +930,6 @@
   {
     "id": 4689579,
     "title": "Engineering Manager 1, Profiler",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal"
     },
@@ -1055,7 +938,6 @@
   {
     "id": 4692991,
     "title": "Manager, Commercial Sales (Boston)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Boston, Massachusetts, USA"
     },
@@ -1064,7 +946,6 @@
   {
     "id": 4692996,
     "title": "Manager, Commercial Sales (Denver)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Denver, Colorado, USA"
     },
@@ -1073,7 +954,6 @@
   {
     "id": 4693590,
     "title": "Manager, Engineering I - Profiler",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, NY, United States"
     },
@@ -1082,7 +962,6 @@
   {
     "id": 4701577,
     "title": "Senior Product Manager - Google Cloud Integrations ",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA; Boston, Massachusetts, USA"
     },
@@ -1091,7 +970,6 @@
   {
     "id": 4701805,
     "title": "Director, Product Management - Service Management",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA; Boston, Massachusetts, USA "
     },
@@ -1100,7 +978,6 @@
   {
     "id": 4709352,
     "title": "Manager, Engineering II - Streams",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Boston, MA, United States; New York, NY, United States; Denver, CO, United States"
     },
@@ -1109,7 +986,6 @@
   {
     "id": 4709534,
     "title": "Product Manager - Platform Integrations ",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA; Boston, Massachusetts, USA"
     },
@@ -1118,7 +994,6 @@
   {
     "id": 4710525,
     "title": "Director, Customer Success (West)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Denver, Colorado, USA"
     },
@@ -1127,7 +1002,6 @@
   {
     "id": 4714235,
     "title": "Enterprise Sales Engineer",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Chicago, Illinois, USA"
     },
@@ -1136,7 +1010,6 @@
   {
     "id": 4714266,
     "title": "Enterprise Sales Engineer",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Illinois, USA, Remote"
     },
@@ -1145,7 +1018,6 @@
   {
     "id": 4715358,
     "title": "Payroll Coordinator (Fixed Term)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Dublin, Ireland; Paris, France"
     },
@@ -1154,7 +1026,6 @@
   {
     "id": 4715602,
     "title": "Product Marketing Manager - Cloud Workload Security",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA; San Francisco, California, USA"
     },
@@ -1163,7 +1034,6 @@
   {
     "id": 4715616,
     "title": "Group Manager, Product Marketing - Security",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA; San Francisco, California, USA"
     },
@@ -1172,7 +1042,6 @@
   {
     "id": 4718543,
     "title": "Enterprise Sales Executive - Italy",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Remote - Italy"
     },
@@ -1181,7 +1050,6 @@
   {
     "id": 4719333,
     "title": "Staff Technical Escalations Engineer (Syn/RUM)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Denver, Colorado, USA"
     },
@@ -1190,7 +1058,6 @@
   {
     "id": 4719334,
     "title": "Staff Technical Escalations Engineer (Syn/RUM)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "San Francisco, California, USA"
     },
@@ -1199,7 +1066,6 @@
   {
     "id": 4722439,
     "title": "Manager, Sales Development (Boston)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Boston, Massachusetts, USA "
     },
@@ -1208,7 +1074,6 @@
   {
     "id": 4723418,
     "title": "Director, Sales Engineering (Customer Success)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Boston, Massachusetts, USA"
     },
@@ -1217,7 +1082,6 @@
   {
     "id": 4723432,
     "title": "Director, Sales Engineering (Customer Success)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Denver, Colorado, USA"
     },
@@ -1226,7 +1090,6 @@
   {
     "id": 4724998,
     "title": "Enterprise Sales Engineer",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Milwaukee, Wisconsin, USA"
     },
@@ -1235,7 +1098,6 @@
   {
     "id": 4725000,
     "title": "Enterprise Sales Engineer",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Wisconsin, USA, Remote"
     },
@@ -1244,7 +1106,6 @@
   {
     "id": 4725019,
     "title": "Enterprise Sales Engineer",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "St. Louis, Missouri, USA"
     },
@@ -1253,7 +1114,6 @@
   {
     "id": 4725025,
     "title": "PreSales Solutions Architect",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Illinois, USA, Remote"
     },
@@ -1262,7 +1122,6 @@
   {
     "id": 4725026,
     "title": "PreSales Solutions Architect ",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "St. Louis, Missouri, USA"
     },
@@ -1271,7 +1130,6 @@
   {
     "id": 4725027,
     "title": "PreSales Solutions Architect",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Milwaukee, Wisconsin, USA"
     },
@@ -1280,7 +1138,6 @@
   {
     "id": 4725062,
     "title": "Enterprise Sales Executive - Switzerland",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Remote - Switzerland"
     },
@@ -1289,7 +1146,6 @@
   {
     "id": 4727765,
     "title": "Senior Product Manager - Service Management",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -1298,7 +1154,6 @@
   {
     "id": 4729940,
     "title": "Deal Desk Senior Analyst",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Seattle, Washington, USA"
     },
@@ -1307,7 +1162,6 @@
   {
     "id": 4730735,
     "title": "Senior Product Manager - Mobile Application Testing and Monitoring",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA; Boston, Massachusetts, USA"
     },
@@ -1316,7 +1170,6 @@
   {
     "id": 4731612,
     "title": "Sales Development Representative (Benelux)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Amsterdam, Netherlands; Dublin, Ireland"
     },
@@ -1325,7 +1178,6 @@
   {
     "id": 4732393,
     "title": "Software Engineer - Frontend",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA; Boston, Massachusetts, USA; Denver, Colorado, USA"
     },
@@ -1334,7 +1186,6 @@
   {
     "id": 4736577,
     "title": "GTM Strategy and Operations Senior Associate",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Boston, Massachusetts, USA"
     },
@@ -1343,7 +1194,6 @@
   {
     "id": 4738405,
     "title": "Executive Assistant",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "San Francisco, California, USA; New York, New York, USA"
     },
@@ -1352,7 +1202,6 @@
   {
     "id": 4738465,
     "title": "Senior Technical Escalations Engineer (Serverless) - New York",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -1361,7 +1210,6 @@
   {
     "id": 4740488,
     "title": "Senior Technical Escalations Engineer (Serverless) - Atlanta",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Atlanta, Georgia, USA"
     },
@@ -1370,7 +1218,6 @@
   {
     "id": 4740489,
     "title": "Senior Technical Escalations Engineer (Serverless) - Boston",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Boston, Massachusetts, USA"
     },
@@ -1379,7 +1226,6 @@
   {
     "id": 4742198,
     "title": "Senior Technical Support Engineer (Paris)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France "
     },
@@ -1388,7 +1234,6 @@
   {
     "id": 4744911,
     "title": "People Business Partner",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "San Francisco, California, USA"
     },
@@ -1397,7 +1242,6 @@
   {
     "id": 4746527,
     "title": "Senior Manager, Marketing Analytics",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -1406,7 +1250,6 @@
   {
     "id": 4746536,
     "title": "Senior Manager, Demand Generation - ABM",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -1415,7 +1258,6 @@
   {
     "id": 4746549,
     "title": "Senior Event Marketing Manager",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -1424,7 +1266,6 @@
   {
     "id": 4748039,
     "title": "Integrated Project Manager - Marketing Operations",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -1433,7 +1274,6 @@
   {
     "id": 4748181,
     "title": "Staff Technical Escalations Engineer (Syn/RUM)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -1442,7 +1282,6 @@
   {
     "id": 4748182,
     "title": "Staff Technical Escalations Engineer (Syn/RUM)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Boston, Massachusetts, USA"
     },
@@ -1451,7 +1290,6 @@
   {
     "id": 4748183,
     "title": "Staff Technical Escalations Engineer (Syn/RUM)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Atlanta, Georgia, USA"
     },
@@ -1460,7 +1298,6 @@
   {
     "id": 4749849,
     "title": "Senior Product Designer, Tracing",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Lisbon, Portugal"
     },
@@ -1469,7 +1306,6 @@
   {
     "id": 4750104,
     "title": "Director, Engineering - Production Security",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France"
     },
@@ -1478,7 +1314,6 @@
   {
     "id": 4750149,
     "title": "Director, Global Field Marketing",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA; Denver, Colorado, USA; Boston, Massachusetts, USA; San Francisco, California, USA"
     },
@@ -1487,7 +1322,6 @@
   {
     "id": 4750479,
     "title": "Payroll Coordinator",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -1496,7 +1330,6 @@
   {
     "id": 4752199,
     "title": "Administrative Assistant",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -1505,7 +1338,6 @@
   {
     "id": 4753384,
     "title": "Manager, Commercial Sales (France)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Dublin, Ireland"
     },
@@ -1514,7 +1346,6 @@
   {
     "id": 4754252,
     "title": "Manager, Mid-Market Sales (New York)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -1523,7 +1354,6 @@
   {
     "id": 4760980,
     "title": "People Business Partner (Engineering)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -1532,7 +1362,6 @@
   {
     "id": 4761268,
     "title": "Senior Director, Technical Support Engineering",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -1541,7 +1370,6 @@
   {
     "id": 4761603,
     "title": "Senior Analyst, Real Estate",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA; Boston, Massachusetts, USA"
     },
@@ -1550,7 +1378,6 @@
   {
     "id": 4761605,
     "title": "Senior Director, Technical Support Engineering",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "San Francisco, California, USA"
     },
@@ -1559,7 +1386,6 @@
   {
     "id": 4761606,
     "title": "Staff Accountant",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -1568,7 +1394,6 @@
   {
     "id": 4762185,
     "title": "Maintenance Associate",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -1577,7 +1402,6 @@
   {
     "id": 4767880,
     "title": "Customer Success Manager",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Denver, Colorado"
     },
@@ -1586,7 +1410,6 @@
   {
     "id": 4769669,
     "title": "Commercial Account Executive",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Tokyo, Japan"
     },
@@ -1595,7 +1418,6 @@
   {
     "id": 4770368,
     "title": "Services Architect Intern",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -1604,7 +1426,6 @@
   {
     "id": 4770369,
     "title": "Support Operations Engineering Intern",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -1613,7 +1434,6 @@
   {
     "id": 4789693,
     "title": "Enterprise Sales Executive (Illinois)",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Illinois, USA, Remote"
     },
@@ -1622,7 +1442,6 @@
   {
     "id": 4806697,
     "title": "Technical Content Writer",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -1631,7 +1450,6 @@
   {
     "id": 4814547,
     "title": "Strategy and Corporate Development Lead (Europe) ",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; London, United Kingdom"
     },
@@ -1640,7 +1458,6 @@
   {
     "id": 4818795,
     "title": "Enterprise Customer Success Manager",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Denver, Colorado"
     },
@@ -1649,7 +1466,6 @@
   {
     "id": 4822540,
     "title": "Senior Director, Technical Support Engineering",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Boston, Massachusetts, USA"
     },
@@ -1658,7 +1474,6 @@
   {
     "id": 4826460,
     "title": "Senior Full-stack Engineer - Demo Engineering",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "California, USA, Remote"
     },
@@ -1667,7 +1482,6 @@
   {
     "id": 4826532,
     "title": "EMEA Payroll Project Lead",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France "
     },
@@ -1676,7 +1490,6 @@
   {
     "id": 4828205,
     "title": "Product Designer - Cloud Security Management",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Paris, France; Lisbon, Portugal"
     },
@@ -1685,7 +1498,6 @@
   {
     "id": 4828783,
     "title": "Software Engineer - Security of Secrets",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -1694,7 +1506,6 @@
   {
     "id": 4829277,
     "title": "Software Engineer - Security of Secrets",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Boston, Massachusetts, USA"
     },
@@ -1703,7 +1514,6 @@
   {
     "id": 4829278,
     "title": "Software Engineer - Security of Secrets",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Denver, Colorado, USA"
     },
@@ -1712,7 +1522,6 @@
   {
     "id": 4830880,
     "title": "Product Design Manager - APM Core",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -1721,7 +1530,6 @@
   {
     "id": 4831978,
     "title": "Manager, Engineering II - Data Visualization",
-    "updated_at": "2023-01-30T16:36:47-05:00",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -1730,7 +1538,6 @@
   {
     "id": 4833512,
     "title": "Director, Premier Support Engineering",
-    "updated_at": "2023-01-30T15:40:22-05:00",
     "location": {
       "name": "Denver, Colorado, USA"
     },
