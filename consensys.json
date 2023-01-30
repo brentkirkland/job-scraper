@@ -7,6 +7,25 @@
       "child_ids": [],
       "jobs": [
         {
+          "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4672749",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2403043,
+          "location": {
+            "name": "UNITED STATES - Remote"
+          },
+          "metadata": null,
+          "id": 4672749,
+          "updated_at": "2023-01-30T06:05:59-05:00",
+          "requisition_id": "1888",
+          "title": "Product Manager - MetaMask Institutional"
+        },
+        {
           "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4803572",
           "data_compliance": [
             {
