@@ -371,68 +371,6 @@
       "child_ids": [],
       "jobs": [
         {
-          "absolute_url": "https://careers.datadoghq.com/detail/4769669/?gh_jid=4769669",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2437727,
-          "location": {
-            "name": "Tokyo, Japan"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "Full time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Sales - Commercial Sales",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "APAC",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": null,
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": null,
-              "value_type": "currency"
-            }
-          ],
-          "id": 4769669,
-          "updated_at": "2023-01-19T15:27:44-05:00",
-          "requisition_id": "R4032",
-          "title": "Commercial Account Executive"
-        },
-        {
           "absolute_url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
           "data_compliance": [
             {
@@ -498,6 +436,68 @@
           "id": 1694375,
           "updated_at": "2023-01-19T15:26:27-05:00",
           "requisition_id": "R121",
+          "title": "Commercial Account Executive"
+        },
+        {
+          "absolute_url": "https://careers.datadoghq.com/detail/4769669/?gh_jid=4769669",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2437727,
+          "location": {
+            "name": "Tokyo, Japan"
+          },
+          "metadata": [
+            {
+              "id": 33310,
+              "name": "Time Type",
+              "value": "Full time",
+              "value_type": "single_select"
+            },
+            {
+              "id": 166208,
+              "name": "Area - Engineering",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 498252,
+              "name": "Cost Center",
+              "value": "Sales - Commercial Sales",
+              "value_type": "single_select"
+            },
+            {
+              "id": 516515,
+              "name": "Geography",
+              "value": "APAC",
+              "value_type": "single_select"
+            },
+            {
+              "id": 9593635,
+              "name": "Early Career Time Type",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 11038379,
+              "name": "Pay Disclosure Salary Min (US Only)",
+              "value": null,
+              "value_type": "currency"
+            },
+            {
+              "id": 11038395,
+              "name": "Pay Disclosure Salary Max (US Only)",
+              "value": null,
+              "value_type": "currency"
+            }
+          ],
+          "id": 4769669,
+          "updated_at": "2023-01-19T15:27:44-05:00",
+          "requisition_id": "R4032",
           "title": "Commercial Account Executive"
         },
         {
@@ -1109,74 +1109,6 @@
       "child_ids": [],
       "jobs": [
         {
-          "absolute_url": "https://careers.datadoghq.com/detail/4826460/?gh_jid=4826460",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2374752,
-          "location": {
-            "name": "California, USA, Remote"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "Full time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": "Full Stack",
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Engineering - Community",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "North America",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": {
-                "unit": null,
-                "amount": "0.0"
-              },
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": {
-                "unit": null,
-                "amount": "0.0"
-              },
-              "value_type": "currency"
-            }
-          ],
-          "id": 4826460,
-          "updated_at": "2023-01-26T13:03:08-05:00",
-          "requisition_id": null,
-          "title": "Senior Full-stack Engineer - Demo Engineering"
-        },
-        {
           "absolute_url": "https://careers.datadoghq.com/detail/4589389/?gh_jid=4589389",
           "data_compliance": [
             {
@@ -1241,6 +1173,74 @@
           ],
           "id": 4589389,
           "updated_at": "2023-01-26T13:02:55-05:00",
+          "requisition_id": null,
+          "title": "Senior Full-stack Engineer - Demo Engineering"
+        },
+        {
+          "absolute_url": "https://careers.datadoghq.com/detail/4826460/?gh_jid=4826460",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2374752,
+          "location": {
+            "name": "California, USA, Remote"
+          },
+          "metadata": [
+            {
+              "id": 33310,
+              "name": "Time Type",
+              "value": "Full time",
+              "value_type": "single_select"
+            },
+            {
+              "id": 166208,
+              "name": "Area - Engineering",
+              "value": "Full Stack",
+              "value_type": "single_select"
+            },
+            {
+              "id": 498252,
+              "name": "Cost Center",
+              "value": "Engineering - Community",
+              "value_type": "single_select"
+            },
+            {
+              "id": 516515,
+              "name": "Geography",
+              "value": "North America",
+              "value_type": "single_select"
+            },
+            {
+              "id": 9593635,
+              "name": "Early Career Time Type",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 11038379,
+              "name": "Pay Disclosure Salary Min (US Only)",
+              "value": {
+                "unit": null,
+                "amount": "0.0"
+              },
+              "value_type": "currency"
+            },
+            {
+              "id": 11038395,
+              "name": "Pay Disclosure Salary Max (US Only)",
+              "value": {
+                "unit": null,
+                "amount": "0.0"
+              },
+              "value_type": "currency"
+            }
+          ],
+          "id": 4826460,
+          "updated_at": "2023-01-26T13:03:08-05:00",
           "requisition_id": null,
           "title": "Senior Full-stack Engineer - Demo Engineering"
         },
@@ -1479,6 +1479,68 @@
       "child_ids": [],
       "jobs": [
         {
+          "absolute_url": "https://careers.datadoghq.com/detail/4224365/?gh_jid=4224365",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2253573,
+          "location": {
+            "name": "Tokyo, Japan"
+          },
+          "metadata": [
+            {
+              "id": 33310,
+              "name": "Time Type",
+              "value": "Full time",
+              "value_type": "single_select"
+            },
+            {
+              "id": 166208,
+              "name": "Area - Engineering",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 498252,
+              "name": "Cost Center",
+              "value": "Sales - Customer Success",
+              "value_type": "single_select"
+            },
+            {
+              "id": 516515,
+              "name": "Geography",
+              "value": "APAC",
+              "value_type": "single_select"
+            },
+            {
+              "id": 9593635,
+              "name": "Early Career Time Type",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 11038379,
+              "name": "Pay Disclosure Salary Min (US Only)",
+              "value": null,
+              "value_type": "currency"
+            },
+            {
+              "id": 11038395,
+              "name": "Pay Disclosure Salary Max (US Only)",
+              "value": null,
+              "value_type": "currency"
+            }
+          ],
+          "id": 4224365,
+          "updated_at": "2023-01-19T15:26:59-05:00",
+          "requisition_id": "R2754",
+          "title": "Customer Success Manager"
+        },
+        {
           "absolute_url": "https://careers.datadoghq.com/detail/4767880/?gh_jid=4767880",
           "data_compliance": [
             {
@@ -1544,68 +1606,6 @@
           "id": 4767880,
           "updated_at": "2023-01-25T10:20:05-05:00",
           "requisition_id": "R4023",
-          "title": "Customer Success Manager"
-        },
-        {
-          "absolute_url": "https://careers.datadoghq.com/detail/4224365/?gh_jid=4224365",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2253573,
-          "location": {
-            "name": "Tokyo, Japan"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "Full time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Sales - Customer Success",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "APAC",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": null,
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": null,
-              "value_type": "currency"
-            }
-          ],
-          "id": 4224365,
-          "updated_at": "2023-01-19T15:26:59-05:00",
-          "requisition_id": "R2754",
           "title": "Customer Success Manager"
         },
         {
@@ -4301,74 +4301,6 @@
           "title": "Software Engineer - Database Reliability"
         },
         {
-          "absolute_url": "https://careers.datadoghq.com/detail/4144409/?gh_jid=4144409",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2222390,
-          "location": {
-            "name": "New York, New York, USA; Boston, Massachusetts, USA"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "Full time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": "Data Engineering",
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Engineering - Dev Eng",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "North America",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "130000.0"
-              },
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "300000.0"
-              },
-              "value_type": "currency"
-            }
-          ],
-          "id": 4144409,
-          "updated_at": "2023-01-19T15:26:57-05:00",
-          "requisition_id": null,
-          "title": "Software Engineer - Data Infrastructure"
-        },
-        {
           "absolute_url": "https://careers.datadoghq.com/detail/1825918/?gh_jid=1825918",
           "data_compliance": [
             {
@@ -4495,6 +4427,74 @@
           ],
           "id": 4557554,
           "updated_at": "2023-01-19T15:26:58-05:00",
+          "requisition_id": null,
+          "title": "Software Engineer - Data Infrastructure"
+        },
+        {
+          "absolute_url": "https://careers.datadoghq.com/detail/4144409/?gh_jid=4144409",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2222390,
+          "location": {
+            "name": "New York, New York, USA; Boston, Massachusetts, USA"
+          },
+          "metadata": [
+            {
+              "id": 33310,
+              "name": "Time Type",
+              "value": "Full time",
+              "value_type": "single_select"
+            },
+            {
+              "id": 166208,
+              "name": "Area - Engineering",
+              "value": "Data Engineering",
+              "value_type": "single_select"
+            },
+            {
+              "id": 498252,
+              "name": "Cost Center",
+              "value": "Engineering - Dev Eng",
+              "value_type": "single_select"
+            },
+            {
+              "id": 516515,
+              "name": "Geography",
+              "value": "North America",
+              "value_type": "single_select"
+            },
+            {
+              "id": 9593635,
+              "name": "Early Career Time Type",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 11038379,
+              "name": "Pay Disclosure Salary Min (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "130000.0"
+              },
+              "value_type": "currency"
+            },
+            {
+              "id": 11038395,
+              "name": "Pay Disclosure Salary Max (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "300000.0"
+              },
+              "value_type": "currency"
+            }
+          ],
+          "id": 4144409,
+          "updated_at": "2023-01-19T15:26:57-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Data Infrastructure"
         },
@@ -4895,74 +4895,6 @@
           "title": "Software Engineer - Frontend"
         },
         {
-          "absolute_url": "https://careers.datadoghq.com/detail/3056596/?gh_jid=3056596",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 1143187,
-          "location": {
-            "name": "\bNew York, New York, USA; Boston, Massachusetts, USA"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "full-time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": "Infrastructure",
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Engineering - Dev Eng",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "North America",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "130000.0"
-              },
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "300000.0"
-              },
-              "value_type": "currency"
-            }
-          ],
-          "id": 3056596,
-          "updated_at": "2023-01-19T15:26:27-05:00",
-          "requisition_id": null,
-          "title": "Software Engineer - Global Data Platform"
-        },
-        {
           "absolute_url": "https://careers.datadoghq.com/detail/2292480/?gh_jid=2292480",
           "data_compliance": [
             {
@@ -5027,6 +4959,74 @@
           ],
           "id": 2292480,
           "updated_at": "2023-01-19T15:26:29-05:00",
+          "requisition_id": null,
+          "title": "Software Engineer - Global Data Platform"
+        },
+        {
+          "absolute_url": "https://careers.datadoghq.com/detail/3056596/?gh_jid=3056596",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 1143187,
+          "location": {
+            "name": "\bNew York, New York, USA; Boston, Massachusetts, USA"
+          },
+          "metadata": [
+            {
+              "id": 33310,
+              "name": "Time Type",
+              "value": "full-time",
+              "value_type": "single_select"
+            },
+            {
+              "id": 166208,
+              "name": "Area - Engineering",
+              "value": "Infrastructure",
+              "value_type": "single_select"
+            },
+            {
+              "id": 498252,
+              "name": "Cost Center",
+              "value": "Engineering - Dev Eng",
+              "value_type": "single_select"
+            },
+            {
+              "id": 516515,
+              "name": "Geography",
+              "value": "North America",
+              "value_type": "single_select"
+            },
+            {
+              "id": 9593635,
+              "name": "Early Career Time Type",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 11038379,
+              "name": "Pay Disclosure Salary Min (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "130000.0"
+              },
+              "value_type": "currency"
+            },
+            {
+              "id": 11038395,
+              "name": "Pay Disclosure Salary Max (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "300000.0"
+              },
+              "value_type": "currency"
+            }
+          ],
+          "id": 3056596,
+          "updated_at": "2023-01-19T15:26:27-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Global Data Platform"
         },
@@ -5557,74 +5557,6 @@
           "title": "Software Engineer - Resilience"
         },
         {
-          "absolute_url": "https://careers.datadoghq.com/detail/4452892/?gh_jid=4452892",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2116194,
-          "location": {
-            "name": "New York, New York, USA"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "Full time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": "Infrastructure",
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Engineering - Dev Eng",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "North America",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "130000.0"
-              },
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "300000.0"
-              },
-              "value_type": "currency"
-            }
-          ],
-          "id": 4452892,
-          "updated_at": "2023-01-26T10:53:52-05:00",
-          "requisition_id": null,
-          "title": "Software Engineer - Site Reliability"
-        },
-        {
           "absolute_url": "https://careers.datadoghq.com/detail/4452817/?gh_jid=4452817",
           "data_compliance": [
             {
@@ -5751,6 +5683,74 @@
           ],
           "id": 1826047,
           "updated_at": "2023-01-19T15:26:26-05:00",
+          "requisition_id": null,
+          "title": "Software Engineer - Site Reliability"
+        },
+        {
+          "absolute_url": "https://careers.datadoghq.com/detail/4452892/?gh_jid=4452892",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2116194,
+          "location": {
+            "name": "New York, New York, USA"
+          },
+          "metadata": [
+            {
+              "id": 33310,
+              "name": "Time Type",
+              "value": "Full time",
+              "value_type": "single_select"
+            },
+            {
+              "id": 166208,
+              "name": "Area - Engineering",
+              "value": "Infrastructure",
+              "value_type": "single_select"
+            },
+            {
+              "id": 498252,
+              "name": "Cost Center",
+              "value": "Engineering - Dev Eng",
+              "value_type": "single_select"
+            },
+            {
+              "id": 516515,
+              "name": "Geography",
+              "value": "North America",
+              "value_type": "single_select"
+            },
+            {
+              "id": 9593635,
+              "name": "Early Career Time Type",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 11038379,
+              "name": "Pay Disclosure Salary Min (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "130000.0"
+              },
+              "value_type": "currency"
+            },
+            {
+              "id": 11038395,
+              "name": "Pay Disclosure Salary Max (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "300000.0"
+              },
+              "value_type": "currency"
+            }
+          ],
+          "id": 4452892,
+          "updated_at": "2023-01-26T10:53:52-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Site Reliability"
         },
@@ -6674,74 +6674,6 @@
           "title": "Senior Event Marketing Manager"
         },
         {
-          "absolute_url": "https://careers.datadoghq.com/detail/3962108/?gh_jid=3962108",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2157477,
-          "location": {
-            "name": "California, USA, Remote"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "Full time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Marketing - Field Marketing",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "North America",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "118000.0"
-              },
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "157000.0"
-              },
-              "value_type": "currency"
-            }
-          ],
-          "id": 3962108,
-          "updated_at": "2023-01-27T18:41:27-05:00",
-          "requisition_id": "R2163",
-          "title": "Senior Field Marketing Manager - West"
-        },
-        {
           "absolute_url": "https://careers.datadoghq.com/detail/3971933/?gh_jid=3971933",
           "data_compliance": [
             {
@@ -6806,6 +6738,74 @@
           ],
           "id": 3971933,
           "updated_at": "2023-01-27T18:42:40-05:00",
+          "requisition_id": "R2163",
+          "title": "Senior Field Marketing Manager - West"
+        },
+        {
+          "absolute_url": "https://careers.datadoghq.com/detail/3962108/?gh_jid=3962108",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2157477,
+          "location": {
+            "name": "California, USA, Remote"
+          },
+          "metadata": [
+            {
+              "id": 33310,
+              "name": "Time Type",
+              "value": "Full time",
+              "value_type": "single_select"
+            },
+            {
+              "id": 166208,
+              "name": "Area - Engineering",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 498252,
+              "name": "Cost Center",
+              "value": "Marketing - Field Marketing",
+              "value_type": "single_select"
+            },
+            {
+              "id": 516515,
+              "name": "Geography",
+              "value": "North America",
+              "value_type": "single_select"
+            },
+            {
+              "id": 9593635,
+              "name": "Early Career Time Type",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 11038379,
+              "name": "Pay Disclosure Salary Min (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "118000.0"
+              },
+              "value_type": "currency"
+            },
+            {
+              "id": 11038395,
+              "name": "Pay Disclosure Salary Max (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "157000.0"
+              },
+              "value_type": "currency"
+            }
+          ],
+          "id": 3962108,
+          "updated_at": "2023-01-27T18:41:27-05:00",
           "requisition_id": "R2163",
           "title": "Senior Field Marketing Manager - West"
         }
@@ -7332,74 +7332,6 @@
           "title": "Group Product Manager - Serverless"
         },
         {
-          "absolute_url": "https://careers.datadoghq.com/detail/3976237/?gh_jid=3976237",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2162854,
-          "location": {
-            "name": "New York, New York, USA; Boston, Massachusetts, USA; San Francisco, California, USA"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "Full time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": "Product Management",
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Engineering - Product Management",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "North America",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "272000.0"
-              },
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "400000.0"
-              },
-              "value_type": "currency"
-            }
-          ],
-          "id": 3976237,
-          "updated_at": "2023-01-19T15:26:54-05:00",
-          "requisition_id": null,
-          "title": "Head of Product, CSPM"
-        },
-        {
           "absolute_url": "https://careers.datadoghq.com/detail/4382032/?gh_jid=4382032",
           "data_compliance": [
             {
@@ -7463,6 +7395,74 @@
             }
           ],
           "id": 4382032,
+          "updated_at": "2023-01-19T15:26:54-05:00",
+          "requisition_id": null,
+          "title": "Head of Product, CSPM"
+        },
+        {
+          "absolute_url": "https://careers.datadoghq.com/detail/3976237/?gh_jid=3976237",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2162854,
+          "location": {
+            "name": "New York, New York, USA; Boston, Massachusetts, USA; San Francisco, California, USA"
+          },
+          "metadata": [
+            {
+              "id": 33310,
+              "name": "Time Type",
+              "value": "Full time",
+              "value_type": "single_select"
+            },
+            {
+              "id": 166208,
+              "name": "Area - Engineering",
+              "value": "Product Management",
+              "value_type": "single_select"
+            },
+            {
+              "id": 498252,
+              "name": "Cost Center",
+              "value": "Engineering - Product Management",
+              "value_type": "single_select"
+            },
+            {
+              "id": 516515,
+              "name": "Geography",
+              "value": "North America",
+              "value_type": "single_select"
+            },
+            {
+              "id": 9593635,
+              "name": "Early Career Time Type",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 11038379,
+              "name": "Pay Disclosure Salary Min (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "272000.0"
+              },
+              "value_type": "currency"
+            },
+            {
+              "id": 11038395,
+              "name": "Pay Disclosure Salary Max (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "400000.0"
+              },
+              "value_type": "currency"
+            }
+          ],
+          "id": 3976237,
           "updated_at": "2023-01-19T15:26:54-05:00",
           "requisition_id": null,
           "title": "Head of Product, CSPM"
@@ -9084,142 +9084,6 @@
           "title": "Senior Product Manager - CI/CD Pipeline Visibility"
         },
         {
-          "absolute_url": "https://careers.datadoghq.com/detail/4517513/?gh_jid=4517513",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2352279,
-          "location": {
-            "name": "New York, New York, USA; Boston, Massachusetts, USA; San Francisco, California, USA; Seattle, Washington, USA"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "Full time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": "Product Management",
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Engineering - Product Management",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "North America",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "187000.0"
-              },
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "240000.0"
-              },
-              "value_type": "currency"
-            }
-          ],
-          "id": 4517513,
-          "updated_at": "2023-01-19T15:27:22-05:00",
-          "requisition_id": null,
-          "title": "Senior Product Manager - Cloud Security Products (Detection PM)"
-        },
-        {
-          "absolute_url": "https://careers.datadoghq.com/detail/4524224/?gh_jid=4524224",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2354666,
-          "location": {
-            "name": "New York, New York, USA; Boston, Massachusetts, USA; San Francisco, California, USA; Seattle, Washington, USA"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "Full time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": "Product Management",
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Engineering - Product Management",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "North America",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "187000.0"
-              },
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "240000.0"
-              },
-              "value_type": "currency"
-            }
-          ],
-          "id": 4524224,
-          "updated_at": "2023-01-19T15:27:23-05:00",
-          "requisition_id": null,
-          "title": "Senior Product Manager - CNAPP Vulnerability Management"
-        },
-        {
           "absolute_url": "https://careers.datadoghq.com/detail/4524266/?gh_jid=4524266",
           "data_compliance": [
             {
@@ -9626,74 +9490,6 @@
           "updated_at": "2023-01-19T15:27:38-05:00",
           "requisition_id": null,
           "title": "Senior Product Manager - Service Management"
-        },
-        {
-          "absolute_url": "https://careers.datadoghq.com/detail/4517720/?gh_jid=4517720",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2352360,
-          "location": {
-            "name": "New York, New York, USA; Boston, Massachusetts, USA; San Francisco, California, USA; Seattle, Washington, USA"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "Full time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": "Product Management",
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Engineering - Product Management",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "North America",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "234000.0"
-              },
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "300000.0"
-              },
-              "value_type": "currency"
-            }
-          ],
-          "id": 4517720,
-          "updated_at": "2023-01-19T15:27:23-05:00",
-          "requisition_id": null,
-          "title": "Staff Product Manager - Cloud Security Products"
         }
       ]
     },
@@ -10610,74 +10406,6 @@
           "title": "Director, Sales Engineering (Customer Success)"
         },
         {
-          "absolute_url": "https://careers.datadoghq.com/detail/4725019/?gh_jid=4725019",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2417404,
-          "location": {
-            "name": "St. Louis, Missouri, USA"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "Full time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Technical Solutions - Sales Engineering",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "North America",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "98000.0"
-              },
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "143000.0"
-              },
-              "value_type": "currency"
-            }
-          ],
-          "id": 4725019,
-          "updated_at": "2023-01-26T16:24:11-05:00",
-          "requisition_id": "R3886",
-          "title": "Enterprise Sales Engineer"
-        },
-        {
           "absolute_url": "https://careers.datadoghq.com/detail/4714266/?gh_jid=4714266",
           "data_compliance": [
             {
@@ -10746,7 +10474,7 @@
           "title": "Enterprise Sales Engineer"
         },
         {
-          "absolute_url": "https://careers.datadoghq.com/detail/4724998/?gh_jid=4724998",
+          "absolute_url": "https://careers.datadoghq.com/detail/4725019/?gh_jid=4725019",
           "data_compliance": [
             {
               "type": "gdpr",
@@ -10756,7 +10484,7 @@
           ],
           "internal_job_id": 2417404,
           "location": {
-            "name": "Milwaukee, Wisconsin, USA"
+            "name": "St. Louis, Missouri, USA"
           },
           "metadata": [
             {
@@ -10808,7 +10536,7 @@
               "value_type": "currency"
             }
           ],
-          "id": 4724998,
+          "id": 4725019,
           "updated_at": "2023-01-26T16:24:11-05:00",
           "requisition_id": "R3886",
           "title": "Enterprise Sales Engineer"
@@ -10877,6 +10605,74 @@
             }
           ],
           "id": 4725000,
+          "updated_at": "2023-01-26T16:24:11-05:00",
+          "requisition_id": "R3886",
+          "title": "Enterprise Sales Engineer"
+        },
+        {
+          "absolute_url": "https://careers.datadoghq.com/detail/4724998/?gh_jid=4724998",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2417404,
+          "location": {
+            "name": "Milwaukee, Wisconsin, USA"
+          },
+          "metadata": [
+            {
+              "id": 33310,
+              "name": "Time Type",
+              "value": "Full time",
+              "value_type": "single_select"
+            },
+            {
+              "id": 166208,
+              "name": "Area - Engineering",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 498252,
+              "name": "Cost Center",
+              "value": "Technical Solutions - Sales Engineering",
+              "value_type": "single_select"
+            },
+            {
+              "id": 516515,
+              "name": "Geography",
+              "value": "North America",
+              "value_type": "single_select"
+            },
+            {
+              "id": 9593635,
+              "name": "Early Career Time Type",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 11038379,
+              "name": "Pay Disclosure Salary Min (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "98000.0"
+              },
+              "value_type": "currency"
+            },
+            {
+              "id": 11038395,
+              "name": "Pay Disclosure Salary Max (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "143000.0"
+              },
+              "value_type": "currency"
+            }
+          ],
+          "id": 4724998,
           "updated_at": "2023-01-26T16:24:11-05:00",
           "requisition_id": "R3886",
           "title": "Enterprise Sales Engineer"
@@ -11512,74 +11308,6 @@
       "child_ids": [],
       "jobs": [
         {
-          "absolute_url": "https://careers.datadoghq.com/detail/4829278/?gh_jid=4829278",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2461842,
-          "location": {
-            "name": "Denver, Colorado, USA"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "Full time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": "Global Information Security",
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Engineering - Security",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "North America",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": {
-                "unit": null,
-                "amount": "0.0"
-              },
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": {
-                "unit": null,
-                "amount": "0.0"
-              },
-              "value_type": "currency"
-            }
-          ],
-          "id": 4829278,
-          "updated_at": "2023-01-27T14:00:41-05:00",
-          "requisition_id": null,
-          "title": "Software Engineer - Security of Secrets"
-        },
-        {
           "absolute_url": "https://careers.datadoghq.com/detail/4828783/?gh_jid=4828783",
           "data_compliance": [
             {
@@ -11644,6 +11372,74 @@
           ],
           "id": 4828783,
           "updated_at": "2023-01-27T14:00:40-05:00",
+          "requisition_id": null,
+          "title": "Software Engineer - Security of Secrets"
+        },
+        {
+          "absolute_url": "https://careers.datadoghq.com/detail/4829278/?gh_jid=4829278",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2461842,
+          "location": {
+            "name": "Denver, Colorado, USA"
+          },
+          "metadata": [
+            {
+              "id": 33310,
+              "name": "Time Type",
+              "value": "Full time",
+              "value_type": "single_select"
+            },
+            {
+              "id": 166208,
+              "name": "Area - Engineering",
+              "value": "Global Information Security",
+              "value_type": "single_select"
+            },
+            {
+              "id": 498252,
+              "name": "Cost Center",
+              "value": "Engineering - Security",
+              "value_type": "single_select"
+            },
+            {
+              "id": 516515,
+              "name": "Geography",
+              "value": "North America",
+              "value_type": "single_select"
+            },
+            {
+              "id": 9593635,
+              "name": "Early Career Time Type",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 11038379,
+              "name": "Pay Disclosure Salary Min (US Only)",
+              "value": {
+                "unit": null,
+                "amount": "0.0"
+              },
+              "value_type": "currency"
+            },
+            {
+              "id": 11038395,
+              "name": "Pay Disclosure Salary Max (US Only)",
+              "value": {
+                "unit": null,
+                "amount": "0.0"
+              },
+              "value_type": "currency"
+            }
+          ],
+          "id": 4829278,
+          "updated_at": "2023-01-27T14:00:41-05:00",
           "requisition_id": null,
           "title": "Software Engineer - Security of Secrets"
         },
@@ -11724,6 +11520,74 @@
       "child_ids": [],
       "jobs": [
         {
+          "absolute_url": "https://careers.datadoghq.com/detail/4447326/?gh_jid=4447326",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 2328352,
+          "location": {
+            "name": "Atlanta, Georgia, USA"
+          },
+          "metadata": [
+            {
+              "id": 33310,
+              "name": "Time Type",
+              "value": "Full time",
+              "value_type": "single_select"
+            },
+            {
+              "id": 166208,
+              "name": "Area - Engineering",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 498252,
+              "name": "Cost Center",
+              "value": "Technical Solutions - Solutions Engineering",
+              "value_type": "single_select"
+            },
+            {
+              "id": 516515,
+              "name": "Geography",
+              "value": "North America",
+              "value_type": "single_select"
+            },
+            {
+              "id": 9593635,
+              "name": "Early Career Time Type",
+              "value": null,
+              "value_type": "single_select"
+            },
+            {
+              "id": 11038379,
+              "name": "Pay Disclosure Salary Min (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "174000.0"
+              },
+              "value_type": "currency"
+            },
+            {
+              "id": 11038395,
+              "name": "Pay Disclosure Salary Max (US Only)",
+              "value": {
+                "unit": "USD",
+                "amount": "255000.0"
+              },
+              "value_type": "currency"
+            }
+          ],
+          "id": 4447326,
+          "updated_at": "2023-01-19T15:27:10-05:00",
+          "requisition_id": "R3349",
+          "title": "Director, Premier Support Engineering"
+        },
+        {
           "absolute_url": "https://careers.datadoghq.com/detail/4449599/?gh_jid=4449599",
           "data_compliance": [
             {
@@ -11792,7 +11656,7 @@
           "title": "Director, Premier Support Engineering"
         },
         {
-          "absolute_url": "https://careers.datadoghq.com/detail/4833512/?gh_jid=4833512",
+          "absolute_url": "https://careers.datadoghq.com/detail/4449601/?gh_jid=4449601",
           "data_compliance": [
             {
               "type": "gdpr",
@@ -11802,7 +11666,7 @@
           ],
           "internal_job_id": 2328352,
           "location": {
-            "name": "Denver, Colorado, USA"
+            "name": "San Francisco, California, USA"
           },
           "metadata": [
             {
@@ -11854,76 +11718,8 @@
               "value_type": "currency"
             }
           ],
-          "id": 4833512,
-          "updated_at": "2023-01-30T10:13:37-05:00",
-          "requisition_id": "R3349",
-          "title": "Director, Premier Support Engineering"
-        },
-        {
-          "absolute_url": "https://careers.datadoghq.com/detail/4447326/?gh_jid=4447326",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2328352,
-          "location": {
-            "name": "Atlanta, Georgia, USA"
-          },
-          "metadata": [
-            {
-              "id": 33310,
-              "name": "Time Type",
-              "value": "Full time",
-              "value_type": "single_select"
-            },
-            {
-              "id": 166208,
-              "name": "Area - Engineering",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 498252,
-              "name": "Cost Center",
-              "value": "Technical Solutions - Solutions Engineering",
-              "value_type": "single_select"
-            },
-            {
-              "id": 516515,
-              "name": "Geography",
-              "value": "North America",
-              "value_type": "single_select"
-            },
-            {
-              "id": 9593635,
-              "name": "Early Career Time Type",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 11038379,
-              "name": "Pay Disclosure Salary Min (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "174000.0"
-              },
-              "value_type": "currency"
-            },
-            {
-              "id": 11038395,
-              "name": "Pay Disclosure Salary Max (US Only)",
-              "value": {
-                "unit": "USD",
-                "amount": "255000.0"
-              },
-              "value_type": "currency"
-            }
-          ],
-          "id": 4447326,
-          "updated_at": "2023-01-19T15:27:10-05:00",
+          "id": 4449601,
+          "updated_at": "2023-01-19T15:27:11-05:00",
           "requisition_id": "R3349",
           "title": "Director, Premier Support Engineering"
         },
@@ -11996,7 +11792,7 @@
           "title": "Director, Premier Support Engineering"
         },
         {
-          "absolute_url": "https://careers.datadoghq.com/detail/4449601/?gh_jid=4449601",
+          "absolute_url": "https://careers.datadoghq.com/detail/4833512/?gh_jid=4833512",
           "data_compliance": [
             {
               "type": "gdpr",
@@ -12006,7 +11802,7 @@
           ],
           "internal_job_id": 2328352,
           "location": {
-            "name": "San Francisco, California, USA"
+            "name": "Denver, Colorado, USA"
           },
           "metadata": [
             {
@@ -12058,8 +11854,8 @@
               "value_type": "currency"
             }
           ],
-          "id": 4449601,
-          "updated_at": "2023-01-19T15:27:11-05:00",
+          "id": 4833512,
+          "updated_at": "2023-01-30T10:13:37-05:00",
           "requisition_id": "R3349",
           "title": "Director, Premier Support Engineering"
         },
@@ -12200,7 +11996,7 @@
           "title": "Manager 1, Technical Escalations Engineer - New York"
         },
         {
-          "absolute_url": "https://careers.datadoghq.com/detail/4761605/?gh_jid=4761605",
+          "absolute_url": "https://careers.datadoghq.com/detail/4822540/?gh_jid=4822540",
           "data_compliance": [
             {
               "type": "gdpr",
@@ -12210,7 +12006,7 @@
           ],
           "internal_job_id": 2434555,
           "location": {
-            "name": "San Francisco, California, USA"
+            "name": "Boston, Massachusetts, USA"
           },
           "metadata": [
             {
@@ -12262,8 +12058,8 @@
               "value_type": "currency"
             }
           ],
-          "id": 4761605,
-          "updated_at": "2023-01-19T15:27:44-05:00",
+          "id": 4822540,
+          "updated_at": "2023-01-23T16:22:42-05:00",
           "requisition_id": "R4016",
           "title": "Senior Director, Technical Support Engineering"
         },
@@ -12336,7 +12132,7 @@
           "title": "Senior Director, Technical Support Engineering"
         },
         {
-          "absolute_url": "https://careers.datadoghq.com/detail/4822540/?gh_jid=4822540",
+          "absolute_url": "https://careers.datadoghq.com/detail/4761605/?gh_jid=4761605",
           "data_compliance": [
             {
               "type": "gdpr",
@@ -12346,7 +12142,7 @@
           ],
           "internal_job_id": 2434555,
           "location": {
-            "name": "Boston, Massachusetts, USA"
+            "name": "San Francisco, California, USA"
           },
           "metadata": [
             {
@@ -12398,8 +12194,8 @@
               "value_type": "currency"
             }
           ],
-          "id": 4822540,
-          "updated_at": "2023-01-23T16:22:42-05:00",
+          "id": 4761605,
+          "updated_at": "2023-01-19T15:27:44-05:00",
           "requisition_id": "R4016",
           "title": "Senior Director, Technical Support Engineering"
         },
@@ -12738,7 +12534,7 @@
           "title": "Staff Technical Escalations Engineer (Syn/RUM)"
         },
         {
-          "absolute_url": "https://careers.datadoghq.com/detail/4748182/?gh_jid=4748182",
+          "absolute_url": "https://careers.datadoghq.com/detail/4748183/?gh_jid=4748183",
           "data_compliance": [
             {
               "type": "gdpr",
@@ -12748,7 +12544,7 @@
           ],
           "internal_job_id": 2401278,
           "location": {
-            "name": "Boston, Massachusetts, USA"
+            "name": "Atlanta, Georgia, USA"
           },
           "metadata": [
             {
@@ -12800,7 +12596,7 @@
               "value_type": "currency"
             }
           ],
-          "id": 4748182,
+          "id": 4748183,
           "updated_at": "2023-01-19T15:27:31-05:00",
           "requisition_id": "R3798",
           "title": "Staff Technical Escalations Engineer (Syn/RUM)"
@@ -12874,7 +12670,7 @@
           "title": "Staff Technical Escalations Engineer (Syn/RUM)"
         },
         {
-          "absolute_url": "https://careers.datadoghq.com/detail/4748183/?gh_jid=4748183",
+          "absolute_url": "https://careers.datadoghq.com/detail/4748182/?gh_jid=4748182",
           "data_compliance": [
             {
               "type": "gdpr",
@@ -12884,7 +12680,7 @@
           ],
           "internal_job_id": 2401278,
           "location": {
-            "name": "Atlanta, Georgia, USA"
+            "name": "Boston, Massachusetts, USA"
           },
           "metadata": [
             {
@@ -12936,7 +12732,7 @@
               "value_type": "currency"
             }
           ],
-          "id": 4748183,
+          "id": 4748182,
           "updated_at": "2023-01-19T15:27:31-05:00",
           "requisition_id": "R3798",
           "title": "Staff Technical Escalations Engineer (Syn/RUM)"
