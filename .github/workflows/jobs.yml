@@ -18,15 +18,15 @@ jobs:
     steps:
       - name: Check out this repo
         uses: actions/checkout@v3
-      - name: Install rust
-        uses: actions-rs/toolchain@v1
-        with:
-          toolchain: stable
-      - name: Install htmlq
-        uses: actions-rs/cargo@v1
-        with:
-          command: install
-          args: htmlq
+      # - name: Install rust
+      #   uses: actions-rs/toolchain@v1
+      #   with:
+      #     toolchain: stable
+      # - name: Install htmlq
+      #   uses: actions-rs/cargo@v1
+      #   with:
+      #     command: install
+      #     args: htmlq
       - name: Fetch latest data
         run: |-
           curl --silent  https://api.greenhouse.io/v1/boards/alchemy/embed/departments | jq -r '[.departments[].jobs[]|{id:.id,title,updated_at,location,absolute_url}]|sort_by(.id)' > alchemy.json
