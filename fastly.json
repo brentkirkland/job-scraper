@@ -1,1995 +1,488 @@
-{
-  "departments": [
-    {
-      "id": 69849,
-      "name": "Accounting",
-      "parent_id": 611,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4794031",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2447706,
-          "location": {
-            "name": "San Francisco, CA"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4794031,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-023",
-          "title": "Director, Accounting"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4521876",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2353808,
-          "location": {
-            "name": "San Francisco, CA"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4521876,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "22-396",
-          "title": "Global Sales Compensation Manager"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4795116",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2448183,
-          "location": {
-            "name": "San Francisco, CA"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4795116,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-021",
-          "title": "Global Sales Compensation Systems Manager"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4790918",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2446459,
-          "location": {
-            "name": "San Francisco, CA"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4790918,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "22-024",
-          "title": "Senior Manager, Accounting"
-        }
-      ]
-    },
-    {
-      "id": 69871,
-      "name": "Account Management",
-      "parent_id": 812,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 69857,
-      "name": "Administration (Operations)",
-      "parent_id": 56955,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 69854,
-      "name": "Administration (Trust)",
-      "parent_id": 69271,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 50979,
-      "name": "Business Systems",
-      "parent_id": 87090,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4747701",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2429421,
-          "location": {
-            "name": "Canada (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4747701,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-002",
-          "title": "Salesforce Developer"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4747700",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2429421,
-          "location": {
-            "name": "US (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4747700,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-002",
-          "title": "Salesforce Developer"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4782427",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2442858,
-          "location": {
-            "name": "US (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4782427,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-020",
-          "title": "Senior Finance Systems Analyst (Order to Cash)"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4748271",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2429680,
-          "location": {
-            "name": "Canada (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4748271,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-001",
-          "title": "Senior Salesforce Developer"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4748270",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2429680,
-          "location": {
-            "name": "US (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4748270,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-001",
-          "title": "Senior Salesforce Developer"
-        }
-      ]
-    },
-    {
-      "id": 69853,
-      "name": "Certainly - DO NOT USE",
-      "parent_id": 56965,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 812,
-      "name": "Client Services",
-      "parent_id": null,
-      "child_ids": [
-        69871,
-        69876,
-        78139,
-        74262,
-        69873,
-        54965,
-        69872,
-        69875,
-        71538
-      ],
-      "jobs": []
-    },
-    {
-      "id": 69876,
-      "name": "Cloud Engineering",
-      "parent_id": 812,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 87712,
-      "name": "Commercial Sales",
-      "parent_id": 65798,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4828796",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2461846,
-          "location": {
-            "name": "San Francisco, CA"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4828796,
-          "updated_at": "2023-01-30T14:13:47-05:00",
-          "requisition_id": "23-079",
-          "title": "SMB Account Executive"
-        }
-      ]
-    },
-    {
-      "id": 61020,
-      "name": "Compliance",
-      "parent_id": 69271,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4632215",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2389100,
-          "location": {
-            "name": "US (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4632215,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "22-430",
-          "title": "Data Governance Manager"
-        }
-      ]
-    },
-    {
-      "id": 87085,
-      "name": "Compute Engineering",
-      "parent_id": 605,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4801593",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2450399,
-          "location": {
-            "name": "US (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4801593,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-013",
-          "title": "Principal Software Engineer - Language Runtimes"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4801594",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2450399,
-          "location": {
-            "name": "Canada (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4801594,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-013",
-          "title": "Principal Software Engineer - Language Runtimes"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4732318",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2423697,
-          "location": {
-            "name": "US (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4732318,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "22-444",
-          "title": "Staff Frontend Engineer"
-        }
-      ]
-    },
-    {
-      "id": 87088,
-      "name": "Core Systems Engineering",
-      "parent_id": 605,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4819921",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "education": "education_required",
-          "internal_job_id": 2458183,
-          "location": {
-            "name": "San Francisco, CA"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4819921,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-042",
-          "title": "Software Engineer, Summer Undergraduate Intern"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4795767",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2448324,
-          "location": {
-            "name": "Canada (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4795767,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-014",
-          "title": "Staff Software Engineer - Observability Products"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4795768",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2448324,
-          "location": {
-            "name": "US (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4795768,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-014",
-          "title": "Staff Software Engineer - Observability Products"
-        }
-      ]
-    },
-    {
-      "id": 60720,
-      "name": "Corporate Development",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 69855,
-      "name": "Corporate Marketing",
-      "parent_id": 609,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 78139,
-      "name": "Customer Security Operations Center",
-      "parent_id": 812,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 74262,
-      "name": "Customer Security Solutions",
-      "parent_id": 812,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4800912",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2450255,
-          "location": {
-            "name": "London, United Kingdom"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4800912,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-008",
-          "title": "Senior Security Technical Account Manager"
-        }
-      ]
-    },
-    {
-      "id": 69873,
-      "name": "CX Program Management",
-      "parent_id": 812,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4794195",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2447722,
-          "location": {
-            "name": "US (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4794195,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-006",
-          "title": "Incident Responder"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4794078",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2447722,
-          "location": {
-            "name": "US West (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4794078,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-006",
-          "title": "Incident Responder"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4797108",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2448923,
-          "location": {
-            "name": "Madrid, Spain"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4797108,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-010",
-          "title": "Program Manager, Customer Experience - Spanish Speaking"
-        }
-      ]
-    },
-    {
-      "id": 56959,
-      "name": "Deal Strategy",
-      "parent_id": 611,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 56964,
-      "name": "Edge Engineering - DO NOT USE",
-      "parent_id": 605,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 69862,
-      "name": "EMEA Sales",
-      "parent_id": 65798,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 69863,
-      "name": "Emerging Market Sales",
-      "parent_id": 65798,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4832448",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2463352,
-          "location": {
-            "name": "Singapore (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4832448,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-063",
-          "title": "Account Executive - ASEAN"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4828640",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2461804,
-          "location": {
-            "name": "Singapore (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4828640,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-062",
-          "title": "Senior Account Executive - ASEAN"
-        }
-      ]
-    },
-    {
-      "id": 605,
-      "name": "Engineering",
-      "parent_id": null,
-      "child_ids": [
-        87085,
-        87088,
-        56964,
-        87087,
-        69874,
-        87084,
-        56962,
-        56966,
-        87086,
-        56967
-      ],
-      "jobs": []
-    },
-    {
-      "id": 69864,
-      "name": "Enterprise Sales",
-      "parent_id": 65798,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4829274",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2462047,
-          "location": {
-            "name": "San Francisco, CA"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4829274,
-          "updated_at": "2023-01-30T14:16:09-05:00",
-          "requisition_id": "23-065",
-          "title": "Enterprise Senior Account Executive"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4831675",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2463008,
-          "location": {
-            "name": "US East (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4831675,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-077",
-          "title": "Senior Account Executive - Commercial"
-        }
-      ]
-    },
-    {
-      "id": 70471,
-      "name": "Field Marketing",
-      "parent_id": 609,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 611,
-      "name": "Finance",
-      "parent_id": null,
-      "child_ids": [
-        69849,
-        56959,
-        69850
-      ],
-      "jobs": []
-    },
-    {
-      "id": 69850,
-      "name": "Finance ",
-      "parent_id": 611,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 87087,
-      "name": "Foundation Engineering",
-      "parent_id": 605,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 75055,
-      "name": "Go-To-Market Systems",
-      "parent_id": 87090,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 69856,
-      "name": "Growth Marketing",
-      "parent_id": 609,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 606,
-      "name": "Human Resources",
-      "parent_id": 56958,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 44449,
-      "name": "Incubator",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 69865,
-      "name": "Indirect Sales",
-      "parent_id": 65798,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 57777,
-      "name": "Information Security",
-      "parent_id": 69271,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4829951",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2462323,
-          "location": {
-            "name": "US (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4829951,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-076",
-          "title": "Senior Technology Compliance Analyst"
-        }
-      ]
-    },
-    {
-      "id": 815,
-      "name": "Information Technology",
-      "parent_id": 87090,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 56965,
-      "name": "Infrastructure",
-      "parent_id": null,
-      "child_ids": [
-        69853,
-        69851,
-        69852
-      ],
-      "jobs": []
-    },
-    {
-      "id": 69851,
-      "name": "Infrastructure - COR",
-      "parent_id": 56965,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 69852,
-      "name": "Infrastructure - R&D - DO NOT USE",
-      "parent_id": 56965,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 69866,
-      "name": "Inside Sales",
-      "parent_id": 65798,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4829853",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2462274,
-          "location": {
-            "name": "San Francisco, CA"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4829853,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-081",
-          "title": "Sales Development Representative "
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4831403",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2462890,
-          "location": {
-            "name": "New York City, NY"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4831403,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-068",
-          "title": "Sales Development Representative "
-        }
-      ]
-    },
-    {
-      "id": 87090,
-      "name": "IT / Business Systems",
-      "parent_id": null,
-      "child_ids": [
-        50979,
-        75055,
-        815
-      ],
-      "jobs": []
-    },
-    {
-      "id": 69867,
-      "name": "Japan Sales",
-      "parent_id": 65798,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 1192,
-      "name": "Law",
-      "parent_id": 69271,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 65079,
-      "name": "Legacy (Archive)",
-      "parent_id": null,
-      "child_ids": [
-        72139
-      ],
-      "jobs": []
-    },
-    {
-      "id": 609,
-      "name": "Marketing",
-      "parent_id": null,
-      "child_ids": [
-        69855,
-        70471,
-        69856,
-        69860
-      ],
-      "jobs": []
-    },
-    {
-      "id": 69868,
-      "name": "Media & Entertainment",
-      "parent_id": 65798,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4824597",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2460266,
-          "location": {
-            "name": "US West (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4824597,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-067",
-          "title": "SMB Account Executive"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4825982",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2460871,
-          "location": {
-            "name": "US Central (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4825982,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-066",
-          "title": "SMB Account Executive - Media"
-        }
-      ]
-    },
-    {
-      "id": 69874,
-      "name": "Mission Control",
-      "parent_id": 605,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 87084,
-      "name": "Network Systems",
-      "parent_id": 605,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4800833",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2450236,
-          "location": {
-            "name": "US (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4800833,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-012",
-          "title": "Senior Software Engineer, Infrastructure Tools"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4800711",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2450236,
-          "location": {
-            "name": "US East (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4800711,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-012",
-          "title": "Senior Software Engineer, Infrastructure Tools"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4715604",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2418005,
-          "location": {
-            "name": "US (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4715604,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "22-448",
-          "title": "Senior Software Engineer - Network Control and Optimization"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4798973",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2449704,
-          "location": {
-            "name": "US (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4798973,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-015",
-          "title": "Staff Software Engineer, Edge Delivery"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4798976",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2449704,
-          "location": {
-            "name": "Canada (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4798976,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-015",
-          "title": "Staff Software Engineer, Edge Delivery"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4764373",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2434826,
-          "location": {
-            "name": "San Francisco, CA"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4764373,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "22-447",
-          "title": "Staff Software Engineer - Edge Protocols"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4828292",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2434826,
-          "location": {
-            "name": "Singapore (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4828292,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "22-447",
-          "title": "Staff Software Engineer - Edge Protocols"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4828293",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2434826,
-          "location": {
-            "name": "Australia (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4828293,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "22-447",
-          "title": "Staff Software Engineer - Edge Protocols"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4761860",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2434826,
-          "location": {
-            "name": "Tokyo, Japan"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4761860,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "22-447",
-          "title": "Staff Software Engineer - Edge Protocols"
-        }
-      ]
-    },
-    {
-      "id": 69848,
-      "name": "Office of CEO",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 85894,
-      "name": "Office of Chief Architect",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 56961,
-      "name": "Office of CTO",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 56955,
-      "name": "Operations",
-      "parent_id": null,
-      "child_ids": [
-        69857,
-        33041
-      ],
-      "jobs": []
-    },
-    {
-      "id": 69869,
-      "name": "Partner & Indirect Sales",
-      "parent_id": 65798,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 56958,
-      "name": "People",
-      "parent_id": null,
-      "child_ids": [
-        606,
-        15505
-      ],
-      "jobs": []
-    },
-    {
-      "id": 56962,
-      "name": "Platform Engineering - DO NOT USE",
-      "parent_id": 605,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 56957,
-      "name": "Product",
-      "parent_id": null,
-      "child_ids": [
-        69858,
-        69859,
-        69861,
-        25308
-      ],
-      "jobs": []
-    },
-    {
-      "id": 56966,
-      "name": "Product Engineering - DO NOT USE",
-      "parent_id": 605,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 69858,
-      "name": "Product Growth",
-      "parent_id": 56957,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 69859,
-      "name": "Product Management",
-      "parent_id": 56957,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4782332",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2442814,
-          "location": {
-            "name": "US (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4782332,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "22-142",
-          "title": "Senior Product Manager, Full Site Delivery"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4825082",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2460479,
-          "location": {
-            "name": "US (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4825082,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-040",
-          "title": "Staff Product Manager - Logging and Monitoring Products"
-        }
-      ]
-    },
-    {
-      "id": 69860,
-      "name": "Product Marketing",
-      "parent_id": 609,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 69861,
-      "name": "Product Technology",
-      "parent_id": 56957,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 25308,
-      "name": "Program Management",
-      "parent_id": 56957,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 15505,
-      "name": "Recruiting",
-      "parent_id": 56958,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 65798,
-      "name": "Sales",
-      "parent_id": null,
-      "child_ids": [
-        87712,
-        69862,
-        69863,
-        69864,
-        69865,
-        69866,
-        69867,
-        69868,
-        69869,
-        61032,
-        69870
-      ],
-      "jobs": []
-    },
-    {
-      "id": 61032,
-      "name": "Sales Compensation ",
-      "parent_id": 65798,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 69870,
-      "name": "Sales Engineering",
-      "parent_id": 65798,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4826433",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2461130,
-          "location": {
-            "name": "US East (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4826433,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-060",
-          "title": "Senior Sales Engineer"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4603526",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2379209,
-          "location": {
-            "name": "Singapore (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4603526,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "22-413",
-          "title": "Senior Sales Engineer - ASEAN"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4822738",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2459377,
-          "location": {
-            "name": "Spain (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4822738,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-025",
-          "title": "Senior Serverless Solutions Strategist"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4822706",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2459377,
-          "location": {
-            "name": "London, United Kingdom"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4822706,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-025",
-          "title": "Senior Serverless Solutions Strategist - Edge Compute "
-        }
-      ]
-    },
-    {
-      "id": 54965,
-      "name": "Sales Operations & Enable",
-      "parent_id": 812,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 87086,
-      "name": "Security Engineering",
-      "parent_id": 605,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4716109",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2418215,
-          "location": {
-            "name": "US (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4716109,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "22-110",
-          "title": "Principal Software Engineer, Bot Management and Anti-Fraud"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4718923",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2419214,
-          "location": {
-            "name": "US (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4718923,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "22-446",
-          "title": "Senior Software Engineer - Security Products"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4718941",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2419214,
-          "location": {
-            "name": "Canada (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4718941,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "22-446",
-          "title": "Senior Software Engineer - Security Products"
-        }
-      ]
-    },
-    {
-      "id": 69872,
-      "name": "Service Delivery CSE - COR",
-      "parent_id": 812,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4822607",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2459313,
-          "location": {
-            "name": "London, United Kingdom"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4822607,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-075",
-          "title": "Senior Customer Support Engineer - Japanese Speaking"
-        }
-      ]
-    },
-    {
-      "id": 72139,
-      "name": "Signal Science",
-      "parent_id": 65079,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 69875,
-      "name": "Solutions Engineering",
-      "parent_id": 812,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 71538,
-      "name": "Technical Account Management - DO NOT USE",
-      "parent_id": 812,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 56967,
-      "name": "Technical Operations",
-      "parent_id": 605,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4790007",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2446091,
-          "location": {
-            "name": "US West (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4790007,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-018",
-          "title": "Network Engineer"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4790088",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2446091,
-          "location": {
-            "name": "San Francisco, CA"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4790088,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-018",
-          "title": "Network Engineer"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4770922",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2437936,
-          "location": {
-            "name": "London, United Kingdom"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4770922,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-017",
-          "title": "Staff Network Engineer"
-        },
-        {
-          "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4770264",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2437936,
-          "location": {
-            "name": "United Kingdom (Remote)"
-          },
-          "metadata": [
-            {
-              "id": 3462019,
-              "name": "Post to Internal Job Board",
-              "value": null,
-              "value_type": "yes_no"
-            }
-          ],
-          "id": 4770264,
-          "updated_at": "2023-01-30T14:10:52-05:00",
-          "requisition_id": "23-017",
-          "title": "Staff Network Engineer"
-        }
-      ]
-    },
-    {
-      "id": 41230,
-      "name": "Templates",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 69271,
-      "name": "Trust ",
-      "parent_id": null,
-      "child_ids": [
-        69854,
-        61020,
-        57777,
-        1192
-      ],
-      "jobs": []
-    },
-    {
-      "id": 33041,
-      "name": "Workplaces",
-      "parent_id": 56955,
-      "child_ids": [],
-      "jobs": []
-    },
-    {
-      "id": 0,
-      "name": "No Department",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": []
-    }
-  ]
-}
+[
+  {
+    "id": 4521876,
+    "title": "Global Sales Compensation Manager",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4521876"
+  },
+  {
+    "id": 4603526,
+    "title": "Senior Sales Engineer - ASEAN",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "Singapore (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4603526"
+  },
+  {
+    "id": 4632215,
+    "title": "Data Governance Manager",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "US (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4632215"
+  },
+  {
+    "id": 4659578,
+    "title": "Senior Analytics Engineer",
+    "updated_at": "2023-01-30T16:38:04-05:00",
+    "location": {
+      "name": "US (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4659578"
+  },
+  {
+    "id": 4715604,
+    "title": "Senior Software Engineer - Network Control and Optimization",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "US (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4715604"
+  },
+  {
+    "id": 4716109,
+    "title": "Principal Software Engineer, Bot Management and Anti-Fraud",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "US (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4716109"
+  },
+  {
+    "id": 4718923,
+    "title": "Senior Software Engineer - Security Products",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "US (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4718923"
+  },
+  {
+    "id": 4718941,
+    "title": "Senior Software Engineer - Security Products",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "Canada (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4718941"
+  },
+  {
+    "id": 4732318,
+    "title": "Staff Frontend Engineer",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "US (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4732318"
+  },
+  {
+    "id": 4747700,
+    "title": "Salesforce Developer",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "US (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4747700"
+  },
+  {
+    "id": 4747701,
+    "title": "Salesforce Developer",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "Canada (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4747701"
+  },
+  {
+    "id": 4748270,
+    "title": "Senior Salesforce Developer",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "US (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4748270"
+  },
+  {
+    "id": 4748271,
+    "title": "Senior Salesforce Developer",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "Canada (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4748271"
+  },
+  {
+    "id": 4761860,
+    "title": "Staff Software Engineer - Edge Protocols",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "Tokyo, Japan"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4761860"
+  },
+  {
+    "id": 4764373,
+    "title": "Staff Software Engineer - Edge Protocols",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4764373"
+  },
+  {
+    "id": 4770264,
+    "title": "Staff Network Engineer",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "United Kingdom (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4770264"
+  },
+  {
+    "id": 4770922,
+    "title": "Staff Network Engineer",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "London, United Kingdom"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4770922"
+  },
+  {
+    "id": 4782332,
+    "title": "Senior Product Manager, Full Site Delivery",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "US (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4782332"
+  },
+  {
+    "id": 4782427,
+    "title": "Senior Finance Systems Analyst (Order to Cash)",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "US (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4782427"
+  },
+  {
+    "id": 4790007,
+    "title": "Network Engineer",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "US West (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4790007"
+  },
+  {
+    "id": 4790088,
+    "title": "Network Engineer",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4790088"
+  },
+  {
+    "id": 4790918,
+    "title": "Senior Manager, Accounting",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4790918"
+  },
+  {
+    "id": 4794031,
+    "title": "Director, Accounting",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4794031"
+  },
+  {
+    "id": 4794078,
+    "title": "Incident Responder",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "US West (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4794078"
+  },
+  {
+    "id": 4794195,
+    "title": "Incident Responder",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "US (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4794195"
+  },
+  {
+    "id": 4795116,
+    "title": "Global Sales Compensation Systems Manager",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4795116"
+  },
+  {
+    "id": 4795767,
+    "title": "Staff Software Engineer - Observability Products",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "Canada (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4795767"
+  },
+  {
+    "id": 4795768,
+    "title": "Staff Software Engineer - Observability Products",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "US (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4795768"
+  },
+  {
+    "id": 4797108,
+    "title": "Program Manager, Customer Experience - Spanish Speaking",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "Madrid, Spain"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4797108"
+  },
+  {
+    "id": 4798973,
+    "title": "Staff Software Engineer, Edge Delivery",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "US (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4798973"
+  },
+  {
+    "id": 4798976,
+    "title": "Staff Software Engineer, Edge Delivery",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "Canada (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4798976"
+  },
+  {
+    "id": 4800711,
+    "title": "Senior Software Engineer, Infrastructure Tools",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "US East (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4800711"
+  },
+  {
+    "id": 4800833,
+    "title": "Senior Software Engineer, Infrastructure Tools",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "US (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4800833"
+  },
+  {
+    "id": 4800912,
+    "title": "Senior Security Technical Account Manager",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "London, United Kingdom"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4800912"
+  },
+  {
+    "id": 4801593,
+    "title": "Principal Software Engineer - Language Runtimes",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "US (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4801593"
+  },
+  {
+    "id": 4801594,
+    "title": "Principal Software Engineer - Language Runtimes",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "Canada (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4801594"
+  },
+  {
+    "id": 4819921,
+    "title": "Software Engineer, Summer Undergraduate Intern",
+    "updated_at": "2023-01-30T16:32:13-05:00",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4819921"
+  },
+  {
+    "id": 4822607,
+    "title": "Senior Customer Support Engineer - Japanese Speaking",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "London, United Kingdom"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4822607"
+  },
+  {
+    "id": 4822706,
+    "title": "Senior Serverless Solutions Strategist - Edge Compute ",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "London, United Kingdom"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4822706"
+  },
+  {
+    "id": 4822738,
+    "title": "Senior Serverless Solutions Strategist",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "Spain (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4822738"
+  },
+  {
+    "id": 4824597,
+    "title": "SMB Account Executive",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "US West (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4824597"
+  },
+  {
+    "id": 4825082,
+    "title": "Staff Product Manager - Logging and Monitoring Products",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "US (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4825082"
+  },
+  {
+    "id": 4825982,
+    "title": "SMB Account Executive - Media",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "US Central (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4825982"
+  },
+  {
+    "id": 4826433,
+    "title": "Senior Sales Engineer",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "US East (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4826433"
+  },
+  {
+    "id": 4828292,
+    "title": "Staff Software Engineer - Edge Protocols",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "Singapore (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4828292"
+  },
+  {
+    "id": 4828293,
+    "title": "Staff Software Engineer - Edge Protocols",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "Australia (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4828293"
+  },
+  {
+    "id": 4828640,
+    "title": "Senior Account Executive - ASEAN",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "Singapore (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4828640"
+  },
+  {
+    "id": 4828796,
+    "title": "SMB Account Executive",
+    "updated_at": "2023-01-30T14:13:47-05:00",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4828796"
+  },
+  {
+    "id": 4829274,
+    "title": "Enterprise Senior Account Executive",
+    "updated_at": "2023-01-30T14:16:09-05:00",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4829274"
+  },
+  {
+    "id": 4829853,
+    "title": "Sales Development Representative ",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4829853"
+  },
+  {
+    "id": 4829951,
+    "title": "Senior Technology Compliance Analyst",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "US (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4829951"
+  },
+  {
+    "id": 4831403,
+    "title": "Sales Development Representative ",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4831403"
+  },
+  {
+    "id": 4831675,
+    "title": "Senior Account Executive - Commercial",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "US East (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4831675"
+  },
+  {
+    "id": 4832448,
+    "title": "Account Executive - ASEAN",
+    "updated_at": "2023-01-30T14:10:52-05:00",
+    "location": {
+      "name": "Singapore (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4832448"
+  }
+]

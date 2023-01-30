@@ -1,601 +1,137 @@
-{
-  "departments": [
-    {
-      "id": 87388,
-      "name": "CodeCov Engineering",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4807539",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2452643,
-          "location": {
-            "name": "Toronto, Ontario, Canada"
-          },
-          "metadata": [
-            {
-              "id": 1566045,
-              "name": "FADV_Account",
-              "value": "109862_FUNCTIONAL SOFTWARE INC",
-              "value_type": "single_select"
-            },
-            {
-              "id": 2104487,
-              "name": "FADV Package",
-              "value": "2115_Base Package without/MVR",
-              "value_type": "single_select"
-            }
-          ],
-          "id": 4807539,
-          "updated_at": "2023-01-23T14:59:19-05:00",
-          "requisition_id": "1410",
-          "title": "Engineering Manager (Coverage Team) "
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4808184",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2452643,
-          "location": {
-            "name": "Remote, USA "
-          },
-          "metadata": [
-            {
-              "id": 1566045,
-              "name": "FADV_Account",
-              "value": "109862_FUNCTIONAL SOFTWARE INC",
-              "value_type": "single_select"
-            },
-            {
-              "id": 2104487,
-              "name": "FADV Package",
-              "value": "2115_Base Package without/MVR",
-              "value_type": "single_select"
-            }
-          ],
-          "id": 4808184,
-          "updated_at": "2023-01-23T14:58:39-05:00",
-          "requisition_id": "1410",
-          "title": "Engineering Manager (Coverage Team) "
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4807484",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2452619,
-          "location": {
-            "name": "Toronto, Ontario, Canada"
-          },
-          "metadata": [
-            {
-              "id": 1566045,
-              "name": "FADV_Account",
-              "value": "109862_FUNCTIONAL SOFTWARE INC",
-              "value_type": "single_select"
-            },
-            {
-              "id": 2104487,
-              "name": "FADV Package",
-              "value": "2115_Base Package without/MVR",
-              "value_type": "single_select"
-            }
-          ],
-          "id": 4807484,
-          "updated_at": "2023-01-23T15:00:30-05:00",
-          "requisition_id": "1409",
-          "title": "Senior Backend Software Engineer (Coverage Team) "
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4808193",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2452619,
-          "location": {
-            "name": "Remote, USA"
-          },
-          "metadata": [
-            {
-              "id": 1566045,
-              "name": "FADV_Account",
-              "value": "109862_FUNCTIONAL SOFTWARE INC",
-              "value_type": "single_select"
-            },
-            {
-              "id": 2104487,
-              "name": "FADV Package",
-              "value": "2115_Base Package without/MVR",
-              "value_type": "single_select"
-            }
-          ],
-          "id": 4808193,
-          "updated_at": "2023-01-23T15:00:30-05:00",
-          "requisition_id": "1409",
-          "title": "Senior Backend Software Engineer (Coverage Team) "
-        }
-      ]
+[
+  {
+    "id": 3919793,
+    "title": "Senior Site Reliability Engineer",
+    "updated_at": "2023-01-13T16:24:01-05:00",
+    "location": {
+      "name": "Remote, USA"
     },
-    {
-      "id": 78658,
-      "name": "Customer Success ",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": []
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/3919793"
+  },
+  {
+    "id": 3919794,
+    "title": "Senior Site Reliability Engineer",
+    "updated_at": "2023-01-13T16:24:01-05:00",
+    "location": {
+      "name": "Toronto, Canada "
     },
-    {
-      "id": 78662,
-      "name": "Design ",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": []
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/3919794"
+  },
+  {
+    "id": 4553606,
+    "title": "Staff Site Reliability Engineer",
+    "updated_at": "2023-01-13T16:24:01-05:00",
+    "location": {
+      "name": "San Francisco, California "
     },
-    {
-      "id": 78664,
-      "name": "Emerging Technologies ",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": []
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4553606"
+  },
+  {
+    "id": 4635809,
+    "title": "Senior Software Engineer (Python/Rust), Ingest Team",
+    "updated_at": "2023-01-13T16:24:01-05:00",
+    "location": {
+      "name": "Vienna, Austria"
     },
-    {
-      "id": 78660,
-      "name": "Engineering ",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://boards.greenhouse.io/sentry/jobs/3919793",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2143714,
-          "location": {
-            "name": "Remote, USA"
-          },
-          "metadata": [
-            {
-              "id": 1566045,
-              "name": "FADV_Account",
-              "value": "109862CAN_FUNCTIONAL SOFTWARE INC",
-              "value_type": "single_select"
-            },
-            {
-              "id": 2104487,
-              "name": "FADV Package",
-              "value": "2114_CANADA BASE PACKAGE",
-              "value_type": "single_select"
-            }
-          ],
-          "id": 3919793,
-          "updated_at": "2023-01-13T16:24:01-05:00",
-          "requisition_id": "9999-SRE-Remote",
-          "title": "Senior Site Reliability Engineer"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/sentry/jobs/3919794",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2143714,
-          "location": {
-            "name": "Toronto, Canada "
-          },
-          "metadata": [
-            {
-              "id": 1566045,
-              "name": "FADV_Account",
-              "value": "109862CAN_FUNCTIONAL SOFTWARE INC",
-              "value_type": "single_select"
-            },
-            {
-              "id": 2104487,
-              "name": "FADV Package",
-              "value": "2114_CANADA BASE PACKAGE",
-              "value_type": "single_select"
-            }
-          ],
-          "id": 3919794,
-          "updated_at": "2023-01-13T16:24:01-05:00",
-          "requisition_id": "9999-SRE-Remote",
-          "title": "Senior Site Reliability Engineer"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4763978",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2435912,
-          "location": {
-            "name": "Amsterdam, The Netherlands "
-          },
-          "metadata": [
-            {
-              "id": 1566045,
-              "name": "FADV_Account",
-              "value": "109862_FUNCTIONAL SOFTWARE INC",
-              "value_type": "single_select"
-            },
-            {
-              "id": 2104487,
-              "name": "FADV Package",
-              "value": "2113_INTL BASE PACKAGE",
-              "value_type": "single_select"
-            }
-          ],
-          "id": 4763978,
-          "updated_at": "2023-01-13T16:24:01-05:00",
-          "requisition_id": "9999-SRE-EMEA",
-          "title": "Senior Site Reliability Engineer"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4690425",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2408484,
-          "location": {
-            "name": "Vienna, Austria "
-          },
-          "metadata": [
-            {
-              "id": 1566045,
-              "name": "FADV_Account",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 2104487,
-              "name": "FADV Package",
-              "value": null,
-              "value_type": "single_select"
-            }
-          ],
-          "id": 4690425,
-          "updated_at": "2023-01-13T16:24:01-05:00",
-          "requisition_id": "9999-SRE-VIE",
-          "title": "Senior Site Reliability Engineer"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4717276",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2418662,
-          "location": {
-            "name": "San Francisco, California"
-          },
-          "metadata": [
-            {
-              "id": 1566045,
-              "name": "FADV_Account",
-              "value": "109862_FUNCTIONAL SOFTWARE INC",
-              "value_type": "single_select"
-            },
-            {
-              "id": 2104487,
-              "name": "FADV Package",
-              "value": "2115_Base Package without/MVR",
-              "value_type": "single_select"
-            }
-          ],
-          "id": 4717276,
-          "updated_at": "2023-01-13T16:24:01-05:00",
-          "requisition_id": "1405",
-          "title": "Senior Software Engineer, Enterprise"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4635809",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2390291,
-          "location": {
-            "name": "Vienna, Austria"
-          },
-          "metadata": [
-            {
-              "id": 1566045,
-              "name": "FADV_Account",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 2104487,
-              "name": "FADV Package",
-              "value": null,
-              "value_type": "single_select"
-            }
-          ],
-          "id": 4635809,
-          "updated_at": "2023-01-13T16:24:01-05:00",
-          "requisition_id": "1401",
-          "title": "Senior Software Engineer (Python/Rust), Ingest Team"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4553606",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2363952,
-          "location": {
-            "name": "San Francisco, California "
-          },
-          "metadata": [
-            {
-              "id": 1566045,
-              "name": "FADV_Account",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 2104487,
-              "name": "FADV Package",
-              "value": null,
-              "value_type": "single_select"
-            }
-          ],
-          "id": 4553606,
-          "updated_at": "2023-01-13T16:24:01-05:00",
-          "requisition_id": "1406",
-          "title": "Staff Site Reliability Engineer"
-        }
-      ]
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4635809"
+  },
+  {
+    "id": 4690425,
+    "title": "Senior Site Reliability Engineer",
+    "updated_at": "2023-01-13T16:24:01-05:00",
+    "location": {
+      "name": "Vienna, Austria "
     },
-    {
-      "id": 78653,
-      "name": "G&A",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": []
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4690425"
+  },
+  {
+    "id": 4717276,
+    "title": "Senior Software Engineer, Enterprise",
+    "updated_at": "2023-01-13T16:24:01-05:00",
+    "location": {
+      "name": "San Francisco, California"
     },
-    {
-      "id": 78656,
-      "name": "Legal ",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": []
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4717276"
+  },
+  {
+    "id": 4746110,
+    "title": "Technical Documentation Writer",
+    "updated_at": "2023-01-13T16:24:01-05:00",
+    "location": {
+      "name": "San Francisco, California"
     },
-    {
-      "id": 78659,
-      "name": "Marketing ",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": []
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4746110"
+  },
+  {
+    "id": 4763978,
+    "title": "Senior Site Reliability Engineer",
+    "updated_at": "2023-01-13T16:24:01-05:00",
+    "location": {
+      "name": "Amsterdam, The Netherlands "
     },
-    {
-      "id": 78661,
-      "name": "Office of the CTO",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": []
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4763978"
+  },
+  {
+    "id": 4807484,
+    "title": "Senior Backend Software Engineer (Coverage Team) ",
+    "updated_at": "2023-01-23T15:00:30-05:00",
+    "location": {
+      "name": "Toronto, Ontario, Canada"
     },
-    {
-      "id": 78654,
-      "name": "People Operations ",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4816607",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2456802,
-          "location": {
-            "name": "Vienna, Austria"
-          },
-          "metadata": [
-            {
-              "id": 1566045,
-              "name": "FADV_Account",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 2104487,
-              "name": "FADV Package",
-              "value": null,
-              "value_type": "single_select"
-            }
-          ],
-          "id": 4816607,
-          "updated_at": "2023-01-20T13:55:20-05:00",
-          "requisition_id": "1412",
-          "title": "Workplace Coordinator"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4813849",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2455582,
-          "location": {
-            "name": "San Francisco, California "
-          },
-          "metadata": [
-            {
-              "id": 1566045,
-              "name": "FADV_Account",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 2104487,
-              "name": "FADV Package",
-              "value": null,
-              "value_type": "single_select"
-            }
-          ],
-          "id": 4813849,
-          "updated_at": "2023-01-18T13:20:38-05:00",
-          "requisition_id": "1411",
-          "title": "Workplace Coordinator "
-        }
-      ]
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4807484"
+  },
+  {
+    "id": 4807539,
+    "title": "Engineering Manager (Coverage Team) ",
+    "updated_at": "2023-01-23T14:59:19-05:00",
+    "location": {
+      "name": "Toronto, Ontario, Canada"
     },
-    {
-      "id": 78663,
-      "name": "Product Management ",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4746110",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2428771,
-          "location": {
-            "name": "San Francisco, California"
-          },
-          "metadata": [
-            {
-              "id": 1566045,
-              "name": "FADV_Account",
-              "value": "109862_FUNCTIONAL SOFTWARE INC",
-              "value_type": "single_select"
-            },
-            {
-              "id": 2104487,
-              "name": "FADV Package",
-              "value": "2115_Base Package without/MVR",
-              "value_type": "single_select"
-            }
-          ],
-          "id": 4746110,
-          "updated_at": "2023-01-13T16:24:01-05:00",
-          "requisition_id": "1408",
-          "title": "Technical Documentation Writer"
-        }
-      ]
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4807539"
+  },
+  {
+    "id": 4808184,
+    "title": "Engineering Manager (Coverage Team) ",
+    "updated_at": "2023-01-23T14:58:39-05:00",
+    "location": {
+      "name": "Remote, USA "
     },
-    {
-      "id": 78657,
-      "name": "Sales ",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": []
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4808184"
+  },
+  {
+    "id": 4808193,
+    "title": "Senior Backend Software Engineer (Coverage Team) ",
+    "updated_at": "2023-01-23T15:00:30-05:00",
+    "location": {
+      "name": "Remote, USA"
     },
-    {
-      "id": 78652,
-      "name": "Support",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4832307",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 2463308,
-          "location": {
-            "name": "Toronto , Canada "
-          },
-          "metadata": [
-            {
-              "id": 1566045,
-              "name": "FADV_Account",
-              "value": null,
-              "value_type": "single_select"
-            },
-            {
-              "id": 2104487,
-              "name": "FADV Package",
-              "value": null,
-              "value_type": "single_select"
-            }
-          ],
-          "id": 4832307,
-          "updated_at": "2023-01-30T12:25:01-05:00",
-          "requisition_id": "1413",
-          "title": "Customer Service Representative "
-        }
-      ]
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4808193"
+  },
+  {
+    "id": 4813849,
+    "title": "Workplace Coordinator ",
+    "updated_at": "2023-01-18T13:20:38-05:00",
+    "location": {
+      "name": "San Francisco, California "
     },
-    {
-      "id": 78655,
-      "name": "Talent Acquisition ",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": []
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4813849"
+  },
+  {
+    "id": 4816607,
+    "title": "Workplace Coordinator",
+    "updated_at": "2023-01-20T13:55:20-05:00",
+    "location": {
+      "name": "Vienna, Austria"
     },
-    {
-      "id": 37098,
-      "name": "Templates",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": []
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4816607"
+  },
+  {
+    "id": 4832307,
+    "title": "Customer Service Representative ",
+    "updated_at": "2023-01-30T12:25:01-05:00",
+    "location": {
+      "name": "Toronto , Canada "
     },
-    {
-      "id": 0,
-      "name": "No Department",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": []
-    }
-  ]
-}
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4832307"
+  }
+]

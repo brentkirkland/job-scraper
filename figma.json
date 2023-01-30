@@ -1,1796 +1,803 @@
-{
-  "departments": [
-    {
-      "id": 4027252004,
-      "name": "Business Development",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4702153004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4428401004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": [],
-          "id": 4702153004,
-          "updated_at": "2022-11-10T14:29:41-05:00",
-          "requisition_id": "500",
-          "title": "Distribution Partnerships "
-        }
-      ]
+[
+  {
+    "id": 4207053004,
+    "title": "Account Executive, Mid Market",
+    "updated_at": "2022-12-15T11:01:56-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote US"
     },
-    {
-      "id": 4016247004,
-      "name": "Business Operations",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4634008004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4398623004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": null,
-          "id": 4634008004,
-          "updated_at": "2023-01-25T23:06:54-05:00",
-          "requisition_id": "464",
-          "title": "Business Operations"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4777150004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4472245004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": null,
-          "id": 4777150004,
-          "updated_at": "2023-01-18T17:00:25-05:00",
-          "requisition_id": "588",
-          "title": "FedRAMP Compliance Manager"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4783062004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4475973004,
-          "location": {
-            "name": "London"
-          },
-          "metadata": null,
-          "id": 4783062004,
-          "updated_at": "2023-01-30T12:46:11-05:00",
-          "requisition_id": "593",
-          "title": "Legal Contracts Manager"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4734545004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4447612004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": null,
-          "id": 4734545004,
-          "updated_at": "2023-01-03T14:32:29-05:00",
-          "requisition_id": "543",
-          "title": "Manager, Procurement Operations "
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4730395004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4445138004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": null,
-          "id": 4730395004,
-          "updated_at": "2023-01-06T15:18:34-05:00",
-          "requisition_id": "532",
-          "title": "Marketing Counsel"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4719694004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4438798004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": [],
-          "id": 4719694004,
-          "updated_at": "2022-12-06T16:53:12-05:00",
-          "requisition_id": "518",
-          "title": "Senior Corporate Accountant"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4744958004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4453649004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": null,
-          "id": 4744958004,
-          "updated_at": "2023-01-11T11:55:49-05:00",
-          "requisition_id": "551",
-          "title": "Senior Systems Engineer"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4758052004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4461234004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": null,
-          "id": 4758052004,
-          "updated_at": "2023-01-06T20:54:39-05:00",
-          "requisition_id": "567",
-          "title": "Strategic Finance, Sales"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4758156004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4461298004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": [],
-          "id": 4758156004,
-          "updated_at": "2022-12-16T18:21:30-05:00",
-          "requisition_id": "568",
-          "title": "Strategic Finance, Self Serve"
-        }
-      ]
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4207053004"
+  },
+  {
+    "id": 4214776004,
+    "title": "Brand Designer, Brand Studio",
+    "updated_at": "2023-01-04T11:49:48-05:00",
+    "location": {
+      "name": "San Francisco or New York or London or Dublin or Remote US"
     },
-    {
-      "id": 4016249004,
-      "name": "Design",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4602963004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4384899004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": null,
-          "id": 4602963004,
-          "updated_at": "2023-01-05T17:32:37-05:00",
-          "requisition_id": "434",
-          "title": "Product Designer"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4749857004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4456261004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": [],
-          "id": 4749857004,
-          "updated_at": "2022-12-14T17:48:32-05:00",
-          "requisition_id": "552",
-          "title": "Product Designer - Figma Design System"
-        }
-      ]
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4214776004"
+  },
+  {
+    "id": 4214837004,
+    "title": "Account Executive, Enterprise",
+    "updated_at": "2022-12-08T13:55:14-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote US"
     },
-    {
-      "id": 4027253004,
-      "name": "DO NOT USE",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": []
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4214837004"
+  },
+  {
+    "id": 4214847004,
+    "title": "Software Engineer - Editor",
+    "updated_at": "2022-10-12T03:14:19-04:00",
+    "location": {
+      "name": "San Francisco or New York or Remote US"
     },
-    {
-      "id": 4016256004,
-      "name": "Early Career",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4595288004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4381725004,
-          "location": {
-            "name": "New York or San Francisco"
-          },
-          "metadata": [],
-          "id": 4595288004,
-          "updated_at": "2022-11-17T17:40:11-05:00",
-          "requisition_id": "426",
-          "title": "Software Engineer, Early Career (2023)"
-        }
-      ]
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4214847004"
+  },
+  {
+    "id": 4214851004,
+    "title": "Software Engineer - Android",
+    "updated_at": "2022-11-01T14:51:24-04:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
     },
-    {
-      "id": 4016250004,
-      "name": "Engineering",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4214920004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4141121004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": null,
-          "id": 4214920004,
-          "updated_at": "2023-01-17T17:42:36-05:00",
-          "requisition_id": "203",
-          "title": "Data Scientist - Marketing"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4214912004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4141116004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": null,
-          "id": 4214912004,
-          "updated_at": "2023-01-04T15:51:44-05:00",
-          "requisition_id": "130",
-          "title": "Data Scientist - Product "
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4728456004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4444057004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": [],
-          "id": 4728456004,
-          "updated_at": "2022-11-15T18:18:19-05:00",
-          "requisition_id": "529",
-          "title": "Director of Technical Program Management - Platform & Infrastructure Engineering"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4250316004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4163531004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": null,
-          "id": 4250316004,
-          "updated_at": "2023-01-13T15:11:12-05:00",
-          "requisition_id": "393",
-          "title": "Engineering Manager"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4236441004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4154459004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": null,
-          "id": 4236441004,
-          "updated_at": "2023-01-19T11:32:07-05:00",
-          "requisition_id": "266",
-          "title": "Engineering Manager - Infrastructure"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4739288004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4450458004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": null,
-          "id": 4739288004,
-          "updated_at": "2023-01-24T16:30:28-05:00",
-          "requisition_id": "549",
-          "title": "Engineering Manager - Security"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4490123004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4319736004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": [],
-          "id": 4490123004,
-          "updated_at": "2022-11-28T12:21:02-05:00",
-          "requisition_id": "630",
-          "title": "Manager, Data Science (Platform)"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4756707004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4460509004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": null,
-          "id": 4756707004,
-          "updated_at": "2023-01-26T11:48:07-05:00",
-          "requisition_id": "566",
-          "title": "ML/AI Engineer"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4214880004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4141098004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": [],
-          "id": 4214880004,
-          "updated_at": "2022-11-21T13:20:30-05:00",
-          "requisition_id": "1146",
-          "title": "Security Engineer"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4214851004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4141083004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": [],
-          "id": 4214851004,
-          "updated_at": "2022-11-01T14:51:24-04:00",
-          "requisition_id": "212",
-          "title": "Software Engineer - Android"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4687136004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4420707004,
-          "location": {
-            "name": "San Francisco or New York or Remote US"
-          },
-          "metadata": [],
-          "id": 4687136004,
-          "updated_at": "2022-10-12T03:14:19-04:00",
-          "requisition_id": "484",
-          "title": "Software Engineer - Application Platform"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4754116004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4458870004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": null,
-          "id": 4754116004,
-          "updated_at": "2023-01-11T18:35:58-05:00",
-          "requisition_id": "561",
-          "title": "Software Engineer, Creation Engine "
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4214847004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4141079004,
-          "location": {
-            "name": "San Francisco or New York or Remote US"
-          },
-          "metadata": [],
-          "id": 4214847004,
-          "updated_at": "2022-10-12T03:14:19-04:00",
-          "requisition_id": "273",
-          "title": "Software Engineer - Editor"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4339815004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4217905004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": null,
-          "id": 4339815004,
-          "updated_at": "2023-01-25T14:39:05-05:00",
-          "requisition_id": "281",
-          "title": "Software Engineer - FigJam "
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4214913004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4141118004,
-          "location": {
-            "name": "San Francisco or New York or Remote US"
-          },
-          "metadata": [],
-          "id": 4214913004,
-          "updated_at": "2022-10-12T03:14:19-04:00",
-          "requisition_id": "278",
-          "title": "Software Engineer - Growth"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4214856004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4141085004,
-          "location": {
-            "name": "San Francisco or New York or Remote US"
-          },
-          "metadata": null,
-          "id": 4214856004,
-          "updated_at": "2023-01-13T15:22:23-05:00",
-          "requisition_id": "209",
-          "title": "Software Engineer - Infrastructure"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4312156004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4196489004,
-          "location": {
-            "name": "San Francisco or New York or Remote US"
-          },
-          "metadata": [],
-          "id": 4312156004,
-          "updated_at": "2022-10-25T17:20:28-04:00",
-          "requisition_id": "214",
-          "title": "Software Engineer - iOS"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4214859004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4141087004,
-          "location": {
-            "name": "San Francisco or New York or Remote US"
-          },
-          "metadata": [],
-          "id": 4214859004,
-          "updated_at": "2022-10-12T03:14:19-04:00",
-          "requisition_id": "276",
-          "title": "Software Engineer - Reliability"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4214883004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4141102004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": null,
-          "id": 4214883004,
-          "updated_at": "2023-01-18T21:22:27-05:00",
-          "requisition_id": "210",
-          "title": "Software Engineer - Teamwork"
-        }
-      ]
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4214851004"
+  },
+  {
+    "id": 4214856004,
+    "title": "Software Engineer - Infrastructure",
+    "updated_at": "2023-01-13T15:22:23-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote US"
     },
-    {
-      "id": 4016251004,
-      "name": "Marketing",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4214776004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4141035004,
-          "location": {
-            "name": "San Francisco or New York or London or Dublin or Remote US"
-          },
-          "metadata": null,
-          "id": 4214776004,
-          "updated_at": "2023-01-04T11:49:48-05:00",
-          "requisition_id": "235",
-          "title": "Brand Designer, Brand Studio"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4732517004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4446355004,
-          "location": {
-            "name": "Tokyo"
-          },
-          "metadata": [],
-          "id": 4732517004,
-          "updated_at": "2022-11-23T05:07:55-05:00",
-          "requisition_id": "535",
-          "title": "Designer Advocate (Tokyo, Japan)"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4772787004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4469628004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": null,
-          "id": 4772787004,
-          "updated_at": "2023-01-18T15:03:22-05:00",
-          "requisition_id": "580",
-          "title": "Director, Social"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4765812004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4465675004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": null,
-          "id": 4765812004,
-          "updated_at": "2023-01-05T15:57:21-05:00",
-          "requisition_id": "573",
-          "title": "Email Marketer"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4755499004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4459716004,
-          "location": {
-            "name": "London"
-          },
-          "metadata": null,
-          "id": 4755499004,
-          "updated_at": "2023-01-16T04:19:31-05:00",
-          "requisition_id": "565",
-          "title": "Field Marketing & Events Manager (London, UK)"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4770683004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4468411004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": null,
-          "id": 4770683004,
-          "updated_at": "2023-01-11T11:29:34-05:00",
-          "requisition_id": "579",
-          "title": "Manager, Web Development "
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4738957004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4450262004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": [],
-          "id": 4738957004,
-          "updated_at": "2022-11-28T21:24:22-05:00",
-          "requisition_id": "548",
-          "title": "Manager, Website Experience "
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4728831004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4444280004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": [],
-          "id": 4728831004,
-          "updated_at": "2022-11-14T13:03:05-05:00",
-          "requisition_id": "531",
-          "title": "Product Marketing Manager, Figma Editor"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4751580004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4457282004,
-          "location": {
-            "name": "London"
-          },
-          "metadata": [],
-          "id": 4751580004,
-          "updated_at": "2022-12-15T15:51:41-05:00",
-          "requisition_id": "559",
-          "title": "Regional Marketing Manager (London, UK)"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4694509004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4423285004,
-          "location": {
-            "name": "Singapore"
-          },
-          "metadata": [],
-          "id": 4694509004,
-          "updated_at": "2022-11-17T06:06:00-05:00",
-          "requisition_id": "487",
-          "title": "Regional Marketing Manager (Singapore)"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4608928004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4388259004,
-          "location": {
-            "name": "San Francisco or New York or Remote US"
-          },
-          "metadata": [],
-          "id": 4608928004,
-          "updated_at": "2022-10-12T03:14:19-04:00",
-          "requisition_id": "687",
-          "title": "Web Developer, Web Experience"
-        }
-      ]
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4214856004"
+  },
+  {
+    "id": 4214859004,
+    "title": "Software Engineer - Reliability",
+    "updated_at": "2022-10-12T03:14:19-04:00",
+    "location": {
+      "name": "San Francisco or New York or Remote US"
     },
-    {
-      "id": 4016252004,
-      "name": "People",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4758208004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4461328004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": null,
-          "id": 4758208004,
-          "updated_at": "2023-01-09T12:13:04-05:00",
-          "requisition_id": "569",
-          "title": "Benefits Partner"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4785687004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4477523004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": null,
-          "id": 4785687004,
-          "updated_at": "2023-01-30T16:10:41-05:00",
-          "requisition_id": "596",
-          "title": "HRIS Manager"
-        }
-      ]
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4214859004"
+  },
+  {
+    "id": 4214880004,
+    "title": "Security Engineer",
+    "updated_at": "2022-11-21T13:20:30-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
     },
-    {
-      "id": 4016253004,
-      "name": "Product",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4779302004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4473629004,
-          "location": {
-            "name": "New York or San Francisco"
-          },
-          "metadata": null,
-          "id": 4779302004,
-          "updated_at": "2023-01-20T15:59:23-05:00",
-          "requisition_id": "591",
-          "title": "Product Manager - Design Systems Ecosystems"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4709674004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4432778004,
-          "location": {
-            "name": "London"
-          },
-          "metadata": [],
-          "id": 4709674004,
-          "updated_at": "2022-10-24T19:17:22-04:00",
-          "requisition_id": "505",
-          "title": "Product Manager - Developer Tools"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4733665004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4447060004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": [],
-          "id": 4733665004,
-          "updated_at": "2022-11-21T10:33:08-05:00",
-          "requisition_id": "537",
-          "title": "Product Manager - Discovery"
-        }
-      ]
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4214880004"
+  },
+  {
+    "id": 4214883004,
+    "title": "Software Engineer - Teamwork",
+    "updated_at": "2023-01-18T21:22:27-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
     },
-    {
-      "id": 4016254004,
-      "name": "Product Support",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4758248004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4461350004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": [],
-          "id": 4758248004,
-          "updated_at": "2022-12-17T13:20:50-05:00",
-          "requisition_id": "570",
-          "title": "Director of Scalable Support"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4703310004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4429073004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": [],
-          "id": 4703310004,
-          "updated_at": "2022-10-18T11:01:36-04:00",
-          "requisition_id": "503",
-          "title": "Director, Product Support Operations & Analytics"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4755412004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4459657004,
-          "location": {
-            "name": "London"
-          },
-          "metadata": [],
-          "id": 4755412004,
-          "updated_at": "2022-12-15T12:03:07-05:00",
-          "requisition_id": "564",
-          "title": "Manager, Community Support - French Speaking (London, UK)"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4750854004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4456897004,
-          "location": {
-            "name": "London"
-          },
-          "metadata": [],
-          "id": 4750854004,
-          "updated_at": "2022-12-15T07:47:20-05:00",
-          "requisition_id": "557",
-          "title": "Manager, Product Support - Tier 1 (London, UK)"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4753856004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4456940004,
-          "location": {
-            "name": "London"
-          },
-          "metadata": [],
-          "id": 4753856004,
-          "updated_at": "2022-12-15T07:47:51-05:00",
-          "requisition_id": "558",
-          "title": "Product Support Specialist - French Speaking (London, UK)"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4750956004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4456940004,
-          "location": {
-            "name": "London"
-          },
-          "metadata": [],
-          "id": 4750956004,
-          "updated_at": "2022-12-15T07:48:02-05:00",
-          "requisition_id": "558",
-          "title": "Product Support Specialist - Portuguese Speaking (London, UK)"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4783986004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4476544004,
-          "location": {
-            "name": "Tokyo"
-          },
-          "metadata": null,
-          "id": 4783986004,
-          "updated_at": "2023-01-30T01:41:07-05:00",
-          "requisition_id": "851",
-          "title": "Technical Quality Specialist (Tokyo, Japan) "
-        }
-      ]
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4214883004"
+  },
+  {
+    "id": 4214912004,
+    "title": "Data Scientist - Product ",
+    "updated_at": "2023-01-04T15:51:44-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
     },
-    {
-      "id": 4016255004,
-      "name": "Sales",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": [
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4214837004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4141073004,
-          "location": {
-            "name": "San Francisco or New York or Remote US"
-          },
-          "metadata": null,
-          "id": 4214837004,
-          "updated_at": "2022-12-08T13:55:14-05:00",
-          "requisition_id": "813",
-          "title": "Account Executive, Enterprise"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4214924004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4141124004,
-          "location": {
-            "name": "London"
-          },
-          "metadata": [],
-          "id": 4214924004,
-          "updated_at": "2022-12-14T12:33:58-05:00",
-          "requisition_id": "279",
-          "title": "Account Executive, Enterprise (London, UK)"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4312280004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4196558004,
-          "location": {
-            "name": "Tokyo"
-          },
-          "metadata": null,
-          "id": 4312280004,
-          "updated_at": "2023-01-20T03:37:26-05:00",
-          "requisition_id": "245",
-          "title": "Account Executive, Enterprise (Tokyo, Japan)"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4207053004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4140157004,
-          "location": {
-            "name": "San Francisco or New York or Remote US"
-          },
-          "metadata": [],
-          "id": 4207053004,
-          "updated_at": "2022-12-15T11:01:56-05:00",
-          "requisition_id": "128",
-          "title": "Account Executive, Mid Market"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4725856004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4442552004,
-          "location": {
-            "name": "Berlin"
-          },
-          "metadata": [],
-          "id": 4725856004,
-          "updated_at": "2022-11-22T05:56:29-05:00",
-          "requisition_id": "522",
-          "title": "Account Executive, Mid Market (Berlin, Germany)"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4244552004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4159920004,
-          "location": {
-            "name": "Paris"
-          },
-          "metadata": [],
-          "id": 4244552004,
-          "updated_at": "2022-11-16T04:16:28-05:00",
-          "requisition_id": "1270",
-          "title": "Account Executive, Mid Market (Paris, France)"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4407382004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4268750004,
-          "location": {
-            "name": "Tokyo"
-          },
-          "metadata": null,
-          "id": 4407382004,
-          "updated_at": "2023-01-20T03:38:01-05:00",
-          "requisition_id": "307",
-          "title": "Account Executive - Mid Market (Tokyo, Japan)"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4634382004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4398854004,
-          "location": {
-            "name": "Tokyo"
-          },
-          "metadata": null,
-          "id": 4634382004,
-          "updated_at": "2023-01-20T03:38:33-05:00",
-          "requisition_id": "1112",
-          "title": "Account Executive, Mid Market (Tokyo, Japan)"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4734644004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4447672004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": [],
-          "id": 4734644004,
-          "updated_at": "2022-11-21T12:57:50-05:00",
-          "requisition_id": "1297",
-          "title": "Account Executive, SMB"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4768627004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4467148004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": null,
-          "id": 4768627004,
-          "updated_at": "2023-01-09T08:51:06-05:00",
-          "requisition_id": "575",
-          "title": "Account Executive, Strategic Enterprise"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4768417004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4467051004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": null,
-          "id": 4768417004,
-          "updated_at": "2023-01-19T11:54:49-05:00",
-          "requisition_id": "576",
-          "title": "Account Manager, Customer Experience "
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4313511004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4197286004,
-          "location": {
-            "name": "Berlin"
-          },
-          "metadata": null,
-          "id": 4313511004,
-          "updated_at": "2023-01-30T12:35:41-05:00",
-          "requisition_id": "156",
-          "title": "Account Manager, Enterprise DACH (Berlin, Germany)"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4313113004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4197022004,
-          "location": {
-            "name": "Tokyo"
-          },
-          "metadata": null,
-          "id": 4313113004,
-          "updated_at": "2023-01-20T03:39:04-05:00",
-          "requisition_id": "244",
-          "title": "Account Manager, Enterprise (Tokyo, Japan)"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4343779004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4140262004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": [],
-          "id": 4343779004,
-          "updated_at": "2022-12-12T14:26:18-05:00",
-          "requisition_id": "163",
-          "title": "Account Manager, Mid-Market"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4725953004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4442623004,
-          "location": {
-            "name": "Berlin"
-          },
-          "metadata": [],
-          "id": 4725953004,
-          "updated_at": "2022-11-21T17:05:00-05:00",
-          "requisition_id": "524",
-          "title": "Account Manager, Mid Market (Berlin, Germany)"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4708817004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4432283004,
-          "location": {
-            "name": "Singapore"
-          },
-          "metadata": null,
-          "id": 4708817004,
-          "updated_at": "2023-01-08T03:04:21-05:00",
-          "requisition_id": "1330",
-          "title": "Account Manager, Mid Market (Singapore)"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4491537004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4320636004,
-          "location": {
-            "name": "Tokyo"
-          },
-          "metadata": null,
-          "id": 4491537004,
-          "updated_at": "2023-01-20T03:39:35-05:00",
-          "requisition_id": "774",
-          "title": "Account Manager, Mid Market (Tokyo, Japan) "
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4588114004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4378822004,
-          "location": {
-            "name": "London"
-          },
-          "metadata": [],
-          "id": 4588114004,
-          "updated_at": "2022-10-18T06:56:36-04:00",
-          "requisition_id": "1039",
-          "title": "Business Development Representative (London, UK)"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4753009004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4458217004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": [],
-          "id": 4753009004,
-          "updated_at": "2022-12-12T18:09:52-05:00",
-          "requisition_id": "560",
-          "title": "Director, Channel Sales"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4726315004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4442849004,
-          "location": {
-            "name": "Berlin"
-          },
-          "metadata": [],
-          "id": 4726315004,
-          "updated_at": "2022-11-22T05:55:21-05:00",
-          "requisition_id": "525",
-          "title": "Manager, Account Management (Berlin, Germany)"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4733977004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4447256004,
-          "location": {
-            "name": "Singapore"
-          },
-          "metadata": [],
-          "id": 4733977004,
-          "updated_at": "2022-12-12T17:51:41-05:00",
-          "requisition_id": "539",
-          "title": "Manager, Account Management (Singapore)"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4735050004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4447931004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": null,
-          "id": 4735050004,
-          "updated_at": "2023-01-10T20:32:02-05:00",
-          "requisition_id": "545",
-          "title": "Manager, Deal Desk "
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4646261004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4404507004,
-          "location": {
-            "name": "Berlin"
-          },
-          "metadata": [],
-          "id": 4646261004,
-          "updated_at": "2022-11-22T05:54:42-05:00",
-          "requisition_id": "468",
-          "title": "Manager, Enterprise Sales DACH (Berlin, Germany)"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4726336004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4442865004,
-          "location": {
-            "name": "Paris"
-          },
-          "metadata": [],
-          "id": 4726336004,
-          "updated_at": "2022-11-16T04:19:29-05:00",
-          "requisition_id": "1273",
-          "title": "Manager, Enterprise Sales, Southern Europe (Paris, France)"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4734258004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4447423004,
-          "location": {
-            "name": "Singapore"
-          },
-          "metadata": null,
-          "id": 4734258004,
-          "updated_at": "2023-01-09T22:34:30-05:00",
-          "requisition_id": "542",
-          "title": "Manager, New Business (Singapore)"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4710089004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4432973004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": null,
-          "id": 4710089004,
-          "updated_at": "2023-01-10T11:27:19-05:00",
-          "requisition_id": "1222",
-          "title": "Manager, Sales Systems"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4769779004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4467806004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": null,
-          "id": 4769779004,
-          "updated_at": "2023-01-30T10:06:16-05:00",
-          "requisition_id": "577",
-          "title": "Manager, Strategic Enterprise Sales"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4754131004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4458882004,
-          "location": {
-            "name": "San Francisco or New York or Remote"
-          },
-          "metadata": null,
-          "id": 4754131004,
-          "updated_at": "2023-01-04T13:52:44-05:00",
-          "requisition_id": "562",
-          "title": "Onboarding Manager, Customer Experience"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4777361004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4472425004,
-          "location": {
-            "name": "London"
-          },
-          "metadata": null,
-          "id": 4777361004,
-          "updated_at": "2023-01-24T04:51:28-05:00",
-          "requisition_id": "589",
-          "title": "Sales Leadership Enablement Manager (London, UK)"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4731248004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4445647004,
-          "location": {
-            "name": "Singapore"
-          },
-          "metadata": [],
-          "id": 4731248004,
-          "updated_at": "2022-11-18T02:44:33-05:00",
-          "requisition_id": "1259",
-          "title": "Sales Operations Manager (Singapore)   "
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4730206004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4445019004,
-          "location": {
-            "name": "Tokyo"
-          },
-          "metadata": [],
-          "id": 4730206004,
-          "updated_at": "2022-11-14T19:29:00-05:00",
-          "requisition_id": "1251",
-          "title": "Sales Operations Manager (Tokyo, Japan)"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4730014004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4444913004,
-          "location": {
-            "name": "Tokyo"
-          },
-          "metadata": [],
-          "id": 4730014004,
-          "updated_at": "2022-11-17T02:01:55-05:00",
-          "requisition_id": "1258",
-          "title": "Senior Manager, Account Management (Tokyo, Japan)"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4730010004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": 4444909004,
-          "location": {
-            "name": "Tokyo"
-          },
-          "metadata": [],
-          "id": 4730010004,
-          "updated_at": "2022-11-17T02:02:23-05:00",
-          "requisition_id": "1257",
-          "title": "Senior Manager, Enterprise Sales (Tokyo, Japan)"
-        },
-        {
-          "absolute_url": "https://boards.greenhouse.io/figma/jobs/4777690004",
-          "data_compliance": [
-            {
-              "type": "gdpr",
-              "requires_consent": false,
-              "retention_period": null
-            }
-          ],
-          "internal_job_id": null,
-          "location": {
-            "name": "Paris"
-          },
-          "metadata": null,
-          "id": 4777690004,
-          "updated_at": "2023-01-18T11:54:35-05:00",
-          "requisition_id": null,
-          "title": "Strategic Account Manager (Paris, France)"
-        }
-      ]
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4214912004"
+  },
+  {
+    "id": 4214913004,
+    "title": "Software Engineer - Growth",
+    "updated_at": "2022-10-12T03:14:19-04:00",
+    "location": {
+      "name": "San Francisco or New York or Remote US"
     },
-    {
-      "id": 4038542004,
-      "name": "Talent",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": []
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4214913004"
+  },
+  {
+    "id": 4214920004,
+    "title": "Data Scientist - Marketing",
+    "updated_at": "2023-01-17T17:42:36-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
     },
-    {
-      "id": 0,
-      "name": "No Department",
-      "parent_id": null,
-      "child_ids": [],
-      "jobs": []
-    }
-  ]
-}
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4214920004"
+  },
+  {
+    "id": 4214924004,
+    "title": "Account Executive, Enterprise (London, UK)",
+    "updated_at": "2022-12-14T12:33:58-05:00",
+    "location": {
+      "name": "London"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4214924004"
+  },
+  {
+    "id": 4236441004,
+    "title": "Engineering Manager - Infrastructure",
+    "updated_at": "2023-01-19T11:32:07-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4236441004"
+  },
+  {
+    "id": 4244552004,
+    "title": "Account Executive, Mid Market (Paris, France)",
+    "updated_at": "2022-11-16T04:16:28-05:00",
+    "location": {
+      "name": "Paris"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4244552004"
+  },
+  {
+    "id": 4250316004,
+    "title": "Engineering Manager",
+    "updated_at": "2023-01-13T15:11:12-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4250316004"
+  },
+  {
+    "id": 4312156004,
+    "title": "Software Engineer - iOS",
+    "updated_at": "2022-10-25T17:20:28-04:00",
+    "location": {
+      "name": "San Francisco or New York or Remote US"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4312156004"
+  },
+  {
+    "id": 4312280004,
+    "title": "Account Executive, Enterprise (Tokyo, Japan)",
+    "updated_at": "2023-01-20T03:37:26-05:00",
+    "location": {
+      "name": "Tokyo"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4312280004"
+  },
+  {
+    "id": 4313113004,
+    "title": "Account Manager, Enterprise (Tokyo, Japan)",
+    "updated_at": "2023-01-20T03:39:04-05:00",
+    "location": {
+      "name": "Tokyo"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4313113004"
+  },
+  {
+    "id": 4313511004,
+    "title": "Account Manager, Enterprise DACH (Berlin, Germany)",
+    "updated_at": "2023-01-30T12:35:41-05:00",
+    "location": {
+      "name": "Berlin"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4313511004"
+  },
+  {
+    "id": 4339815004,
+    "title": "Software Engineer - FigJam ",
+    "updated_at": "2023-01-25T14:39:05-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4339815004"
+  },
+  {
+    "id": 4343779004,
+    "title": "Account Manager, Mid-Market",
+    "updated_at": "2022-12-12T14:26:18-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4343779004"
+  },
+  {
+    "id": 4407382004,
+    "title": "Account Executive - Mid Market (Tokyo, Japan)",
+    "updated_at": "2023-01-20T03:38:01-05:00",
+    "location": {
+      "name": "Tokyo"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4407382004"
+  },
+  {
+    "id": 4490123004,
+    "title": "Manager, Data Science (Platform)",
+    "updated_at": "2022-11-28T12:21:02-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4490123004"
+  },
+  {
+    "id": 4491537004,
+    "title": "Account Manager, Mid Market (Tokyo, Japan) ",
+    "updated_at": "2023-01-20T03:39:35-05:00",
+    "location": {
+      "name": "Tokyo"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4491537004"
+  },
+  {
+    "id": 4588114004,
+    "title": "Business Development Representative (London, UK)",
+    "updated_at": "2022-10-18T06:56:36-04:00",
+    "location": {
+      "name": "London"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4588114004"
+  },
+  {
+    "id": 4595288004,
+    "title": "Software Engineer, Early Career (2023)",
+    "updated_at": "2022-11-17T17:40:11-05:00",
+    "location": {
+      "name": "New York or San Francisco"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4595288004"
+  },
+  {
+    "id": 4602963004,
+    "title": "Product Designer",
+    "updated_at": "2023-01-05T17:32:37-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4602963004"
+  },
+  {
+    "id": 4608928004,
+    "title": "Web Developer, Web Experience",
+    "updated_at": "2022-10-12T03:14:19-04:00",
+    "location": {
+      "name": "San Francisco or New York or Remote US"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4608928004"
+  },
+  {
+    "id": 4634008004,
+    "title": "Business Operations",
+    "updated_at": "2023-01-25T23:06:54-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4634008004"
+  },
+  {
+    "id": 4634382004,
+    "title": "Account Executive, Mid Market (Tokyo, Japan)",
+    "updated_at": "2023-01-20T03:38:33-05:00",
+    "location": {
+      "name": "Tokyo"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4634382004"
+  },
+  {
+    "id": 4646261004,
+    "title": "Manager, Enterprise Sales DACH (Berlin, Germany)",
+    "updated_at": "2022-11-22T05:54:42-05:00",
+    "location": {
+      "name": "Berlin"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4646261004"
+  },
+  {
+    "id": 4687136004,
+    "title": "Software Engineer - Application Platform",
+    "updated_at": "2022-10-12T03:14:19-04:00",
+    "location": {
+      "name": "San Francisco or New York or Remote US"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4687136004"
+  },
+  {
+    "id": 4694509004,
+    "title": "Regional Marketing Manager (Singapore)",
+    "updated_at": "2022-11-17T06:06:00-05:00",
+    "location": {
+      "name": "Singapore"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4694509004"
+  },
+  {
+    "id": 4702153004,
+    "title": "Distribution Partnerships ",
+    "updated_at": "2022-11-10T14:29:41-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4702153004"
+  },
+  {
+    "id": 4703310004,
+    "title": "Director, Product Support Operations & Analytics",
+    "updated_at": "2022-10-18T11:01:36-04:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4703310004"
+  },
+  {
+    "id": 4708817004,
+    "title": "Account Manager, Mid Market (Singapore)",
+    "updated_at": "2023-01-08T03:04:21-05:00",
+    "location": {
+      "name": "Singapore"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4708817004"
+  },
+  {
+    "id": 4709674004,
+    "title": "Product Manager - Developer Tools",
+    "updated_at": "2022-10-24T19:17:22-04:00",
+    "location": {
+      "name": "London"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4709674004"
+  },
+  {
+    "id": 4710089004,
+    "title": "Manager, Sales Systems",
+    "updated_at": "2023-01-10T11:27:19-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4710089004"
+  },
+  {
+    "id": 4719694004,
+    "title": "Senior Corporate Accountant",
+    "updated_at": "2022-12-06T16:53:12-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4719694004"
+  },
+  {
+    "id": 4725856004,
+    "title": "Account Executive, Mid Market (Berlin, Germany)",
+    "updated_at": "2022-11-22T05:56:29-05:00",
+    "location": {
+      "name": "Berlin"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4725856004"
+  },
+  {
+    "id": 4725953004,
+    "title": "Account Manager, Mid Market (Berlin, Germany)",
+    "updated_at": "2022-11-21T17:05:00-05:00",
+    "location": {
+      "name": "Berlin"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4725953004"
+  },
+  {
+    "id": 4726315004,
+    "title": "Manager, Account Management (Berlin, Germany)",
+    "updated_at": "2022-11-22T05:55:21-05:00",
+    "location": {
+      "name": "Berlin"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4726315004"
+  },
+  {
+    "id": 4726336004,
+    "title": "Manager, Enterprise Sales, Southern Europe (Paris, France)",
+    "updated_at": "2022-11-16T04:19:29-05:00",
+    "location": {
+      "name": "Paris"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4726336004"
+  },
+  {
+    "id": 4728456004,
+    "title": "Director of Technical Program Management - Platform & Infrastructure Engineering",
+    "updated_at": "2022-11-15T18:18:19-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4728456004"
+  },
+  {
+    "id": 4728831004,
+    "title": "Product Marketing Manager, Figma Editor",
+    "updated_at": "2022-11-14T13:03:05-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4728831004"
+  },
+  {
+    "id": 4730010004,
+    "title": "Senior Manager, Enterprise Sales (Tokyo, Japan)",
+    "updated_at": "2022-11-17T02:02:23-05:00",
+    "location": {
+      "name": "Tokyo"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4730010004"
+  },
+  {
+    "id": 4730014004,
+    "title": "Senior Manager, Account Management (Tokyo, Japan)",
+    "updated_at": "2022-11-17T02:01:55-05:00",
+    "location": {
+      "name": "Tokyo"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4730014004"
+  },
+  {
+    "id": 4730206004,
+    "title": "Sales Operations Manager (Tokyo, Japan)",
+    "updated_at": "2022-11-14T19:29:00-05:00",
+    "location": {
+      "name": "Tokyo"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4730206004"
+  },
+  {
+    "id": 4730395004,
+    "title": "Marketing Counsel",
+    "updated_at": "2023-01-06T15:18:34-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4730395004"
+  },
+  {
+    "id": 4731248004,
+    "title": "Sales Operations Manager (Singapore)   ",
+    "updated_at": "2022-11-18T02:44:33-05:00",
+    "location": {
+      "name": "Singapore"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4731248004"
+  },
+  {
+    "id": 4732517004,
+    "title": "Designer Advocate (Tokyo, Japan)",
+    "updated_at": "2022-11-23T05:07:55-05:00",
+    "location": {
+      "name": "Tokyo"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4732517004"
+  },
+  {
+    "id": 4733665004,
+    "title": "Product Manager - Discovery",
+    "updated_at": "2022-11-21T10:33:08-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4733665004"
+  },
+  {
+    "id": 4733977004,
+    "title": "Manager, Account Management (Singapore)",
+    "updated_at": "2022-12-12T17:51:41-05:00",
+    "location": {
+      "name": "Singapore"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4733977004"
+  },
+  {
+    "id": 4734258004,
+    "title": "Manager, New Business (Singapore)",
+    "updated_at": "2023-01-09T22:34:30-05:00",
+    "location": {
+      "name": "Singapore"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4734258004"
+  },
+  {
+    "id": 4734545004,
+    "title": "Manager, Procurement Operations ",
+    "updated_at": "2023-01-03T14:32:29-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4734545004"
+  },
+  {
+    "id": 4734644004,
+    "title": "Account Executive, SMB",
+    "updated_at": "2022-11-21T12:57:50-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4734644004"
+  },
+  {
+    "id": 4735050004,
+    "title": "Manager, Deal Desk ",
+    "updated_at": "2023-01-10T20:32:02-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4735050004"
+  },
+  {
+    "id": 4738957004,
+    "title": "Manager, Website Experience ",
+    "updated_at": "2022-11-28T21:24:22-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4738957004"
+  },
+  {
+    "id": 4739288004,
+    "title": "Engineering Manager - Security",
+    "updated_at": "2023-01-24T16:30:28-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4739288004"
+  },
+  {
+    "id": 4744958004,
+    "title": "Senior Systems Engineer",
+    "updated_at": "2023-01-11T11:55:49-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4744958004"
+  },
+  {
+    "id": 4749857004,
+    "title": "Product Designer - Figma Design System",
+    "updated_at": "2022-12-14T17:48:32-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4749857004"
+  },
+  {
+    "id": 4750854004,
+    "title": "Manager, Product Support - Tier 1 (London, UK)",
+    "updated_at": "2022-12-15T07:47:20-05:00",
+    "location": {
+      "name": "London"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4750854004"
+  },
+  {
+    "id": 4750956004,
+    "title": "Product Support Specialist - Portuguese Speaking (London, UK)",
+    "updated_at": "2022-12-15T07:48:02-05:00",
+    "location": {
+      "name": "London"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4750956004"
+  },
+  {
+    "id": 4751580004,
+    "title": "Regional Marketing Manager (London, UK)",
+    "updated_at": "2022-12-15T15:51:41-05:00",
+    "location": {
+      "name": "London"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4751580004"
+  },
+  {
+    "id": 4753009004,
+    "title": "Director, Channel Sales",
+    "updated_at": "2022-12-12T18:09:52-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4753009004"
+  },
+  {
+    "id": 4753856004,
+    "title": "Product Support Specialist - French Speaking (London, UK)",
+    "updated_at": "2022-12-15T07:47:51-05:00",
+    "location": {
+      "name": "London"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4753856004"
+  },
+  {
+    "id": 4754116004,
+    "title": "Software Engineer, Creation Engine ",
+    "updated_at": "2023-01-11T18:35:58-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4754116004"
+  },
+  {
+    "id": 4754131004,
+    "title": "Onboarding Manager, Customer Experience",
+    "updated_at": "2023-01-04T13:52:44-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4754131004"
+  },
+  {
+    "id": 4755412004,
+    "title": "Manager, Community Support - French Speaking (London, UK)",
+    "updated_at": "2022-12-15T12:03:07-05:00",
+    "location": {
+      "name": "London"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4755412004"
+  },
+  {
+    "id": 4755499004,
+    "title": "Field Marketing & Events Manager (London, UK)",
+    "updated_at": "2023-01-16T04:19:31-05:00",
+    "location": {
+      "name": "London"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4755499004"
+  },
+  {
+    "id": 4756707004,
+    "title": "ML/AI Engineer",
+    "updated_at": "2023-01-26T11:48:07-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4756707004"
+  },
+  {
+    "id": 4758052004,
+    "title": "Strategic Finance, Sales",
+    "updated_at": "2023-01-06T20:54:39-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4758052004"
+  },
+  {
+    "id": 4758156004,
+    "title": "Strategic Finance, Self Serve",
+    "updated_at": "2022-12-16T18:21:30-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4758156004"
+  },
+  {
+    "id": 4758208004,
+    "title": "Benefits Partner",
+    "updated_at": "2023-01-09T12:13:04-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4758208004"
+  },
+  {
+    "id": 4758248004,
+    "title": "Director of Scalable Support",
+    "updated_at": "2022-12-17T13:20:50-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4758248004"
+  },
+  {
+    "id": 4765812004,
+    "title": "Email Marketer",
+    "updated_at": "2023-01-05T15:57:21-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4765812004"
+  },
+  {
+    "id": 4768417004,
+    "title": "Account Manager, Customer Experience ",
+    "updated_at": "2023-01-19T11:54:49-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4768417004"
+  },
+  {
+    "id": 4768627004,
+    "title": "Account Executive, Strategic Enterprise",
+    "updated_at": "2023-01-09T08:51:06-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4768627004"
+  },
+  {
+    "id": 4769779004,
+    "title": "Manager, Strategic Enterprise Sales",
+    "updated_at": "2023-01-30T10:06:16-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4769779004"
+  },
+  {
+    "id": 4770683004,
+    "title": "Manager, Web Development ",
+    "updated_at": "2023-01-11T11:29:34-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4770683004"
+  },
+  {
+    "id": 4772787004,
+    "title": "Director, Social",
+    "updated_at": "2023-01-18T15:03:22-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4772787004"
+  },
+  {
+    "id": 4777150004,
+    "title": "FedRAMP Compliance Manager",
+    "updated_at": "2023-01-18T17:00:25-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4777150004"
+  },
+  {
+    "id": 4777361004,
+    "title": "Sales Leadership Enablement Manager (London, UK)",
+    "updated_at": "2023-01-24T04:51:28-05:00",
+    "location": {
+      "name": "London"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4777361004"
+  },
+  {
+    "id": 4777690004,
+    "title": "Strategic Account Manager (Paris, France)",
+    "updated_at": "2023-01-18T11:54:35-05:00",
+    "location": {
+      "name": "Paris"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4777690004"
+  },
+  {
+    "id": 4779302004,
+    "title": "Product Manager - Design Systems Ecosystems",
+    "updated_at": "2023-01-20T15:59:23-05:00",
+    "location": {
+      "name": "New York or San Francisco"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4779302004"
+  },
+  {
+    "id": 4783062004,
+    "title": "Legal Contracts Manager",
+    "updated_at": "2023-01-30T12:46:11-05:00",
+    "location": {
+      "name": "London"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4783062004"
+  },
+  {
+    "id": 4783986004,
+    "title": "Technical Quality Specialist (Tokyo, Japan) ",
+    "updated_at": "2023-01-30T01:41:07-05:00",
+    "location": {
+      "name": "Tokyo"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4783986004"
+  },
+  {
+    "id": 4785687004,
+    "title": "HRIS Manager",
+    "updated_at": "2023-01-30T16:10:41-05:00",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4785687004"
+  }
+]
