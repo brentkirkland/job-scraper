@@ -2128,36 +2128,12 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4724282?gh_jid=4724282"
   },
   {
-    "id": 4726385,
-    "title": "Product Manager - D1",
-    "location": {
-      "name": "Remote US"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4726385?gh_jid=4726385"
-  },
-  {
     "id": 4726386,
-    "title": "Product Manager, Cloudflare Workers - Runtime",
+    "title": "Product Manager - DO + D1",
     "location": {
       "name": "Remote Netherlands"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4726386?gh_jid=4726386"
-  },
-  {
-    "id": 4726388,
-    "title": "Product Manager - D1",
-    "location": {
-      "name": "London or Remote UK"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4726388?gh_jid=4726388"
-  },
-  {
-    "id": 4726389,
-    "title": "Product Manager - D1",
-    "location": {
-      "name": "Remote Portugal"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4726389?gh_jid=4726389"
   },
   {
     "id": 4726587,
@@ -3574,5 +3550,29 @@
       "name": "Sydney, Australia"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4835921?gh_jid=4835921"
+  },
+  {
+    "id": 4836259,
+    "title": "Product Manager - DO + D1",
+    "location": {
+      "name": "Remote UK"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4836259?gh_jid=4836259"
+  },
+  {
+    "id": 4836263,
+    "title": "Product Manager - DO + D1",
+    "location": {
+      "name": "Remote US"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4836263?gh_jid=4836263"
+  },
+  {
+    "id": 4836267,
+    "title": "Product Manager - DO + D1",
+    "location": {
+      "name": "Remote Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4836267?gh_jid=4836267"
   }
 ]
