@@ -1464,6 +1464,14 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4828205/?gh_jid=4828205"
   },
   {
+    "id": 4828756,
+    "title": "Design Manager, Cloud Security Products",
+    "location": {
+      "name": "Paris, France; Lisbon, Portugal"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4828756/?gh_jid=4828756"
+  },
+  {
     "id": 4828783,
     "title": "Software Engineer - Security of Secrets",
     "location": {
@@ -1497,7 +1505,7 @@
   },
   {
     "id": 4830880,
-    "title": "Product Design Manager - APM Core",
+    "title": "Design Manager - APM Core",
     "location": {
       "name": "New York, New York, USA"
     },
