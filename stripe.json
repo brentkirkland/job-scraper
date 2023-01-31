@@ -720,6 +720,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4827273"
   },
   {
+    "id": 4827467,
+    "title": "Product Manager, Financial Connections",
+    "location": {
+      "name": "San Francisco, Seattle, New York, or Remote North America"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4827467"
+  },
+  {
     "id": 4828347,
     "title": "Head of BaaS Revenue & Growth, AMER ",
     "location": {
@@ -734,13 +742,5 @@
       "name": "New York, NY"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4829603"
-  },
-  {
-    "id": 4830096,
-    "title": "Product Manager, Stripe Network",
-    "location": {
-      "name": "San Francisco, Seattle, New York, or Remote North America"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4830096"
   }
 ]
