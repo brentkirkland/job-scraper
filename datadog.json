@@ -1542,5 +1542,21 @@
       "name": "New York, New York, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4834998/?gh_jid=4834998"
+  },
+  {
+    "id": 4835658,
+    "title": "Senior Product Manager - Log Patterns & Insights",
+    "location": {
+      "name": "Paris, France"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4835658/?gh_jid=4835658"
+  },
+  {
+    "id": 4835753,
+    "title": "Software Engineer - Fabric RPC ",
+    "location": {
+      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4835753/?gh_jid=4835753"
   }
 ]
