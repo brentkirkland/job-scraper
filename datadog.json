@@ -248,14 +248,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/2422927/?gh_jid=2422927"
   },
   {
-    "id": 2978210,
-    "title": "Commercial Account Executive (DACH)",
-    "location": {
-      "name": "Amsterdam, Netherlands; Dublin, Ireland"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/2978210/?gh_jid=2978210"
-  },
-  {
     "id": 3056596,
     "title": "Software Engineer - Global Data Platform",
     "location": {
@@ -1534,5 +1526,21 @@
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4835753/?gh_jid=4835753"
+  },
+  {
+    "id": 4839313,
+    "title": "Technical Curriculum Developer ",
+    "location": {
+      "name": "New York, USA, Remote"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4839313/?gh_jid=4839313"
+  },
+  {
+    "id": 4839346,
+    "title": "Senior Technical Curriculum Developer ",
+    "location": {
+      "name": "New York, USA, Remote"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4839346/?gh_jid=4839346"
   }
 ]
