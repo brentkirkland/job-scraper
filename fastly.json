@@ -192,6 +192,14 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4795116"
   },
   {
+    "id": 4795218,
+    "title": "Global Sales Compensation Systems Manager",
+    "location": {
+      "name": "US West (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4795218"
+  },
+  {
     "id": 4795767,
     "title": "Staff Software Engineer - Observability Products",
     "location": {
@@ -462,5 +470,21 @@
       "name": "US West (Remote)"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4836612"
+  },
+  {
+    "id": 4836722,
+    "title": "Senior People Systems Analyst",
+    "location": {
+      "name": "Los Angeles, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4836722"
+  },
+  {
+    "id": 4836782,
+    "title": "Senior People Systems Analyst",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4836782"
   }
 ]
