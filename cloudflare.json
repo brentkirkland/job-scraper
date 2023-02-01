@@ -3440,6 +3440,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4820024?gh_jid=4820024"
   },
   {
+    "id": 4823072,
+    "title": "Enterprise Account Executive Nordics",
+    "location": {
+      "name": "Amsterdam, Netherlands"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4823072?gh_jid=4823072"
+  },
+  {
     "id": 4824996,
     "title": "Enterprise Account Executive",
     "location": {
@@ -3606,5 +3614,13 @@
       "name": "Lisbon, Portugal"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4836703?gh_jid=4836703"
+  },
+  {
+    "id": 4838376,
+    "title": "Enterprise Account Executive Nordics",
+    "location": {
+      "name": "Remote Sweden"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4838376?gh_jid=4838376"
   }
 ]
