@@ -40,14 +40,6 @@
     "absolute_url": "https://boards.greenhouse.io/figma/jobs/4214851004"
   },
   {
-    "id": 4214859004,
-    "title": "Software Engineer - Reliability",
-    "location": {
-      "name": "San Francisco or New York or Remote US"
-    },
-    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4214859004"
-  },
-  {
     "id": 4214880004,
     "title": "Security Engineer",
     "location": {
@@ -254,14 +246,6 @@
       "name": "Berlin"
     },
     "absolute_url": "https://boards.greenhouse.io/figma/jobs/4646261004"
-  },
-  {
-    "id": 4687136004,
-    "title": "Software Engineer - Application Platform",
-    "location": {
-      "name": "San Francisco or New York or Remote US"
-    },
-    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4687136004"
   },
   {
     "id": 4694509004,
@@ -646,6 +630,14 @@
       "name": "San Francisco or New York or Remote"
     },
     "absolute_url": "https://boards.greenhouse.io/figma/jobs/4776674004"
+  },
+  {
+    "id": 4776760004,
+    "title": "Software Engineer, Reliability",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4776760004"
   },
   {
     "id": 4777150004,
