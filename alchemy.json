@@ -176,6 +176,14 @@
     "absolute_url": "https://boards.greenhouse.io/alchemy/jobs/4026575005"
   },
   {
+    "id": 4027843005,
+    "title": "Social Media Manager",
+    "location": {
+      "name": "New York, New York, United States, San Francisco, California, United States"
+    },
+    "absolute_url": "https://boards.greenhouse.io/alchemy/jobs/4027843005"
+  },
+  {
     "id": 4027845005,
     "title": "Technical Content Creator (Part Time or Full Time)",
     "location": {
@@ -390,5 +398,13 @@
       "name": "New York, New York, United States, San Francisco, California, United States"
     },
     "absolute_url": "https://boards.greenhouse.io/alchemy/jobs/4181718005"
+  },
+  {
+    "id": 4189338005,
+    "title": "Product Marketing Manager",
+    "location": {
+      "name": "New York, New York, United States, San Francisco, California, United States"
+    },
+    "absolute_url": "https://boards.greenhouse.io/alchemy/jobs/4189338005"
   }
 ]
