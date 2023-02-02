@@ -1,4 +1,5 @@
 /careers/vip-access
+/careers/senior-engineering-program-manager-infrastructure-programs-remote-americas_8b790ac6-5eb9-4c18-830b-db81dd20a672
 /careers/senior-staff-engineer-discovery-experience-remote-emea_7dcd97de-6060-4585-85f3-ad9fd17fa55a
 /careers/senior-staff-engineer-discovery-experience-remote-americas_3b3b7769-1b08-4950-8f79-75493c923edc
 /careers/senior-staff-engineer-frontend-checkout-americas-remote_9b58cb41-522a-42f0-a38d-a6e08520e01a
