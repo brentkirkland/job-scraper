@@ -488,14 +488,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4382032/?gh_jid=4382032"
   },
   {
-    "id": 4387216,
-    "title": "Senior Product Manager - Datadog Apps",
-    "location": {
-      "name": "New York, New York, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4387216/?gh_jid=4387216"
-  },
-  {
     "id": 4397492,
     "title": "Senior Software Engineer - Capacity Management",
     "location": {
@@ -726,14 +718,6 @@
       "name": "New York, USA, Remote"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4589389/?gh_jid=4589389"
-  },
-  {
-    "id": 4592866,
-    "title": "Product Manager - Enterprise Access Control",
-    "location": {
-      "name": "New York, New York, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4592866/?gh_jid=4592866"
   },
   {
     "id": 4598600,
@@ -1414,6 +1398,14 @@
       "name": "Paris, France"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4831178/?gh_jid=4831178"
+  },
+  {
+    "id": 4831203,
+    "title": "Senior Software Engineer - Data Viz (Maps)",
+    "location": {
+      "name": "New York, New York, USA; Boston, Massachusetts, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4831203/?gh_jid=4831203"
   },
   {
     "id": 4831978,
