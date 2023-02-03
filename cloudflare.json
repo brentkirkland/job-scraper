@@ -1049,7 +1049,7 @@
   },
   {
     "id": 4622687,
-    "title": "Product Manager - Intern (Summer 2023)",
+    "title": "Product Manager - Intern (US and Canada, Summer 2023)",
     "location": {
       "name": "Remote and/or any of these Cloudflare Offices: San Francisco, CA, Austin, TX, Champaign, IL, New York, NY, San Jose, CA, Seattle, WA, Washington, D.C."
     },
@@ -3582,5 +3582,13 @@
       "name": "Austin or Remote US"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4840763?gh_jid=4840763"
+  },
+  {
+    "id": 4844236,
+    "title": "Product Manager - Intern (Europe, Summer 2023)",
+    "location": {
+      "name": "Remote and/or any of these Cloudflare Offices: Toronto, Lisbon, London, Munich, Paris, Singapore, and Sydney"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4844236?gh_jid=4844236"
   }
 ]
