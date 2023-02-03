@@ -752,22 +752,6 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4499822?gh_jid=4499822"
   },
   {
-    "id": 4523468,
-    "title": "Implementation Manager - Zero Trust/SASE",
-    "location": {
-      "name": "Lisbon, Portugal"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4523468?gh_jid=4523468"
-  },
-  {
-    "id": 4523516,
-    "title": "Implementation Manager - Network Services",
-    "location": {
-      "name": "Lisbon, Portugal"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4523516?gh_jid=4523516"
-  },
-  {
     "id": 4535979,
     "title": "System Engineer",
     "location": {
@@ -846,54 +830,6 @@
       "name": "Toronto, ON"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4597201?gh_jid=4597201"
-  },
-  {
-    "id": 4598633,
-    "title": "Network Support Engineer",
-    "location": {
-      "name": "Lisbon, Portugal"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4598633?gh_jid=4598633"
-  },
-  {
-    "id": 4598634,
-    "title": "Network Implementation Engineer",
-    "location": {
-      "name": "Lisbon, Portugal"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4598634?gh_jid=4598634"
-  },
-  {
-    "id": 4598635,
-    "title": "Network Engineer",
-    "location": {
-      "name": "Lisbon, Portugal"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4598635?gh_jid=4598635"
-  },
-  {
-    "id": 4598636,
-    "title": "Security Support Engineer",
-    "location": {
-      "name": "Lisbon, Portugal"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4598636?gh_jid=4598636"
-  },
-  {
-    "id": 4598638,
-    "title": "Security Implementation Engineer",
-    "location": {
-      "name": "Lisbon, Portugal"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4598638?gh_jid=4598638"
-  },
-  {
-    "id": 4598640,
-    "title": "Security Engineer",
-    "location": {
-      "name": "Lisbon, Portugal"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4598640?gh_jid=4598640"
   },
   {
     "id": 4605489,
@@ -3369,7 +3305,7 @@
   },
   {
     "id": 4825277,
-    "title": "Software Engineer - Intern (2023) (No HC)",
+    "title": "Software Engineer - Intern (2023) ",
     "location": {
       "name": "Lisbon or London"
     },
