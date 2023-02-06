@@ -312,14 +312,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4730075"
   },
   {
-    "id": 4732240,
-    "title": "Enterprise Product Support Specialist",
-    "location": {
-      "name": "Chicago, IL or Remote United States"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4732240"
-  },
-  {
     "id": 4734904,
     "title": "Technical Revenue Accounting Lead",
     "location": {
@@ -574,6 +566,14 @@
       "name": "US, Canada "
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4813901"
+  },
+  {
+    "id": 4814698,
+    "title": "Backend / API Engineer, Financial Connections",
+    "location": {
+      "name": "San Francisco, Seattle, New York, or Remote North America"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4814698"
   },
   {
     "id": 4819519,
