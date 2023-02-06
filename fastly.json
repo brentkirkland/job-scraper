@@ -486,5 +486,21 @@
       "name": "Canada (Remote)"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4841773"
+  },
+  {
+    "id": 4841818,
+    "title": "Senior FP&A Analyst",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4841818"
+  },
+  {
+    "id": 4841849,
+    "title": "Senior FP&A Analyst",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4841849"
   }
 ]
