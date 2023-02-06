@@ -856,14 +856,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4701805/?gh_jid=4701805"
   },
   {
-    "id": 4709534,
-    "title": "Product Manager - Platform Integrations ",
-    "location": {
-      "name": "New York, New York, USA; Boston, Massachusetts, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4709534/?gh_jid=4709534"
-  },
-  {
     "id": 4710525,
     "title": "Director, Customer Success (West)",
     "location": {
@@ -1518,5 +1510,13 @@
       "name": "San Francisco, California, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4844351/?gh_jid=4844351"
+  },
+  {
+    "id": 4844575,
+    "title": "Senior Product Marketing Manager - Cloud SIEM",
+    "location": {
+      "name": "San Francisco, California, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4844575/?gh_jid=4844575"
   }
 ]
