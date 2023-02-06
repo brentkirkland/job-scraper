@@ -502,5 +502,21 @@
       "name": "Denver, CO"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4841849"
+  },
+  {
+    "id": 4848899,
+    "title": "Enterprise Account Manager",
+    "location": {
+      "name": "US (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4848899"
+  },
+  {
+    "id": 4848901,
+    "title": "Enterprise Account Manager",
+    "location": {
+      "name": "US West (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4848901"
   }
 ]
