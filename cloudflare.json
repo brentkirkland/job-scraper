@@ -1160,14 +1160,6 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4660946?gh_jid=4660946"
   },
   {
-    "id": 4664202,
-    "title": "Software Engineer - Connectivity (Rust)",
-    "location": {
-      "name": "Remote Portugal"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4664202?gh_jid=4664202"
-  },
-  {
     "id": 4666749,
     "title": "Mid Market SASE Sales Specialist",
     "location": {
@@ -3462,6 +3454,14 @@
       "name": "Lisbon, Portugal"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4836703?gh_jid=4836703"
+  },
+  {
+    "id": 4838275,
+    "title": "Network Deployment Engineer",
+    "location": {
+      "name": "Singapore"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4838275?gh_jid=4838275"
   },
   {
     "id": 4838376,
