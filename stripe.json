@@ -144,14 +144,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4547059"
   },
   {
-    "id": 4552548,
-    "title": "Engineering Manager, Wallets ",
-    "location": {
-      "name": "Dublin, Ireland"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4552548"
-  },
-  {
     "id": 4554760,
     "title": "Partner Manager, Financial Partnerships",
     "location": {
@@ -646,6 +638,14 @@
       "name": "US-Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4827273"
+  },
+  {
+    "id": 4827315,
+    "title": "Manager, Strategic Accounts, Americas ",
+    "location": {
+      "name": "US Remote"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4827315"
   },
   {
     "id": 4827467,
