@@ -3288,6 +3288,30 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4826888?gh_jid=4826888"
   },
   {
+    "id": 4827912,
+    "title": "Solutions Engineer, Nordics",
+    "location": {
+      "name": "London or Munich or Amsterdam"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4827912?gh_jid=4827912"
+  },
+  {
+    "id": 4827914,
+    "title": "Solutions Engineer, Nordics",
+    "location": {
+      "name": "Lisbon, Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4827914?gh_jid=4827914"
+  },
+  {
+    "id": 4827915,
+    "title": "Solutions Engineer, Nordics",
+    "location": {
+      "name": "Paris, France"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4827915?gh_jid=4827915"
+  },
+  {
     "id": 4828159,
     "title": "Public Relations Senior Manager ",
     "location": {
@@ -3574,5 +3598,13 @@
       "name": "Portland, OR"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4848599?gh_jid=4848599"
+  },
+  {
+    "id": 4851472,
+    "title": "Solutions Engineer, Nordics",
+    "location": {
+      "name": "Remote Sweden"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4851472?gh_jid=4851472"
   }
 ]
