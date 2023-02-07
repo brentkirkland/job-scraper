@@ -616,6 +616,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4825296"
   },
   {
+    "id": 4826402,
+    "title": "Manager, Operations Technology",
+    "location": {
+      "name": "United States"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4826402"
+  },
+  {
     "id": 4827067,
     "title": "Machine Learning Engineer, Risk",
     "location": {
@@ -790,6 +798,14 @@
       "name": "US-Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4842633"
+  },
+  {
+    "id": 4846106,
+    "title": "Staff Software Engineer, Machine Learning Infrastructure",
+    "location": {
+      "name": "US/Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4846106"
   },
   {
     "id": 4850151,
