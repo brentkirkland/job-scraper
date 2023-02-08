@@ -3624,11 +3624,27 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4848599?gh_jid=4848599"
   },
   {
+    "id": 4851107,
+    "title": "Accounts Receivable",
+    "location": {
+      "name": "Lisbon, Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4851107?gh_jid=4851107"
+  },
+  {
     "id": 4851472,
     "title": "Solutions Engineer, Nordics",
     "location": {
       "name": "Remote Sweden"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4851472?gh_jid=4851472"
+  },
+  {
+    "id": 4852043,
+    "title": "Technical Accounting Manager",
+    "location": {
+      "name": "Remote US"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4852043?gh_jid=4852043"
   }
 ]
