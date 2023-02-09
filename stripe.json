@@ -902,5 +902,13 @@
       "name": "SF/NYC/SEA/CHI/US-Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4854186"
+  },
+  {
+    "id": 4854831,
+    "title": "Software Engineer, Secure Frameworks",
+    "location": {
+      "name": "Dublin"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4854831"
   }
 ]
