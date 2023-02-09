@@ -240,14 +240,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4597935"
   },
   {
-    "id": 4616638,
-    "title": "Head of Enterprise Sales, AMER",
-    "location": {
-      "name": "San Francisco, Seattle, Chicago, New York"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4616638"
-  },
-  {
     "id": 4721023,
     "title": "Credit Risk Operations Manager, Stripe Delivery Center",
     "location": {
@@ -624,6 +616,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4825062"
   },
   {
+    "id": 4825198,
+    "title": "Dispute and Transaction Operations Manager",
+    "location": {
+      "name": "US-Chicago, US-Remote"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4825198"
+  },
+  {
     "id": 4825296,
     "title": "Program Manager, Technology Risk",
     "location": {
@@ -790,6 +790,14 @@
       "name": "Singapore"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4835365"
+  },
+  {
+    "id": 4835369,
+    "title": "Service Account Manager",
+    "location": {
+      "name": "US-Chicago, US-Remote"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4835369"
   },
   {
     "id": 4836791,
