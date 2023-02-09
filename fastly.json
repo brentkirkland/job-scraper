@@ -464,6 +464,22 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4841849"
   },
   {
+    "id": 4842778,
+    "title": "Senior Software Engineer - Security Products",
+    "location": {
+      "name": "US West (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4842778"
+  },
+  {
+    "id": 4842789,
+    "title": "Senior Software Engineer - Security Products",
+    "location": {
+      "name": "US (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4842789"
+  },
+  {
     "id": 4847429,
     "title": "Staff Software Engineer - Network Privacy Protocols",
     "location": {
@@ -496,6 +512,14 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4847687"
   },
   {
+    "id": 4848673,
+    "title": "Senior Site Reliability Engineer - Foundation Trust Services",
+    "location": {
+      "name": "US (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4848673"
+  },
+  {
     "id": 4848899,
     "title": "Enterprise Account Manager",
     "location": {
@@ -510,6 +534,14 @@
       "name": "US West (Remote)"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4848901"
+  },
+  {
+    "id": 4848905,
+    "title": "Senior Site Reliability Engineer - Foundation Trust Services",
+    "location": {
+      "name": "Canada (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4848905"
   },
   {
     "id": 4853652,
