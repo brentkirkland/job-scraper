@@ -1016,14 +1016,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4750104/?gh_jid=4750104"
   },
   {
-    "id": 4750149,
-    "title": "Director, Global Field Marketing",
-    "location": {
-      "name": "New York, New York, USA; Denver, Colorado, USA; Boston, Massachusetts, USA; San Francisco, California, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4750149/?gh_jid=4750149"
-  },
-  {
     "id": 4750479,
     "title": "Payroll Coordinator",
     "location": {
@@ -1504,19 +1496,19 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4854838/?gh_jid=4854838"
   },
   {
-    "id": 4854849,
+    "id": 4857413,
     "title": "Security Software Engineer",
     "location": {
       "name": "Boston, Massachusetts, USA"
     },
-    "absolute_url": "https://careers.datadoghq.com/detail/4854849/?gh_jid=4854849"
+    "absolute_url": "https://careers.datadoghq.com/detail/4857413/?gh_jid=4857413"
   },
   {
-    "id": 4854852,
+    "id": 4857417,
     "title": "Security Software Engineer",
     "location": {
       "name": "Denver, Colorado, USA"
     },
-    "absolute_url": "https://careers.datadoghq.com/detail/4854852/?gh_jid=4854852"
+    "absolute_url": "https://careers.datadoghq.com/detail/4857417/?gh_jid=4857417"
   }
 ]
