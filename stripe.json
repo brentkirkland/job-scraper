@@ -752,6 +752,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4835359"
   },
   {
+    "id": 4835361,
+    "title": "Paid Social Manager",
+    "location": {
+      "name": "US Remote"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4835361"
+  },
+  {
     "id": 4835363,
     "title": "Paid Social Marketing Manager, EMEA",
     "location": {
@@ -870,5 +878,13 @@
       "name": "US"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4851639"
+  },
+  {
+    "id": 4854186,
+    "title": "Head of Global Campaigns & Americas Marketing",
+    "location": {
+      "name": "SF/NYC/SEA/CHI/US-Remote"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4854186"
   }
 ]
