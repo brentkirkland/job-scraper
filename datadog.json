@@ -1232,6 +1232,30 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4830810/?gh_jid=4830810"
   },
   {
+    "id": 4830819,
+    "title": "Security Engineer - Incident Response Engineering",
+    "location": {
+      "name": "New York, New York, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4830819/?gh_jid=4830819"
+  },
+  {
+    "id": 4830837,
+    "title": "Security Engineer - Incident Response Engineering",
+    "location": {
+      "name": "Boston, Massachusetts, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4830837/?gh_jid=4830837"
+  },
+  {
+    "id": 4830839,
+    "title": "Security Engineer - Incident Response Engineering",
+    "location": {
+      "name": "Denver, Colorado, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4830839/?gh_jid=4830839"
+  },
+  {
     "id": 4830880,
     "title": "Design Manager - APM Core",
     "location": {
@@ -1510,5 +1534,13 @@
       "name": "Denver, Colorado, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4857417/?gh_jid=4857417"
+  },
+  {
+    "id": 4857463,
+    "title": "Senior Product Designer - Coscreen",
+    "location": {
+      "name": "Washington, USA, Remote; California, USA, Remote"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4857463/?gh_jid=4857463"
   }
 ]
