@@ -1,5 +1,4 @@
 /careers/vip-access
-/careers/staff-engineer-frontend-checkout-remote-americas_d677e19d-9001-4c43-8d77-4cea3d730cc4
 /careers/staff-developer-checkout-platform-remote-americas_88ba0c22-cd8b-44db-b3ca-dda06b20ac66
 /careers/senior-staff-engineer-frontend-checkout-americas-remote_9b58cb41-522a-42f0-a38d-a6e08520e01a
 /careers/infrastructure-engineer-discovery-experience-remote-emea_ae37dd69-d833-40c8-949e-4b5902a29c32
