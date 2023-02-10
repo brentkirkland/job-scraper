@@ -209,7 +209,7 @@
   },
   {
     "id": 4595288004,
-    "title": "Software Engineer - Early Career (2023)",
+    "title": "Security Software Engineer - Early Career (2023)",
     "location": {
       "name": "New York or San Francisco"
     },
@@ -758,5 +758,13 @@
       "name": "San Francisco or New York or Remote"
     },
     "absolute_url": "https://boards.greenhouse.io/figma/jobs/4796879004"
+  },
+  {
+    "id": 4798221004,
+    "title": "Customer Marketing Manager",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4798221004"
   }
 ]

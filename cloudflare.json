@@ -920,6 +920,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4625375?gh_jid=4625375"
   },
   {
+    "id": 4625777,
+    "title": "Human Resource Executive",
+    "location": {
+      "name": "Sydney, Australia"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4625777?gh_jid=4625777"
+  },
+  {
     "id": 4626015,
     "title": "Solutions Engineer (German Speaker)",
     "location": {
@@ -1678,14 +1686,6 @@
       "name": "Remote US"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4714865?gh_jid=4714865"
-  },
-  {
-    "id": 4717122,
-    "title": "Software Engineer - Content Delivery ",
-    "location": {
-      "name": "Remote US"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4717122?gh_jid=4717122"
   },
   {
     "id": 4717630,
