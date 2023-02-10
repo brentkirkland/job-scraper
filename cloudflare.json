@@ -2784,14 +2784,6 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4809032?gh_jid=4809032"
   },
   {
-    "id": 4810169,
-    "title": "Solutions Architect - APJC ",
-    "location": {
-      "name": "Singapore"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4810169?gh_jid=4810169"
-  },
-  {
     "id": 4810361,
     "title": "Strategic Account Executive, Samsung Group - Korea",
     "location": {
@@ -3280,6 +3272,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4835151?gh_jid=4835151"
   },
   {
+    "id": 4835367,
+    "title": "Logistics Analyst, Global Infrastructure – APJC",
+    "location": {
+      "name": "Singapore"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4835367?gh_jid=4835367"
+  },
+  {
     "id": 4835577,
     "title": "Security Operations Center Engineer",
     "location": {
@@ -3526,5 +3526,13 @@
       "name": "Remote US"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4852043?gh_jid=4852043"
+  },
+  {
+    "id": 4856038,
+    "title": "Senior Manager, APJC Sales Enablement",
+    "location": {
+      "name": "Singapore"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4856038?gh_jid=4856038"
   }
 ]
