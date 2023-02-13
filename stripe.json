@@ -536,14 +536,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4811551"
   },
   {
-    "id": 4813901,
-    "title": "Infrastructure Engineer - Orchestration",
-    "location": {
-      "name": "US, Canada "
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4813901"
-  },
-  {
     "id": 4814482,
     "title": "Product Marketing Manager, Solutions",
     "location": {
@@ -998,5 +990,13 @@
       "name": "US- Remote, US-Chicago"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4858872"
+  },
+  {
+    "id": 4861071,
+    "title": "Technical Operations, Money Movement",
+    "location": {
+      "name": "Brazil"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4861071"
   }
 ]
