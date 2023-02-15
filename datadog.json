@@ -616,14 +616,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4648890/?gh_jid=4648890"
   },
   {
-    "id": 4656142,
-    "title": "Software Engineer - Vector Data Processing",
-    "location": {
-      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Tel Aviv, Israel"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4656142/?gh_jid=4656142"
-  },
-  {
     "id": 4663002,
     "title": "Field Marketing Manager (UK & Ireland)",
     "location": {
@@ -1390,6 +1382,14 @@
       "name": "San Francisco, California, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4844575/?gh_jid=4844575"
+  },
+  {
+    "id": 4845787,
+    "title": "Test Job",
+    "location": {
+      "name": "Boston, Massachusetts, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4845787/?gh_jid=4845787"
   },
   {
     "id": 4848361,
