@@ -784,11 +784,27 @@
     "absolute_url": "https://boards.greenhouse.io/figma/jobs/4799905004"
   },
   {
+    "id": 4799941004,
+    "title": "Director, Account Management EMEA (London, UK)",
+    "location": {
+      "name": "London"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4799941004"
+  },
+  {
     "id": 4800622004,
     "title": "Order Management Analyst",
     "location": {
       "name": "San Francisco or New York or Remote"
     },
     "absolute_url": "https://boards.greenhouse.io/figma/jobs/4800622004"
+  },
+  {
+    "id": 4801256004,
+    "title": "Account Executive, Enterprise (Berlin, Germany) ",
+    "location": {
+      "name": "Berlin"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4801256004"
   }
 ]
