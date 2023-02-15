@@ -419,7 +419,7 @@
     "id": 4842778,
     "title": "Senior Software Engineer - Security Products",
     "location": {
-      "name": "US West (Remote)"
+      "name": "New York City, NY"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4842778"
   },
@@ -427,7 +427,7 @@
     "id": 4842789,
     "title": "Senior Software Engineer - Security Products",
     "location": {
-      "name": "US (Remote)"
+      "name": "San Francisco, CA"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4842789"
   },
@@ -606,5 +606,21 @@
       "name": "New York City, NY"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4868856"
+  },
+  {
+    "id": 4872316,
+    "title": "Senior Software Engineer - Security Products",
+    "location": {
+      "name": "Los Angeles, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4872316"
+  },
+  {
+    "id": 4872318,
+    "title": "Senior Software Engineer - Security Products",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4872318"
   }
 ]
