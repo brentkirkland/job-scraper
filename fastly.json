@@ -598,5 +598,37 @@
       "name": "Denver, CO"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4872318"
+  },
+  {
+    "id": 4872391,
+    "title": "Staff Site Reliability Engineer - Network Telemetry and Optimization",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4872391"
+  },
+  {
+    "id": 4872427,
+    "title": "Staff Site Reliability Engineer - Network Telemetry and Optimization",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4872427"
+  },
+  {
+    "id": 4874963,
+    "title": "Staff Site Reliability Engineer - Network Telemetry and Optimization",
+    "location": {
+      "name": "Los Angeles, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4874963"
+  },
+  {
+    "id": 4875000,
+    "title": "Staff Site Reliability Engineer - Network Telemetry and Optimization",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4875000"
   }
 ]
