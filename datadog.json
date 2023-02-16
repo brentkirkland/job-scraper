@@ -1104,30 +1104,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4828756/?gh_jid=4828756"
   },
   {
-    "id": 4828783,
-    "title": "Software Engineer - Security of Secrets",
-    "location": {
-      "name": "New York, New York, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4828783/?gh_jid=4828783"
-  },
-  {
-    "id": 4829277,
-    "title": "Software Engineer - Security of Secrets",
-    "location": {
-      "name": "Boston, Massachusetts, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4829277/?gh_jid=4829277"
-  },
-  {
-    "id": 4829278,
-    "title": "Software Engineer - Security of Secrets",
-    "location": {
-      "name": "Denver, Colorado, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4829278/?gh_jid=4829278"
-  },
-  {
     "id": 4830810,
     "title": "Security Engineer - Threat Detection",
     "location": {
@@ -1454,6 +1430,14 @@
       "name": "Washington, USA, Remote; California, USA, Remote"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4857463/?gh_jid=4857463"
+  },
+  {
+    "id": 4860468,
+    "title": "Enterprise Customer Success Manager - DACH",
+    "location": {
+      "name": "Dublin"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4860468/?gh_jid=4860468"
   },
   {
     "id": 4862102,
