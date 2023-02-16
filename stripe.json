@@ -1,13 +1,5 @@
 [
   {
-    "id": 3898560,
-    "title": "Data Engineer, People ",
-    "location": {
-      "name": "San Francisco, Seattle, New York, Chicago, North America (Remote)"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=3898560"
-  },
-  {
     "id": 3946113,
     "title": "AMER Sales Ops Analyst",
     "location": {
@@ -1038,6 +1030,14 @@
       "name": "Toronto, Mexico City, Remote from Canada"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4868011"
+  },
+  {
+    "id": 4872060,
+    "title": "Engineering Manager, Billing Engine",
+    "location": {
+      "name": "Remote in US or Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4872060"
   },
   {
     "id": 4873550,
