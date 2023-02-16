@@ -56,6 +56,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/2420810?gh_jid=2420810"
   },
   {
+    "id": 2425456,
+    "title": "Business Development Representative (French speaking)",
+    "location": {
+      "name": "London, UK"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/2425456?gh_jid=2425456"
+  },
+  {
     "id": 2440061,
     "title": "Software Engineer (PKI & Secrets Management)",
     "location": {
@@ -1568,12 +1576,28 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4717630?gh_jid=4717630"
   },
   {
+    "id": 4717632,
+    "title": "Business Development Representative, Hungarian speaking",
+    "location": {
+      "name": "Lisbon, Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4717632?gh_jid=4717632"
+  },
+  {
     "id": 4719652,
     "title": "Solutions Engineer - Korea",
     "location": {
       "name": "Seoul, South Korea"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4719652?gh_jid=4719652"
+  },
+  {
+    "id": 4719969,
+    "title": "Business Development Representative, French speaking",
+    "location": {
+      "name": "Lisbon, Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4719969?gh_jid=4719969"
   },
   {
     "id": 4720566,
@@ -2054,22 +2078,6 @@
       "name": "San Francisco or Austin"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4767359?gh_jid=4767359"
-  },
-  {
-    "id": 4767699,
-    "title": "Software Engineer - Developer Tooling and Productivity",
-    "location": {
-      "name": "Austin or Kirkland or San Francisco"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4767699?gh_jid=4767699"
-  },
-  {
-    "id": 4767701,
-    "title": "Software Engineer - Developer Tooling and Productivity",
-    "location": {
-      "name": "London or Lisbon or Paris"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4767701?gh_jid=4767701"
   },
   {
     "id": 4769791,
