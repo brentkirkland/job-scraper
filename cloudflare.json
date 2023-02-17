@@ -2800,14 +2800,6 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4820009?gh_jid=4820009"
   },
   {
-    "id": 4820024,
-    "title": "Enterprise Account Executive",
-    "location": {
-      "name": "Detroit, MI"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4820024?gh_jid=4820024"
-  },
-  {
     "id": 4822586,
     "title": "Network Deployment Engineer ",
     "location": {
@@ -3168,6 +3160,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4846281?gh_jid=4846281"
   },
   {
+    "id": 4846591,
+    "title": "Data Analyst, Support Operations",
+    "location": {
+      "name": "Remote US"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4846591?gh_jid=4846591"
+  },
+  {
     "id": 4847864,
     "title": "Edge Partner Success - Program Manager",
     "location": {
@@ -3438,6 +3438,14 @@
       "name": "London, UK"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4866339?gh_jid=4866339"
+  },
+  {
+    "id": 4867758,
+    "title": "People & Payroll Business Systems Manager  ",
+    "location": {
+      "name": "Remote US"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4867758?gh_jid=4867758"
   },
   {
     "id": 4868810,
