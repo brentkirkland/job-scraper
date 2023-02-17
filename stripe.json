@@ -992,14 +992,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4858858"
   },
   {
-    "id": 4858872,
-    "title": "Senior Advisory Solutions Architect",
-    "location": {
-      "name": "US- Remote, US-Chicago"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4858872"
-  },
-  {
     "id": 4861071,
     "title": "Technical Operations, Money Movement",
     "location": {
@@ -1054,5 +1046,13 @@
       "name": "US-Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4876918"
+  },
+  {
+    "id": 4877170,
+    "title": "Senior Advisory Solutions Architect ",
+    "location": {
+      "name": "US - Chicago, US - Remote"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4877170"
   }
 ]
