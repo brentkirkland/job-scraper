@@ -1041,7 +1041,7 @@
   },
   {
     "id": 4658540,
-    "title": "Account Executive, GCR - Hong Kong (Cantonese speaking)",
+    "title": "Account Executive, Hong Kong (Cantonese speaking)",
     "location": {
       "name": "Singapore"
     },
@@ -2753,7 +2753,7 @@
   },
   {
     "id": 4818165,
-    "title": "Account Executive, GCR ",
+    "title": "Account Executive, China To Global",
     "location": {
       "name": "Beijing, China"
     },
@@ -3510,5 +3510,21 @@
       "name": "Remote Sweden"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4875103?gh_jid=4875103"
+  },
+  {
+    "id": 4877567,
+    "title": "Technical Support Engineer - Zero Trust Focused",
+    "location": {
+      "name": "Tokyo, Japan"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4877567?gh_jid=4877567"
+  },
+  {
+    "id": 4877570,
+    "title": "Technical Support Engineer - Zero Trust Focused",
+    "location": {
+      "name": "Singapore"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4877570?gh_jid=4877570"
   }
 ]
