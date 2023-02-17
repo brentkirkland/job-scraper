@@ -200,14 +200,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4723376"
   },
   {
-    "id": 4723914,
-    "title": "Product Compliance Lead",
-    "location": {
-      "name": "NYC, SF, SEA, US-Remote"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4723914"
-  },
-  {
     "id": 4724348,
     "title": "Engineering Manager, Storage Abstraction      ",
     "location": {
@@ -998,6 +990,22 @@
       "name": "Bengaluru"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4861862"
+  },
+  {
+    "id": 4864823,
+    "title": "Staff Marketing Systems Administrator",
+    "location": {
+      "name": "North America"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4864823"
+  },
+  {
+    "id": 4868006,
+    "title": "Full Stack Engineer, Collaboration",
+    "location": {
+      "name": "SEA, North America Remote"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4868006"
   },
   {
     "id": 4868011,
