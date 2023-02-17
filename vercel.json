@@ -96,6 +96,14 @@
     "absolute_url": "https://boards.greenhouse.io/vercel/jobs/4717737004"
   },
   {
+    "id": 4758834004,
+    "title": "Technical Program Manager",
+    "location": {
+      "name": "Remote - United States"
+    },
+    "absolute_url": "https://boards.greenhouse.io/vercel/jobs/4758834004"
+  },
+  {
     "id": 4765803004,
     "title": "Enterprise Account Executive, AMER",
     "location": {
@@ -126,5 +134,13 @@
       "name": "Remote - United States"
     },
     "absolute_url": "https://boards.greenhouse.io/vercel/jobs/4800798004"
+  },
+  {
+    "id": 4805451004,
+    "title": "Technical Program Manager, Europe",
+    "location": {
+      "name": "Remote - Europe"
+    },
+    "absolute_url": "https://boards.greenhouse.io/vercel/jobs/4805451004"
   }
 ]
