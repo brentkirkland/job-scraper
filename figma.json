@@ -352,14 +352,6 @@
     "absolute_url": "https://boards.greenhouse.io/figma/jobs/4731248004"
   },
   {
-    "id": 4732517004,
-    "title": "Designer Advocate (Tokyo, Japan)",
-    "location": {
-      "name": "Tokyo"
-    },
-    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4732517004"
-  },
-  {
     "id": 4733977004,
     "title": "Manager, Account Management (Singapore)",
     "location": {
@@ -814,5 +806,13 @@
       "name": "San Francisco or New York or Remote"
     },
     "absolute_url": "https://boards.greenhouse.io/figma/jobs/4801494004"
+  },
+  {
+    "id": 4803813004,
+    "title": "Engineering Manager - Desktop",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4803813004"
   }
 ]
