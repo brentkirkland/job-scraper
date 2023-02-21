@@ -288,6 +288,14 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4833644"
   },
   {
+    "id": 4833742,
+    "title": "Customer Support Engineer, Tier III",
+    "location": {
+      "name": "US (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4833742"
+  },
+  {
     "id": 4833808,
     "title": "Senior Technical eLearning Training Manager",
     "location": {
@@ -686,5 +694,13 @@
       "name": "Singapore (Remote)"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4879215"
+  },
+  {
+    "id": 4879757,
+    "title": "Customer Support Engineer, Tier III",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4879757"
   }
 ]

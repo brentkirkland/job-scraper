@@ -1038,5 +1038,13 @@
       "name": "Dublin, London"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4878847"
+  },
+  {
+    "id": 4880445,
+    "title": "Data Engineer",
+    "location": {
+      "name": "Remote in US"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4880445"
   }
 ]
