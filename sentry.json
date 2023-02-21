@@ -158,5 +158,21 @@
       "name": "San Francisco, California "
     },
     "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4880438"
+  },
+  {
+    "id": 4884827,
+    "title": "Senior Site Reliability Engineer",
+    "location": {
+      "name": "San Francisco, California "
+    },
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4884827"
+  },
+  {
+    "id": 4884870,
+    "title": "Senior Full Stack Engineer, Dashboard",
+    "location": {
+      "name": "San Francisco, California "
+    },
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4884870"
   }
 ]
