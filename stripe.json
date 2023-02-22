@@ -128,14 +128,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4558332"
   },
   {
-    "id": 4580961,
-    "title": "Financial Crime Operations Manager, Stripe Delivery Center",
-    "location": {
-      "name": "Bengaluru"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4580961"
-  },
-  {
     "id": 4581390,
     "title": "Program Manager, Financial Crimes ",
     "location": {
@@ -158,6 +150,14 @@
       "name": "San Francisco, Seattle, New York, Chicago"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4582924"
+  },
+  {
+    "id": 4586380,
+    "title": "People Operations Support Manager",
+    "location": {
+      "name": "Bengaluru"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4586380"
   },
   {
     "id": 4597935,
@@ -1046,6 +1046,14 @@
       "name": "Remote in US"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4880445"
+  },
+  {
+    "id": 4884847,
+    "title": "Financial Crimes Manager, Stripe Delivery Center",
+    "location": {
+      "name": "IN-Bengaluru"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4884847"
   },
   {
     "id": 4885161,
