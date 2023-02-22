@@ -24,14 +24,6 @@
     "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4635809"
   },
   {
-    "id": 4690425,
-    "title": "Senior Site Reliability Engineer",
-    "location": {
-      "name": "Vienna, Austria "
-    },
-    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4690425"
-  },
-  {
     "id": 4717276,
     "title": "Senior Software Engineer, Enterprise",
     "location": {
@@ -174,5 +166,13 @@
       "name": "San Francisco, California "
     },
     "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4884870"
+  },
+  {
+    "id": 4887034,
+    "title": "Site Reliability Engineer",
+    "location": {
+      "name": "Vienna, Austria "
+    },
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4887034"
   }
 ]
