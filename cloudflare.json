@@ -2928,14 +2928,6 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4834261?gh_jid=4834261"
   },
   {
-    "id": 4834267,
-    "title": "Enterprise Account Executive (LATAM)",
-    "location": {
-      "name": "Austin or Remote US"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4834267?gh_jid=4834267"
-  },
-  {
     "id": 4834611,
     "title": "SASE Sales Specialist Mid-Market - DACH Market",
     "location": {
@@ -3502,6 +3494,14 @@
       "name": "Remote UK"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4875221?gh_jid=4875221"
+  },
+  {
+    "id": 4877362,
+    "title": "Partner Solutions Engineer, LATAM (Spanish-speaking)",
+    "location": {
+      "name": "Miami, FL"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4877362?gh_jid=4877362"
   },
   {
     "id": 4877567,
