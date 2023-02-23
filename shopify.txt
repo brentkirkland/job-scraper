@@ -1,10 +1,10 @@
 /careers/vip-access
-/careers/senior-staff-engineer-frontend-checkout-americas-remote_9b58cb41-522a-42f0-a38d-a6e08520e01a
 /careers/data-science-manager-commercial-analytics-remote-us-or-canada_09a94d87-fdb3-4d27-8f3f-00c8ecd556bd
 /careers/senior-staff-analytics-engineer-remote-americas_0894371b-b32b-43ab-8714-0be923a78e4a
 /careers/senior-analytics-engineering-manager-remote-americas_37c21c69-f73b-4ff6-8444-a0bb21977cdb
 /careers/senior-data-scientist-revenue-acceleration-recommendation-remote-americas_e47ef2d3-7198-437c-bac7-f92f57276ff9
 /careers/senior-data-scientist-banking-accounting-remote-americas_4f737e20-6443-4c29-8dc9-0995ffb64adc
+/careers/senior-staff-engineer-frontend-checkout-americas-remote_9b58cb41-522a-42f0-a38d-a6e08520e01a
 /careers/senior-data-science-manager-buyer-trust-remote-north-america_d3a7def3-eccf-4f63-a5d1-c8d370d3cb39
 /careers/staff-product-designer-growth-experimentation-remote-americas_da08f9ca-ab69-4878-a81e-18b41182ff26
 /careers/senior-product-designer-remote-americas_325baa6d-0ba5-4757-b7e2-259e0c68984f
@@ -26,6 +26,7 @@
 /careers/lead-product-communications-enterprise_7ba81b5f-3b62-41d9-91eb-6c39f836d840
 /careers/senior-content-marketer-reoptimization-remote-americas_2fe17572-0927-4ae0-94ef-96300bd0004b
 /careers/product-marketing-lead-shopify-plus_70d6837e-746b-4847-9e58-8f700bfc040b
+/careers/executive-briefing-program-senior-lead_413ba353-db9c-4c75-8358-83665d4fe251
 /careers/content-manager-apac-remote-japan_01acf78c-5199-46e0-a2b2-0ea036987194
 /careers/enterprise-agency-partner-manager-remote-anz_4d2cc324-03f7-412b-8820-5dbce7333e11
 /careers/senior-agency-partner-manager-dach-remote-germany_801228d3-8368-4cf5-ac98-abce857b1724
