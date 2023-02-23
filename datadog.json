@@ -328,14 +328,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4141386/?gh_jid=4141386"
   },
   {
-    "id": 4144409,
-    "title": "Software Engineer - Data Infrastructure",
-    "location": {
-      "name": "New York, New York, USA; Boston, Massachusetts, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4144409/?gh_jid=4144409"
-  },
-  {
     "id": 4203989,
     "title": "Regional Vice President of Enterprise Sales",
     "location": {
@@ -502,14 +494,6 @@
       "name": "Ohio, USA, Remote"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4544992/?gh_jid=4544992"
-  },
-  {
-    "id": 4557554,
-    "title": "Software Engineer - Data Infrastructure",
-    "location": {
-      "name": "Denver, Colorado, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4557554/?gh_jid=4557554"
   },
   {
     "id": 4598600,
@@ -958,6 +942,14 @@
       "name": "New York, New York, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4806697/?gh_jid=4806697"
+  },
+  {
+    "id": 4810893,
+    "title": "Senior Product Manager - RUM Product Offerings",
+    "location": {
+      "name": "New York, New York, USA; Boston, Massachusetts, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4810893/?gh_jid=4810893"
   },
   {
     "id": 4814547,
