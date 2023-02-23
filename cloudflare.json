@@ -224,28 +224,12 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/3571683?gh_jid=3571683"
   },
   {
-    "id": 3572530,
-    "title": "Regional Sales Executive  - Japan (Enterprise)",
-    "location": {
-      "name": "Tokyo, Japan"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/3572530?gh_jid=3572530"
-  },
-  {
     "id": 3597688,
     "title": "Strategic Enterprise Account Executive",
     "location": {
       "name": "San Francisco or San Jose"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/3597688?gh_jid=3597688"
-  },
-  {
-    "id": 3608519,
-    "title": "Solutions Engineer",
-    "location": {
-      "name": "Tokyo, Japan"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/3608519?gh_jid=3608519"
   },
   {
     "id": 3622026,
@@ -358,14 +342,6 @@
       "name": "Montreal, QC"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/3887020?gh_jid=3887020"
-  },
-  {
-    "id": 3895557,
-    "title": "ソリューション エンジニア",
-    "location": {
-      "name": "Tokyo, Japan"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/3895557?gh_jid=3895557"
   },
   {
     "id": 3931776,
@@ -3336,6 +3312,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4860068?gh_jid=4860068"
   },
   {
+    "id": 4862087,
+    "title": "Partner Solutions Engineer, Japan",
+    "location": {
+      "name": "Tokyo, Japan"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4862087?gh_jid=4862087"
+  },
+  {
     "id": 4862265,
     "title": "Deal Desk Manager - APJC",
     "location": {
@@ -3504,6 +3488,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4877570?gh_jid=4877570"
   },
   {
+    "id": 4877709,
+    "title": "Customer Success Manager, Korea (Seoul)",
+    "location": {
+      "name": "Seoul, South Korea"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4877709?gh_jid=4877709"
+  },
+  {
     "id": 4878737,
     "title": "Senior Intellectual Property Counsel",
     "location": {
@@ -3534,6 +3526,14 @@
       "name": "Lisbon, Portugal"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4884399?gh_jid=4884399"
+  },
+  {
+    "id": 4886490,
+    "title": "Regional Sales Executive  - Japan (Enterprise)",
+    "location": {
+      "name": "Tokyo, Japan"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4886490?gh_jid=4886490"
   },
   {
     "id": 4887167,
