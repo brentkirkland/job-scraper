@@ -600,14 +600,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4830096"
   },
   {
-    "id": 4832610,
-    "title": "Full Stack Engineer, Financial Connections ",
-    "location": {
-      "name": "NYC, Seattle, SF"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4832610"
-  },
-  {
     "id": 4833189,
     "title": "Data Analyst - Operations ",
     "location": {
@@ -974,6 +966,14 @@
       "name": "US, Canada"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4865027"
+  },
+  {
+    "id": 4865667,
+    "title": "Full Stack Engineer, Financial Connections",
+    "location": {
+      "name": "N/A"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4865667"
   },
   {
     "id": 4868011,
