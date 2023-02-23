@@ -1640,6 +1640,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4724282?gh_jid=4724282"
   },
   {
+    "id": 4726386,
+    "title": "Product Manager - Durable Objects and D1 Database",
+    "location": {
+      "name": "Remote Netherlands"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4726386?gh_jid=4726386"
+  },
+  {
     "id": 4726587,
     "title": "Sr Workday HCM Functional Analyst",
     "location": {
@@ -2944,6 +2952,30 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4835579?gh_jid=4835579"
   },
   {
+    "id": 4836259,
+    "title": "Product Manager - Durable Objects and D1 Database",
+    "location": {
+      "name": "Remote UK"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4836259?gh_jid=4836259"
+  },
+  {
+    "id": 4836263,
+    "title": "Product Manager - Durable Objects and D1 Database",
+    "location": {
+      "name": "Remote US"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4836263?gh_jid=4836263"
+  },
+  {
+    "id": 4836267,
+    "title": "Product Manager - Durable Objects and D1 Database",
+    "location": {
+      "name": "Remote Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4836267?gh_jid=4836267"
+  },
+  {
     "id": 4836514,
     "title": " Senior Product Marketing Manager - Threat Intelligence",
     "location": {
@@ -3614,5 +3646,13 @@
       "name": "Remote Netherlands"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4887624?gh_jid=4887624"
+  },
+  {
+    "id": 4888809,
+    "title": "Frontend Engineer",
+    "location": {
+      "name": "Lisbon, Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4888809?gh_jid=4888809"
   }
 ]
