@@ -32,14 +32,6 @@
     "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4307104"
   },
   {
-    "id": 4620475,
-    "title": "Data Team Lead ",
-    "location": {
-      "name": "UNITED STATES - Remote"
-    },
-    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4620475"
-  },
-  {
     "id": 4635510,
     "title": "Senior Product Manager (Infura NFT)",
     "location": {
@@ -142,5 +134,13 @@
       "name": "UNITED STATES - Remote"
     },
     "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4890039"
+  },
+  {
+    "id": 4892470,
+    "title": "Data Team Lead ",
+    "location": {
+      "name": "UNITED STATES - Remote"
+    },
+    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4892470"
   }
 ]
