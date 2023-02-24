@@ -216,14 +216,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4735847"
   },
   {
-    "id": 4740879,
-    "title": "Staff Engineer, Growth Engineering",
-    "location": {
-      "name": "US Remote, Canada Remote"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4740879"
-  },
-  {
     "id": 4743130,
     "title": "Supply Chain Operations Manager, Issuing Card Operations ",
     "location": {
@@ -1014,6 +1006,14 @@
       "name": "NYC"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4871910"
+  },
+  {
+    "id": 4871912,
+    "title": "Staff Software Engineer, Data Platform",
+    "location": {
+      "name": "US, Canada "
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4871912"
   },
   {
     "id": 4872060,
