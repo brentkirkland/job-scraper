@@ -742,5 +742,21 @@
       "name": "US (Remote)"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4887900"
+  },
+  {
+    "id": 4891527,
+    "title": "Senior Software Engineer",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4891527"
+  },
+  {
+    "id": 4891566,
+    "title": "Senior Software Engineer",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4891566"
   }
 ]
