@@ -1,11 +1,9 @@
 /careers/vip-access
 /careers/senior-staff-analytics-engineer-remote-americas_0894371b-b32b-43ab-8714-0be923a78e4a
 /careers/senior-analytics-engineering-manager-remote-americas_37c21c69-f73b-4ff6-8444-a0bb21977cdb
-/careers/senior-data-scientist-revenue-acceleration-recommendation-remote-americas_e47ef2d3-7198-437c-bac7-f92f57276ff9
 /careers/senior-data-scientist-banking-accounting-remote-americas_4f737e20-6443-4c29-8dc9-0995ffb64adc
 /careers/staff-data-engineer_354198f6-d6b8-4f79-b753-c528289bea25
 /careers/data-science-manager-commercial-analytics-remote-us-or-canada_09a94d87-fdb3-4d27-8f3f-00c8ecd556bd
-/careers/senior-data-scientist-revenue-acceleration-marketing-remote-americas_820cbe20-472f-4866-9049-b1c508cbfec1
 /careers/senior-staff-engineer-frontend-checkout-americas-remote_9b58cb41-522a-42f0-a38d-a6e08520e01a
 /careers/senior-data-science-manager-buyer-trust-remote-north-america_d3a7def3-eccf-4f63-a5d1-c8d370d3cb39
 /careers/staff-product-designer-growth-experimentation-remote-americas_da08f9ca-ab69-4878-a81e-18b41182ff26
