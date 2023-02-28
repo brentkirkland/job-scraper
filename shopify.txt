@@ -9,6 +9,7 @@
 /careers/senior-marketing-designer-growth-remote-americas_ae6cd4c7-0798-4fb3-b820-d9b46a625383
 /careers/security-incident-response-manager-remote-americas_3e88137f-5995-441d-9710-59705ee3c9aa
 /careers/policy-lead-shop-remote-americas_b3dd4f85-30bc-4be5-8925-280000efc11b
+/careers/solutions-architect-remote-americas_64e46d30-0e0c-4ffe-b8ed-134bdb873487
 /careers/loss-prevention-manager_2d3ac4ca-4576-44b0-a469-2228e378a87c
 /careers/senior-integrations-developer-workday-remote-americas_0c5d2113-055f-490c-9673-157d7a7b4e59
 /careers/senior-program-operations-manager-partner-governance-remote-americas_0b243a5a-7731-434e-8f8c-77695788cc7a
@@ -16,6 +17,8 @@
 /careers/senior-data-analyst-communications-and-public-affairs-remote-americas_74664d0b-9fea-4bb7-9ff8-e2e2ea59093b
 /careers/product-marketing-lead-shopify-plus_70d6837e-746b-4847-9e58-8f700bfc040b
 /careers/executive-briefing-program-senior-lead_413ba353-db9c-4c75-8358-83665d4fe251
+/careers/creative-producer-b2b-video_46a1d7d2-6a9d-47a5-ab1a-d0c487195a60
+/careers/creative-producer-youtube-educational-videos_cf2d8149-c0f7-4665-9db4-d06f967eab75
 /careers/content-manager-apac-remote-japan_01acf78c-5199-46e0-a2b2-0ea036987194
 /careers/enterprise-agency-partner-manager-remote-anz_4d2cc324-03f7-412b-8820-5dbce7333e11
 /careers/senior-agency-partner-manager-dach-remote-germany_801228d3-8368-4cf5-ac98-abce857b1724
@@ -25,7 +28,6 @@
 /careers/account-executive-new-business-france-remote-emea_fa887200-301c-4d4d-a19e-8229a2d86144
 /careers/staff-solutions-architect-retail-fulfillment-remote-americas_65a5e331-0756-4815-b3c2-2383b75ea582
 /careers/staff-solutions-architect-storefront-remote-americas_44121cf7-1a30-4123-be33-d4fe2b039bdc
-/careers/sales-manager-remote-americas_a2c6b361-e66c-44c5-95d0-39d70c4b6e2b
 /careers/senior-partnerships-manager-agency-japan_cf68099f-3c76-43e4-b6eb-63a93d9ade81
 /careers/senior-solutions-engineer-japan_6c707643-a55b-4ddf-87d6-8471349a20cc
 /careers/sales-development-representative-outbound-sales-remote-americas_7ad1c0f5-293e-4f1d-b4bb-bb6bfc950f14
