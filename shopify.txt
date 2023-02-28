@@ -3,7 +3,6 @@
 /careers/senior-analytics-engineering-manager-remote-americas_37c21c69-f73b-4ff6-8444-a0bb21977cdb
 /careers/senior-data-scientist-banking-accounting-remote-americas_4f737e20-6443-4c29-8dc9-0995ffb64adc
 /careers/staff-data-engineer_354198f6-d6b8-4f79-b753-c528289bea25
-/careers/data-science-manager-commercial-analytics-remote-us-or-canada_09a94d87-fdb3-4d27-8f3f-00c8ecd556bd
 /careers/senior-staff-engineer-frontend-checkout-americas-remote_9b58cb41-522a-42f0-a38d-a6e08520e01a
 /careers/senior-data-science-manager-buyer-trust-remote-north-america_d3a7def3-eccf-4f63-a5d1-c8d370d3cb39
 /careers/senior-marketing-designer-growth-remote-americas_ae6cd4c7-0798-4fb3-b820-d9b46a625383
