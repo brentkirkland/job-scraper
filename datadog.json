@@ -1430,5 +1430,21 @@
       "name": "Paris, France"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4895358/?gh_jid=4895358"
+  },
+  {
+    "id": 4896782,
+    "title": "Technical Writer",
+    "location": {
+      "name": "New York, New York, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4896782/?gh_jid=4896782"
+  },
+  {
+    "id": 4896784,
+    "title": "Technical Writer",
+    "location": {
+      "name": "New York, USA, Remote"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4896784/?gh_jid=4896784"
   }
 ]
