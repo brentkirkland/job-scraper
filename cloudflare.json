@@ -1192,14 +1192,6 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4684357?gh_jid=4684357"
   },
   {
-    "id": 4684358,
-    "title": "Partner Solutions Engineer",
-    "location": {
-      "name": "Austin, TX"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4684358?gh_jid=4684358"
-  },
-  {
     "id": 4684359,
     "title": "Partner Solutions Engineer",
     "location": {
@@ -3950,5 +3942,13 @@
       "name": "Paris, France"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4895748?gh_jid=4895748"
+  },
+  {
+    "id": 4898903,
+    "title": "Partner Solutions Engineer",
+    "location": {
+      "name": "Phoenix, AZ"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4898903?gh_jid=4898903"
   }
 ]
