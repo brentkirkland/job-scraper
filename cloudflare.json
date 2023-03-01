@@ -2361,7 +2361,7 @@
   },
   {
     "id": 4813275,
-    "title": "Inside Channel Account Manager",
+    "title": "Channel Account Manager",
     "location": {
       "name": "Dallas, TX or Austin, TX"
     },
@@ -2369,7 +2369,7 @@
   },
   {
     "id": 4813277,
-    "title": "Inside Channel Account Manager",
+    "title": "Channel Account Manager",
     "location": {
       "name": "Chicago, IL"
     },
@@ -2377,7 +2377,7 @@
   },
   {
     "id": 4813278,
-    "title": "Inside Channel Account Manager",
+    "title": "Channel Account Manager",
     "location": {
       "name": "Miami or New York"
     },
@@ -3998,5 +3998,13 @@
       "name": "Paris, France"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4901066?gh_jid=4901066"
+  },
+  {
+    "id": 4901461,
+    "title": "Channel Account Manager",
+    "location": {
+      "name": "Atlanta, GA"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4901461?gh_jid=4901461"
   }
 ]
