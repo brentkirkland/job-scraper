@@ -56,12 +56,12 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4770264"
   },
   {
-    "id": 4782332,
+    "id": 4782320,
     "title": "Senior Product Manager - Full Site Delivery",
     "location": {
-      "name": "US (Remote)"
+      "name": "San Francisco, CA"
     },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4782332"
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4782320"
   },
   {
     "id": 4790918,
@@ -750,5 +750,13 @@
       "name": "London, United Kingdom"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4898325"
+  },
+  {
+    "id": 4898995,
+    "title": "Senior Sales Engineer - United Kingdom",
+    "location": {
+      "name": "London, United Kingdom"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4898995"
   }
 ]
