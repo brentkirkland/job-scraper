@@ -3974,5 +3974,37 @@
       "name": "Remote US"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4900683?gh_jid=4900683"
+  },
+  {
+    "id": 4901058,
+    "title": "Salesforce CPQ Solution Architect",
+    "location": {
+      "name": "London or Munich or Amsterdam"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4901058?gh_jid=4901058"
+  },
+  {
+    "id": 4901060,
+    "title": "Salesforce CPQ Solution Architect",
+    "location": {
+      "name": "Paris, France"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4901060?gh_jid=4901060"
+  },
+  {
+    "id": 4901064,
+    "title": "Salesforce QA Engineer",
+    "location": {
+      "name": "London or Munich or Amsterdam"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4901064?gh_jid=4901064"
+  },
+  {
+    "id": 4901066,
+    "title": "Salesforce QA Engineer",
+    "location": {
+      "name": "Paris, France"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4901066?gh_jid=4901066"
   }
 ]
