@@ -136,14 +136,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/1826252/?gh_jid=1826252"
   },
   {
-    "id": 1826258,
-    "title": "Open Source Software Engineer - Systems",
-    "location": {
-      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Tel Aviv, Israel"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/1826258/?gh_jid=1826258"
-  },
-  {
     "id": 1826266,
     "title": "Senior Software Engineer - Data Visualization",
     "location": {
@@ -1478,5 +1470,13 @@
       "name": "Paris, France"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4900388/?gh_jid=4900388"
+  },
+  {
+    "id": 4900416,
+    "title": "Senior Software Engineer - Vulnerability Management",
+    "location": {
+      "name": "Paris, France"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4900416/?gh_jid=4900416"
   }
 ]
