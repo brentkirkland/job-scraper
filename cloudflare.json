@@ -3328,14 +3328,6 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4877709?gh_jid=4877709"
   },
   {
-    "id": 4877733,
-    "title": "Customer Success Manager, ASEAN (Public Sector)",
-    "location": {
-      "name": "Singapore"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4877733?gh_jid=4877733"
-  },
-  {
     "id": 4878737,
     "title": "Senior Intellectual Property Counsel",
     "location": {
@@ -4030,5 +4022,13 @@
       "name": "Beijing, China"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4902655?gh_jid=4902655"
+  },
+  {
+    "id": 4902734,
+    "title": "Customer Success Manager, ASEAN (Public Sector)",
+    "location": {
+      "name": "Singapore"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4902734?gh_jid=4902734"
   }
 ]
