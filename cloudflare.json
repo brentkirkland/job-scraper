@@ -3769,7 +3769,7 @@
   },
   {
     "id": 4892616,
-    "title": "Senior SASE Specialist, Public Sector",
+    "title": "Senior Security Sales Specialist, Public Sector",
     "location": {
       "name": "San Francisco, CA"
     },
@@ -3793,7 +3793,7 @@
   },
   {
     "id": 4892620,
-    "title": "Senior SASE Specialist, Public Sector",
+    "title": "Senior Security Sales Specialist, Public Sector",
     "location": {
       "name": "Los Angeles, CA"
     },
@@ -3801,7 +3801,7 @@
   },
   {
     "id": 4892621,
-    "title": "Senior SASE Specialist, Public Sector",
+    "title": "Senior Security Sales Specialist, Public Sector",
     "location": {
       "name": "Denver, CO"
     },
@@ -4088,6 +4088,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4902109?gh_jid=4902109"
   },
   {
+    "id": 4902348,
+    "title": "Sr. Product Marketing Manager - Network Services",
+    "location": {
+      "name": "Remote US"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4902348?gh_jid=4902348"
+  },
+  {
     "id": 4902655,
     "title": "Outbound Business Development Representative (Mandarin speaking)",
     "location": {
@@ -4118,5 +4126,13 @@
       "name": "Remote Portugal"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4902939?gh_jid=4902939"
+  },
+  {
+    "id": 4907586,
+    "title": "Sr. Product Marketing Manager - Network Services",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4907586?gh_jid=4907586"
   }
 ]
