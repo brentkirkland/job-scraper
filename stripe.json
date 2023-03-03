@@ -904,6 +904,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4861071"
   },
   {
+    "id": 4861477,
+    "title": "Account Executive, Platforms",
+    "location": {
+      "name": "New York, San Francisco"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4861477"
+  },
+  {
     "id": 4861862,
     "title": "Operations Associate, Financial Crimes (AML Investigations)",
     "location": {
@@ -1150,5 +1158,13 @@
       "name": "US / Canada, San Francisco, Seattle"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4901650"
+  },
+  {
+    "id": 4901735,
+    "title": "Associate Solutions Architect",
+    "location": {
+      "name": "US- Chicago"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4901735"
   }
 ]
