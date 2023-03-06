@@ -104,12 +104,52 @@
     "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4877049"
   },
   {
+    "id": 4879247,
+    "title": "Lead Golang Software Engineer",
+    "location": {
+      "name": "UNITED STATES - Remote"
+    },
+    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4879247"
+  },
+  {
+    "id": 4879269,
+    "title": "Research Engineer",
+    "location": {
+      "name": "UNITED STATES - Remote"
+    },
+    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4879269"
+  },
+  {
+    "id": 4879292,
+    "title": "Product Delivery Manager",
+    "location": {
+      "name": "UNITED STATES - Remote"
+    },
+    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4879292"
+  },
+  {
+    "id": 4879380,
+    "title": "Cryptography Researcher",
+    "location": {
+      "name": "UNITED STATES - Remote"
+    },
+    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4879380"
+  },
+  {
     "id": 4879697,
     "title": "Research EVM Spec",
     "location": {
       "name": "UNITED STATES - Remote"
     },
     "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4879697"
+  },
+  {
+    "id": 4879796,
+    "title": "DevOps",
+    "location": {
+      "name": "UNITED STATES - Remote"
+    },
+    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4879796"
   },
   {
     "id": 4890039,
