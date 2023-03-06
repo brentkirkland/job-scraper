@@ -1456,6 +1456,14 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4903839/?gh_jid=4903839"
   },
   {
+    "id": 4904462,
+    "title": "Sales Development Representative (Denver)",
+    "location": {
+      "name": "Denver, Colorado, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4904462/?gh_jid=4904462"
+  },
+  {
     "id": 4905723,
     "title": "Engineering Manager 1 (Frontend) - Watchdog UI",
     "location": {
@@ -1478,5 +1486,13 @@
       "name": "New York, USA, Remote"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4909375/?gh_jid=4909375"
+  },
+  {
+    "id": 4913042,
+    "title": "Senior Network Engineer",
+    "location": {
+      "name": "Paris, France; Amsterdam, Netherlands"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4913042/?gh_jid=4913042"
   }
 ]
