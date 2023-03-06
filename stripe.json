@@ -88,14 +88,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4522159"
   },
   {
-    "id": 4525301,
-    "title": "Product Manager, Stripe Connect, Platform Experiences",
-    "location": {
-      "name": "Remote - US"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4525301"
-  },
-  {
     "id": 4542329,
     "title": "People Partner",
     "location": {
@@ -1158,6 +1150,14 @@
       "name": "Remote in United States, and Canada"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4901909"
+  },
+  {
+    "id": 4902300,
+    "title": "Data Engineer, Growth",
+    "location": {
+      "name": "Dublin"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4902300"
   },
   {
     "id": 4902302,
