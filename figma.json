@@ -352,14 +352,6 @@
     "absolute_url": "https://boards.greenhouse.io/figma/jobs/4739288004"
   },
   {
-    "id": 4744958004,
-    "title": "Senior Systems Engineer",
-    "location": {
-      "name": "San Francisco or New York or Remote"
-    },
-    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4744958004"
-  },
-  {
     "id": 4751580004,
     "title": "Regional Marketing Manager (London, UK)",
     "location": {
@@ -766,5 +758,13 @@
       "name": "San Francisco or New York or Remote"
     },
     "absolute_url": "https://boards.greenhouse.io/figma/jobs/4814857004"
+  },
+  {
+    "id": 4815015004,
+    "title": "Director, Product Marketing - FigJam",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4815015004"
   }
 ]
