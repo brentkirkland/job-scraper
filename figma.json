@@ -782,5 +782,13 @@
       "name": "New York"
     },
     "absolute_url": "https://boards.greenhouse.io/figma/jobs/4817364004"
+  },
+  {
+    "id": 4818345004,
+    "title": "Product Manager, New Products",
+    "location": {
+      "name": "New York or San Francisco"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4818345004"
   }
 ]
