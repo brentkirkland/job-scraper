@@ -568,14 +568,6 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4238945?gh_jid=4238945"
   },
   {
-    "id": 4243902,
-    "title": "Mid Market Account Executive",
-    "location": {
-      "name": "Remote US"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4243902?gh_jid=4243902"
-  },
-  {
     "id": 4245613,
     "title": "Data Engineer ",
     "location": {
@@ -1142,14 +1134,6 @@
       "name": "London, UK"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4674244?gh_jid=4674244"
-  },
-  {
-    "id": 4674633,
-    "title": "Technical Program Manager - Infrastructure Operations",
-    "location": {
-      "name": "Austin or Remote US"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4674633?gh_jid=4674633"
   },
   {
     "id": 4679807,
@@ -4006,5 +3990,21 @@
       "name": "Lisbon, Portugal"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4916068?gh_jid=4916068"
+  },
+  {
+    "id": 4916232,
+    "title": "Data Analyst, Support Operations",
+    "location": {
+      "name": "London, UK"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4916232?gh_jid=4916232"
+  },
+  {
+    "id": 4916236,
+    "title": "Data Analyst, Support Operations",
+    "location": {
+      "name": "Lisbon, Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4916236?gh_jid=4916236"
   }
 ]
