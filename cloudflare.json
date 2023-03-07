@@ -2424,6 +2424,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4815252?gh_jid=4815252"
   },
   {
+    "id": 4816235,
+    "title": "Salesforce CPQ Solution Architect",
+    "location": {
+      "name": "Lisbon, Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4816235?gh_jid=4816235"
+  },
+  {
     "id": 4818159,
     "title": "Account Executive, Greater China",
     "location": {
@@ -3998,5 +4006,13 @@
       "name": "Austin, TX"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4915789?gh_jid=4915789"
+  },
+  {
+    "id": 4916068,
+    "title": "Salesforce QA Engineer",
+    "location": {
+      "name": "Lisbon, Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4916068?gh_jid=4916068"
   }
 ]
