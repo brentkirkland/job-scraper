@@ -640,14 +640,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4838208"
   },
   {
-    "id": 4840355,
-    "title": "Deal Lifecycle Operations Lead",
-    "location": {
-      "name": "Dublin"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4840355"
-  },
-  {
     "id": 4840358,
     "title": "Account Executive, Strategic",
     "location": {
@@ -1126,6 +1118,14 @@
       "name": "Remote in United States, and Canada"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4901909"
+  },
+  {
+    "id": 4902061,
+    "title": "Staff Engineer, Observability ",
+    "location": {
+      "name": "Dublin, Ireland "
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4902061"
   },
   {
     "id": 4902300,
