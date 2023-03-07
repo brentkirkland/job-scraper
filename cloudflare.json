@@ -3320,6 +3320,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4886490?gh_jid=4886490"
   },
   {
+    "id": 4886734,
+    "title": "Distributed Systems Engineer - Analytical Database Platform",
+    "location": {
+      "name": "Lisbon, Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4886734?gh_jid=4886734"
+  },
+  {
     "id": 4887167,
     "title": "Linux Kernel Intern",
     "location": {
@@ -3966,5 +3974,29 @@
       "name": "Austin or Remote US"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4910126?gh_jid=4910126"
+  },
+  {
+    "id": 4915787,
+    "title": "Distributed Systems Engineer - Analytical Database Platform",
+    "location": {
+      "name": "London or Munich or Amsterdam"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4915787?gh_jid=4915787"
+  },
+  {
+    "id": 4915788,
+    "title": "Distributed Systems Engineer - Analytical Database Platform",
+    "location": {
+      "name": "Paris, France"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4915788?gh_jid=4915788"
+  },
+  {
+    "id": 4915789,
+    "title": "Distributed Systems Engineer - Analytical Database Platform",
+    "location": {
+      "name": "Austin or Remote US"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4915789?gh_jid=4915789"
   }
 ]
