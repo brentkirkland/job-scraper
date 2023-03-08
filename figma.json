@@ -80,14 +80,6 @@
     "absolute_url": "https://boards.greenhouse.io/figma/jobs/4236441004"
   },
   {
-    "id": 4244552004,
-    "title": "Account Executive, Mid Market (Paris, France)",
-    "location": {
-      "name": "Paris"
-    },
-    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4244552004"
-  },
-  {
     "id": 4250316004,
     "title": "Engineering Manager",
     "location": {
@@ -702,6 +694,14 @@
       "name": "San Francisco or New York or Remote"
     },
     "absolute_url": "https://boards.greenhouse.io/figma/jobs/4811190004"
+  },
+  {
+    "id": 4811495004,
+    "title": "Employer Brand",
+    "location": {
+      "name": "San Francisco or New York or Remote"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4811495004"
   },
   {
     "id": 4813453004,
