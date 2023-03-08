@@ -1512,14 +1512,6 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4720846?gh_jid=4720846"
   },
   {
-    "id": 4722961,
-    "title": "Edge Partners & Data Operations Analyst",
-    "location": {
-      "name": "Lisbon, Portugal"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4722961?gh_jid=4722961"
-  },
-  {
     "id": 4724149,
     "title": "Account Executive - Philippines ",
     "location": {
@@ -3958,6 +3950,22 @@
       "name": "Remote India"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4914097?gh_jid=4914097"
+  },
+  {
+    "id": 4914372,
+    "title": "Technical Support Engineer - HTTP/DNS/SSL focused",
+    "location": {
+      "name": "Lisbon, Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4914372?gh_jid=4914372"
+  },
+  {
+    "id": 4914374,
+    "title": "Technical Support Engineer - HTTP/DNS/SSL focused",
+    "location": {
+      "name": "Remote Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4914374?gh_jid=4914374"
   },
   {
     "id": 4915787,
