@@ -256,14 +256,6 @@
     "absolute_url": "https://boards.greenhouse.io/alchemy/jobs/4033855005"
   },
   {
-    "id": 4033858005,
-    "title": "SEO",
-    "location": {
-      "name": "New York, New York, United States, San Francisco, California, United States"
-    },
-    "absolute_url": "https://boards.greenhouse.io/alchemy/jobs/4033858005"
-  },
-  {
     "id": 4046392005,
     "title": "Backend Engineer (Billing)",
     "location": {
@@ -366,5 +358,21 @@
       "name": "San Francisco"
     },
     "absolute_url": "https://boards.greenhouse.io/alchemy/jobs/4219023005"
+  },
+  {
+    "id": 4220068005,
+    "title": "IT",
+    "location": {
+      "name": "New York, New York, United States, San Francisco, California, United States"
+    },
+    "absolute_url": "https://boards.greenhouse.io/alchemy/jobs/4220068005"
+  },
+  {
+    "id": 4225204005,
+    "title": "SEO Content Manager",
+    "location": {
+      "name": "New York, New York, United States, San Francisco, California, United States"
+    },
+    "absolute_url": "https://boards.greenhouse.io/alchemy/jobs/4225204005"
   }
 ]
