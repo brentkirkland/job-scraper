@@ -6,6 +6,7 @@
 /careers/staff-technical-program-manager-data-programs_62c9236b-a009-4b8b-80d1-243805ad24c1
 /careers/lead-production-engineer-restricted-infrastructure-and-stacks-remote-americas-eastern-time-zone_caefd502-60d8-46c5-931c-174588dc78e7
 /careers/lead-production-engineer-restricted-infrastructure-and-stacks-remote-emea_a940ea48-a1c6-4d37-a02a-11ae2d8a19de
+/careers/senior-staff-engineer-bulk-data-management_f640bebc-6e85-49d1-8241-73017c8143af
 /careers/senior-staff-engineer-frontend-checkout-americas-remote_9b58cb41-522a-42f0-a38d-a6e08520e01a
 /careers/senior-data-science-manager-buyer-trust-remote-north-america_d3a7def3-eccf-4f63-a5d1-c8d370d3cb39
 /careers/senior-marketing-designer-growth-remote-americas_ae6cd4c7-0798-4fb3-b820-d9b46a625383
