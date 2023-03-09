@@ -1096,14 +1096,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4899569"
   },
   {
-    "id": 4899646,
-    "title": "Technical Account Manager",
-    "location": {
-      "name": "Paris, Dublin "
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4899646"
-  },
-  {
     "id": 4900354,
     "title": "Scaled Customer Success Manager",
     "location": {
@@ -1166,6 +1158,14 @@
       "name": "Remote in Canada, or United States"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4908333"
+  },
+  {
+    "id": 4911933,
+    "title": "Financial Crimes Trainer",
+    "location": {
+      "name": "Bangalore"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4911933"
   },
   {
     "id": 4911935,
