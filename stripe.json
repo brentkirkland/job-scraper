@@ -736,14 +736,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4856805"
   },
   {
-    "id": 4857091,
-    "title": "Backend Engineer, Stripe Tax",
-    "location": {
-      "name": "Remote in US or Canada, EST or CST Preferred "
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4857091"
-  },
-  {
     "id": 4858238,
     "title": "Product Manager, Developer Products",
     "location": {
@@ -1086,6 +1078,14 @@
       "name": "Mexico City"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4895647"
+  },
+  {
+    "id": 4896057,
+    "title": "Administrative Business Partner",
+    "location": {
+      "name": "Ireland"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4896057"
   },
   {
     "id": 4896219,
