@@ -1294,5 +1294,13 @@
       "name": "US / Canada"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4922722"
+  },
+  {
+    "id": 4923324,
+    "title": "Backend Engineer, Local Payment Methods",
+    "location": {
+      "name": "Seattle"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4923324"
   }
 ]
