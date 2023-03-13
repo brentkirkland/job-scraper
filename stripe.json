@@ -136,14 +136,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4724348"
   },
   {
-    "id": 4724350,
-    "title": "Software Engineer, Stripe Tax Compliance ",
-    "location": {
-      "name": "Dublin HQ"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4724350"
-  },
-  {
     "id": 4730075,
     "title": "Regulatory Reporting Program Manager, Asia-Pacific",
     "location": {
@@ -1286,6 +1278,14 @@
       "name": "New York, South San Francisco, Seattle, Chicago, or Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4919498"
+  },
+  {
+    "id": 4922304,
+    "title": "Operations Associate, Sanctions",
+    "location": {
+      "name": "Mexico- Mexico City"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4922304"
   },
   {
     "id": 4922720,
