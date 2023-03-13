@@ -64,14 +64,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/1825950/?gh_jid=1825950"
   },
   {
-    "id": 1826034,
-    "title": "Software Engineer - Performance",
-    "location": {
-      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/1826034/?gh_jid=1826034"
-  },
-  {
     "id": 1826047,
     "title": "Software Engineer - Site Reliability",
     "location": {
@@ -1566,5 +1558,13 @@
       "name": "Boston, Massachusetts, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4920730/?gh_jid=4920730"
+  },
+  {
+    "id": 4921225,
+    "title": "Senior Technical Support Engineer - Boston",
+    "location": {
+      "name": "Boston, Massachusetts, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4921225/?gh_jid=4921225"
   }
 ]
