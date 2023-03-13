@@ -806,5 +806,21 @@
       "name": "London, United Kingdom"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4921175"
+  },
+  {
+    "id": 4925677,
+    "title": "Senior Customer Support Engineer, TLS",
+    "location": {
+      "name": "Tokyo, Japan"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4925677"
+  },
+  {
+    "id": 4925819,
+    "title": "Senior Customer Support Engineer, TLS",
+    "location": {
+      "name": "Singapore (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4925819"
   }
 ]
