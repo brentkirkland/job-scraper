@@ -304,14 +304,6 @@
     "absolute_url": "https://boards.greenhouse.io/alchemy/jobs/4127296005"
   },
   {
-    "id": 4147684005,
-    "title": "Accounts Payable Manager",
-    "location": {
-      "name": "New York, New York, United States, San Francisco, California, United States"
-    },
-    "absolute_url": "https://boards.greenhouse.io/alchemy/jobs/4147684005"
-  },
-  {
     "id": 4181718005,
     "title": "Growth Engineer",
     "location": {
@@ -382,5 +374,13 @@
       "name": "New York, New York, United States, San Francisco, California, United States"
     },
     "absolute_url": "https://boards.greenhouse.io/alchemy/jobs/4225927005"
+  },
+  {
+    "id": 4226788005,
+    "title": "Fund Associate",
+    "location": {
+      "name": "New York, New York, United States, San Francisco, California, United States"
+    },
+    "absolute_url": "https://boards.greenhouse.io/alchemy/jobs/4226788005"
   }
 ]
