@@ -1,5 +1,4 @@
 /careers/vip-access
-/careers/staff-data-engineer_354198f6-d6b8-4f79-b753-c528289bea25
 /careers/lead-production-engineer-restricted-infrastructure-and-stacks-remote-americas-eastern-time-zone_caefd502-60d8-46c5-931c-174588dc78e7
 /careers/lead-production-engineer-restricted-infrastructure-and-stacks-remote-emea_a940ea48-a1c6-4d37-a02a-11ae2d8a19de
 /careers/senior-staff-engineer-bulk-data-management_f640bebc-6e85-49d1-8241-73017c8143af
