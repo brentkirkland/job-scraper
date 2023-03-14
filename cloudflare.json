@@ -3486,5 +3486,21 @@
       "name": "Remote US"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4929881?gh_jid=4929881"
+  },
+  {
+    "id": 4929924,
+    "title": "D1 Software Engineering Manager",
+    "location": {
+      "name": "Remote UK"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4929924?gh_jid=4929924"
+  },
+  {
+    "id": 4929930,
+    "title": "D1 Software Engineering Manager",
+    "location": {
+      "name": "Remote Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4929930?gh_jid=4929930"
   }
 ]
