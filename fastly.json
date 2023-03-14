@@ -80,14 +80,6 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4800912"
   },
   {
-    "id": 4801593,
-    "title": "Principal Software Engineer - Language Runtimes",
-    "location": {
-      "name": "San Francisco, CA"
-    },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4801593"
-  },
-  {
     "id": 4822607,
     "title": "Senior Customer Support Engineer - Japanese Speaking",
     "location": {
@@ -846,5 +838,21 @@
       "name": "Singapore (Remote)"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4925819"
+  },
+  {
+    "id": 4926737,
+    "title": "Manager, Cloud Engineering",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4926737"
+  },
+  {
+    "id": 4926755,
+    "title": "Manager, Cloud Engineering",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4926755"
   }
 ]
