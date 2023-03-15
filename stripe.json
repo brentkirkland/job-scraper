@@ -128,28 +128,12 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4586380"
   },
   {
-    "id": 4724348,
-    "title": "Engineering Manager, Storage Abstraction      ",
-    "location": {
-      "name": "San Francisco "
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4724348"
-  },
-  {
     "id": 4730075,
     "title": "Regulatory Reporting Program Manager, Asia-Pacific",
     "location": {
       "name": "Singapore, Remote in Thailand"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4730075"
-  },
-  {
-    "id": 4735847,
-    "title": "Engineering Manager of Managers, Service Platform    ",
-    "location": {
-      "name": "San Francisco "
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4735847"
   },
   {
     "id": 4743130,
@@ -342,6 +326,14 @@
       "name": "San Francisco, New York, Seattle, Chicago, Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4812102"
+  },
+  {
+    "id": 4813901,
+    "title": "Infrastructure Engineer - Orchestration",
+    "location": {
+      "name": "US, Canada "
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4813901"
   },
   {
     "id": 4814482,
@@ -1310,6 +1302,14 @@
       "name": "New York, NY"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4921923"
+  },
+  {
+    "id": 4922146,
+    "title": "Backend Engineer, Cost Optimization ",
+    "location": {
+      "name": "Remote in USA, Remote in Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4922146"
   },
   {
     "id": 4922304,
