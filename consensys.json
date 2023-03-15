@@ -49,7 +49,7 @@
   },
   {
     "id": 4879269,
-    "title": "Research Engineer",
+    "title": "Research Engineer - Prover",
     "location": {
       "name": "UNITED STATES - Remote"
     },
@@ -94,5 +94,13 @@
       "name": "UNITED STATES - REMOTE"
     },
     "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4920283"
+  },
+  {
+    "id": 4927774,
+    "title": "Research Engineer - Arithmetization",
+    "location": {
+      "name": "UNITED STATES - Remote"
+    },
+    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4927774"
   }
 ]
