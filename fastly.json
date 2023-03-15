@@ -808,12 +808,52 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4921175"
   },
   {
+    "id": 4923027,
+    "title": "Product Marketing Manager - Security",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4923027"
+  },
+  {
     "id": 4923510,
     "title": "Senior Sales Executive - Commerce, Italy + Spain",
     "location": {
       "name": "Barcelona, Spain"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4923510"
+  },
+  {
+    "id": 4923581,
+    "title": "Content Marketing Manager",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4923581"
+  },
+  {
+    "id": 4923603,
+    "title": "Content Marketing Manager",
+    "location": {
+      "name": "Los Angeles, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4923603"
+  },
+  {
+    "id": 4923605,
+    "title": "Content Marketing Manager",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4923605"
+  },
+  {
+    "id": 4923606,
+    "title": "Content Marketing Manager",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4923606"
   },
   {
     "id": 4923753,
@@ -894,5 +934,29 @@
       "name": "Denver, CO"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4929020"
+  },
+  {
+    "id": 4931050,
+    "title": "Product Marketing Manager - Security",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4931050"
+  },
+  {
+    "id": 4931052,
+    "title": "Product Marketing Manager - Security",
+    "location": {
+      "name": "Los Angeles, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4931052"
+  },
+  {
+    "id": 4931056,
+    "title": "Product Marketing Manager - Security",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4931056"
   }
 ]
