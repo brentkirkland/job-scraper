@@ -240,22 +240,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/3851935/?gh_jid=3851935"
   },
   {
-    "id": 3962108,
-    "title": "Senior Field Marketing Manager - West",
-    "location": {
-      "name": "California, USA, Remote"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/3962108/?gh_jid=3962108"
-  },
-  {
-    "id": 3971933,
-    "title": "Senior Field Marketing Manager - West",
-    "location": {
-      "name": "Denver, Colorado, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/3971933/?gh_jid=3971933"
-  },
-  {
     "id": 4039906,
     "title": "Software Engineer - Database Integrations",
     "location": {
@@ -1550,6 +1534,14 @@
       "name": "Madrid, Spain"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4929765/?gh_jid=4929765"
+  },
+  {
+    "id": 4930170,
+    "title": "Manager 1, Technical Support Engineering",
+    "location": {
+      "name": "New York, New York, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4930170/?gh_jid=4930170"
   },
   {
     "id": 4932023,
