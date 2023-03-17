@@ -998,5 +998,21 @@
       "name": "Denver, CO"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4937116"
+  },
+  {
+    "id": 4937788,
+    "title": "Senior Site Reliability Engineer - Storage",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4937788"
+  },
+  {
+    "id": 4937796,
+    "title": "Senior Site Reliability Engineer - Storage",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4937796"
   }
 ]
