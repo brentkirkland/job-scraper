@@ -1088,6 +1088,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4899077"
   },
   {
+    "id": 4899521,
+    "title": "Backend / API Engineer, Capital",
+    "location": {
+      "name": "N/A"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4899521"
+  },
+  {
     "id": 4899569,
     "title": "Account Executive, SMB - San Francisco",
     "location": {
@@ -1184,6 +1192,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4913000"
   },
   {
+    "id": 4913235,
+    "title": "Head of Professional Services, EMEA",
+    "location": {
+      "name": "Dublin, Ireland"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4913235"
+  },
+  {
     "id": 4913783,
     "title": "Growth Intelligence Data Science and Machine Learning Manager of Managers",
     "location": {
@@ -1203,7 +1219,7 @@
     "id": 4918064,
     "title": "Startup Partner Lead, YC",
     "location": {
-      "name": "San Francisco"
+      "name": "San Francisco or NYC "
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4918064"
   },
