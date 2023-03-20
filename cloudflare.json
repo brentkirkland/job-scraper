@@ -3368,6 +3368,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4927182?gh_jid=4927182"
   },
   {
+    "id": 4927924,
+    "title": "Channel Account Manager - Canada",
+    "location": {
+      "name": "Toronto, ON"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4927924?gh_jid=4927924"
+  },
+  {
     "id": 4928981,
     "title": "Product Manager - Emerging Developer Products ",
     "location": {
@@ -3425,7 +3433,7 @@
   },
   {
     "id": 4930546,
-    "title": "Regional Director, Data Center Engineering and Infrastructure Operations, APAC",
+    "title": "Regional Director, Network Deployment Engineering and Infrastructure Operations, APAC",
     "location": {
       "name": "Singapore"
     },
@@ -3433,7 +3441,7 @@
   },
   {
     "id": 4930547,
-    "title": "Regional Director, Data Center Engineering and Infrastructure Operations, APAC",
+    "title": "Regional Director, Network Deployment Engineering and Infrastructure Operations, APAC",
     "location": {
       "name": "Sydney, Australia"
     },
