@@ -3,7 +3,7 @@
     "id": 1443863,
     "title": "Systems Engineer ",
     "location": {
-      "name": "Remote and/or any of these Cloudflare Offices: San Francisco, CA, Austin, TX, Champaign, IL, New York, NY, San Jose, CA, Seattle, WA, Washington, D.C."
+      "name": "Remote US"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/1443863?gh_jid=1443863"
   },
@@ -115,7 +115,7 @@
     "id": 3241339,
     "title": "Software Engineer- Backend",
     "location": {
-      "name": "Remote and/or any of these Cloudflare Offices: San Francisco, CA, Austin, TX, Champaign, IL, New York, NY, San Jose, CA, Seattle, WA, Washington, D.C."
+      "name": "Remote US"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/3241339?gh_jid=3241339"
   },
@@ -3486,5 +3486,21 @@
       "name": "Austin or Dallas, TX"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4937219?gh_jid=4937219"
+  },
+  {
+    "id": 4938516,
+    "title": "Network Security Engineer",
+    "location": {
+      "name": "Austin, TX"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4938516?gh_jid=4938516"
+  },
+  {
+    "id": 4941081,
+    "title": "Backend Systems Engineer: Security Center Team",
+    "location": {
+      "name": "Remote US"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4941081?gh_jid=4941081"
   }
 ]
