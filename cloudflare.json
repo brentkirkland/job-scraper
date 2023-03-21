@@ -3336,6 +3336,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4927924?gh_jid=4927924"
   },
   {
+    "id": 4928720,
+    "title": "Zero Trust Solutions Engineer",
+    "location": {
+      "name": "London or Munich or Amsterdam"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4928720?gh_jid=4928720"
+  },
+  {
     "id": 4928981,
     "title": "Product Manager - Emerging Developer Products ",
     "location": {
@@ -3494,5 +3502,29 @@
       "name": "Remote US"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4941081?gh_jid=4941081"
+  },
+  {
+    "id": 4942028,
+    "title": "Zero Trust Solutions Engineer",
+    "location": {
+      "name": "Paris, France"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4942028?gh_jid=4942028"
+  },
+  {
+    "id": 4942029,
+    "title": "Zero Trust Solutions Engineer",
+    "location": {
+      "name": "Lisbon, Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4942029?gh_jid=4942029"
+  },
+  {
+    "id": 4942030,
+    "title": "Zero Trust Solutions Engineer",
+    "location": {
+      "name": "Remote Sweden"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4942030?gh_jid=4942030"
   }
 ]
