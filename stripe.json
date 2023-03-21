@@ -120,14 +120,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4586380"
   },
   {
-    "id": 4730075,
-    "title": "Regulatory Reporting Program Manager, Asia-Pacific",
-    "location": {
-      "name": "Singapore, Remote in Thailand"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4730075"
-  },
-  {
     "id": 4743130,
     "title": "Supply Chain Operations Manager, Issuing Card Operations ",
     "location": {
@@ -992,6 +984,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4889290"
   },
   {
+    "id": 4890292,
+    "title": "Corporate Paralegal",
+    "location": {
+      "name": "Dublin"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4890292"
+  },
+  {
     "id": 4890456,
     "title": "Associate Solutions Architect ",
     "location": {
@@ -1134,6 +1134,14 @@
       "name": "Dublin, Ireland "
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4902061"
+  },
+  {
+    "id": 4905096,
+    "title": "Full Stack Engineer, Technical Services Engineering",
+    "location": {
+      "name": "Global Remote"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4905096"
   },
   {
     "id": 4908333,
