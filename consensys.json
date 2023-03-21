@@ -64,20 +64,28 @@
     "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4879275"
   },
   {
+    "id": 4879340,
+    "title": "System Architect",
+    "location": {
+      "name": "UNITED STATES - Remote"
+    },
+    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4879340"
+  },
+  {
+    "id": 4879373,
+    "title": "Head of System Operation",
+    "location": {
+      "name": "UNITED STATES - Remote"
+    },
+    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4879373"
+  },
+  {
     "id": 4879380,
     "title": "Cryptography Researcher",
     "location": {
       "name": "UNITED STATES - Remote"
     },
     "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4879380"
-  },
-  {
-    "id": 4879697,
-    "title": "Research ZK-EVM Spec",
-    "location": {
-      "name": "UNITED STATES - Remote"
-    },
-    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4879697"
   },
   {
     "id": 4879796,
@@ -88,12 +96,36 @@
     "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4879796"
   },
   {
+    "id": 4896068,
+    "title": "Senior Backend Java Developer ",
+    "location": {
+      "name": "UNITED STATES - Remote"
+    },
+    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4896068"
+  },
+  {
     "id": 4920283,
     "title": "Senior Product Manager",
     "location": {
       "name": "UNITED STATES - REMOTE"
     },
     "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4920283"
+  },
+  {
+    "id": 4922503,
+    "title": "Fullstack Engineer - Portfolio, Assets, and NFTs",
+    "location": {
+      "name": "UNITED STATES - Remote"
+    },
+    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4922503"
+  },
+  {
+    "id": 4922535,
+    "title": "Frontend Engineer - Portfolio, Assets, and NFTs",
+    "location": {
+      "name": "UNITED STATES - Remote"
+    },
+    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4922535"
   },
   {
     "id": 4927774,
