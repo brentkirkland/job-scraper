@@ -1,6 +1,7 @@
 /careers/vip-access
 /careers/senior-staff-engineer-frontend-checkout-americas-remote_9b58cb41-522a-42f0-a38d-a6e08520e01a
 /careers/security-incident-response-manager-remote-americas_3e88137f-5995-441d-9710-59705ee3c9aa
+/careers/gtm-operations-lead-financial-suite_174503b3-45f1-401d-a95b-78ae328704f2
 /careers/senior-program-operations-manager-partner-governance-remote-americas_0b243a5a-7731-434e-8f8c-77695788cc7a
 /careers/head-of-public-affairs-germany-remote-germany_5e093657-be0d-4d32-a041-4436525b4950
 /careers/senior-partner-marketing-manager-remote-japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
