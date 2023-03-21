@@ -1462,5 +1462,13 @@
       "name": "Toronto, US-Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4938118"
+  },
+  {
+    "id": 4943445,
+    "title": "Software Engineer, Core Infrastructure",
+    "location": {
+      "name": "San Francisco, Remote (US/Canada)"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4943445"
   }
 ]
