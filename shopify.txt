@@ -2,6 +2,7 @@
 /careers/senior-staff-engineer-frontend-checkout-americas-remote_9b58cb41-522a-42f0-a38d-a6e08520e01a
 /careers/security-incident-response-manager-remote-americas_3e88137f-5995-441d-9710-59705ee3c9aa
 /careers/gtm-operations-lead-financial-suite_174503b3-45f1-401d-a95b-78ae328704f2
+/careers/revenue-operations-manager-enterprise-north-america-remote-americas_e2fa67b2-4799-4f72-8bb0-b5d230bb401f
 /careers/senior-program-operations-manager-partner-governance-remote-americas_0b243a5a-7731-434e-8f8c-77695788cc7a
 /careers/head-of-public-affairs-germany-remote-germany_5e093657-be0d-4d32-a041-4436525b4950
 /careers/senior-partner-marketing-manager-remote-japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
@@ -23,3 +24,5 @@
 /careers/revenue-excellence-specialist-large-accounts-mid-market_7a7b4c7b-0e94-4773-98bb-55b870849f3b
 /careers/enterprise-account-executive-france-shopify-plus_b86f91a9-0405-4eab-97e2-c0e91fea3196
 /careers/enterprise-account-executive-dach-shopify-plus_ef3444da-82b7-410f-aa9f-32bf90ed6067
+/careers/sales-development-representative-inbound_52962f58-65ea-4d8c-81b0-811ac2b6fbc0
+/careers/account-executive-large-accounts_7e3b27a3-eee8-400f-b7c7-35ee48790e94
