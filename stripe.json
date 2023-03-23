@@ -1384,14 +1384,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4935650"
   },
   {
-    "id": 4935836,
-    "title": "Safety & Risk Operations Program Manager",
-    "location": {
-      "name": "US-Seattle, US-Remote "
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4935836"
-  },
-  {
     "id": 4937602,
     "title": "Sales Development Representative, UKI",
     "location": {
@@ -1430,5 +1422,13 @@
       "name": "San Francisco, Remote (US/Canada)"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4943445"
+  },
+  {
+    "id": 4948108,
+    "title": "Head of Public Policy and Government Relations, Australia/New Zealand and Japan",
+    "location": {
+      "name": "Sydney"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4948108"
   }
 ]
