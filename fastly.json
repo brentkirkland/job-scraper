@@ -974,5 +974,21 @@
       "name": "US West (Remote)"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4943547"
+  },
+  {
+    "id": 4948301,
+    "title": "Senior Salesforce CPQ Engineer",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4948301"
+  },
+  {
+    "id": 4948343,
+    "title": "Senior Salesforce CPQ Engineer",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4948343"
   }
 ]
