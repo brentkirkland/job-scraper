@@ -912,6 +912,22 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4948891"
   },
   {
+    "id": 4948948,
+    "title": "Creative Services Designer",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4948948"
+  },
+  {
+    "id": 4948949,
+    "title": "Creative Services Designer",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4948949"
+  },
+  {
     "id": 4949403,
     "title": "Senior Business Systems Project Manager",
     "location": {
@@ -958,5 +974,13 @@
       "name": "Los Angeles, CA"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4952347"
+  },
+  {
+    "id": 4952594,
+    "title": "Creative Services Designer",
+    "location": {
+      "name": "Los Angeles, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4952594"
   }
 ]
