@@ -64,14 +64,6 @@
     "absolute_url": "https://www.nexhealth.com/careers/open-positions?gh_jid=4291684004"
   },
   {
-    "id": 4548960004,
-    "title": "Account Manager (SMB/MM)",
-    "location": {
-      "name": "Draper, Utah, United States"
-    },
-    "absolute_url": "https://www.nexhealth.com/careers/open-positions?gh_jid=4548960004"
-  },
-  {
     "id": 4683195004,
     "title": "Business System Administrator",
     "location": {
@@ -126,5 +118,13 @@
       "name": "United States"
     },
     "absolute_url": "https://www.nexhealth.com/careers/open-positions?gh_jid=4832726004"
+  },
+  {
+    "id": 4835865004,
+    "title": "Account Manager (SMB/MM)",
+    "location": {
+      "name": "Draper, Utah, United States"
+    },
+    "absolute_url": "https://www.nexhealth.com/careers/open-positions?gh_jid=4835865004"
   }
 ]
