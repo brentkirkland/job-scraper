@@ -9,7 +9,6 @@
 /careers/senior-integrated-marketing-manager-remote-japan_fd18ad90-06b6-4106-a520-5fb590ab62d4
 /careers/senior-partner-marketing-manager-remote-australia_00781824-6e81-4b70-85cb-98fb7c55e864
 /careers/senior-lead-growth-marketing-shopify-fulfillment-network-remote-americas_b248122a-0b72-46fc-9208-61f017c96024
-/careers/content-manager-emea-remote-europe_48f44a6a-7385-43cf-96a5-f7a36c95eef9
 /careers/creative-producer-b2b-video_46a1d7d2-6a9d-47a5-ab1a-d0c487195a60
 /careers/content-manager-apac-remote-japan_01acf78c-5199-46e0-a2b2-0ea036987194
 /careers/senior-solutions-engineer-remote-australia_0414882e-f65a-4f12-9ba1-27c40ac64d7f
@@ -20,7 +19,5 @@
 /careers/revenue-excellence-specialist-enterprise_9c06fe10-8177-47e4-a21b-52467da0b15f
 /careers/merchant-acceleration-insights-and-analytics-lead_d6ebb96e-496e-4468-b3d8-e635aefc89e0
 /careers/revenue-excellence-specialist-large-accounts-mid-market_7a7b4c7b-0e94-4773-98bb-55b870849f3b
-/careers/enterprise-account-executive-france-shopify-plus_b86f91a9-0405-4eab-97e2-c0e91fea3196
-/careers/enterprise-account-executive-dach-shopify-plus_ef3444da-82b7-410f-aa9f-32bf90ed6067
 /careers/sales-development-representative-inbound_52962f58-65ea-4d8c-81b0-811ac2b6fbc0
 /careers/account-executive-large-accounts_7e3b27a3-eee8-400f-b7c7-35ee48790e94
