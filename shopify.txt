@@ -1,10 +1,10 @@
 /careers/vip-access
+/careers/senior-staff-data-engineer_354198f6-d6b8-4f79-b753-c528289bea25
 /careers/senior-staff-engineer-frontend-checkout-americas-remote_9b58cb41-522a-42f0-a38d-a6e08520e01a
 /careers/security-incident-response-manager-remote-americas_3e88137f-5995-441d-9710-59705ee3c9aa
 /careers/revenue-operations-manager-enterprise-north-america-remote-americas_e2fa67b2-4799-4f72-8bb0-b5d230bb401f
 /careers/continuous-improvement-manager-warehouse-on-site-san-bernardino-ca_45c955b0-fd3c-4b3d-ba27-b8b6014c4777
 /careers/staff-technical-project-manager-professional-services_abb859d3-6eeb-49e4-96e0-5257a70c2bc9
-/careers/senior-program-operations-manager-partner-governance-remote-americas_0b243a5a-7731-434e-8f8c-77695788cc7a
 /careers/head-of-public-affairs-germany-remote-germany_5e093657-be0d-4d32-a041-4436525b4950
 /careers/senior-partner-marketing-manager-remote-japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
 /careers/senior-integrated-marketing-manager-remote-japan_fd18ad90-06b6-4106-a520-5fb590ab62d4
