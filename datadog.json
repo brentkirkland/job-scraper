@@ -683,7 +683,7 @@
     "id": 4831006,
     "title": "Senior Security Engineer - Threat Detection",
     "location": {
-      "name": "Paris, France"
+      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4831006/?gh_jid=4831006"
   },
@@ -691,7 +691,7 @@
     "id": 4831178,
     "title": "Security Engineer - Incident Response Engineering",
     "location": {
-      "name": "Paris, France"
+      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4831178/?gh_jid=4831178"
   },
@@ -710,14 +710,6 @@
       "name": "New York, New York, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4831978/?gh_jid=4831978"
-  },
-  {
-    "id": 4833425,
-    "title": "Enterprise Technology Engineer - Integrations",
-    "location": {
-      "name": "Paris, France"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4833425/?gh_jid=4833425"
   },
   {
     "id": 4833512,
@@ -1139,7 +1131,7 @@
     "id": 4900388,
     "title": "Senior Security Researcher - Application Security Management",
     "location": {
-      "name": "Paris, France"
+      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4900388/?gh_jid=4900388"
   },
@@ -1448,12 +1440,36 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4943243/?gh_jid=4943243"
   },
   {
+    "id": 4945280,
+    "title": "Senior Product Manager - Workflow Orchestration",
+    "location": {
+      "name": "New York, New York, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4945280/?gh_jid=4945280"
+  },
+  {
+    "id": 4945282,
+    "title": "Senior Product Manager - Workflow Orchestration",
+    "location": {
+      "name": "Boston, Massachusetts, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4945282/?gh_jid=4945282"
+  },
+  {
     "id": 4945748,
     "title": "Office Technology Administrator",
     "location": {
       "name": "New York, New York, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4945748/?gh_jid=4945748"
+  },
+  {
+    "id": 4945910,
+    "title": "Senior Data Analyst - Technical Solutions",
+    "location": {
+      "name": "New York, New York, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4945910/?gh_jid=4945910"
   },
   {
     "id": 4948075,
