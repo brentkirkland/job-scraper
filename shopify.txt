@@ -1,5 +1,8 @@
 /careers/vip-access
 /careers/senior-staff-data-engineer_354198f6-d6b8-4f79-b753-c528289bea25
+/careers/security-lead_c4ca7a9f-846f-422b-bc29-65574a4feb3c
+/careers/senior-data-scientist-revenue-remote-united-states_714a11ba-c61f-4aad-9f62-ab06d5e8533e
+/careers/staff-data-scientist-revenue-acceleration-marketing-remote-americas_820cbe20-472f-4866-9049-b1c508cbfec1
 /careers/senior-staff-engineer-frontend-checkout-americas-remote_9b58cb41-522a-42f0-a38d-a6e08520e01a
 /careers/revenue-operations-manager-enterprise-north-america-remote-americas_e2fa67b2-4799-4f72-8bb0-b5d230bb401f
 /careers/continuous-improvement-manager-warehouse-on-site-san-bernardino-ca_45c955b0-fd3c-4b3d-ba27-b8b6014c4777
