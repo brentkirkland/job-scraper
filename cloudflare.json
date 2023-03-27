@@ -232,6 +232,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/3871173?gh_jid=3871173"
   },
   {
+    "id": 3887020,
+    "title": "Enterprise Account Executive - (Montreal, QC)",
+    "location": {
+      "name": "Montreal, QC"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/3887020?gh_jid=3887020"
+  },
+  {
     "id": 3944344,
     "title": "Field Solutions Engineer ",
     "location": {
@@ -1432,14 +1440,6 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4800062?gh_jid=4800062"
   },
   {
-    "id": 4801569,
-    "title": "Business System Analyst (Salesforce OTQ)",
-    "location": {
-      "name": "Remote US"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4801569?gh_jid=4801569"
-  },
-  {
     "id": 4801997,
     "title": "GTM Systems - Salesforce Administrator",
     "location": {
@@ -2342,6 +2342,14 @@
       "name": "Lisbon, Portugal"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4890285?gh_jid=4890285"
+  },
+  {
+    "id": 4890567,
+    "title": "Enterprise Account Executive (Canada)",
+    "location": {
+      "name": "Vancouver, BC"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4890567?gh_jid=4890567"
   },
   {
     "id": 4890654,

@@ -808,14 +808,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4871912"
   },
   {
-    "id": 4872060,
-    "title": "Engineering Manager, Billing Engine ",
-    "location": {
-      "name": "Remote in US or Canada"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4872060"
-  },
-  {
     "id": 4874770,
     "title": "Sanctions Operations Manager, Financial Crimes",
     "location": {
@@ -1398,6 +1390,14 @@
       "name": "Remote in United States, and Canada"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4935214"
+  },
+  {
+    "id": 4935316,
+    "title": "GTM Finance & Strategy Analyst ",
+    "location": {
+      "name": "New York City, Seattle, South San Francisco, or Remote"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4935316"
   },
   {
     "id": 4935318,

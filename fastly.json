@@ -528,14 +528,6 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4913232"
   },
   {
-    "id": 4913462,
-    "title": "Sales Development Representative (NY)",
-    "location": {
-      "name": "New York City, NY"
-    },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4913462"
-  },
-  {
     "id": 4913627,
     "title": "Sales Development Representative ",
     "location": {
@@ -928,12 +920,28 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4948949"
   },
   {
+    "id": 4949321,
+    "title": "Director of Public Relations ",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4949321"
+  },
+  {
     "id": 4949403,
     "title": "Senior Business Systems Project Manager",
     "location": {
       "name": "San Francisco, CA"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4949403"
+  },
+  {
+    "id": 4949415,
+    "title": "Director of Public Relations ",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4949415"
   },
   {
     "id": 4949420,
