@@ -232,14 +232,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4796220"
   },
   {
-    "id": 4801697,
-    "title": "Product Lead, Crypto",
-    "location": {
-      "name": "US / Canada"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4801697"
-  },
-  {
     "id": 4805841,
     "title": "Operations Associate, Financial Crimes EDD/PEP",
     "location": {
@@ -1531,7 +1523,7 @@
     "id": 4949224,
     "title": "Software Engineer, Availability Improvement",
     "location": {
-      "name": "US"
+      "name": "Seattle, San Francisco, New York, Chicago, US Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4949224"
   },

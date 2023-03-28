@@ -1,5 +1,4 @@
 /careers/vip-access
-/careers/senior-staff-data-engineer_354198f6-d6b8-4f79-b753-c528289bea25
 /careers/security-lead_c4ca7a9f-846f-422b-bc29-65574a4feb3c
 /careers/senior-data-scientist-revenue-remote-united-states_714a11ba-c61f-4aad-9f62-ab06d5e8533e
 /careers/senior-staff-engineer-frontend-checkout-americas-remote_9b58cb41-522a-42f0-a38d-a6e08520e01a
