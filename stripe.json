@@ -296,14 +296,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4819634"
   },
   {
-    "id": 4820029,
-    "title": "People Specialist",
-    "location": {
-      "name": "Remote, CHI"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4820029"
-  },
-  {
     "id": 4825062,
     "title": "Sales Development Representative",
     "location": {
@@ -1275,7 +1267,7 @@
     "id": 4923662,
     "title": "Staff Engineer, Developer Products",
     "location": {
-      "name": "US"
+      "name": "US, Seattle, San Francisco, New York City"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4923662"
   },
