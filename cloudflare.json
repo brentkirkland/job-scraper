@@ -1384,14 +1384,6 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4796069?gh_jid=4796069"
   },
   {
-    "id": 4796107,
-    "title": "Director, Head of Solutions Engineering, Japan",
-    "location": {
-      "name": "Tokyo, Japan"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4796107?gh_jid=4796107"
-  },
-  {
     "id": 4796640,
     "title": "NetSuite Developer/Admin",
     "location": {
@@ -3230,5 +3222,13 @@
       "name": "San Francisco, CA"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4952095?gh_jid=4952095"
+  },
+  {
+    "id": 4953117,
+    "title": "Cloudflare TV Producer/Editor",
+    "location": {
+      "name": "Lisbon, Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4953117?gh_jid=4953117"
   }
 ]
