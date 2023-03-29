@@ -953,7 +953,7 @@
   },
   {
     "id": 4890292,
-    "title": "Corporate Paralegal",
+    "title": "Corporate Paralegal / Company Secretary",
     "location": {
       "name": "Dublin"
     },
@@ -1526,6 +1526,14 @@
       "name": "Seattle or South San Francisco"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4949428"
+  },
+  {
+    "id": 4952353,
+    "title": "Software Engineer, Identity Core",
+    "location": {
+      "name": "IN-Bengaluru, IN-Remote, IN-Remote-Hyderabad"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4952353"
   },
   {
     "id": 4952678,
