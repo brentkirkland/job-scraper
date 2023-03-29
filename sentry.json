@@ -134,5 +134,29 @@
       "name": "Toronto, Canada"
     },
     "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4954424"
+  },
+  {
+    "id": 4960011,
+    "title": "Technical Corporate Customer Success Manager",
+    "location": {
+      "name": "San Francisco, California "
+    },
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4960011"
+  },
+  {
+    "id": 4960016,
+    "title": "Technical Corporate Customer Success Manager",
+    "location": {
+      "name": "Toronto, Canada"
+    },
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4960016"
+  },
+  {
+    "id": 4960029,
+    "title": "Technical Corporate Customer Success Manager",
+    "location": {
+      "name": "Seattle, Washington"
+    },
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4960029"
   }
 ]
