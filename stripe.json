@@ -1566,5 +1566,13 @@
       "name": "LOCATION"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4954178"
+  },
+  {
+    "id": 4960166,
+    "title": "Full Stack Staff Engineer, Connect",
+    "location": {
+      "name": "Remote in Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4960166"
   }
 ]
