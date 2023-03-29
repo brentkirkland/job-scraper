@@ -296,22 +296,6 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4876208"
   },
   {
-    "id": 4878924,
-    "title": "Staff Software Engineer - UX Platform",
-    "location": {
-      "name": "New York City, NY"
-    },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4878924"
-  },
-  {
-    "id": 4879024,
-    "title": "Staff Software Engineer - UX Platform",
-    "location": {
-      "name": "London, United Kingdom"
-    },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4879024"
-  },
-  {
     "id": 4884948,
     "title": "People Partner Director",
     "location": {
@@ -937,18 +921,10 @@
   },
   {
     "id": 4955419,
-    "title": "Channel Enablement Manager",
+    "title": "Senior Channel Enablement Manager",
     "location": {
       "name": "San Francisco, CA"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4955419"
-  },
-  {
-    "id": 4955431,
-    "title": "Channel Enablement Manager",
-    "location": {
-      "name": "Denver, CO"
-    },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4955431"
   }
 ]
