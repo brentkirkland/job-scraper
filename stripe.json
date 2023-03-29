@@ -232,6 +232,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4796220"
   },
   {
+    "id": 4802916,
+    "title": "Software Engineer, Observability",
+    "location": {
+      "name": "Seattle, San Francisco, or Remote (USA)"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4802916"
+  },
+  {
     "id": 4805841,
     "title": "Operations Associate, Financial Crimes EDD/PEP",
     "location": {
@@ -1222,14 +1230,6 @@
       "name": "New York, NY"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4921923"
-  },
-  {
-    "id": 4922146,
-    "title": "Backend Engineer, Cost Optimization ",
-    "location": {
-      "name": "Remote in USA, Remote in Canada"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4922146"
   },
   {
     "id": 4922304,
