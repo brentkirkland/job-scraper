@@ -193,7 +193,7 @@
   },
   {
     "id": 4864406,
-    "title": "SOC Engineer",
+    "title": "Security Operations Engineer",
     "location": {
       "name": "London, United Kingdom"
     },
@@ -377,7 +377,7 @@
   },
   {
     "id": 4898325,
-    "title": "Senior Web Application Security Engineer",
+    "title": "Web Application Security Engineer",
     "location": {
       "name": "London, United Kingdom"
     },
@@ -966,6 +966,14 @@
       "name": "London, United Kingdom"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4961091"
+  },
+  {
+    "id": 4961148,
+    "title": "Senior IT Support Specialist",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4961148"
   },
   {
     "id": 4961604,
