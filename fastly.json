@@ -792,6 +792,22 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4943547"
   },
   {
+    "id": 4946962,
+    "title": "Senior Product Manager - Platform API",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4946962"
+  },
+  {
+    "id": 4946998,
+    "title": "Senior Product Manager - Platform API",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4946998"
+  },
+  {
     "id": 4948301,
     "title": "Senior Salesforce CPQ Engineer",
     "location": {
@@ -950,5 +966,21 @@
       "name": "Los Angeles, CA"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4961604"
+  },
+  {
+    "id": 4962425,
+    "title": "Senior Product Manager - Platform API",
+    "location": {
+      "name": "Los Angeles, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4962425"
+  },
+  {
+    "id": 4962433,
+    "title": "Senior Product Manager - Platform API",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4962433"
   }
 ]
