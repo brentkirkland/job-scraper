@@ -150,5 +150,21 @@
       "name": "Seattle, Washington"
     },
     "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4960029"
+  },
+  {
+    "id": 4963906,
+    "title": "Senior Software Engineer, Hybrid Cloud",
+    "location": {
+      "name": "Seattle, Washington"
+    },
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4963906"
+  },
+  {
+    "id": 4963908,
+    "title": "Senior Software Engineer, Hybrid Cloud",
+    "location": {
+      "name": "Toronto, Canada"
+    },
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/4963908"
   }
 ]
