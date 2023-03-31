@@ -1,5 +1,7 @@
+/careers/senior-staff-analytics-engineer-_0894371b-b32b-43ab-8714-0be923a78e4a
 /careers/security-lead_c4ca7a9f-846f-422b-bc29-65574a4feb3c
 /careers/senior-staff-engineer--frontend---checkout--americas--remote-_9b58cb41-522a-42f0-a38d-a6e08520e01a
+/careers/senior-manager---performance-analytics-_df71dd1e-f14f-4b53-9338-ade070f1af25
 /careers/pricing--packaging---promotions-lead_a248df3f-dfbe-4985-b175-3cdae02170d6
 /careers/senior-business-analyst_7bfa9d2f-9170-474a-9088-bb67ff4944d1
 /careers/marketing-operations-lead-_8ca994c1-e42e-4636-ae87-cf348b5aad20
@@ -7,6 +9,7 @@
 /careers/staff-technical-project-manager--professional-services_abb859d3-6eeb-49e4-96e0-5257a70c2bc9
 /careers/continuous-improvement-manager--warehouse--on-site--san-bernardino--ca-_45c955b0-fd3c-4b3d-ba27-b8b6014c4777
 /careers/revenue-operations-manager--enterprise---north-america-_e2fa67b2-4799-4f72-8bb0-b5d230bb401f
+/careers/junior-support-advisor-_4d5ee7ba-79d2-4de6-98df-0da3b4485c3c
 /careers/head-of-public-affairs--germany-_5e093657-be0d-4d32-a041-4436525b4950
 /careers/senior-content-manager-emea-_48f44a6a-7385-43cf-96a5-f7a36c95eef9
 /careers/apac-content-manager--japan_01acf78c-5199-46e0-a2b2-0ea036987194
@@ -16,6 +19,9 @@
 /careers/creative-producer--b-b-video_46a1d7d2-6a9d-47a5-ab1a-d0c487195a60
 /careers/senior-lead--growth-marketing---shopify-fulfillment-network-_b248122a-0b72-46fc-9208-61f017c96024
 /careers/senior-partner-marketing-manager-_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
+/careers/revenue-operations-lead--territory-design_ab220841-3fa0-4f2f-9992-0d6f3928b838
+/careers/revenue-operations-lead--incentive-compensation_14d1efbf-ea1d-47be-af7b-e6bf5e20b64d
+/careers/greater-china-sales-representative--singapore_e6f2098b-1076-41db-a7a0-fe6d07d1a7e8
 /careers/enterprise-account-executive-dach---shopify-plus_ef3444da-82b7-410f-aa9f-32bf90ed6067
 /careers/senior-partner-solutions-engineer--japan_3995122a-96cf-4660-866d-a53fa0d83e82
 /careers/senior-mid-market-account-executive--new-business-_7b061f27-bb9b-438e-8e26-4bae4dccbd33
