@@ -1,7 +1,6 @@
 /careers/senior-staff-analytics-engineer-_0894371b-b32b-43ab-8714-0be923a78e4a
 /careers/security-lead_c4ca7a9f-846f-422b-bc29-65574a4feb3c
 /careers/senior-staff-engineer--frontend---checkout--americas--remote-_9b58cb41-522a-42f0-a38d-a6e08520e01a
-/careers/retail-inventory-management-specialist_3f207633-9e1b-4cbf-b5b8-b1670dcb3b9a
 /careers/senior-manager---performance-analytics-_df71dd1e-f14f-4b53-9338-ade070f1af25
 /careers/pricing--packaging---promotions-lead_a248df3f-dfbe-4985-b175-3cdae02170d6
 /careers/senior-business-analyst_7bfa9d2f-9170-474a-9088-bb67ff4944d1
@@ -20,7 +19,6 @@
 /careers/creative-producer--b-b-video_46a1d7d2-6a9d-47a5-ab1a-d0c487195a60
 /careers/senior-lead--growth-marketing---shopify-fulfillment-network-_b248122a-0b72-46fc-9208-61f017c96024
 /careers/senior-partner-marketing-manager-_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
-/careers/retail-supply-chain-project-manager_646c0dd2-2499-446b-bfc5-314f9391c1d9
 /careers/revenue-operations-lead--territory-design_ab220841-3fa0-4f2f-9992-0d6f3928b838
 /careers/revenue-operations-lead--incentive-compensation_14d1efbf-ea1d-47be-af7b-e6bf5e20b64d
 /careers/greater-china-sales-representative--singapore_e6f2098b-1076-41db-a7a0-fe6d07d1a7e8
