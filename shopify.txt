@@ -1,6 +1,5 @@
 /careers/security-lead_c4ca7a9f-846f-422b-bc29-65574a4feb3c
 /careers/senior-staff-engineer--frontend---checkout--americas--remote-_9b58cb41-522a-42f0-a38d-a6e08520e01a
-/careers/pricing--packaging---promotions-lead_a248df3f-dfbe-4985-b175-3cdae02170d6
 /careers/senior-business-analyst_7bfa9d2f-9170-474a-9088-bb67ff4944d1
 /careers/marketing-operations-lead-_8ca994c1-e42e-4636-ae87-cf348b5aad20
 /careers/senior-market-researcher_44d3173e-9a1e-4396-92cc-09aedcd7f6c0
@@ -16,12 +15,13 @@
 /careers/senior-partner-marketing-manager-_00781824-6e81-4b70-85cb-98fb7c55e864
 /careers/senior-partner-marketing-manager-_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
 /careers/content-manager-apac-_01acf78c-5199-46e0-a2b2-0ea036987194
-/careers/enterprise-account-executive-dach---shopify-plus_ef3444da-82b7-410f-aa9f-32bf90ed6067
 /careers/senior-partner-solutions-engineer--japan_3995122a-96cf-4660-866d-a53fa0d83e82
 /careers/senior-mid-market-account-executive--new-business-_7b061f27-bb9b-438e-8e26-4bae4dccbd33
+/careers/enterprise-insights-analyst_257e7f32-a670-492b-8844-566c66b61a09
 /careers/sales-development-representative---inbound_52962f58-65ea-4d8c-81b0-811ac2b6fbc0
 /careers/revenue-excellence-specialist--large-accounts---mid-market_7a7b4c7b-0e94-4773-98bb-55b870849f3b
 /careers/revenue-excellence-specialist--enterprise_9c06fe10-8177-47e4-a21b-52467da0b15f
+/careers/merchant-acceleration-insights-and-analytics-lead_d6ebb96e-496e-4468-b3d8-e635aefc89e0
 /careers/revenue-excellence-lead--large-accounts---mid-market_4625100a-fa0a-43e0-914e-b12c5a9841d0
 /careers/senior-partnerships-manager---agency---japan_cf68099f-3c76-43e4-b6eb-63a93d9ade81
 /careers/senior-solutions-engineer-_0414882e-f65a-4f12-9ba1-27c40ac64d7f
