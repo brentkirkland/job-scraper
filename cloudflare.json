@@ -3430,5 +3430,21 @@
       "name": "Remote US"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4961920?gh_jid=4961920"
+  },
+  {
+    "id": 4967521,
+    "title": "Sr. Data Scientist - Fraud and Abuse Detection",
+    "location": {
+      "name": "Austin or New York or San Francisco"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4967521?gh_jid=4967521"
+  },
+  {
+    "id": 4967523,
+    "title": "Sr. Data Scientist - Fraud and Abuse Detection",
+    "location": {
+      "name": "London or Munich or Amsterdam"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4967523?gh_jid=4967523"
   }
 ]
