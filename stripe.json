@@ -985,7 +985,7 @@
   },
   {
     "id": 4896222,
-    "title": "Program Manager, Learning and Development",
+    "title": "Training Manager",
     "location": {
       "name": "Mexico City"
     },
@@ -1646,5 +1646,13 @@
       "name": "SF, NY, SEA, CHI or remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4963710"
+  },
+  {
+    "id": 4965052,
+    "title": "Backend Engineer, Enterprise Tax Product",
+    "location": {
+      "name": "Remote in Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4965052"
   }
 ]
