@@ -104,6 +104,14 @@
     "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4879796"
   },
   {
+    "id": 4893341,
+    "title": "Project Manager - Developer Center",
+    "location": {
+      "name": "United States - Remote"
+    },
+    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4893341"
+  },
+  {
     "id": 4896068,
     "title": "Senior Backend Java Developer ",
     "location": {
@@ -198,5 +206,29 @@
       "name": "UNITED STATES - Remote"
     },
     "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4963112"
+  },
+  {
+    "id": 4968035,
+    "title": "Senior Full Stack Web Developer",
+    "location": {
+      "name": "UNITED STATES - Remote"
+    },
+    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4968035"
+  },
+  {
+    "id": 4968041,
+    "title": "QA Engineer",
+    "location": {
+      "name": "UNITED STATES - Remote"
+    },
+    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4968041"
+  },
+  {
+    "id": 4968044,
+    "title": "Frontend Web Developer",
+    "location": {
+      "name": "UNITED STATES - Remote"
+    },
+    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4968044"
   }
 ]
