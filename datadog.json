@@ -51,7 +51,7 @@
     "id": 1825950,
     "title": "Software Engineer - Global Data Platform",
     "location": {
-      "name": "Paris, France;"
+      "name": "Paris, France"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/1825950/?gh_jid=1825950"
   },
@@ -475,7 +475,7 @@
     "id": 4725062,
     "title": "Enterprise Sales Executive - Switzerland",
     "location": {
-      "name": "Remote - Switzerland"
+      "name": "Switzerland, Remote"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4725062/?gh_jid=4725062"
   },
@@ -851,7 +851,7 @@
     "id": 4860468,
     "title": "Enterprise Customer Success Manager - DACH",
     "location": {
-      "name": "Dublin"
+      "name": "Dublin, Ireland"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4860468/?gh_jid=4860468"
   },
@@ -859,7 +859,7 @@
     "id": 4860490,
     "title": "Customer Success Associate (PAS) - DACH",
     "location": {
-      "name": "Dublin"
+      "name": "Dublin, Ireland"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4860490/?gh_jid=4860490"
   },
@@ -899,7 +899,7 @@
     "id": 4870477,
     "title": "Regional Vice President, Enterprise Sales (Central EMEA)",
     "location": {
-      "name": "Remote - Germany"
+      "name": "Germany, Remote"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4870477/?gh_jid=4870477"
   },
@@ -1398,6 +1398,14 @@
       "name": "Paris, France"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4954513/?gh_jid=4954513"
+  },
+  {
+    "id": 4958241,
+    "title": "Event Marketing Associate (EMEA)",
+    "location": {
+      "name": "Dublin, Ireland, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4958241/?gh_jid=4958241"
   },
   {
     "id": 4961300,
