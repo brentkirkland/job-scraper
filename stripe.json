@@ -1624,6 +1624,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4965052"
   },
   {
+    "id": 4965986,
+    "title": "Product Marketing Manager, Payment Methods",
+    "location": {
+      "name": "US/Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4965986"
+  },
+  {
     "id": 4966594,
     "title": "Data Engineer",
     "location": {
@@ -1638,5 +1646,13 @@
       "name": "SF, NYC, US-REM"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4972458"
+  },
+  {
+    "id": 4973331,
+    "title": "Staff Frontend Engineer, Crypto",
+    "location": {
+      "name": "Remote in US or Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4973331"
   }
 ]
