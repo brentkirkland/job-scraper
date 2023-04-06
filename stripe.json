@@ -488,14 +488,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4838208"
   },
   {
-    "id": 4840355,
-    "title": "Deal Analyst",
-    "location": {
-      "name": "Singapore"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4840355"
-  },
-  {
     "id": 4840358,
     "title": "Account Executive, Strategic",
     "location": {
@@ -1030,6 +1022,14 @@
       "name": "Dublin, Ireland "
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4902061"
+  },
+  {
+    "id": 4905096,
+    "title": "Full Stack Engineer, Technical Services Engineering",
+    "location": {
+      "name": "Singapore"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4905096"
   },
   {
     "id": 4908333,
