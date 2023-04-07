@@ -3408,6 +3408,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4970390?gh_jid=4970390"
   },
   {
+    "id": 4970530,
+    "title": "Infrastructure Business Operations Analyst ",
+    "location": {
+      "name": "San Francisco or Austin"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4970530?gh_jid=4970530"
+  },
+  {
     "id": 4970605,
     "title": "Marketing Analytics Intern (Summer 2023)",
     "location": {
@@ -3462,5 +3470,13 @@
       "name": "Remote US"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4976092?gh_jid=4976092"
+  },
+  {
+    "id": 4981004,
+    "title": "Infrastructure Business Operations Analyst ",
+    "location": {
+      "name": "Lisbon or London"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4981004?gh_jid=4981004"
   }
 ]
