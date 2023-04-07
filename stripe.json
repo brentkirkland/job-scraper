@@ -1694,5 +1694,13 @@
       "name": "Chicago, New York, Seattle, San Francisco, US-Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4977942"
+  },
+  {
+    "id": 4979516,
+    "title": "Full Stack Engineer, Mobile Wallet (iOS, Android, Backend)",
+    "location": {
+      "name": "Remote (US and Canada only)"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4979516"
   }
 ]
