@@ -232,14 +232,6 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4891527"
   },
   {
-    "id": 4891566,
-    "title": "Senior Software Engineer - Core Compute",
-    "location": {
-      "name": "New York City, NY"
-    },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4891566"
-  },
-  {
     "id": 4896049,
     "title": "Senior Solutions Architect, Security Solutions Engineering",
     "location": {
@@ -790,6 +782,14 @@
       "name": "San Francisco, CA"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4955419"
+  },
+  {
+    "id": 4956952,
+    "title": "Senior Software Engineer - Core Compute ",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4956952"
   },
   {
     "id": 4956953,
