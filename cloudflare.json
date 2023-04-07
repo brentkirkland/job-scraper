@@ -960,14 +960,6 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4702435?gh_jid=4702435"
   },
   {
-    "id": 4706306,
-    "title": "Systems Reliability Engineer (Edge)",
-    "location": {
-      "name": "San Francisco or Austin or Chicago or Los Angeles or Miami or New York or Washington, DC or Champaign or Seattle or Remote"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4706306?gh_jid=4706306"
-  },
-  {
     "id": 4712586,
     "title": "Technical Program Manager (Mandarin Speaking)",
     "location": {
@@ -3390,6 +3382,14 @@
       "name": "Remote US"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4969639?gh_jid=4969639"
+  },
+  {
+    "id": 4970390,
+    "title": "Vice President, Market Development",
+    "location": {
+      "name": "Remote US"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4970390?gh_jid=4970390"
   },
   {
     "id": 4970605,
