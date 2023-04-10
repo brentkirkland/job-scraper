@@ -240,14 +240,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4813901"
   },
   {
-    "id": 4814482,
-    "title": "Product Marketing Manager, Solutions",
-    "location": {
-      "name": "US"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4814482"
-  },
-  {
     "id": 4817642,
     "title": "Staff Engineer, Billing",
     "location": {
@@ -1150,6 +1142,14 @@
       "name": "New York, NY"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4921923"
+  },
+  {
+    "id": 4922146,
+    "title": "Backend Engineer, Cost Optimization ",
+    "location": {
+      "name": "Remote in USA, Remote in Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4922146"
   },
   {
     "id": 4922304,
