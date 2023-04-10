@@ -72,14 +72,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/1826072/?gh_jid=1826072"
   },
   {
-    "id": 1826111,
-    "title": "Software Engineer - Database Reliability",
-    "location": {
-      "name": "New York, New York, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/1826111/?gh_jid=1826111"
-  },
-  {
     "id": 1826178,
     "title": "Senior Software Engineer - Frontend",
     "location": {
@@ -152,14 +144,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/2217548/?gh_jid=2217548"
   },
   {
-    "id": 2292480,
-    "title": "Software Engineer - Global Data Platform",
-    "location": {
-      "name": "New York, New York"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/2292480/?gh_jid=2292480"
-  },
-  {
     "id": 2297901,
     "title": "Senior Technical Program Manager - SRE",
     "location": {
@@ -182,14 +166,6 @@
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Tel Aviv, Israel"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/2422927/?gh_jid=2422927"
-  },
-  {
-    "id": 3056596,
-    "title": "Software Engineer - Global Data Platform",
-    "location": {
-      "name": "\bNew York, New York, USA; Boston, Massachusetts, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/3056596/?gh_jid=3056596"
   },
   {
     "id": 3220874,
@@ -1488,6 +1464,22 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4974843/?gh_jid=4974843"
   },
   {
+    "id": 4975127,
+    "title": "Cloud Alliances Manager (EMEA)",
+    "location": {
+      "name": "London, United Kingdom"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4975127/?gh_jid=4975127"
+  },
+  {
+    "id": 4975213,
+    "title": "Global Partner Programs Manager",
+    "location": {
+      "name": "New York, New York, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4975213/?gh_jid=4975213"
+  },
+  {
     "id": 4976248,
     "title": "Senior Federal Support Engineer - US-East",
     "location": {
@@ -1614,5 +1606,13 @@
       "name": "Madrid, Spain"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4982703/?gh_jid=4982703"
+  },
+  {
+    "id": 4982733,
+    "title": "Senior Internal Technical Writer",
+    "location": {
+      "name": "Boston, Massachusetts, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4982733/?gh_jid=4982733"
   }
 ]
