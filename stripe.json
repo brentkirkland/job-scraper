@@ -256,14 +256,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4819519"
   },
   {
-    "id": 4819634,
-    "title": "Operations Associate",
-    "location": {
-      "name": "Bangalore"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4819634"
-  },
-  {
     "id": 4820029,
     "title": "People Specialist",
     "location": {
@@ -1718,6 +1710,14 @@
       "name": "IN-Bengaluru"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4977280"
+  },
+  {
+    "id": 4977400,
+    "title": "Operations Associate ",
+    "location": {
+      "name": "Bangalore "
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4977400"
   },
   {
     "id": 4977942,
