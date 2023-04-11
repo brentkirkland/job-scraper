@@ -1019,7 +1019,7 @@
     "id": 4912250,
     "title": "Senior Technical Escalations Engineer (APM) - EMEA",
     "location": {
-      "name": "Paris, Amsterdam, Dublin "
+      "name": "Paris, France"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4912250/?gh_jid=4912250"
   },
@@ -1033,7 +1033,7 @@
   },
   {
     "id": 4914518,
-    "title": "Enterprise Account Executive - Denmark",
+    "title": "Enterprise Account Executive (Denmark)",
     "location": {
       "name": "Copenhagen, Denmark"
     },
@@ -1273,7 +1273,7 @@
   },
   {
     "id": 4948075,
-    "title": "Enterprise Account Executive - Sweden",
+    "title": "Enterprise Account Executive (Sweden)",
     "location": {
       "name": "Stockholm, Sweden"
     },
@@ -1395,7 +1395,7 @@
     "id": 4970237,
     "title": "Enterprise Sales Engineer (Denmark)",
     "location": {
-      "name": "Remote - Denmark"
+      "name": "Denmark, Remote"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4970237/?gh_jid=4970237"
   },
@@ -1515,7 +1515,7 @@
     "id": 4977335,
     "title": "Sales Development Representative (Spain)",
     "location": {
-      "name": "Dublin"
+      "name": "Dublin, Ireland"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4977335/?gh_jid=4977335"
   },
@@ -1598,5 +1598,21 @@
       "name": "Amsterdam, Netherlands"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4984315/?gh_jid=4984315"
+  },
+  {
+    "id": 4984369,
+    "title": "Senior Technical Escalations Engineer (APM) - EMEA",
+    "location": {
+      "name": "Dublin, Ireland"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4984369/?gh_jid=4984369"
+  },
+  {
+    "id": 4984374,
+    "title": "Senior Technical Escalations Engineer (APM) - EMEA",
+    "location": {
+      "name": "Amsterdam, Netherlands"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4984374/?gh_jid=4984374"
   }
 ]
