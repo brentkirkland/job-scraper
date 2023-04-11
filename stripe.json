@@ -240,14 +240,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4813901"
   },
   {
-    "id": 4817642,
-    "title": "Staff Engineer, Billing",
-    "location": {
-      "name": "Remote in US or Canada"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4817642"
-  },
-  {
     "id": 4819519,
     "title": "EMEA Technology Compliance Lead",
     "location": {
@@ -1694,6 +1686,14 @@
       "name": "Chicago, New York, Seattle, San Francisco, US-Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4977942"
+  },
+  {
+    "id": 4979211,
+    "title": "Staff Growth Engineer, Billing",
+    "location": {
+      "name": "Remote in US or Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4979211"
   },
   {
     "id": 4979516,
