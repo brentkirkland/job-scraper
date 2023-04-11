@@ -1424,6 +1424,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4954089"
   },
   {
+    "id": 4954092,
+    "title": "Account Executive, BaaS ",
+    "location": {
+      "name": "US-Remote"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4954092"
+  },
+  {
     "id": 4954178,
     "title": "Account Executive, Payment Product Sales",
     "location": {
@@ -1670,6 +1678,14 @@
       "name": "Chicago"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4980942"
+  },
+  {
+    "id": 4980945,
+    "title": "Account Executive, Billing Product Sales",
+    "location": {
+      "name": "US-Chicago"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4980945"
   },
   {
     "id": 4980950,
