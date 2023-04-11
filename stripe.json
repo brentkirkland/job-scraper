@@ -336,6 +336,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4829603"
   },
   {
+    "id": 4829705,
+    "title": "Account Executive, Existing Business (Startups)",
+    "location": {
+      "name": "San Francisco"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4829705"
+  },
+  {
     "id": 4830096,
     "title": "Product Manager, Stripe Network",
     "location": {
@@ -1155,7 +1163,7 @@
     "id": 4923662,
     "title": "Staff Full Stack Engineer, Developer Products",
     "location": {
-      "name": "Remote North America, Seattle, San Francisco, New York City"
+      "name": "Remote United States, Seattle, San Francisco, New York City"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4923662"
   },
