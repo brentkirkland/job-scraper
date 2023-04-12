@@ -1734,5 +1734,13 @@
       "name": "NYC"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4985222"
+  },
+  {
+    "id": 4985937,
+    "title": "Machine Learning Engineer, Identity",
+    "location": {
+      "name": "San Francisco"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4985937"
   }
 ]
