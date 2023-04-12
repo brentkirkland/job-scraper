@@ -1376,6 +1376,14 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4970480/?gh_jid=4970480"
   },
   {
+    "id": 4970574,
+    "title": "GTM Strategy & Operations Senior Associate",
+    "location": {
+      "name": "Tokyo, Japan"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4970574/?gh_jid=4970574"
+  },
+  {
     "id": 4972498,
     "title": "Manager II, Enterprise IT Support",
     "location": {
@@ -1614,5 +1622,13 @@
       "name": "Paris, France "
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4984403/?gh_jid=4984403"
+  },
+  {
+    "id": 4986215,
+    "title": "Commercial Sales Engineer (EMEA)",
+    "location": {
+      "name": "Amsterdam, Netherlands"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4986215/?gh_jid=4986215"
   }
 ]
