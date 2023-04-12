@@ -680,14 +680,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4865027"
   },
   {
-    "id": 4867868,
-    "title": "Account Executive, Inside Sales",
-    "location": {
-      "name": "Chicago"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4867868"
-  },
-  {
     "id": 4868011,
     "title": "Content Designer",
     "location": {
@@ -1486,6 +1478,14 @@
       "name": "SEA, NY or REMOTE"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4961063"
+  },
+  {
+    "id": 4961539,
+    "title": "Credit Risk Strategy and Analytics",
+    "location": {
+      "name": "London, Dublin"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4961539"
   },
   {
     "id": 4961541,
