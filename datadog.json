@@ -1520,6 +1520,14 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4981992/?gh_jid=4981992"
   },
   {
+    "id": 4982038,
+    "title": "Senior Technical Escalations Engineer, Monitors - EMEA",
+    "location": {
+      "name": "Dublin, Ireland "
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4982038/?gh_jid=4982038"
+  },
+  {
     "id": 4982664,
     "title": "Product Solutions Architect - Cloud Integrations",
     "location": {
@@ -1598,5 +1606,13 @@
       "name": "Amsterdam, Netherlands"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4984374/?gh_jid=4984374"
+  },
+  {
+    "id": 4984403,
+    "title": "Senior Technical Escalations Engineer, Monitors - EMEA",
+    "location": {
+      "name": "Paris, France "
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4984403/?gh_jid=4984403"
   }
 ]
