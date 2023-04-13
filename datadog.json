@@ -1369,7 +1369,7 @@
   },
   {
     "id": 4974764,
-    "title": "Field Marketing Manager (South EMEA)",
+    "title": "Field Marketing Manager (South EMEA, France)",
     "location": {
       "name": "Paris, France"
     },
@@ -1646,5 +1646,13 @@
       "name": "San Francisco, California, USA; New York, New York, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4987719/?gh_jid=4987719"
+  },
+  {
+    "id": 4989830,
+    "title": "Senior Technical Writer",
+    "location": {
+      "name": "New York, New York, USA; New York, USA, Remote"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4989830/?gh_jid=4989830"
   }
 ]
