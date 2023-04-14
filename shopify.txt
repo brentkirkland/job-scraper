@@ -12,7 +12,6 @@
 /careers/senior-marketing-lead--japan_fd18ad90-06b6-4106-a520-5fb590ab62d4
 /careers/senior-data-analyst---communications-and-public-affairs-_74664d0b-9fea-4bb7-9ff8-e2e2ea59093b
 /careers/senior-lead--growth-marketing---shopify-fulfillment-network-_b248122a-0b72-46fc-9208-61f017c96024
-/careers/partner-operations-manager-_e4a86fc2-b832-4a85-8674-731ba146f1d8
 /careers/senior-enterprise-sales-representative-_c6dc02dd-d8a4-4d18-aaa6-3cb022e538be
 /careers/revenue-operations-lead--territory-design_ab220841-3fa0-4f2f-9992-0d6f3928b838
 /careers/revenue-operations-lead--incentive-compensation_14d1efbf-ea1d-47be-af7b-e6bf5e20b64d
@@ -27,4 +26,5 @@
 /careers/greater-china-sales-representative--singapore_e6f2098b-1076-41db-a7a0-fe6d07d1a7e8
 /careers/senior-partner-solutions-engineer--japan_3995122a-96cf-4660-866d-a53fa0d83e82
 /careers/revenue-excellence-specialist--large-accounts---mid-market_7a7b4c7b-0e94-4773-98bb-55b870849f3b
+/careers/revenue-excellence-specialist--enterprise_9c06fe10-8177-47e4-a21b-52467da0b15f
 /careers/senior-partnerships-manager---agency---japan_cf68099f-3c76-43e4-b6eb-63a93d9ade81
