@@ -3297,7 +3297,7 @@
   },
   {
     "id": 4974196,
-    "title": "Engineering Manager - Speed Team ",
+    "title": "Engineering Manager - Privacy Proxies",
     "location": {
       "name": "London or Remote UK"
     },
@@ -3406,5 +3406,13 @@
       "name": "Amsterdam, Netherlands"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4988409?gh_jid=4988409"
+  },
+  {
+    "id": 4991240,
+    "title": "Engineering Manager - Privacy Proxies",
+    "location": {
+      "name": "Remote US"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4991240?gh_jid=4991240"
   }
 ]
