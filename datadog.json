@@ -1464,6 +1464,14 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4976700/?gh_jid=4976700"
   },
   {
+    "id": 4976705,
+    "title": "Data Analyst",
+    "location": {
+      "name": "New York, New York, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4976705/?gh_jid=4976705"
+  },
+  {
     "id": 4977335,
     "title": "Sales Development Representative (Spain)",
     "location": {
@@ -1659,7 +1667,7 @@
     "id": 4989830,
     "title": "Senior Technical Writer",
     "location": {
-      "name": "New York, New York, USA; New York, USA, Remote"
+      "name": "New York, USA, Remote"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4989830/?gh_jid=4989830"
   }
