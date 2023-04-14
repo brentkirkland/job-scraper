@@ -1,11 +1,9 @@
 /careers/senior-data-science-manager---shop-promise-_d3a7def3-eccf-4f63-a5d1-c8d370d3cb39
 /careers/senior-staff-analytics-engineer-_0894371b-b32b-43ab-8714-0be923a78e4a
 /careers/senior-staff-engineer--frontend---checkout--americas--remote-_9b58cb41-522a-42f0-a38d-a6e08520e01a
-/careers/senior-lead--developer-marketing---_d9bf0947-857e-4f2c-b8a0-35c2aeb5940a
 /careers/incident-response-security-manager-_3e88137f-5995-441d-9710-59705ee3c9aa
 /careers/senior-manager---performance-analytics-_df71dd1e-f14f-4b53-9338-ade070f1af25
 /careers/head-of-public-affairs--germany-_5e093657-be0d-4d32-a041-4436525b4950
-/careers/technical-content-marketer_5c79a5a4-c432-42f7-825c-3b75d2a51a54
 /careers/senior-manager--marketing-analytics---_2869930f-9bdd-46b0-a6f2-a4368e5b3ec4
 /careers/solutions-engineer--digital-analytics_2dcc448f-b390-4a9a-ba91-3c964fbd7544
 /careers/senior-integrated-marketing-manager-_e6d75f69-65aa-4265-80d8-81e88798923c
@@ -15,9 +13,9 @@
 /careers/senior-data-analyst---communications-and-public-affairs-_74664d0b-9fea-4bb7-9ff8-e2e2ea59093b
 /careers/senior-lead--growth-marketing---shopify-fulfillment-network-_b248122a-0b72-46fc-9208-61f017c96024
 /careers/partner-operations-manager-_e4a86fc2-b832-4a85-8674-731ba146f1d8
-/careers/revenue-operations-lead--incentive-compensation_14d1efbf-ea1d-47be-af7b-e6bf5e20b64d
-/careers/revenue-operations-lead--territory-design_ab220841-3fa0-4f2f-9992-0d6f3928b838
 /careers/senior-enterprise-sales-representative-_c6dc02dd-d8a4-4d18-aaa6-3cb022e538be
+/careers/revenue-operations-lead--territory-design_ab220841-3fa0-4f2f-9992-0d6f3928b838
+/careers/revenue-operations-lead--incentive-compensation_14d1efbf-ea1d-47be-af7b-e6bf5e20b64d
 /careers/sales-development-representative---inbound_52962f58-65ea-4d8c-81b0-811ac2b6fbc0
 /careers/sales-incubation-data---operations-analyst_2946b632-4ed3-47d3-8e27-41578237479e
 /careers/enterprise-account-executive-dach---shopify-plus_ef3444da-82b7-410f-aa9f-32bf90ed6067
