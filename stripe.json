@@ -1264,14 +1264,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4938824"
   },
   {
-    "id": 4939701,
-    "title": "Support Engineer, Corporate Technology Services",
-    "location": {
-      "name": "Bangalore"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4939701"
-  },
-  {
     "id": 4942514,
     "title": "Head of Central GTM Operations",
     "location": {
@@ -1718,6 +1710,14 @@
       "name": "San Francisco"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4985937"
+  },
+  {
+    "id": 4987168,
+    "title": "Account Executive, Startups (Existing Business)",
+    "location": {
+      "name": "Singapore"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4987168"
   },
   {
     "id": 4987318,
