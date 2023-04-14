@@ -800,6 +800,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4684357?gh_jid=4684357"
   },
   {
+    "id": 4684358,
+    "title": "Partner Solutions Engineer",
+    "location": {
+      "name": "Austin, TX"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4684358?gh_jid=4684358"
+  },
+  {
     "id": 4684359,
     "title": "Partner Solutions Engineer",
     "location": {
@@ -3329,7 +3337,7 @@
   },
   {
     "id": 4980027,
-    "title": "Senior Counsel/Senior Managing Counsel, Commercial",
+    "title": "Senior Counsel, Commercial",
     "location": {
       "name": "Remote US"
     },
