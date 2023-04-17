@@ -680,14 +680,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4880543"
   },
   {
-    "id": 4884847,
-    "title": "Financial Crimes Manager (EDD/PEP), Stripe Delivery Center",
-    "location": {
-      "name": "IN-Bengaluru"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4884847"
-  },
-  {
     "id": 4885163,
     "title": "Diligence Lead, Frontier",
     "location": {
@@ -1094,14 +1086,6 @@
       "name": "Bangalore"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4927331"
-  },
-  {
-    "id": 4932461,
-    "title": "Disputes Operations Manager",
-    "location": {
-      "name": "Bangalore"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4932461"
   },
   {
     "id": 4933030,
@@ -1710,5 +1694,13 @@
       "name": "US/ Canada "
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4993150"
+  },
+  {
+    "id": 4993512,
+    "title": "Backend Engineer, BNPL",
+    "location": {
+      "name": "United States, Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4993512"
   }
 ]
