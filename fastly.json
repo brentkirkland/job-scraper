@@ -120,14 +120,6 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4864406"
   },
   {
-    "id": 4864575,
-    "title": "Account Manager",
-    "location": {
-      "name": "Madrid, Spain"
-    },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4864575"
-  },
-  {
     "id": 4872316,
     "title": "Senior Software Engineer - Security Products",
     "location": {
@@ -862,6 +854,14 @@
       "name": "San Francisco, CA"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4990859"
+  },
+  {
+    "id": 4994081,
+    "title": "Enterprise Account Manager",
+    "location": {
+      "name": "London, United Kingdom"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4994081"
   },
   {
     "id": 4994240,
