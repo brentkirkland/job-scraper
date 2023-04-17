@@ -1248,14 +1248,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4949428"
   },
   {
-    "id": 4952004,
-    "title": "Full Stack Engineer, Radar",
-    "location": {
-      "name": "Remote, WA, CA, CO"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4952004"
-  },
-  {
     "id": 4952678,
     "title": "Full Stack Engineer, Merchant Success",
     "location": {
@@ -1640,14 +1632,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4987318"
   },
   {
-    "id": 4987393,
-    "title": "Backend Engineer, Radar",
-    "location": {
-      "name": "Remote"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4987393"
-  },
-  {
     "id": 4990757,
     "title": "Sales Development Manager",
     "location": {
@@ -1670,6 +1654,14 @@
       "name": "Dublin"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4991369"
+  },
+  {
+    "id": 4992146,
+    "title": "Backend Engineer, Identity",
+    "location": {
+      "name": "US, Remote"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4992146"
   },
   {
     "id": 4993150,
