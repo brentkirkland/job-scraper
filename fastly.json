@@ -862,5 +862,29 @@
       "name": "San Francisco, CA"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4990859"
+  },
+  {
+    "id": 4994240,
+    "title": "Staff Product Manager - Caching Infrastructure",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4994240"
+  },
+  {
+    "id": 4994241,
+    "title": "Staff Product Manager - Caching Infrastructure",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4994241"
+  },
+  {
+    "id": 4994243,
+    "title": "Copy of Staff Product Manager - Caching Infrastructure",
+    "location": {
+      "name": "Los Angeles, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4994243"
   }
 ]
