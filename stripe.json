@@ -1232,12 +1232,28 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4949428"
   },
   {
+    "id": 4952004,
+    "title": "Full Stack Engineer, Radar",
+    "location": {
+      "name": "Remote, WA, CA, CO"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4952004"
+  },
+  {
     "id": 4952678,
     "title": "Full Stack Engineer, Merchant Success",
     "location": {
       "name": "N/A"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4952678"
+  },
+  {
+    "id": 4952777,
+    "title": "Product Manager, Identity",
+    "location": {
+      "name": "NYC"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4952777"
   },
   {
     "id": 4954089,
@@ -1440,6 +1456,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4973331"
   },
   {
+    "id": 4973805,
+    "title": "Backend / API Engineer, Risk",
+    "location": {
+      "name": "Remote "
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4973805"
+  },
+  {
     "id": 4977145,
     "title": "Software Engineer, Growth Data Engineering",
     "location": {
@@ -1558,14 +1582,6 @@
       "name": "N/A"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4983602"
-  },
-  {
-    "id": 4985222,
-    "title": "Product Manager, Identity",
-    "location": {
-      "name": "NYC"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4985222"
   },
   {
     "id": 4985607,
