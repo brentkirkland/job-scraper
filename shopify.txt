@@ -3,6 +3,8 @@
 /careers/staff-technical-program-manager--infrastructure_a6c5ed61-1bed-4246-a953-f86db83bbb34
 /careers/junior-support-advisors-_0c88f823-7866-4674-92e3-a95023eb8515
 /careers/head-of-public-affairs--germany-_5e093657-be0d-4d32-a041-4436525b4950
+/careers/technical-product-marketing-lead--commerce-components_911d4f33-a505-415f-9bba-68d642210090
+/careers/localization-program-manager_e0e6eef1-6b40-4396-80bd-101f1204632a
 /careers/solutions-engineer--digital-analytics_2dcc448f-b390-4a9a-ba91-3c964fbd7544
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
 /careers/apac-content-manager--japan_01acf78c-5199-46e0-a2b2-0ea036987194
