@@ -2395,9 +2395,17 @@
     "id": 4895743,
     "title": "Salesforce CPQ Developer",
     "location": {
-      "name": "London, UK"
+      "name": "London or Remote UK"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4895743?gh_jid=4895743"
+  },
+  {
+    "id": 4895745,
+    "title": "Salesforce CPQ Developer",
+    "location": {
+      "name": "Amsterdam, Netherlands"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4895745?gh_jid=4895745"
   },
   {
     "id": 4895747,
@@ -2406,6 +2414,14 @@
       "name": "Munich, Germany"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4895747?gh_jid=4895747"
+  },
+  {
+    "id": 4895748,
+    "title": "Salesforce CPQ Developer",
+    "location": {
+      "name": "Paris, France"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4895748?gh_jid=4895748"
   },
   {
     "id": 4895829,
@@ -3430,5 +3446,53 @@
       "name": "Montreal, QC"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4993066?gh_jid=4993066"
+  },
+  {
+    "id": 4997799,
+    "title": "Finance Systems Administrator - Concur",
+    "location": {
+      "name": "Lisbon, Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4997799?gh_jid=4997799"
+  },
+  {
+    "id": 4997804,
+    "title": "Finance Systems Administrator - Concur",
+    "location": {
+      "name": "London or Remote UK"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4997804?gh_jid=4997804"
+  },
+  {
+    "id": 4997805,
+    "title": "Finance Systems Administrator - Concur",
+    "location": {
+      "name": "Munich, Germany"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4997805?gh_jid=4997805"
+  },
+  {
+    "id": 4997808,
+    "title": "Finance Systems Administrator - Concur",
+    "location": {
+      "name": "Amsterdam, Netherlands"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4997808?gh_jid=4997808"
+  },
+  {
+    "id": 4997825,
+    "title": "Salesforce CPQ Solution Architect",
+    "location": {
+      "name": "Amsterdam, Netherlands"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4997825?gh_jid=4997825"
+  },
+  {
+    "id": 4997828,
+    "title": "Salesforce CPQ Solution Architect",
+    "location": {
+      "name": "Paris, France"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4997828?gh_jid=4997828"
   }
 ]
