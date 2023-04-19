@@ -1,3 +1,5 @@
+/careers/staff-production-engineer--data-platform_8eef3960-c4ba-4222-835c-3eb4044924ab
+/careers/senior-analytics-engineering-manager-_37c21c69-f73b-4ff6-8444-a0bb21977cdb
 /careers/senior-staff-engineer--frontend---checkout--americas--remote-_9b58cb41-522a-42f0-a38d-a6e08520e01a
 /careers/staff-technical-program-manager--infrastructure_a6c5ed61-1bed-4246-a953-f86db83bbb34
 /careers/junior-support-advisors-_0c88f823-7866-4674-92e3-a95023eb8515
@@ -11,6 +13,8 @@
 /careers/senior-marketing-lead--japan_fd18ad90-06b6-4106-a520-5fb590ab62d4
 /careers/senior-data-analyst---communications-and-public-affairs-_74664d0b-9fea-4bb7-9ff8-e2e2ea59093b
 /careers/senior-lead--growth-marketing---shopify-fulfillment-network-_b248122a-0b72-46fc-9208-61f017c96024
+/careers/senior-partner-marketing-manager--event-marketing----remote_77101375-f78f-4877-affa-09ad68094a9a
+/careers/senior-partner-marketing-manager--system-integrator----remote_e9113f67-dd64-48e4-9e1c-5c0810e5ea49
 /careers/partner-operations-manager-_e4a86fc2-b832-4a85-8674-731ba146f1d8
 /careers/account-executive---new-business--france_fa887200-301c-4d4d-a19e-8229a2d86144
 /careers/sales-development-representative_1361dcff-7b59-49ef-a5b1-c8c4b1c447ac
@@ -19,7 +23,6 @@
 /careers/sales-development-representative---inbound_52962f58-65ea-4d8c-81b0-811ac2b6fbc0
 /careers/enterprise-account-executive-dach---shopify-plus_ef3444da-82b7-410f-aa9f-32bf90ed6067
 /careers/sales-development-representative_f4c248a5-10c0-4a61-a3b3-9818729a6b54
-/careers/account-executive--sales-incubation_ca2ac6d9-42eb-4716-93ca-dc164841ec0d
 /careers/enterprise-account-executive-france---shopify-plus_b86f91a9-0405-4eab-97e2-c0e91fea3196
 /careers/senior-solutions-engineer--australia_0414882e-f65a-4f12-9ba1-27c40ac64d7f
 /careers/greater-china-sales-representative--singapore_e6f2098b-1076-41db-a7a0-fe6d07d1a7e8
