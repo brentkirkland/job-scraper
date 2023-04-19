@@ -19,9 +19,17 @@
     "id": 4770264,
     "title": " Staff Site Reliability Engineer, Networking",
     "location": {
-      "name": "London, United Kingdom"
+      "name": "United Kingdom (Remote)"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4770264"
+  },
+  {
+    "id": 4770922,
+    "title": "Staff Network Engineer",
+    "location": {
+      "name": "London, United Kingdom"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4770922"
   },
   {
     "id": 4798973,
@@ -502,14 +510,6 @@
       "name": "New York City, NY"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4937796"
-  },
-  {
-    "id": 4937945,
-    "title": "Sales Operations Analyst",
-    "location": {
-      "name": "San Francisco, CA"
-    },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4937945"
   },
   {
     "id": 4938853,
