@@ -184,14 +184,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4808207"
   },
   {
-    "id": 4812102,
-    "title": "Sales Strategy & Operations Specialist",
-    "location": {
-      "name": "San Francisco, New York, Seattle, Chicago, Remote"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4812102"
-  },
-  {
     "id": 4813901,
     "title": "Infrastructure Engineer - Orchestration",
     "location": {
@@ -1686,6 +1678,14 @@
       "name": "Dublin"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4993528"
+  },
+  {
+    "id": 4994387,
+    "title": "Fraud Operations Associate",
+    "location": {
+      "name": "Mexico"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4994387"
   },
   {
     "id": 4996233,
