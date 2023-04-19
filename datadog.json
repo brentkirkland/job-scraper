@@ -1734,5 +1734,21 @@
       "name": "Dublin, Ireland "
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4996872/?gh_jid=4996872"
+  },
+  {
+    "id": 4997643,
+    "title": "Manager, Engineering I - APM Java Tracer",
+    "location": {
+      "name": "New York, New York, USA; Boston, Massachusetts, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4997643/?gh_jid=4997643"
+  },
+  {
+    "id": 4997764,
+    "title": "Manager, Engineering I - APM Java Tracer",
+    "location": {
+      "name": "Paris, France"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4997764/?gh_jid=4997764"
   }
 ]
