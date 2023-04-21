@@ -1742,5 +1742,21 @@
       "name": "San Francisco, Seattle, Chicago, New York, US-Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5000720"
+  },
+  {
+    "id": 5003996,
+    "title": "Frontend Engineer, Growth",
+    "location": {
+      "name": "Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5003996"
+  },
+  {
+    "id": 5004001,
+    "title": "Staff Full-Stack Engineer, Growth",
+    "location": {
+      "name": "Remote in United States"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5004001"
   }
 ]
