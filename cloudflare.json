@@ -3120,6 +3120,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4961198?gh_jid=4961198"
   },
   {
+    "id": 4961743,
+    "title": "Customer Solutions Engineer (German speaker)",
+    "location": {
+      "name": "Lisbon, Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4961743?gh_jid=4961743"
+  },
+  {
     "id": 4961920,
     "title": "Data Centre Security Compliance Coordinator",
     "location": {
@@ -3486,5 +3494,13 @@
       "name": "Remote US"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5001116?gh_jid=5001116"
+  },
+  {
+    "id": 5005322,
+    "title": "Customer Solutions Engineer (German speaker)",
+    "location": {
+      "name": "Munich, Germany"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5005322?gh_jid=5005322"
   }
 ]
