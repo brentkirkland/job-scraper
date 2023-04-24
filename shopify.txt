@@ -12,10 +12,9 @@
 /careers/senior-marketing-lead--japan_fd18ad90-06b6-4106-a520-5fb590ab62d4
 /careers/senior-data-analyst---communications-and-public-affairs-_74664d0b-9fea-4bb7-9ff8-e2e2ea59093b
 /careers/senior-partner-marketing-manager--event-marketing----remote_77101375-f78f-4877-affa-09ad68094a9a
-/careers/senior-partner-marketing-manager--system-integrator----remote_e9113f67-dd64-48e4-9e1c-5c0810e5ea49
-/careers/sales-concierge--japan_94bb227b-2349-4789-8b35-f2b99d6ee203
+/careers/sales-development-representative---outbound--japan_d1f7db72-cbb3-4a9c-81f8-6f43ff84155a
+/careers/sales-development-representative---inbound--japan_94bb227b-2349-4789-8b35-f2b99d6ee203
 /careers/sales-development-representative---inbound_52962f58-65ea-4d8c-81b0-811ac2b6fbc0
-/careers/sales-development-representative--japan_d1f7db72-cbb3-4a9c-81f8-6f43ff84155a
 /careers/sales-concierge--japan_69561d5c-e853-4fb1-9c71-2a9bd78c1b6e
 /careers/account-executive---new-business--france_fa887200-301c-4d4d-a19e-8229a2d86144
 /careers/sales-development-representative--outbound-sales--mid-market-_6c61ae4c-2a5b-4c8c-a2fd-2c090fd75c01
