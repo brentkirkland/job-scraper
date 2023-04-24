@@ -1272,6 +1272,14 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4970220/?gh_jid=4970220"
   },
   {
+    "id": 4970225,
+    "title": "Enterprise Sales Engineer",
+    "location": {
+      "name": "Sydney, Australia"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4970225/?gh_jid=4970225"
+  },
+  {
     "id": 4970234,
     "title": "Enterprise Sales Engineer (Dubai)",
     "location": {
@@ -1750,5 +1758,13 @@
       "name": "Denver, Colorado, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5004779/?gh_jid=5004779"
+  },
+  {
+    "id": 5004915,
+    "title": "Commercial Account Executive",
+    "location": {
+      "name": "Singapore, Singapore"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5004915/?gh_jid=5004915"
   }
 ]
