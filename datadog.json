@@ -760,14 +760,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4868022/?gh_jid=4868022"
   },
   {
-    "id": 4869401,
-    "title": "Commercial Account Executive",
-    "location": {
-      "name": "Singapore, Singapore"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4869401/?gh_jid=4869401"
-  },
-  {
     "id": 4870477,
     "title": "Regional Vice President, Enterprise Sales (Central EMEA)",
     "location": {
@@ -1758,6 +1750,14 @@
       "name": "Denver, Colorado, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5004779/?gh_jid=5004779"
+  },
+  {
+    "id": 5004895,
+    "title": "Commercial Account Executive",
+    "location": {
+      "name": "Singapore, Singapore"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5004895/?gh_jid=5004895"
   },
   {
     "id": 5004915,
