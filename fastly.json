@@ -734,5 +734,21 @@
       "name": "Denver, CO"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4998837"
+  },
+  {
+    "id": 4999602,
+    "title": "Senior Software Development Engineer",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4999602"
+  },
+  {
+    "id": 5000921,
+    "title": "Senior Software Development Engineer",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5000921"
   }
 ]
