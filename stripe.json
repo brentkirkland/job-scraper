@@ -472,14 +472,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4858238"
   },
   {
-    "id": 4858446,
-    "title": "Corporate Paralegal",
-    "location": {
-      "name": "Singapore"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4858446"
-  },
-  {
     "id": 4858448,
     "title": "Banking Operations Specialist",
     "location": {
@@ -1742,6 +1734,14 @@
       "name": "Remote in United States"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5004001"
+  },
+  {
+    "id": 5005731,
+    "title": "Compliance Manager, Indonesia",
+    "location": {
+      "name": "Indonesia"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5005731"
   },
   {
     "id": 5005997,
