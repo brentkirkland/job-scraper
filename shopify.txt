@@ -1,7 +1,11 @@
+/careers/staff-site-reliability-engineer_81e685d3-b2ea-4833-a57b-a7cbe20e78d5
 /careers/staff-production-engineer--data-platform_8eef3960-c4ba-4222-835c-3eb4044924ab
 /careers/senior-analytics-engineering-manager-_37c21c69-f73b-4ff6-8444-a0bb21977cdb
 /careers/senior-staff-engineer--frontend---checkout--americas--remote-_9b58cb41-522a-42f0-a38d-a6e08520e01a
+/careers/senior-market-researcher_44d3173e-9a1e-4396-92cc-09aedcd7f6c0
 /careers/staff-technical-program-manager--infrastructure_a6c5ed61-1bed-4246-a953-f86db83bbb34
+/careers/lead-business-technology--talent-systems-_f6b2a05f-043a-4c63-bbc7-af6238bc0d37
+/careers/senior-business-technologist--compliance-_dd055c68-217c-48ca-a1e6-cea8435a41d1
 /careers/head-of-public-affairs--germany-_5e093657-be0d-4d32-a041-4436525b4950
 /careers/localization-program-manager_e0e6eef1-6b40-4396-80bd-101f1204632a
 /careers/solutions-engineer--digital-analytics_2dcc448f-b390-4a9a-ba91-3c964fbd7544
@@ -11,6 +15,7 @@
 /careers/senior-data-analyst---communications-and-public-affairs-_74664d0b-9fea-4bb7-9ff8-e2e2ea59093b
 /careers/partner-enablement-manager_901ea608-a1a4-4b24-9c54-11e19bf9a85b
 /careers/senior-partner-marketing-manager--event-marketing----remote_77101375-f78f-4877-affa-09ad68094a9a
+/careers/sales-development-representative_f4c248a5-10c0-4a61-a3b3-9818729a6b54
 /careers/sales-representative--singapore_e6f2098b-1076-41db-a7a0-fe6d07d1a7e8
 /careers/sales-development-representative---outbound--japan_d1f7db72-cbb3-4a9c-81f8-6f43ff84155a
 /careers/sales-development-representative---inbound--japan_94bb227b-2349-4789-8b35-f2b99d6ee203
@@ -21,7 +26,6 @@
 /careers/revenue-operations-lead--incentive-compensation_14d1efbf-ea1d-47be-af7b-e6bf5e20b64d
 /careers/revenue-operations-lead--territory-design_ab220841-3fa0-4f2f-9992-0d6f3928b838
 /careers/enterprise-account-executive-dach---shopify-plus_ef3444da-82b7-410f-aa9f-32bf90ed6067
-/careers/sales-development-representative_f4c248a5-10c0-4a61-a3b3-9818729a6b54
 /careers/senior-solutions-engineer--australia_0414882e-f65a-4f12-9ba1-27c40ac64d7f
 /careers/senior-partner-solutions-engineer--japan_3995122a-96cf-4660-866d-a53fa0d83e82
 /careers/revenue-excellence-specialist--large-accounts---mid-market_7a7b4c7b-0e94-4773-98bb-55b870849f3b
