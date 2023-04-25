@@ -750,5 +750,21 @@
       "name": "San Francisco, CA"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5004605"
+  },
+  {
+    "id": 5007842,
+    "title": "Staff Site Reliability Engineer, Networking",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5007842"
+  },
+  {
+    "id": 5008412,
+    "title": "Staff Site Reliability Engineer, Networking",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5008412"
   }
 ]
