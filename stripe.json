@@ -360,14 +360,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4840355"
   },
   {
-    "id": 4840358,
-    "title": "Account Executive, Strategic",
-    "location": {
-      "name": "New York"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4840358"
-  },
-  {
     "id": 4850151,
     "title": "Software Engineer, Machine Learning Infrastructure   ",
     "location": {
@@ -1766,5 +1758,13 @@
       "name": "Dublin, London, Remote in EMEA"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5006448"
+  },
+  {
+    "id": 5006681,
+    "title": "Account Executive, Strategic",
+    "location": {
+      "name": "New York, San Francisco"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5006681"
   }
 ]
