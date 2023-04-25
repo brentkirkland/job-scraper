@@ -288,22 +288,6 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4923809"
   },
   {
-    "id": 4926737,
-    "title": "Manager, Cloud Engineering",
-    "location": {
-      "name": "Denver, CO"
-    },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4926737"
-  },
-  {
-    "id": 4926755,
-    "title": "Manager, Cloud Engineering",
-    "location": {
-      "name": "San Francisco, CA"
-    },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4926755"
-  },
-  {
     "id": 4928463,
     "title": "Director, Global Field Marketing",
     "location": {
@@ -742,6 +726,14 @@
       "name": "San Francisco, CA"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5000921"
+  },
+  {
+    "id": 5004603,
+    "title": "Enterprise Account Manager",
+    "location": {
+      "name": "US West (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5004603"
   },
   {
     "id": 5004605,
