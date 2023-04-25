@@ -264,38 +264,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4397492/?gh_jid=4397492"
   },
   {
-    "id": 4447326,
-    "title": "Director, Premier Support Engineering",
-    "location": {
-      "name": "Atlanta, Georgia, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4447326/?gh_jid=4447326"
-  },
-  {
-    "id": 4449597,
-    "title": "Director, Premier Support Engineering",
-    "location": {
-      "name": "Boston, Massachusetts, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4449597/?gh_jid=4449597"
-  },
-  {
-    "id": 4449599,
-    "title": "Director, Premier Support Engineering",
-    "location": {
-      "name": "New York, New York, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4449599/?gh_jid=4449599"
-  },
-  {
-    "id": 4449601,
-    "title": "Director, Premier Support Engineering",
-    "location": {
-      "name": "San Francisco, California, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4449601/?gh_jid=4449601"
-  },
-  {
     "id": 4452817,
     "title": "Software Engineer - Site Reliability",
     "location": {
@@ -566,14 +534,6 @@
       "name": "New York, New York, USA; Boston, Massachusetts, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4831203/?gh_jid=4831203"
-  },
-  {
-    "id": 4833512,
-    "title": "Director, Premier Support Engineering",
-    "location": {
-      "name": "Denver, Colorado, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4833512/?gh_jid=4833512"
   },
   {
     "id": 4834397,
