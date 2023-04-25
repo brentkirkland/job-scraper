@@ -1742,5 +1742,21 @@
       "name": "New York, New York, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5005768/?gh_jid=5005768"
+  },
+  {
+    "id": 5007736,
+    "title": "Enterprise Sales Executive (France)",
+    "location": {
+      "name": "Paris, France"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5007736/?gh_jid=5007736"
+  },
+  {
+    "id": 5007738,
+    "title": "Enterprise Sales Executive (UKI)",
+    "location": {
+      "name": "London, England"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5007738/?gh_jid=5007738"
   }
 ]
