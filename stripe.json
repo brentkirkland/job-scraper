@@ -160,14 +160,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4805841"
   },
   {
-    "id": 4808207,
-    "title": "Credit Risk Operations Associate ",
-    "location": {
-      "name": "Bangalore "
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4808207"
-  },
-  {
     "id": 4813901,
     "title": "Infrastructure Engineer - Orchestration",
     "location": {
@@ -1742,5 +1734,13 @@
       "name": "New York, San Francisco"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5006681"
+  },
+  {
+    "id": 5012508,
+    "title": "Credit Risk Operations Associate",
+    "location": {
+      "name": "Bangalore "
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5012508"
   }
 ]
