@@ -1745,7 +1745,7 @@
   },
   {
     "id": 5010593,
-    "title": "Incident and Escalation Manager - Paris",
+    "title": "Incident and Escalation Manager (EMEA)",
     "location": {
       "name": "Paris, France"
     },
@@ -1758,5 +1758,21 @@
       "name": "New York, New York, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5011168/?gh_jid=5011168"
+  },
+  {
+    "id": 5012766,
+    "title": "Incident and Escalation Manager (EMEA)",
+    "location": {
+      "name": "Dublin, Ireland"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5012766/?gh_jid=5012766"
+  },
+  {
+    "id": 5012769,
+    "title": "Incident and Escalation Manager (EMEA)",
+    "location": {
+      "name": "Amsterdam, Netherlands"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5012769/?gh_jid=5012769"
   }
 ]
