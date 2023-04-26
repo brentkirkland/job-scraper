@@ -1,4 +1,3 @@
-/careers/senior-data-scientist--labor-statistician_205b69ca-144b-40c9-88af-570784ee7ec3
 /careers/staff-site-reliability-engineer_81e685d3-b2ea-4833-a57b-a7cbe20e78d5
 /careers/staff-production-engineer--data-platform_8eef3960-c4ba-4222-835c-3eb4044924ab
 /careers/senior-analytics-engineering-manager-_37c21c69-f73b-4ff6-8444-a0bb21977cdb
