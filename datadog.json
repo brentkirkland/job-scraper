@@ -1862,5 +1862,13 @@
       "name": "New York, New York, USA; New York, USA, Remote"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5014494/?gh_jid=5014494"
+  },
+  {
+    "id": 5015918,
+    "title": "Test Job",
+    "location": {
+      "name": "TBD"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5015918/?gh_jid=5015918"
   }
 ]
