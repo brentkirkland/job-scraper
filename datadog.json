@@ -1848,6 +1848,22 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5012929/?gh_jid=5012929"
   },
   {
+    "id": 5013256,
+    "title": "Mid-Market Account Executive (MEA)",
+    "location": {
+      "name": "Dublin, Ireland "
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5013256/?gh_jid=5013256"
+  },
+  {
+    "id": 5013662,
+    "title": "Mid-Market Account Executive (MEA)",
+    "location": {
+      "name": "Amsterdam, Netherlands"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5013662/?gh_jid=5013662"
+  },
+  {
     "id": 5014494,
     "title": "Developer Advocate",
     "location": {
@@ -1856,11 +1872,11 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5014494/?gh_jid=5014494"
   },
   {
-    "id": 5015918,
-    "title": "Test Job",
+    "id": 5015502,
+    "title": "Manager, Mid-Market Sales",
     "location": {
-      "name": "New York, New York, USA"
+      "name": "Amsterdam, Netherlands "
     },
-    "absolute_url": "https://careers.datadoghq.com/detail/5015918/?gh_jid=5015918"
+    "absolute_url": "https://careers.datadoghq.com/detail/5015502/?gh_jid=5015502"
   }
 ]
