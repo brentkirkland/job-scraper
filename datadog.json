@@ -264,14 +264,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4397492/?gh_jid=4397492"
   },
   {
-    "id": 4404156,
-    "title": "JOB TESTING",
-    "location": {
-      "name": "Denver, CO, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4404156/?gh_jid=4404156"
-  },
-  {
     "id": 4452817,
     "title": "Software Engineer - Site Reliability",
     "location": {
@@ -1590,6 +1582,14 @@
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4989056/?gh_jid=4989056"
+  },
+  {
+    "id": 4989513,
+    "title": "Manager, Tech Recruiting",
+    "location": {
+      "name": "Paris, France"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4989513/?gh_jid=4989513"
   },
   {
     "id": 4989722,
