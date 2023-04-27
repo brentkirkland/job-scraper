@@ -600,14 +600,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4848361/?gh_jid=4848361"
   },
   {
-    "id": 4851996,
-    "title": "Partner Marketing Manager (Japan & Korea)",
-    "location": {
-      "name": "Tokyo, Japan"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4851996/?gh_jid=4851996"
-  },
-  {
     "id": 4852477,
     "title": "Incident and Escalation Manager - Denver",
     "location": {
@@ -1867,7 +1859,7 @@
     "id": 5015918,
     "title": "Test Job",
     "location": {
-      "name": "TBD"
+      "name": "New York, New York, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5015918/?gh_jid=5015918"
   }
