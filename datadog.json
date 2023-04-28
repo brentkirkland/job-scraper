@@ -944,14 +944,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4925817/?gh_jid=4925817"
   },
   {
-    "id": 4930170,
-    "title": "Manager 1, Technical Support Engineering",
-    "location": {
-      "name": "New York, New York, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4930170/?gh_jid=4930170"
-  },
-  {
     "id": 4931977,
     "title": "Enterprise Sales Executive (San Francisco)",
     "location": {
@@ -1894,5 +1886,13 @@
       "name": "Denver, Colorado, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5019065/?gh_jid=5019065"
+  },
+  {
+    "id": 5019341,
+    "title": "Manager, Engineering II - Cloud SIEM",
+    "location": {
+      "name": "New York, New York, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5019341/?gh_jid=5019341"
   }
 ]
