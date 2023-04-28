@@ -1040,14 +1040,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4943143"
   },
   {
-    "id": 4943445,
-    "title": "Software Engineer, Core Infrastructure",
-    "location": {
-      "name": "San Francisco, Remote (US/Canada)"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4943445"
-  },
-  {
     "id": 4946823,
     "title": "Integration Reliability Engineer, Technical Operations EMEA",
     "location": {
@@ -1798,5 +1790,13 @@
       "name": "Remote in the United States"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5019119"
+  },
+  {
+    "id": 5019212,
+    "title": "Technical Program Manager, Financial Systems ",
+    "location": {
+      "name": "US / Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5019212"
   }
 ]
