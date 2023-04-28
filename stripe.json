@@ -1774,5 +1774,21 @@
       "name": "Bangalore "
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5012508"
+  },
+  {
+    "id": 5019088,
+    "title": "Data Scientist,  Forecasting Platform",
+    "location": {
+      "name": "Remote in the United States"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5019088"
+  },
+  {
+    "id": 5019119,
+    "title": "Data Scientist, Credit Risk",
+    "location": {
+      "name": "Remote in the United States"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5019119"
   }
 ]
