@@ -688,11 +688,27 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5012039"
   },
   {
+    "id": 5013848,
+    "title": "Senior Software Development Engineer",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5013848"
+  },
+  {
     "id": 5014282,
     "title": "Sales Development Representative",
     "location": {
       "name": "San Francisco, CA"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5014282"
+  },
+  {
+    "id": 5017282,
+    "title": "Senior Software Development Engineer",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5017282"
   }
 ]
