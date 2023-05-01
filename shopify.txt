@@ -3,6 +3,7 @@
 /careers/staff-site-reliability-engineer_81e685d3-b2ea-4833-a57b-a7cbe20e78d5
 /careers/senior-analytics-engineering-manager-_37c21c69-f73b-4ff6-8444-a0bb21977cdb
 /careers/senior-staff-engineer--frontend---checkout--americas--remote-_9b58cb41-522a-42f0-a38d-a6e08520e01a
+/careers/deal-desk-specialist---seller-guidance_236b5284-cc3c-45ea-9ad9-fbce2096eca5
 /careers/revenue-operations-manager--process-and-tooling---amer-_0c988e02-73df-473e-88ec-8c00ca26699c
 /careers/staff-technical-program-manager--infrastructure_a6c5ed61-1bed-4246-a953-f86db83bbb34
 /careers/senior-business-technologist--compliance-_dd055c68-217c-48ca-a1e6-cea8435a41d1
