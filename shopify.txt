@@ -1,3 +1,4 @@
+/careers/senior-software-engineer---talent-acceleration_1c62f86f-e607-4c24-a299-80c87866e820
 /careers/solutions-architect--professional-services_0aa2df5d-efec-424a-b4d7-20eed5020c37
 /careers/staff-engineer--data-platform_8eef3960-c4ba-4222-835c-3eb4044924ab
 /careers/staff-site-reliability-engineer_81e685d3-b2ea-4833-a57b-a7cbe20e78d5
@@ -21,6 +22,7 @@
 /careers/partner-manager--agency-_aa9c71a3-74cc-4540-bf54-e7584215b9c1
 /careers/partner-enablement-manager_901ea608-a1a4-4b24-9c54-11e19bf9a85b
 /careers/senior-partner-marketing-manager--event-marketing----remote_77101375-f78f-4877-affa-09ad68094a9a
+/careers/revenue-operations-lead--territory-design_ab220841-3fa0-4f2f-9992-0d6f3928b838
 /careers/revenue-operations-lead--incentive-compensation_14d1efbf-ea1d-47be-af7b-e6bf5e20b64d
 /careers/senior-solutions-engineer---enterprise---multiple-roles-_caacc969-52e8-49a9-917d-a2b638538d50
 /careers/enterprise-solutions-engineer---_fb29731a-6fc3-45dc-8803-612742ec60cd
