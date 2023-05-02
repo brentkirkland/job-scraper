@@ -1,7 +1,7 @@
+/careers/staff-site-reliability-engineer_81e685d3-b2ea-4833-a57b-a7cbe20e78d5
 /careers/senior-software-engineer---talent-acceleration_1c62f86f-e607-4c24-a299-80c87866e820
 /careers/solutions-architect--professional-services_0aa2df5d-efec-424a-b4d7-20eed5020c37
 /careers/staff-engineer--data-platform_8eef3960-c4ba-4222-835c-3eb4044924ab
-/careers/staff-site-reliability-engineer_81e685d3-b2ea-4833-a57b-a7cbe20e78d5
 /careers/senior-analytics-engineering-manager-_37c21c69-f73b-4ff6-8444-a0bb21977cdb
 /careers/senior-staff-engineer--frontend---checkout--americas--remote-_9b58cb41-522a-42f0-a38d-a6e08520e01a
 /careers/senior-market-researcher_44d3173e-9a1e-4396-92cc-09aedcd7f6c0
@@ -34,7 +34,6 @@
 /careers/sales-development-representative---inbound--japan_94bb227b-2349-4789-8b35-f2b99d6ee203
 /careers/sales-development-representative---inbound_52962f58-65ea-4d8c-81b0-811ac2b6fbc0
 /careers/sales-concierge--japan_69561d5c-e853-4fb1-9c71-2a9bd78c1b6e
-/careers/account-executive---new-business--france_fa887200-301c-4d4d-a19e-8229a2d86144
 /careers/sales-development-representative--outbound-sales--mid-market-_6c61ae4c-2a5b-4c8c-a2fd-2c090fd75c01
 /careers/enterprise-account-executive-dach---shopify-plus_ef3444da-82b7-410f-aa9f-32bf90ed6067
 /careers/senior-solutions-engineer--australia_0414882e-f65a-4f12-9ba1-27c40ac64d7f
