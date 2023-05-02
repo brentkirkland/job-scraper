@@ -1,4 +1,3 @@
-/careers/senior-software-engineer---talent-acceleration_1c62f86f-e607-4c24-a299-80c87866e820
 /careers/solutions-architect--professional-services_0aa2df5d-efec-424a-b4d7-20eed5020c37
 /careers/staff-engineer--data-platform_8eef3960-c4ba-4222-835c-3eb4044924ab
 /careers/staff-site-reliability-engineer_81e685d3-b2ea-4833-a57b-a7cbe20e78d5
