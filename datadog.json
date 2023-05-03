@@ -648,14 +648,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4866915/?gh_jid=4866915"
   },
   {
-    "id": 4868022,
-    "title": "Senior Product Manager - Data Platform ",
-    "location": {
-      "name": "New York, New York, USA; Boston, Massachusetts, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4868022/?gh_jid=4868022"
-  },
-  {
     "id": 4870477,
     "title": "Regional Vice President, Enterprise Sales (Central EMEA)",
     "location": {
@@ -854,6 +846,14 @@
       "name": "Minnesota, USA, Remote"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4912798/?gh_jid=4912798"
+  },
+  {
+    "id": 4913575,
+    "title": "Manager, Engineering II - Cloud SIEM",
+    "location": {
+      "name": "New York, New York, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4913575/?gh_jid=4913575"
   },
   {
     "id": 4914518,
