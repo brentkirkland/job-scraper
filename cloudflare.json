@@ -1528,12 +1528,12 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4813636?gh_jid=4813636"
   },
   {
-    "id": 4813665,
-    "title": "Enterprise Account Executive (Upstate NY)",
+    "id": 4813671,
+    "title": "Enterprise Account Executive ",
     "location": {
-      "name": "Remote US"
+      "name": "Pittsburgh, PA"
     },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4813665?gh_jid=4813665"
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4813671?gh_jid=4813671"
   },
   {
     "id": 4813705,
@@ -3384,6 +3384,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5024204?gh_jid=5024204"
   },
   {
+    "id": 5024945,
+    "title": "SLED Account Executive ",
+    "location": {
+      "name": "Austin, TX"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5024945?gh_jid=5024945"
+  },
+  {
     "id": 5027131,
     "title": "Enterprise Account Executive",
     "location": {
@@ -3406,5 +3414,21 @@
       "name": "San Francisco or San Jose"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5027434?gh_jid=5027434"
+  },
+  {
+    "id": 5027531,
+    "title": "Enterprise Account Executive",
+    "location": {
+      "name": "Washington, DC"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5027531?gh_jid=5027531"
+  },
+  {
+    "id": 5027541,
+    "title": "Enterprise Account Executive",
+    "location": {
+      "name": "Boston, MA"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5027541?gh_jid=5027541"
   }
 ]
