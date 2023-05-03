@@ -40,14 +40,6 @@
     "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4879247"
   },
   {
-    "id": 4879340,
-    "title": "Software Architect",
-    "location": {
-      "name": "UNITED STATES - Remote, EMEA - Remote"
-    },
-    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4879340"
-  },
-  {
     "id": 4879345,
     "title": "Lead Java/Golang Software Engineer",
     "location": {
@@ -126,13 +118,5 @@
       "name": "UNITED STATES - Remote"
     },
     "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=5012362"
-  },
-  {
-    "id": 5022816,
-    "title": "Technical Support Engineer",
-    "location": {
-      "name": "CANADA - Remote, LATAM - Remote, UNITED STATES - Remote"
-    },
-    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=5022816"
   }
 ]
