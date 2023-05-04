@@ -1926,5 +1926,29 @@
       "name": "New York, New York, USA; Boston, Massachusetts, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5019509/?gh_jid=5019509"
+  },
+  {
+    "id": 5023656,
+    "title": "Technical Solutions Operations Engineer - San Francisco",
+    "location": {
+      "name": "San Francisco, California, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5023656/?gh_jid=5023656"
+  },
+  {
+    "id": 5027023,
+    "title": "Technical Solutions Operations Engineer - Paris",
+    "location": {
+      "name": "Paris, France"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5027023/?gh_jid=5027023"
+  },
+  {
+    "id": 5027818,
+    "title": "Technical Solutions Operations Engineer - Dublin",
+    "location": {
+      "name": "Dublin, Ireland"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5027818/?gh_jid=5027818"
   }
 ]
