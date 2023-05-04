@@ -1136,14 +1136,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4963710"
   },
   {
-    "id": 4965052,
-    "title": "Backend Engineer, Enterprise Tax Product",
-    "location": {
-      "name": "Remote in Canada"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4965052"
-  },
-  {
     "id": 4965986,
     "title": "Product Marketing Manager, Payment Methods",
     "location": {
@@ -1774,5 +1766,13 @@
       "name": "San Francisco, Seattle, New York, or Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5022134"
+  },
+  {
+    "id": 5025162,
+    "title": "Regulatory Counsel",
+    "location": {
+      "name": "Chicago, IL, Remote US "
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5025162"
   }
 ]
