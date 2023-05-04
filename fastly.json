@@ -606,5 +606,21 @@
       "name": "Los Angeles, CA"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5027349"
+  },
+  {
+    "id": 5031179,
+    "title": "Senior Salesforce CPQ Engineer",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5031179"
+  },
+  {
+    "id": 5031180,
+    "title": "Senior Salesforce CPQ Engineer",
+    "location": {
+      "name": "Los Angeles, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5031180"
   }
 ]
