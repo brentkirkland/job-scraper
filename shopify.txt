@@ -4,14 +4,15 @@
 /careers/staff-engineer--data-platform_8eef3960-c4ba-4222-835c-3eb4044924ab
 /careers/senior-analytics-engineering-manager-_37c21c69-f73b-4ff6-8444-a0bb21977cdb
 /careers/senior-staff-engineer--frontend---checkout--americas--remote-_9b58cb41-522a-42f0-a38d-a6e08520e01a
-/careers/revenue-operations-lead---launch-engineering---product-consulting_44887711-4f7a-46c5-965f-347a22309ff3
 /careers/technical-content-developer_46bb290c-5880-49c0-9681-8f2c8c6779f0
 /careers/senior-market-researcher_44d3173e-9a1e-4396-92cc-09aedcd7f6c0
 /careers/deal-desk-specialist---seller-guidance_236b5284-cc3c-45ea-9ad9-fbce2096eca5
 /careers/revenue-operations-manager--process-and-tooling---amer-_0c988e02-73df-473e-88ec-8c00ca26699c
 /careers/staff-technical-program-manager--infrastructure_a6c5ed61-1bed-4246-a953-f86db83bbb34
+/careers/junior-support-advisors-_0c88f823-7866-4674-92e3-a95023eb8515
 /careers/senior-business-technologist--compliance-_dd055c68-217c-48ca-a1e6-cea8435a41d1
 /careers/head-of-public-affairs--germany-_5e093657-be0d-4d32-a041-4436525b4950
+/careers/affiliates-performance-marketer_c93a78fb-8353-443a-bdc9-cbb0e92d605c
 /careers/plus-performance-marketer--apac_6abae0c6-ed88-469c-9b84-664252ab8352
 /careers/senior-product-pricing-manager---merchant-services--remote-north-america-_7431032c-bb6a-4b31-a25e-8855b1a79cac
 /careers/solutions-engineer--digital-analytics_2dcc448f-b390-4a9a-ba91-3c964fbd7544
@@ -24,8 +25,6 @@
 /careers/partner-manager--agency-_aa9c71a3-74cc-4540-bf54-e7584215b9c1
 /careers/partner-enablement-manager_901ea608-a1a4-4b24-9c54-11e19bf9a85b
 /careers/senior-partner-marketing-manager--event-marketing----remote_77101375-f78f-4877-affa-09ad68094a9a
-/careers/account-executive--northern-europe_8f550e09-036d-4703-9830-61fd43b8f9fc
-/careers/business-development-representative-for-spain_c76cb6ba-ecf4-4904-ac0b-6d46823635d3
 /careers/senior-enterprise-sales-representative-_c6dc02dd-d8a4-4d18-aaa6-3cb022e538be
 /careers/solutions-engineer---cross-sell-_0b791ee4-05b0-43d5-a22d-47d554fa32bc
 /careers/retail-solutions-engineer-_b43b85a8-25cd-409e-a039-3b72db8f66f4
