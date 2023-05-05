@@ -1416,6 +1416,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4987318"
   },
   {
+    "id": 4987393,
+    "title": "Backend Engineer, Radar",
+    "location": {
+      "name": "Remote"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4987393"
+  },
+  {
     "id": 4987968,
     "title": "Technical Program Manager, Accounts",
     "location": {
@@ -1667,7 +1675,7 @@
     "id": 5011777,
     "title": "Technology Risk and Controls Manager - EMEA",
     "location": {
-      "name": "London"
+      "name": "London, Dublin"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5011777"
   },
@@ -1806,6 +1814,14 @@
       "name": "Chicago, IL, Remote US "
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5025162"
+  },
+  {
+    "id": 5025204,
+    "title": "Risk Finance & Strategy Analyst",
+    "location": {
+      "name": "SF, SEA, NYC, US-REM"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5025204"
   },
   {
     "id": 5029036,
