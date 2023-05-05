@@ -24,14 +24,6 @@
     "absolute_url": "https://www.nexhealth.com/careers/open-positions?gh_jid=4032367004"
   },
   {
-    "id": 4096914004,
-    "title": "Sales Development Representative",
-    "location": {
-      "name": "Draper, Utah, United States"
-    },
-    "absolute_url": "https://www.nexhealth.com/careers/open-positions?gh_jid=4096914004"
-  },
-  {
     "id": 4291684004,
     "title": "Customer Onboarding Manager (SMB/MM)",
     "location": {
@@ -110,5 +102,13 @@
       "name": "United States"
     },
     "absolute_url": "https://www.nexhealth.com/careers/open-positions?gh_jid=4839442004"
+  },
+  {
+    "id": 4879496004,
+    "title": "Sales Development Representative",
+    "location": {
+      "name": "Draper, Utah, United States"
+    },
+    "absolute_url": "https://www.nexhealth.com/careers/open-positions?gh_jid=4879496004"
   }
 ]
