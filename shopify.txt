@@ -1,4 +1,5 @@
 /careers/staff-site-reliability-engineer_81e685d3-b2ea-4833-a57b-a7cbe20e78d5
+/careers/senior-software-engineer---talent-acceleration_1c62f86f-e607-4c24-a299-80c87866e820
 /careers/senior-analytics-engineering-manager-_37c21c69-f73b-4ff6-8444-a0bb21977cdb
 /careers/senior-staff-engineer--frontend---checkout--americas--remote-_9b58cb41-522a-42f0-a38d-a6e08520e01a
 /careers/revenue-operations-lead---launch-engineering---product-consulting_44887711-4f7a-46c5-965f-347a22309ff3
