@@ -616,6 +616,22 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5027349"
   },
   {
+    "id": 5029962,
+    "title": "Marketing Technology Specialist",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5029962"
+  },
+  {
+    "id": 5031148,
+    "title": "Marketing Technology Specialist",
+    "location": {
+      "name": "Los Angeles, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5031148"
+  },
+  {
     "id": 5031179,
     "title": "Senior Salesforce CPQ Engineer",
     "location": {
@@ -630,5 +646,21 @@
       "name": "Los Angeles, CA"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5031180"
+  },
+  {
+    "id": 5033788,
+    "title": "Marketing Technology Specialist",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5033788"
+  },
+  {
+    "id": 5033790,
+    "title": "Marketing Technology Specialist",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5033790"
   }
 ]
