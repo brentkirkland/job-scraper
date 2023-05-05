@@ -1568,14 +1568,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4997764/?gh_jid=4997764"
   },
   {
-    "id": 4997936,
-    "title": "Senior Product Designer - Observability Pipelines",
-    "location": {
-      "name": "New York, New York, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4997936/?gh_jid=4997936"
-  },
-  {
     "id": 5003770,
     "title": "Strategic Partner Sales Manager",
     "location": {
@@ -1934,5 +1926,13 @@
       "name": "Dublin, Ireland"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5027818/?gh_jid=5027818"
+  },
+  {
+    "id": 5034074,
+    "title": "Senior Technical Escalations Engineer (Cloud) - US-West",
+    "location": {
+      "name": "Denver, Colorado, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5034074/?gh_jid=5034074"
   }
 ]
