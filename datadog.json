@@ -392,14 +392,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4746536/?gh_jid=4746536"
   },
   {
-    "id": 4749849,
-    "title": "Senior Product Designer, Developer Experience",
-    "location": {
-      "name": "Paris, France; Lisbon, Portugal; Madrid, Spain"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4749849/?gh_jid=4749849"
-  },
-  {
     "id": 4750104,
     "title": "Director, Engineering - Production Security",
     "location": {
@@ -1910,6 +1902,22 @@
       "name": "San Francisco, California, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5023656/?gh_jid=5023656"
+  },
+  {
+    "id": 5024611,
+    "title": "Customer Success Manager",
+    "location": {
+      "name": "Denver, Colorado, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5024611/?gh_jid=5024611"
+  },
+  {
+    "id": 5024640,
+    "title": "Customer Success Manager",
+    "location": {
+      "name": "Boston, Massachusetts, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5024640/?gh_jid=5024640"
   },
   {
     "id": 5027023,
