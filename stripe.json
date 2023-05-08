@@ -1440,14 +1440,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4991369"
   },
   {
-    "id": 4992146,
-    "title": "Backend Engineer, IAM",
-    "location": {
-      "name": "US, Remote"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4992146"
-  },
-  {
     "id": 4992409,
     "title": "Partnerships Finance & Strategy",
     "location": {
@@ -1624,6 +1616,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5006681"
   },
   {
+    "id": 5007170,
+    "title": "Technical Operations Manager, User Billing",
+    "location": {
+      "name": "IN-Bangalore"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5007170"
+  },
+  {
     "id": 5007233,
     "title": "Integration Reliability Engineer, Technical Operations",
     "location": {
@@ -1798,6 +1798,14 @@
       "name": "San Francisco, Seattle, New York, or Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5022134"
+  },
+  {
+    "id": 5024964,
+    "title": "Android Engineer, Checkouts, Elements",
+    "location": {
+      "name": "US or Canada (Remote)"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5024964"
   },
   {
     "id": 5025157,
