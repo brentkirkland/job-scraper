@@ -376,14 +376,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4854836"
   },
   {
-    "id": 4856805,
-    "title": "Collections Specialist, Capital",
-    "location": {
-      "name": "NYC or SF"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4856805"
-  },
-  {
     "id": 4858238,
     "title": "Product Manager, Developer Products",
     "location": {
@@ -1870,5 +1862,13 @@
       "name": "Remote in the United States"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5034309"
+  },
+  {
+    "id": 5036219,
+    "title": "Account Executive, Mid Market",
+    "location": {
+      "name": "Chicago, IL"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5036219"
   }
 ]
