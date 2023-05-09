@@ -686,5 +686,21 @@
       "name": "New York City, NY"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5039167"
+  },
+  {
+    "id": 5039534,
+    "title": "Senior Site Reliability Engineer",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5039534"
+  },
+  {
+    "id": 5039535,
+    "title": "Senior Site Reliability Engineer",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5039535"
   }
 ]
