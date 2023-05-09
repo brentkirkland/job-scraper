@@ -640,11 +640,35 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5033918"
   },
   {
+    "id": 5036578,
+    "title": "Senior Manager, Supply Chain",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5036578"
+  },
+  {
     "id": 5038128,
     "title": "SOC Analyst ",
     "location": {
       "name": "Singapore (Remote)"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5038128"
+  },
+  {
+    "id": 5039161,
+    "title": "Senior Manager, Supply Chain",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5039161"
+  },
+  {
+    "id": 5039167,
+    "title": "Senior Manager, Supply Chain",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5039167"
   }
 ]
