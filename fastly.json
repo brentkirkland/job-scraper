@@ -640,6 +640,14 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5036578"
   },
   {
+    "id": 5037713,
+    "title": "Senior Site Reliability Engineer",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5037713"
+  },
+  {
     "id": 5038128,
     "title": "SOC Analyst ",
     "location": {
@@ -648,12 +656,28 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5038128"
   },
   {
+    "id": 5039143,
+    "title": "Senior Site Reliability Engineer",
+    "location": {
+      "name": "Los Angeles, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5039143"
+  },
+  {
     "id": 5039161,
     "title": "Senior Manager, Supply Chain",
     "location": {
       "name": "Denver, CO"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5039161"
+  },
+  {
+    "id": 5039162,
+    "title": "Senior Site Reliability Engineer",
+    "location": {
+      "name": "London, United Kingdom"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5039162"
   },
   {
     "id": 5039167,
