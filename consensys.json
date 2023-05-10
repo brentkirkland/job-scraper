@@ -32,30 +32,6 @@
     "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4836519"
   },
   {
-    "id": 4879247,
-    "title": "Lead Golang Software Engineer",
-    "location": {
-      "name": "UNITED STATES - Remote, EMEA - Remote"
-    },
-    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4879247"
-  },
-  {
-    "id": 4879269,
-    "title": "Research Engineer - Prover",
-    "location": {
-      "name": "UNITED STATES - Remote, EMEA - Remote"
-    },
-    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4879269"
-  },
-  {
-    "id": 4879345,
-    "title": "Lead Java/Golang Software Engineer",
-    "location": {
-      "name": "UNITED STATES - Remote, EMEA - Remote"
-    },
-    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4879345"
-  },
-  {
     "id": 4879380,
     "title": "Cryptography Researcher",
     "location": {
@@ -102,6 +78,14 @@
       "name": "UNITED STATES - Remote"
     },
     "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4937194"
+  },
+  {
+    "id": 4971495,
+    "title": "Developer Advocate (Unity SDK)",
+    "location": {
+      "name": "UNITED STATES - Remote"
+    },
+    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4971495"
   },
   {
     "id": 5012362,
