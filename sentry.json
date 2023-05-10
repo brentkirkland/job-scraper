@@ -94,5 +94,29 @@
       "name": "Vienna, Austria "
     },
     "absolute_url": "https://boards.greenhouse.io/sentry/jobs/5027559"
+  },
+  {
+    "id": 5043218,
+    "title": "Tech Lead ",
+    "location": {
+      "name": "San Francisco, California "
+    },
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/5043218"
+  },
+  {
+    "id": 5043224,
+    "title": "Tech Lead ",
+    "location": {
+      "name": "Toronto, Canada"
+    },
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/5043224"
+  },
+  {
+    "id": 5043227,
+    "title": "Tech Lead ",
+    "location": {
+      "name": "Seattle, Washington "
+    },
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/5043227"
   }
 ]
