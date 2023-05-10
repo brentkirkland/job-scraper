@@ -592,6 +592,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4901976"
   },
   {
+    "id": 4905096,
+    "title": "Full Stack Engineer, Technical Services Engineering",
+    "location": {
+      "name": "Singapore"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4905096"
+  },
+  {
     "id": 4911935,
     "title": "Senior Data Analyst",
     "location": {
@@ -1843,7 +1851,7 @@
     "id": 5029494,
     "title": "Control Testing, Monitoring & Assurance Analyst ",
     "location": {
-      "name": "US-Remote, Toronto, Singapore"
+      "name": "US-Remote, Toronto"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5029494"
   },
