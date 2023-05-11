@@ -1872,14 +1872,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5031438"
   },
   {
-    "id": 5034309,
-    "title": "Data Scientist, Risk Interventions",
-    "location": {
-      "name": "Remote in the United States"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5034309"
-  },
-  {
     "id": 5035232,
     "title": "Head of Sales, Enterprise West Region",
     "location": {
@@ -1902,5 +1894,13 @@
       "name": "US"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5037361"
+  },
+  {
+    "id": 5043533,
+    "title": "Software Engineer, SEO, Web Presence & Platform",
+    "location": {
+      "name": "Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5043533"
   }
 ]
