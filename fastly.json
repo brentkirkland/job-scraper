@@ -694,5 +694,45 @@
       "name": "New York City, NY"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5039535"
+  },
+  {
+    "id": 5041974,
+    "title": "Staff Software Engineer - Fastly Build Services",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5041974"
+  },
+  {
+    "id": 5042362,
+    "title": "Staff Software Engineer - Fastly Build Services",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5042362"
+  },
+  {
+    "id": 5042364,
+    "title": "Staff Software Engineer - Fastly Build Services",
+    "location": {
+      "name": "Los Angeles, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5042364"
+  },
+  {
+    "id": 5042365,
+    "title": "Staff Software Engineer - Fastly Build Services",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5042365"
+  },
+  {
+    "id": 5042385,
+    "title": "Staff Software Engineer - Fastly Build Services",
+    "location": {
+      "name": "London, United Kingdom"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5042385"
   }
 ]
