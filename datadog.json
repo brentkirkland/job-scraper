@@ -520,14 +520,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4838222/?gh_jid=4838222"
   },
   {
-    "id": 4841760,
-    "title": "Senior Enterprise IT Technician",
-    "location": {
-      "name": "Dublin, Ireland"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4841760/?gh_jid=4841760"
-  },
-  {
     "id": 4844547,
     "title": "Director, Product Marketing - DEM",
     "location": {
@@ -1910,6 +1902,14 @@
       "name": "New York, New York, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5040336/?gh_jid=5040336"
+  },
+  {
+    "id": 5041559,
+    "title": "Receptionist (Paris)",
+    "location": {
+      "name": "Paris"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5041559/?gh_jid=5041559"
   },
   {
     "id": 5041886,
