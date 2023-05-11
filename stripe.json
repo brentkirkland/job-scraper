@@ -288,14 +288,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4837330"
   },
   {
-    "id": 4850151,
-    "title": "Software Engineer, Machine Learning Infrastructure   ",
-    "location": {
-      "name": "US/Canada"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4850151"
-  },
-  {
     "id": 4851639,
     "title": "Data Scientist, Revenue and Financial Management ",
     "location": {
@@ -1534,6 +1526,14 @@
       "name": "Indonesia"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5005731"
+  },
+  {
+    "id": 5005997,
+    "title": "Staff Software Engineer, API Services",
+    "location": {
+      "name": "Remote in US or Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5005997"
   },
   {
     "id": 5006125,
