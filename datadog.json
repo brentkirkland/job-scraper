@@ -1982,5 +1982,37 @@
       "name": "California, USA, Remote"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5045608/?gh_jid=5045608"
+  },
+  {
+    "id": 5047503,
+    "title": "Senior Technical Solutions Program Manager- New York",
+    "location": {
+      "name": "New York, New York, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5047503/?gh_jid=5047503"
+  },
+  {
+    "id": 5047618,
+    "title": "Senior Technical Solutions Program Manager- San Francisco",
+    "location": {
+      "name": "San Francisco, California, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5047618/?gh_jid=5047618"
+  },
+  {
+    "id": 5047627,
+    "title": "Senior Technical Solutions Program Manager- Denver",
+    "location": {
+      "name": "Denver, Colorado, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5047627/?gh_jid=5047627"
+  },
+  {
+    "id": 5047635,
+    "title": "Senior Technical Solutions Program Manager-Boston",
+    "location": {
+      "name": "Boston, Massachusetts, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5047635/?gh_jid=5047635"
   }
 ]
