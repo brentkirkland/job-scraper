@@ -4,7 +4,6 @@
 /careers/revenue-operations-lead---launch-engineering---product-consulting_44887711-4f7a-46c5-965f-347a22309ff3
 /careers/technical-content-developer_46bb290c-5880-49c0-9681-8f2c8c6779f0
 /careers/deal-desk-specialist---seller-guidance_236b5284-cc3c-45ea-9ad9-fbce2096eca5
-/careers/revenue-operations-manager--process-and-tooling---amer-_0c988e02-73df-473e-88ec-8c00ca26699c
 /careers/staff-technical-program-manager--infrastructure_a6c5ed61-1bed-4246-a953-f86db83bbb34
 /careers/head-of-public-affairs--germany-_5e093657-be0d-4d32-a041-4436525b4950
 /careers/plus-performance-marketer--apac_6abae0c6-ed88-469c-9b84-664252ab8352
@@ -15,13 +14,13 @@
 /careers/senior-partner-marketing-manager--system-integrator----remote_e9113f67-dd64-48e4-9e1c-5c0810e5ea49
 /careers/partner-enablement-manager_901ea608-a1a4-4b24-9c54-11e19bf9a85b
 /careers/senior-partner-marketing-manager--event-marketing----remote_77101375-f78f-4877-affa-09ad68094a9a
+/careers/sales-development-representative--anz_f4c248a5-10c0-4a61-a3b3-9818729a6b54
 /careers/business-development-representative-for-spain_c76cb6ba-ecf4-4904-ac0b-6d46823635d3
 /careers/senior-enterprise-sales-representative-_c6dc02dd-d8a4-4d18-aaa6-3cb022e538be
 /careers/revenue-operations-lead--incentive-compensation_14d1efbf-ea1d-47be-af7b-e6bf5e20b64d
 /careers/senior-solutions-engineer---enterprise---multiple-roles-_caacc969-52e8-49a9-917d-a2b638538d50
 /careers/enterprise-solutions-engineer---_fb29731a-6fc3-45dc-8803-612742ec60cd
 /careers/senior-solutions-engineer-dach-_5e39deeb-9d02-4303-b7a0-e30a35326470
-/careers/sales-development-representative_f4c248a5-10c0-4a61-a3b3-9818729a6b54
 /careers/sales-representative--singapore_e6f2098b-1076-41db-a7a0-fe6d07d1a7e8
 /careers/sales-development-representative---outbound--japan_d1f7db72-cbb3-4a9c-81f8-6f43ff84155a
 /careers/sales-development-representative---inbound--japan_94bb227b-2349-4789-8b35-f2b99d6ee203
