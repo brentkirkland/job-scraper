@@ -1,10 +1,10 @@
 /careers/staff-site-reliability-engineer_81e685d3-b2ea-4833-a57b-a7cbe20e78d5
 /careers/senior-analytics-engineering-manager-_37c21c69-f73b-4ff6-8444-a0bb21977cdb
-/careers/senior-market-researcher_44d3173e-9a1e-4396-92cc-09aedcd7f6c0
 /careers/revenue-operations-lead--territory-design_ab220841-3fa0-4f2f-9992-0d6f3928b838
 /careers/revenue-operations-lead---launch-engineering---product-consulting_44887711-4f7a-46c5-965f-347a22309ff3
 /careers/technical-content-developer_46bb290c-5880-49c0-9681-8f2c8c6779f0
 /careers/deal-desk-specialist---seller-guidance_236b5284-cc3c-45ea-9ad9-fbce2096eca5
+/careers/staff-technical-program-manager--infrastructure_a6c5ed61-1bed-4246-a953-f86db83bbb34
 /careers/head-of-public-affairs--germany-_5e093657-be0d-4d32-a041-4436525b4950
 /careers/plus-performance-marketer--apac_6abae0c6-ed88-469c-9b84-664252ab8352
 /careers/senior-product-pricing-manager---merchant-services--remote-north-america-_7431032c-bb6a-4b31-a25e-8855b1a79cac
