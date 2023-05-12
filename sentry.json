@@ -118,5 +118,29 @@
       "name": "San Francisco, California "
     },
     "absolute_url": "https://boards.greenhouse.io/sentry/jobs/5048298"
+  },
+  {
+    "id": 5048713,
+    "title": "Senior Product Manager, Coverage Team",
+    "location": {
+      "name": "San Francisco, California "
+    },
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/5048713"
+  },
+  {
+    "id": 5048904,
+    "title": "Senior Product Manager, Coverage Team",
+    "location": {
+      "name": "Seattle, Washington"
+    },
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/5048904"
+  },
+  {
+    "id": 5048906,
+    "title": "Senior Product Manager, Coverage Team",
+    "location": {
+      "name": "Toronto, Canada"
+    },
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/5048906"
   }
 ]
