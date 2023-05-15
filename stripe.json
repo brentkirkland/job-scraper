@@ -64,14 +64,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4724350"
   },
   {
-    "id": 4740936,
-    "title": "GTM Finance and Strategy",
-    "location": {
-      "name": "SF, SEA, NY, CHI and remote"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4740936"
-  },
-  {
     "id": 4743209,
     "title": "Global Head of Risk Partnerships and Strategy",
     "location": {
@@ -1926,5 +1918,13 @@
       "name": "Canada "
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5043591"
+  },
+  {
+    "id": 5045242,
+    "title": "Backend / API Engineer, Onboarding",
+    "location": {
+      "name": "Canada, Remote"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5045242"
   }
 ]
