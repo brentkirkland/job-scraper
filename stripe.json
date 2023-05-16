@@ -160,14 +160,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4819519"
   },
   {
-    "id": 4820029,
-    "title": "People Specialist",
-    "location": {
-      "name": "Remote, CHI"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4820029"
-  },
-  {
     "id": 4825062,
     "title": "Sales Development Representative",
     "location": {
@@ -1942,5 +1934,13 @@
       "name": "New York, San Francisco"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5048897"
+  },
+  {
+    "id": 5052530,
+    "title": "Strategy and Operations, Partnerships",
+    "location": {
+      "name": "United States"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5052530"
   }
 ]
