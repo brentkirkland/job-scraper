@@ -96,6 +96,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/3462300?gh_jid=3462300"
   },
   {
+    "id": 3496922,
+    "title": "G&A Finance Senior Manager",
+    "location": {
+      "name": "Remote US"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/3496922?gh_jid=3496922"
+  },
+  {
     "id": 3568232,
     "title": "Account Executive, Mid Market - Korea",
     "location": {
@@ -3142,5 +3150,13 @@
       "name": "Remote US"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5048250?gh_jid=5048250"
+  },
+  {
+    "id": 5052296,
+    "title": "Senior Managing Counsel, Public Sector",
+    "location": {
+      "name": "Washington, DC"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5052296?gh_jid=5052296"
   }
 ]
