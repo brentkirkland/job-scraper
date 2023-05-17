@@ -80,30 +80,6 @@
     "absolute_url": "https://boards.greenhouse.io/sentry/jobs/5027559"
   },
   {
-    "id": 5043218,
-    "title": "Tech Lead, Coverage Team",
-    "location": {
-      "name": "San Francisco, California "
-    },
-    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/5043218"
-  },
-  {
-    "id": 5043224,
-    "title": "Tech Lead, Coverage Team ",
-    "location": {
-      "name": "Toronto, Canada"
-    },
-    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/5043224"
-  },
-  {
-    "id": 5043227,
-    "title": "Tech Lead, Coverage Team",
-    "location": {
-      "name": "Seattle, Washington "
-    },
-    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/5043227"
-  },
-  {
     "id": 5046170,
     "title": "Senior Software Engineer, Search & Storage",
     "location": {
@@ -150,5 +126,13 @@
       "name": "San Francisco, California "
     },
     "absolute_url": "https://boards.greenhouse.io/sentry/jobs/5054542"
+  },
+  {
+    "id": 5056181,
+    "title": "Software Engineer (.NET), SDKs",
+    "location": {
+      "name": "Seattle, WA"
+    },
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/5056181"
   }
 ]
