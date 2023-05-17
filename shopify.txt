@@ -1,5 +1,6 @@
 /careers/staff-site-reliability-engineer_81e685d3-b2ea-4833-a57b-a7cbe20e78d5
 /careers/senior-analytics-engineering-manager-_37c21c69-f73b-4ff6-8444-a0bb21977cdb
+/careers/gtm-operations-lead--one-list_6ee96f39-07b9-42fe-b759-82be484e7e55
 /careers/pricing--packaging---promotions-lead_a248df3f-dfbe-4985-b175-3cdae02170d6
 /careers/technical-content-developer_46bb290c-5880-49c0-9681-8f2c8c6779f0
 /careers/revenue-operations-lead--territory-design_ab220841-3fa0-4f2f-9992-0d6f3928b838
@@ -12,14 +13,13 @@
 /careers/apac-content-manager--japan_01acf78c-5199-46e0-a2b2-0ea036987194
 /careers/senior-marketing-lead--japan_fd18ad90-06b6-4106-a520-5fb590ab62d4
 /careers/senior-partner-marketing-manager--system-integrator----remote_e9113f67-dd64-48e4-9e1c-5c0810e5ea49
-/careers/partner-enablement-manager_901ea608-a1a4-4b24-9c54-11e19bf9a85b
 /careers/senior-partner-marketing-manager--event-marketing----remote_77101375-f78f-4877-affa-09ad68094a9a
+/careers/enterprise-solutions-engineer---_fb29731a-6fc3-45dc-8803-612742ec60cd
 /careers/sales-representative---anz_f4a8ae6f-46fa-4631-97fb-ca6536b61be2
 /careers/sales-development-representative--anz_f4c248a5-10c0-4a61-a3b3-9818729a6b54
 /careers/business-development-representative-for-spain_c76cb6ba-ecf4-4904-ac0b-6d46823635d3
 /careers/senior-enterprise-sales-representative-_c6dc02dd-d8a4-4d18-aaa6-3cb022e538be
 /careers/revenue-operations-lead--incentive-compensation_14d1efbf-ea1d-47be-af7b-e6bf5e20b64d
-/careers/enterprise-solutions-engineer---_fb29731a-6fc3-45dc-8803-612742ec60cd
 /careers/senior-solutions-engineer-dach-_5e39deeb-9d02-4303-b7a0-e30a35326470
 /careers/sales-development-representative---outbound--japan_d1f7db72-cbb3-4a9c-81f8-6f43ff84155a
 /careers/sales-development-representative---inbound--japan_94bb227b-2349-4789-8b35-f2b99d6ee203
