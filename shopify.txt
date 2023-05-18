@@ -1,6 +1,5 @@
 /careers/staff-site-reliability-engineer_81e685d3-b2ea-4833-a57b-a7cbe20e78d5
 /careers/senior-analytics-engineering-manager-_37c21c69-f73b-4ff6-8444-a0bb21977cdb
-/careers/gtm-operations-lead--one-list_6ee96f39-07b9-42fe-b759-82be484e7e55
 /careers/pricing--packaging---promotions-lead_a248df3f-dfbe-4985-b175-3cdae02170d6
 /careers/technical-content-developer_46bb290c-5880-49c0-9681-8f2c8c6779f0
 /careers/revenue-operations-lead--territory-design_ab220841-3fa0-4f2f-9992-0d6f3928b838
@@ -13,6 +12,7 @@
 /careers/apac-content-manager--japan_01acf78c-5199-46e0-a2b2-0ea036987194
 /careers/senior-marketing-lead--japan_fd18ad90-06b6-4106-a520-5fb590ab62d4
 /careers/senior-partner-marketing-manager--system-integrator----remote_e9113f67-dd64-48e4-9e1c-5c0810e5ea49
+/careers/partner-enablement-manager_901ea608-a1a4-4b24-9c54-11e19bf9a85b
 /careers/senior-partner-marketing-manager--event-marketing----remote_77101375-f78f-4877-affa-09ad68094a9a
 /careers/enterprise-solutions-engineer---_fb29731a-6fc3-45dc-8803-612742ec60cd
 /careers/sales-representative---anz_f4a8ae6f-46fa-4631-97fb-ca6536b61be2
@@ -26,4 +26,5 @@
 /careers/sales-development-representative---inbound_52962f58-65ea-4d8c-81b0-811ac2b6fbc0
 /careers/enterprise-account-executive-dach---shopify-plus_ef3444da-82b7-410f-aa9f-32bf90ed6067
 /careers/senior-solutions-engineer--australia_0414882e-f65a-4f12-9ba1-27c40ac64d7f
+/careers/senior-partner-solutions-engineer--japan_3995122a-96cf-4660-866d-a53fa0d83e82
 /careers/senior-partnerships-manager---agency---japan_cf68099f-3c76-43e4-b6eb-63a93d9ade81
