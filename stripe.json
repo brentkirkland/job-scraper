@@ -1928,6 +1928,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5051200"
   },
   {
+    "id": 5051391,
+    "title": "Technical Recruiter ",
+    "location": {
+      "name": "Bangalore"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5051391"
+  },
+  {
     "id": 5052530,
     "title": "Strategy and Operations, Partnerships",
     "location": {
@@ -1942,5 +1950,13 @@
       "name": "San Francisco, New York, Seattle, Remote "
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5053857"
+  },
+  {
+    "id": 5057187,
+    "title": "Recruiter",
+    "location": {
+      "name": "Bangalore"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5057187"
   }
 ]
