@@ -1904,14 +1904,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5043591"
   },
   {
-    "id": 5045242,
-    "title": "Backend / API Engineer, Onboarding",
-    "location": {
-      "name": "Remote"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5045242"
-  },
-  {
     "id": 5046026,
     "title": "Software Engineer - Machine Learning Infrastructure ",
     "location": {
@@ -1950,6 +1942,14 @@
       "name": "United States"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5052530"
+  },
+  {
+    "id": 5053666,
+    "title": " Account Executive, Startups Existing Business (Southern Europe)",
+    "location": {
+      "name": "Dublin"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5053666"
   },
   {
     "id": 5053857,
