@@ -6,6 +6,7 @@
 /careers/revenue-operations-lead--territory-design_ab220841-3fa0-4f2f-9992-0d6f3928b838
 /careers/revenue-operations-lead---launch-engineering---product-consulting_44887711-4f7a-46c5-965f-347a22309ff3
 /careers/deal-desk-specialist---seller-guidance_236b5284-cc3c-45ea-9ad9-fbce2096eca5
+/careers/head-of-public-affairs--germany-_5e093657-be0d-4d32-a041-4436525b4950
 /careers/plus-performance-marketer--apac_6abae0c6-ed88-469c-9b84-664252ab8352
 /careers/senior-product-pricing-manager---merchant-services--remote-north-america-_7431032c-bb6a-4b31-a25e-8855b1a79cac
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
@@ -24,5 +25,6 @@
 /careers/sales-development-representative---outbound--japan_d1f7db72-cbb3-4a9c-81f8-6f43ff84155a
 /careers/sales-development-representative---inbound--japan_94bb227b-2349-4789-8b35-f2b99d6ee203
 /careers/sales-development-representative---inbound_52962f58-65ea-4d8c-81b0-811ac2b6fbc0
+/careers/enterprise-account-executive-dach---shopify-plus_ef3444da-82b7-410f-aa9f-32bf90ed6067
 /careers/senior-solutions-engineer--australia_0414882e-f65a-4f12-9ba1-27c40ac64d7f
 /careers/senior-partnerships-manager---agency---japan_cf68099f-3c76-43e4-b6eb-63a93d9ade81
