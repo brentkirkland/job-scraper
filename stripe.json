@@ -400,14 +400,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4884847"
   },
   {
-    "id": 4885163,
-    "title": "Diligence Lead, Frontier",
-    "location": {
-      "name": "SF, NYC, SEA, US-REM"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4885163"
-  },
-  {
     "id": 4890292,
     "title": "Corporate Paralegal / Company Secretary",
     "location": {
@@ -446,6 +438,14 @@
       "name": "Mexico City"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4896219"
+  },
+  {
+    "id": 4896820,
+    "title": "Software Engineer, Build Experience",
+    "location": {
+      "name": "US / Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4896820"
   },
   {
     "id": 4899077,
@@ -1393,7 +1393,7 @@
   },
   {
     "id": 5001482,
-    "title": "Engineering Manager, Developer Infrastructure",
+    "title": "Engineering Manager, Observability",
     "location": {
       "name": "US/ Canada "
     },
