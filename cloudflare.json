@@ -3000,14 +3000,6 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5033808?gh_jid=5033808"
   },
   {
-    "id": 5034376,
-    "title": "Marketing Manager, Middle East",
-    "location": {
-      "name": "Dubai, United Arab Emirates"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5034376?gh_jid=5034376"
-  },
-  {
     "id": 5038444,
     "title": "Network Deployment Engineer ",
     "location": {
@@ -3102,5 +3094,13 @@
       "name": "Remote US"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5057355?gh_jid=5057355"
+  },
+  {
+    "id": 5060392,
+    "title": "Sales Operations Support Analyst",
+    "location": {
+      "name": "Lisbon, Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5060392?gh_jid=5060392"
   }
 ]
