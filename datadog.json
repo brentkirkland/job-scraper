@@ -1104,6 +1104,14 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4976705/?gh_jid=4976705"
   },
   {
+    "id": 4977338,
+    "title": "Sales Development Representative (France)",
+    "location": {
+      "name": "Dublin, Ireland"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4977338/?gh_jid=4977338"
+  },
+  {
     "id": 4979137,
     "title": "Technician de Maintenance",
     "location": {
@@ -1982,5 +1990,13 @@
       "name": "Denver, Colorado, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5058768/?gh_jid=5058768"
+  },
+  {
+    "id": 5062040,
+    "title": "Mid-Market Account Executive (DACH)",
+    "location": {
+      "name": "Amsterdam, Netherlands"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5062040/?gh_jid=5062040"
   }
 ]
