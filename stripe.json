@@ -1368,14 +1368,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5001482"
   },
   {
-    "id": 5002884,
-    "title": "Payments Platform Strategist",
-    "location": {
-      "name": "US Remote"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5002884"
-  },
-  {
     "id": 5004001,
     "title": "Staff Full-Stack Engineer, Growth",
     "location": {
@@ -1422,14 +1414,6 @@
       "name": "New York, San Francisco"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5006681"
-  },
-  {
-    "id": 5006909,
-    "title": "Head of Global Executive Marketing ",
-    "location": {
-      "name": "San Francisco"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5006909"
   },
   {
     "id": 5007170,
@@ -1838,6 +1822,14 @@
       "name": "Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5045242"
+  },
+  {
+    "id": 5045695,
+    "title": "Software Engineer, Data Platform ",
+    "location": {
+      "name": "US, Canada "
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5045695"
   },
   {
     "id": 5046026,
