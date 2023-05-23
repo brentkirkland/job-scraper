@@ -472,14 +472,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4834397/?gh_jid=4834397"
   },
   {
-    "id": 4835658,
-    "title": "Senior Product Manager - Log Patterns & Insights",
-    "location": {
-      "name": "Paris, France"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4835658/?gh_jid=4835658"
-  },
-  {
     "id": 4837073,
     "title": "Manager, Engineering I - Cloud Workload Security",
     "location": {
@@ -1984,6 +1976,14 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5054883/?gh_jid=5054883"
   },
   {
+    "id": 5056287,
+    "title": "Senior Product Manager, Observability Pipelines",
+    "location": {
+      "name": "New York, New York, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5056287/?gh_jid=5056287"
+  },
+  {
     "id": 5058183,
     "title": "Product Manager II - Containers ",
     "location": {
@@ -2046,5 +2046,21 @@
       "name": "New York, New York, USA; Boston, Massachusetts, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5065446/?gh_jid=5065446"
+  },
+  {
+    "id": 5065740,
+    "title": "Engineering Manager I- Detection Engineering",
+    "location": {
+      "name": "New York, New York, USA; Denver, Colorado, USA; Boston, Massachusetts, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5065740/?gh_jid=5065740"
+  },
+  {
+    "id": 5068127,
+    "title": "Detection Engineer 2 - CSM",
+    "location": {
+      "name": "New York, New York, USA; Boston, Massachusetts, USA; Denver, Colorado, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5068127/?gh_jid=5068127"
   }
 ]
