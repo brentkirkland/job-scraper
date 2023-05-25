@@ -2688,12 +2688,28 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5005322?gh_jid=5005322"
   },
   {
+    "id": 5005815,
+    "title": "Data Center Design Engineer",
+    "location": {
+      "name": "Lisbon or London"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5005815?gh_jid=5005815"
+  },
+  {
     "id": 5007964,
     "title": "EMEA Sales Account Executive Expansion - UK & I and DACH",
     "location": {
       "name": "London or Munich"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5007964?gh_jid=5007964"
+  },
+  {
+    "id": 5010098,
+    "title": "Data Center Design Engineer",
+    "location": {
+      "name": "Amsterdam, Netherlands"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5010098?gh_jid=5010098"
   },
   {
     "id": 5013067,
