@@ -2046,5 +2046,21 @@
       "name": "Washington, USA, Remote"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5073199/?gh_jid=5073199"
+  },
+  {
+    "id": 5075300,
+    "title": "Software Engineer - Data Reliability",
+    "location": {
+      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5075300/?gh_jid=5075300"
+  },
+  {
+    "id": 5075307,
+    "title": "Software Engineer - Datastores",
+    "location": {
+      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5075307/?gh_jid=5075307"
   }
 ]
