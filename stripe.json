@@ -1089,7 +1089,7 @@
   },
   {
     "id": 4985937,
-    "title": "Machine Learning Engineer, Identity",
+    "title": "Staff Machine Learning Engineer, Identity",
     "location": {
       "name": "San Francisco"
     },
@@ -1992,6 +1992,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5065422"
   },
   {
+    "id": 5066727,
+    "title": "[TEMPLATE] Machine Learning Engineer, TEAM",
+    "location": {
+      "name": "APAC, EMEA, US / Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5066727"
+  },
+  {
     "id": 5067826,
     "title": "Product Finance & Strategy",
     "location": {
@@ -2006,5 +2014,13 @@
       "name": "Chicago, IL"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5073206"
+  },
+  {
+    "id": 5073516,
+    "title": "Full Stack Engineer, Financial Connections",
+    "location": {
+      "name": "NYC, Seattle"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5073516"
   }
 ]
