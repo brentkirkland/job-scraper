@@ -1264,6 +1264,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5001482"
   },
   {
+    "id": 5002884,
+    "title": "Payments Platform Strategist",
+    "location": {
+      "name": "US Remote"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5002884"
+  },
+  {
     "id": 5004001,
     "title": "Staff Full-Stack Engineer, Growth",
     "location": {
@@ -1881,7 +1889,7 @@
   },
   {
     "id": 5058312,
-    "title": "Financial Partner Payments Operations Manager",
+    "title": "Technical Operations Manager -  Payments, Stripe Delivery Center",
     "location": {
       "name": "Bangalore"
     },
