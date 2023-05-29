@@ -1,7 +1,9 @@
 /careers/disciplines/engineering
 /careers/gtm-operations-lead--one-list_6ee96f39-07b9-42fe-b759-82be484e7e55
+/careers/pricing--packaging---promotions-lead_a248df3f-dfbe-4985-b175-3cdae02170d6
+/careers/technical-content-developer_46bb290c-5880-49c0-9681-8f2c8c6779f0
 /careers/revenue-operations-lead---launch-engineering---product-consulting_44887711-4f7a-46c5-965f-347a22309ff3
-/careers/demand-marketing-lead--abm---database-_4e9e447e-3432-4557-9bda-47cffec04756
+/careers/deal-desk-specialist---seller-guidance_236b5284-cc3c-45ea-9ad9-fbce2096eca5
 /careers/demand-marketing-lead--retail-_545cb771-342e-46ed-93dd-0f64612ced19
 /careers/plus-performance-marketer--apac_6abae0c6-ed88-469c-9b84-664252ab8352
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
