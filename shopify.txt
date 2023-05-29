@@ -10,7 +10,6 @@
 /careers/apac-content-manager--japan_01acf78c-5199-46e0-a2b2-0ea036987194
 /careers/senior-marketing-lead--japan_fd18ad90-06b6-4106-a520-5fb590ab62d4
 /careers/partner-operations-manager---channel-incentives-_e4a86fc2-b832-4a85-8674-731ba146f1d8
-/careers/technical-seo-specialist_4657c1a9-1238-4b79-97c6-80e91f2eb303
 /careers/demo-engineer_c215f24e-6c05-4d38-8b0f-d6cd271ae54e
 /careers/solutions-engineer---cross-sell-_0b791ee4-05b0-43d5-a22d-47d554fa32bc
 /careers/retail-solutions-engineer-_b43b85a8-25cd-409e-a039-3b72db8f66f4
@@ -18,6 +17,7 @@
 /careers/senior-solutions-engineer-dach-_5e39deeb-9d02-4303-b7a0-e30a35326470
 /careers/senior-mid-market-account-executive--new-business-_7b061f27-bb9b-438e-8e26-4bae4dccbd33
 /careers/account-executive--northern-europe_8f550e09-036d-4703-9830-61fd43b8f9fc
+/careers/technical-seo-specialist_4657c1a9-1238-4b79-97c6-80e91f2eb303
 /careers/account-executive--large-accounts_7e3b27a3-eee8-400f-b7c7-35ee48790e94
 /careers/sales-representative---anz_f4a8ae6f-46fa-4631-97fb-ca6536b61be2
 /careers/sales-development-representative--anz_f4c248a5-10c0-4a61-a3b3-9818729a6b54
