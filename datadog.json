@@ -1648,6 +1648,14 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5030920/?gh_jid=5030920"
   },
   {
+    "id": 5030934,
+    "title": "Receptionist (New York)",
+    "location": {
+      "name": "New York, New York, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5030934/?gh_jid=5030934"
+  },
+  {
     "id": 5031551,
     "title": "Product Manager - Application performance monitoring (APM)",
     "location": {
@@ -2038,5 +2046,13 @@
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5075307/?gh_jid=5075307"
+  },
+  {
+    "id": 5076599,
+    "title": "Senior Software Engineer - Data Infrastructure",
+    "location": {
+      "name": "Boston, Massachusetts, USA; New York, New York, USA; Denver, Colorado, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5076599/?gh_jid=5076599"
   }
 ]
