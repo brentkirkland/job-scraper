@@ -776,14 +776,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4947021/?gh_jid=4947021"
   },
   {
-    "id": 4947052,
-    "title": "Senior Sales Enablement Manager, Product Curriculum",
-    "location": {
-      "name": "New York, New York, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4947052/?gh_jid=4947052"
-  },
-  {
     "id": 4948075,
     "title": "Enterprise Account Executive (Sweden)",
     "location": {
@@ -798,14 +790,6 @@
       "name": "Denver, Colorado, USA; San Francisco, California, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4950866/?gh_jid=4950866"
-  },
-  {
-    "id": 4951641,
-    "title": "Engineering Manager I - Threat Detection",
-    "location": {
-      "name": "New York, New York, USA; Boston, Massachusetts, USA; Denver, Colorado, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4951641/?gh_jid=4951641"
   },
   {
     "id": 4954513,
@@ -2054,5 +2038,37 @@
       "name": "Boston, Massachusetts, USA; New York, New York, USA; Denver, Colorado, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5076599/?gh_jid=5076599"
+  },
+  {
+    "id": 5081099,
+    "title": "Senior Technical Curriculum Developer - DevOps",
+    "location": {
+      "name": "New York, New York, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5081099/?gh_jid=5081099"
+  },
+  {
+    "id": 5081108,
+    "title": "Technical Curriculum Developer - DevOps",
+    "location": {
+      "name": "New York, New York, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5081108/?gh_jid=5081108"
+  },
+  {
+    "id": 5081171,
+    "title": "Senior Technical Curriculum Developer - DevOps",
+    "location": {
+      "name": "New York, USA, Remote"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5081171/?gh_jid=5081171"
+  },
+  {
+    "id": 5081177,
+    "title": "Technical Curriculum Developer - DevOps",
+    "location": {
+      "name": "New York, USA, Remote"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5081177/?gh_jid=5081177"
   }
 ]
