@@ -345,7 +345,7 @@
   },
   {
     "id": 4884847,
-    "title": "Financial Crimes Manager (EDD/PEP), Stripe Delivery Center",
+    "title": "Financial Crimes (EDD/PEP) Operations Manager, Stripe Delivery Center",
     "location": {
       "name": "IN-Bengaluru"
     },
@@ -1774,6 +1774,14 @@
       "name": "N/A"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5046446"
+  },
+  {
+    "id": 5046640,
+    "title": "Financial Crimes (AML) Operations Manager, Stripe Delivery Center",
+    "location": {
+      "name": "Bangalore"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5046640"
   },
   {
     "id": 5048897,
