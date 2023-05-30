@@ -4,15 +4,14 @@
 /careers/channel-marketing-manager-_52be0d2b-eff3-4be9-9a5c-db856e7708d2
 /careers/demand-marketing-senior-lead--abm-_d2580de3-e621-4d28-8ba7-fef140c2857b
 /careers/demand-marketing-lead--abm---database-_4e9e447e-3432-4557-9bda-47cffec04756
-/careers/demand-marketing-lead--retail-_545cb771-342e-46ed-93dd-0f64612ced19
 /careers/plus-performance-marketer--apac_6abae0c6-ed88-469c-9b84-664252ab8352
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
 /careers/apac-content-manager--japan_01acf78c-5199-46e0-a2b2-0ea036987194
 /careers/senior-marketing-lead--japan_fd18ad90-06b6-4106-a520-5fb590ab62d4
 /careers/partner-operations-manager---channel-incentives-_e4a86fc2-b832-4a85-8674-731ba146f1d8
+/careers/solutions-engineer---cross-sell-_0b791ee4-05b0-43d5-a22d-47d554fa32bc
 /careers/technical-seo-specialist_4657c1a9-1238-4b79-97c6-80e91f2eb303
 /careers/demo-engineer_c215f24e-6c05-4d38-8b0f-d6cd271ae54e
-/careers/solutions-engineer---cross-sell-_0b791ee4-05b0-43d5-a22d-47d554fa32bc
 /careers/retail-solutions-engineer-_b43b85a8-25cd-409e-a039-3b72db8f66f4
 /careers/enterprise-solutions-engineer---_fb29731a-6fc3-45dc-8803-612742ec60cd
 /careers/senior-solutions-engineer-dach-_5e39deeb-9d02-4303-b7a0-e30a35326470
