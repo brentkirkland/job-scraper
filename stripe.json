@@ -912,14 +912,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4977225"
   },
   {
-    "id": 4977400,
-    "title": "Operations Associate ",
-    "location": {
-      "name": "Bangalore "
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4977400"
-  },
-  {
     "id": 4978817,
     "title": "Frontend Software Engineer, Web Presence and Platform",
     "location": {
@@ -1718,6 +1710,14 @@
       "name": "Canada "
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5043591"
+  },
+  {
+    "id": 5044040,
+    "title": "Operations Associate ",
+    "location": {
+      "name": "India, Bangalore "
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5044040"
   },
   {
     "id": 5045242,
