@@ -1,10 +1,6 @@
 /careers/disciplines/engineering
 /careers/gtm-operations-lead--one-list_6ee96f39-07b9-42fe-b759-82be484e7e55
 /careers/revenue-operations-lead---launch-engineering---product-consulting_44887711-4f7a-46c5-965f-347a22309ff3
-/careers/lead--product-communications_7ba81b5f-3b62-41d9-91eb-6c39f836d840
-/careers/senior-integrated-marketing-manager-_544dff50-10f4-4848-978c-0fa74a2a812e
-/careers/senior-integrated-marketing-manager-_248bad1d-1894-4584-96e0-c290f49b24bf
-/careers/senior-integrated-marketing-manager-_e6d75f69-65aa-4265-80d8-81e88798923c
 /careers/channel-marketing-manager-_52be0d2b-eff3-4be9-9a5c-db856e7708d2
 /careers/demand-marketing-senior-lead--abm-_d2580de3-e621-4d28-8ba7-fef140c2857b
 /careers/demand-marketing-lead--abm---database-_4e9e447e-3432-4557-9bda-47cffec04756
@@ -15,10 +11,12 @@
 /careers/partner-operations-manager---channel-incentives-_e4a86fc2-b832-4a85-8674-731ba146f1d8
 /careers/retail-solutions-engineer-_b43b85a8-25cd-409e-a039-3b72db8f66f4
 /careers/solutions-engineer---cross-sell-_0b791ee4-05b0-43d5-a22d-47d554fa32bc
+/careers/technical-seo-specialist_4657c1a9-1238-4b79-97c6-80e91f2eb303
 /careers/demo-engineer_c215f24e-6c05-4d38-8b0f-d6cd271ae54e
 /careers/enterprise-solutions-engineer---_fb29731a-6fc3-45dc-8803-612742ec60cd
 /careers/senior-solutions-engineer-dach-_5e39deeb-9d02-4303-b7a0-e30a35326470
 /careers/senior-mid-market-account-executive--new-business-_7b061f27-bb9b-438e-8e26-4bae4dccbd33
+/careers/account-executive--large-accounts_7e3b27a3-eee8-400f-b7c7-35ee48790e94
 /careers/sales-representative---anz_f4a8ae6f-46fa-4631-97fb-ca6536b61be2
 /careers/sales-development-representative--anz_f4c248a5-10c0-4a61-a3b3-9818729a6b54
 /careers/business-development-representative-for-spain_c76cb6ba-ecf4-4904-ac0b-6d46823635d3

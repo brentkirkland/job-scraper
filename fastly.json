@@ -654,5 +654,29 @@
       "name": "San Francisco, CA"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5077337"
+  },
+  {
+    "id": 5077467,
+    "title": "Senior People Data Analyst",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5077467"
+  },
+  {
+    "id": 5077482,
+    "title": "Senior People Data Analyst",
+    "location": {
+      "name": "Los Angeles, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5077482"
+  },
+  {
+    "id": 5077483,
+    "title": "Senior People Data Analyst",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5077483"
   }
 ]
