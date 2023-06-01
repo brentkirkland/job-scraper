@@ -152,14 +152,6 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4938853"
   },
   {
-    "id": 4943547,
-    "title": "Senior Sales Engineer",
-    "location": {
-      "name": "US West (Remote)"
-    },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4943547"
-  },
-  {
     "id": 4946962,
     "title": "Senior Product Manager - Platform API",
     "location": {
@@ -638,5 +630,13 @@
       "name": "Barcelona, Spain"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5083053"
+  },
+  {
+    "id": 5084007,
+    "title": "Engineering Manager, Developer Relations",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5084007"
   }
 ]
