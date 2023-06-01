@@ -56,6 +56,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/2955358?gh_jid=2955358"
   },
   {
+    "id": 2983165,
+    "title": "Core Systems Reliability Engineer ",
+    "location": {
+      "name": "Remote US"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/2983165?gh_jid=2983165"
+  },
+  {
     "id": 3135805,
     "title": "Engineering Manager ",
     "location": {
@@ -3142,5 +3150,13 @@
       "name": "London or Remote UK"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5082039?gh_jid=5082039"
+  },
+  {
+    "id": 5085766,
+    "title": "Senior Software Engineer - Durable Objects",
+    "location": {
+      "name": "Remote UK"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5085766?gh_jid=5085766"
   }
 ]
