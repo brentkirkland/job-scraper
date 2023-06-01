@@ -224,14 +224,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4837100"
   },
   {
-    "id": 4853356,
-    "title": "Account Executive, Startups (German-speaking)",
-    "location": {
-      "name": "Dublin"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4853356"
-  },
-  {
     "id": 4853880,
     "title": "Corporate Security Infrastructure Program Manager",
     "location": {
@@ -1742,6 +1734,14 @@
       "name": "Dublin"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5053666"
+  },
+  {
+    "id": 5053670,
+    "title": "Account Executive, Existing Business (Startups) - Chicago",
+    "location": {
+      "name": "Chicago"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5053670"
   },
   {
     "id": 5053857,
