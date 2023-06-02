@@ -64,14 +64,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/1826072/?gh_jid=1826072"
   },
   {
-    "id": 1826178,
-    "title": "Senior Software Engineer - Frontend",
-    "location": {
-      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Montpellier,France"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/1826178/?gh_jid=1826178"
-  },
-  {
     "id": 1826184,
     "title": "Open Source Software Engineer - Container Ecosystems",
     "location": {
@@ -150,14 +142,6 @@
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Tel Aviv, Israel"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/2422927/?gh_jid=2422927"
-  },
-  {
-    "id": 3366799,
-    "title": "Senior Software Engineer (Frontend) - Security Platform",
-    "location": {
-      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Montpellier, France"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/3366799/?gh_jid=3366799"
   },
   {
     "id": 3851927,
@@ -1784,6 +1768,14 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5049289/?gh_jid=5049289"
   },
   {
+    "id": 5049733,
+    "title": "Senior Software Engineer - Frontend",
+    "location": {
+      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Montpellier,France"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5049733/?gh_jid=5049733"
+  },
+  {
     "id": 5051287,
     "title": "Technical Escalations Engineer 2 (APM) - US-West ",
     "location": {
@@ -2006,6 +1998,14 @@
       "name": "Boston, Massachusetts, USA; New York, New York, USA; Denver, Colorado, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5076599/?gh_jid=5076599"
+  },
+  {
+    "id": 5080102,
+    "title": "Senior Software Engineer (Frontend) - Security Platform",
+    "location": {
+      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Montpellier,France"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5080102/?gh_jid=5080102"
   },
   {
     "id": 5080147,
