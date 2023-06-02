@@ -288,6 +288,14 @@
     "absolute_url": "https://boards.greenhouse.io/alchemy/jobs/4181718005"
   },
   {
+    "id": 4189338005,
+    "title": "Product Marketing Manager",
+    "location": {
+      "name": "New York, New York, United States, San Francisco, California, United States"
+    },
+    "absolute_url": "https://boards.greenhouse.io/alchemy/jobs/4189338005"
+  },
+  {
     "id": 4197731005,
     "title": "Marketing Manager, Enterprise",
     "location": {
@@ -382,5 +390,37 @@
       "name": "New York, New York, United States, San Francisco, California, United States"
     },
     "absolute_url": "https://boards.greenhouse.io/alchemy/jobs/4252722005"
+  },
+  {
+    "id": 4278799005,
+    "title": "Technical Product Manager, Account Abstraction Infrastructure ",
+    "location": {
+      "name": "New York, New York, United States, San Francisco, California, United States"
+    },
+    "absolute_url": "https://boards.greenhouse.io/alchemy/jobs/4278799005"
+  },
+  {
+    "id": 4278800005,
+    "title": "Product Manager, Developer Experience",
+    "location": {
+      "name": "New York, New York, United States, San Francisco, California, United States"
+    },
+    "absolute_url": "https://boards.greenhouse.io/alchemy/jobs/4278800005"
+  },
+  {
+    "id": 4278801005,
+    "title": "Product Manager, Web3 Ecosystem",
+    "location": {
+      "name": "New York, New York, United States, San Francisco, California, United States"
+    },
+    "absolute_url": "https://boards.greenhouse.io/alchemy/jobs/4278801005"
+  },
+  {
+    "id": 4278802005,
+    "title": "Product Manager, Growth",
+    "location": {
+      "name": "New York, New York, United States, San Francisco, California, United States"
+    },
+    "absolute_url": "https://boards.greenhouse.io/alchemy/jobs/4278802005"
   }
 ]
