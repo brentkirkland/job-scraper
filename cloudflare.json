@@ -2192,6 +2192,30 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4946837?gh_jid=4946837"
   },
   {
+    "id": 4948178,
+    "title": "Systems Engineer",
+    "location": {
+      "name": "London or Remote UK"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4948178?gh_jid=4948178"
+  },
+  {
+    "id": 4948304,
+    "title": "Systems Engineer",
+    "location": {
+      "name": "Lisbon, Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4948304?gh_jid=4948304"
+  },
+  {
+    "id": 4948306,
+    "title": "Systems Engineer",
+    "location": {
+      "name": "Amsterdam, Netherlands"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4948306?gh_jid=4948306"
+  },
+  {
     "id": 4950327,
     "title": "Partner Solutions Engineer - EMEA (German-speaking)",
     "location": {
@@ -3166,5 +3190,13 @@
       "name": "Remote UK"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5085766?gh_jid=5085766"
+  },
+  {
+    "id": 5088237,
+    "title": "Software Engineer - Zero Trust Clients",
+    "location": {
+      "name": "Lisbon or London or Munich"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5088237?gh_jid=5088237"
   }
 ]
