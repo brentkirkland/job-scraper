@@ -312,14 +312,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4661573/?gh_jid=4661573"
   },
   {
-    "id": 4687938,
-    "title": "Manager, Engineering I - AWS Contexts",
-    "location": {
-      "name": "Paris, France"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4687938/?gh_jid=4687938"
-  },
-  {
     "id": 4693590,
     "title": "Manager, Engineering I - Profiler",
     "location": {
@@ -2062,5 +2054,13 @@
       "name": "Madrid, Spain"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5085026/?gh_jid=5085026"
+  },
+  {
+    "id": 5087589,
+    "title": "Manager, Engineering I - AWS Contexts",
+    "location": {
+      "name": "Paris, France"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5087589/?gh_jid=5087589"
   }
 ]
