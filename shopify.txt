@@ -1,6 +1,7 @@
 /careers/disciplines/engineering
 /careers/gtm-operations-lead--one-list_6ee96f39-07b9-42fe-b759-82be484e7e55
 /careers/revenue-operations-lead---launch-engineering---product-consulting_44887711-4f7a-46c5-965f-347a22309ff3
+/careers/executive-protection-specialist--in-person-_01a4aabe-8f47-49f3-98e0-33f248a7cf17
 /careers/lead--product-communications_7ba81b5f-3b62-41d9-91eb-6c39f836d840
 /careers/senior-integrated-marketing-manager-_544dff50-10f4-4848-978c-0fa74a2a812e
 /careers/senior-integrated-marketing-manager-_248bad1d-1894-4584-96e0-c290f49b24bf

@@ -656,6 +656,14 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5077483"
   },
   {
+    "id": 5081530,
+    "title": "Senior Employee Relations Manager",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5081530"
+  },
+  {
     "id": 5083053,
     "title": "Senior Account Executive",
     "location": {
@@ -686,5 +694,29 @@
       "name": "Los Angeles, CA"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5088654"
+  },
+  {
+    "id": 5090512,
+    "title": "Senior Employee Relations Manager",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5090512"
+  },
+  {
+    "id": 5090513,
+    "title": "Senior Employee Relations Manager",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5090513"
+  },
+  {
+    "id": 5090514,
+    "title": "Senior Employee Relations Manager",
+    "location": {
+      "name": "Los Angeles, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5090514"
   }
 ]
