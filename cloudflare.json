@@ -2352,6 +2352,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4986071?gh_jid=4986071"
   },
   {
+    "id": 4990201,
+    "title": "SLED Regional Manager",
+    "location": {
+      "name": "Phoenix, AZ"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4990201?gh_jid=4990201"
+  },
+  {
     "id": 4991240,
     "title": "Engineering Manager - Privacy Proxies",
     "location": {
@@ -3142,5 +3150,21 @@
       "name": "Lisbon or London or Munich"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5088237?gh_jid=5088237"
+  },
+  {
+    "id": 5092360,
+    "title": "SLED Regional Manager",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5092360?gh_jid=5092360"
+  },
+  {
+    "id": 5092361,
+    "title": "SLED Regional Manager",
+    "location": {
+      "name": "Los Angeles, CA"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5092361?gh_jid=5092361"
   }
 ]
