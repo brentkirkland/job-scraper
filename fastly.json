@@ -328,14 +328,6 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5004603"
   },
   {
-    "id": 5008548,
-    "title": "Principal Software Engineer - Customer Identity & Access Management",
-    "location": {
-      "name": "US (Remote)"
-    },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5008548"
-  },
-  {
     "id": 5013848,
     "title": "Senior Software Development Engineer",
     "location": {
@@ -408,52 +400,12 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5031180"
   },
   {
-    "id": 5037713,
-    "title": "Senior Site Reliability Engineer",
-    "location": {
-      "name": "San Francisco, CA"
-    },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5037713"
-  },
-  {
     "id": 5038128,
     "title": "SOC Analyst ",
     "location": {
       "name": "Singapore (Remote)"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5038128"
-  },
-  {
-    "id": 5039143,
-    "title": "Senior Site Reliability Engineer",
-    "location": {
-      "name": "Los Angeles, CA"
-    },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5039143"
-  },
-  {
-    "id": 5039162,
-    "title": "Senior Site Reliability Engineer",
-    "location": {
-      "name": "London, United Kingdom"
-    },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5039162"
-  },
-  {
-    "id": 5039534,
-    "title": "Senior Site Reliability Engineer",
-    "location": {
-      "name": "Denver, CO"
-    },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5039534"
-  },
-  {
-    "id": 5039535,
-    "title": "Senior Site Reliability Engineer",
-    "location": {
-      "name": "New York City, NY"
-    },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5039535"
   },
   {
     "id": 5041974,
