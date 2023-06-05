@@ -272,14 +272,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4874770"
   },
   {
-    "id": 4877170,
-    "title": "Senior Advisory Solutions Architect ",
-    "location": {
-      "name": "San Francisco "
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4877170"
-  },
-  {
     "id": 4877410,
     "title": "Full Stack Engineer, Climate",
     "location": {
@@ -438,14 +430,6 @@
       "name": "London"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4921861"
-  },
-  {
-    "id": 4921925,
-    "title": "Advisory Solutions Architect",
-    "location": {
-      "name": "New York "
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4921925"
   },
   {
     "id": 4922304,
@@ -856,14 +840,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4979859"
   },
   {
-    "id": 4980950,
-    "title": "Account Executive, Tax Product Sales",
-    "location": {
-      "name": "US Chicago"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4980950"
-  },
-  {
     "id": 4980952,
     "title": "Sales Manager, EMEA Billing",
     "location": {
@@ -1080,14 +1056,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5001368"
   },
   {
-    "id": 5001370,
-    "title": "Corporate Technology Integrations Engineer",
-    "location": {
-      "name": "Remote in Canada"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5001370"
-  },
-  {
     "id": 5001482,
     "title": "Engineering Manager, Observability",
     "location": {
@@ -1182,14 +1150,6 @@
       "name": "IN-Bangalore"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5007233"
-  },
-  {
-    "id": 5009586,
-    "title": "Marketing Systems Administrator, Go-To-Market",
-    "location": {
-      "name": "LOCATION"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5009586"
   },
   {
     "id": 5010956,
@@ -1326,14 +1286,6 @@
       "name": "San Francisco, Seattle, New York, or Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5022134"
-  },
-  {
-    "id": 5023670,
-    "title": "Program Manager, Go-To-Market Sales Modeling & Planning ",
-    "location": {
-      "name": "Chicago"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5023670"
   },
   {
     "id": 5024212,
@@ -1488,28 +1440,12 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5036219"
   },
   {
-    "id": 5036620,
-    "title": "Account Executive, Financial Connections",
-    "location": {
-      "name": "Chicago"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5036620"
-  },
-  {
     "id": 5036624,
     "title": "Account Executive, Foreign Exchange & Cross-Border Payments Product Sales",
     "location": {
       "name": "London"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5036624"
-  },
-  {
-    "id": 5036689,
-    "title": "Account Executive, Capital Product Sales",
-    "location": {
-      "name": "Chicago"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5036689"
   },
   {
     "id": 5036695,
@@ -1542,14 +1478,6 @@
       "name": "Chicago"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5042593"
-  },
-  {
-    "id": 5043447,
-    "title": "Program Manager, Legal Systems Engineering",
-    "location": {
-      "name": "IN-Bangalore"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5043447"
   },
   {
     "id": 5043533,
@@ -1726,22 +1654,6 @@
       "name": "Chicago"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5053670"
-  },
-  {
-    "id": 5053857,
-    "title": "Specialist Solutions Architect, Payments",
-    "location": {
-      "name": "San Francisco, New York, Seattle, Remote "
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5053857"
-  },
-  {
-    "id": 5053860,
-    "title": "Specialist Solutions Architect, Issuing and Banking ",
-    "location": {
-      "name": "San Francisco, New York, Chicago, Remote"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5053860"
   },
   {
     "id": 5056419,
