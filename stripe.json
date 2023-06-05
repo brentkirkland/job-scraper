@@ -736,6 +736,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4969089"
   },
   {
+    "id": 4969898,
+    "title": "Partner Development Manager - Chicago",
+    "location": {
+      "name": "Chicago"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4969898"
+  },
+  {
     "id": 4972613,
     "title": "Product Manager, Money Movement and Storage Experiences",
     "location": {
@@ -1710,6 +1718,14 @@
       "name": "Canada"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5058462"
+  },
+  {
+    "id": 5058734,
+    "title": "Staff Engineer, Payins",
+    "location": {
+      "name": "United States, Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5058734"
   },
   {
     "id": 5059130,
