@@ -1,7 +1,6 @@
 /careers/disciplines/engineering
-/careers/staff-product-designer--growth_e282a754-0a2a-469c-8650-3161da63e63b
-/careers/senior-merchant-success-operations-lead_07767253-043b-498d-bc14-a1a24ca9d474
 /careers/gtm-operations-lead--one-list_6ee96f39-07b9-42fe-b759-82be484e7e55
+/careers/revenue-operations-lead---launch-engineering---product-consulting_44887711-4f7a-46c5-965f-347a22309ff3
 /careers/executive-protection-specialist--in-person-_01a4aabe-8f47-49f3-98e0-33f248a7cf17
 /careers/senior-revenue-marketing-manager---retail-_def22882-b10e-40e7-a4ea-b54fe661791e
 /careers/senior-integrated-marketing-manager-_544dff50-10f4-4848-978c-0fa74a2a812e
