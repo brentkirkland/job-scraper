@@ -56,14 +56,6 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4847429"
   },
   {
-    "id": 4853474,
-    "title": "SOC Analyst ",
-    "location": {
-      "name": "Tokyo, Japan"
-    },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4853474"
-  },
-  {
     "id": 4884948,
     "title": "People Partner Director (Tech Product + Marketing)",
     "location": {
@@ -384,14 +376,6 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5031180"
   },
   {
-    "id": 5038128,
-    "title": "SOC Analyst ",
-    "location": {
-      "name": "Singapore (Remote)"
-    },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5038128"
-  },
-  {
     "id": 5041974,
     "title": "Staff Software Engineer - Fastly Build Services",
     "location": {
@@ -462,6 +446,14 @@
       "name": "Madrid, Spain"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5054951"
+  },
+  {
+    "id": 5056474,
+    "title": "Senior Customer Support Engineer ",
+    "location": {
+      "name": "Tokyo, Japan"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5056474"
   },
   {
     "id": 5058149,
@@ -672,11 +664,19 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5090514"
   },
   {
-    "id": 5091682,
-    "title": "Associate Fraud Support Specialist",
+    "id": 5094684,
+    "title": "SOC Analyst ",
     "location": {
       "name": "Tokyo, Japan"
     },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5091682"
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5094684"
+  },
+  {
+    "id": 5094686,
+    "title": "SOC Analyst ",
+    "location": {
+      "name": "Singapore (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5094686"
   }
 ]
