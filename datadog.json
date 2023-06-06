@@ -35,7 +35,7 @@
     "id": 1825908,
     "title": "Software Engineer - Compute",
     "location": {
-      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
+      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Grenoble, France"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/1825908/?gh_jid=1825908"
   },
@@ -43,7 +43,7 @@
     "id": 1825950,
     "title": "Software Engineer - High Performance Transaction Systems",
     "location": {
-      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
+      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Grenoble, France"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/1825950/?gh_jid=1825950"
   },
@@ -510,6 +510,14 @@
       "name": "Boston, Massachusetts, USA; New York, New York, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4891740/?gh_jid=4891740"
+  },
+  {
+    "id": 4900416,
+    "title": "Senior Software Engineer - Vulnerability Management",
+    "location": {
+      "name": "Paris, France"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4900416/?gh_jid=4900416"
   },
   {
     "id": 4901196,
@@ -1456,14 +1464,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5023656/?gh_jid=5023656"
   },
   {
-    "id": 5024611,
-    "title": "Customer Success Manager",
-    "location": {
-      "name": "Denver, Colorado, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/5024611/?gh_jid=5024611"
-  },
-  {
     "id": 5027023,
     "title": "Technical Solutions Operations Engineer - Paris",
     "location": {
@@ -1955,7 +1955,7 @@
     "id": 5075300,
     "title": "Software Engineer - Data Reliability",
     "location": {
-      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
+      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Grenoble, France"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5075300/?gh_jid=5075300"
   },
@@ -1963,7 +1963,7 @@
     "id": 5075307,
     "title": "Software Engineer - Datastores",
     "location": {
-      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
+      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Grenoble, France"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5075307/?gh_jid=5075307"
   },
