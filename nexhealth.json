@@ -8,14 +8,6 @@
     "absolute_url": "https://www.nexhealth.com/careers/open-positions?gh_jid=4010759004"
   },
   {
-    "id": 4011079004,
-    "title": "Engineering Manager",
-    "location": {
-      "name": "San Francisco, California, United States"
-    },
-    "absolute_url": "https://www.nexhealth.com/careers/open-positions?gh_jid=4011079004"
-  },
-  {
     "id": 4032367004,
     "title": "Security Engineer",
     "location": {
@@ -94,5 +86,13 @@
       "name": "United States"
     },
     "absolute_url": "https://www.nexhealth.com/careers/open-positions?gh_jid=4882989004"
+  },
+  {
+    "id": 4904081004,
+    "title": "Engineering Manager",
+    "location": {
+      "name": "San Francisco, California, United States"
+    },
+    "absolute_url": "https://www.nexhealth.com/careers/open-positions?gh_jid=4904081004"
   }
 ]
