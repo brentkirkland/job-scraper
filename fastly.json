@@ -646,5 +646,21 @@
       "name": "Singapore (Remote)"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5094686"
+  },
+  {
+    "id": 5096084,
+    "title": "Sales Operations Analyst",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5096084"
+  },
+  {
+    "id": 5096291,
+    "title": "Sales Operations Analyst",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5096291"
   }
 ]
