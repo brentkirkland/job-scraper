@@ -56,6 +56,14 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4847494"
   },
   {
+    "id": 4853474,
+    "title": "SOC Analyst ",
+    "location": {
+      "name": "Tokyo, Japan"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4853474"
+  },
+  {
     "id": 4884948,
     "title": "People Partner Director (Tech Product + Marketing)",
     "location": {
@@ -334,6 +342,14 @@
       "name": "Los Angeles, CA"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5027349"
+  },
+  {
+    "id": 5038128,
+    "title": "SOC Analyst ",
+    "location": {
+      "name": "Singapore (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5038128"
   },
   {
     "id": 5041974,
@@ -624,6 +640,14 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5090514"
   },
   {
+    "id": 5091682,
+    "title": "Senior Customer Support Engineer（日本語）",
+    "location": {
+      "name": "Tokyo, Japan"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5091682"
+  },
+  {
     "id": 5092266,
     "title": "Senior Sales Process and Technology Manager",
     "location": {
@@ -633,19 +657,11 @@
   },
   {
     "id": 5094684,
-    "title": "SOC Analyst ",
+    "title": "SOC Analyst（日本語）",
     "location": {
       "name": "Tokyo, Japan"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5094684"
-  },
-  {
-    "id": 5094686,
-    "title": "SOC Analyst ",
-    "location": {
-      "name": "Singapore (Remote)"
-    },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5094686"
   },
   {
     "id": 5096084,
