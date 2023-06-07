@@ -328,14 +328,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4896219"
   },
   {
-    "id": 4896820,
-    "title": "Software Engineer, Build Experience",
-    "location": {
-      "name": "US / Canada"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4896820"
-  },
-  {
     "id": 4899077,
     "title": "Product Lead, Issuing Core",
     "location": {
@@ -1862,6 +1854,14 @@
       "name": "UK-London, IE-Dublin"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5083160"
+  },
+  {
+    "id": 5083605,
+    "title": "Credit Risk Strategist, Analytics",
+    "location": {
+      "name": "Dublin, Ireland and London, UK"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5083605"
   },
   {
     "id": 5086938,
