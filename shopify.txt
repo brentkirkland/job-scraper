@@ -22,6 +22,8 @@
 /careers/enterprise-solutions-engineer_709afa91-46bf-45ad-9ad1-61db36bce0ce
 /careers/pricing-analyst-_4ad64d71-31ef-448d-9ff8-7031e47ac527
 /careers/sales-representative--singapore_e6f2098b-1076-41db-a7a0-fe6d07d1a7e8
+/careers/demo-engineer_c215f24e-6c05-4d38-8b0f-d6cd271ae54e
+/careers/solutions-engineer-_0b791ee4-05b0-43d5-a22d-47d554fa32bc
 /careers/sales-development-representative---inbound_52962f58-65ea-4d8c-81b0-811ac2b6fbc0
 /careers/enterprise-solutions-engineer---_fb29731a-6fc3-45dc-8803-612742ec60cd
 /careers/senior-solutions-engineer-dach-_5e39deeb-9d02-4303-b7a0-e30a35326470
