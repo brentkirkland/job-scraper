@@ -1528,6 +1528,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5045695"
   },
   {
+    "id": 5046026,
+    "title": "Software Engineer - Machine Learning Infrastructure ",
+    "location": {
+      "name": "US Remote, Toronto, Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5046026"
+  },
+  {
     "id": 5046343,
     "title": "Data Scientist, Payments ML Accelerator",
     "location": {
@@ -1862,14 +1870,6 @@
       "name": "(US / Canada)"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5086938"
-  },
-  {
-    "id": 5088493,
-    "title": "Strategy and Operations, Product Enablement",
-    "location": {
-      "name": "Chicago, US-Remote"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5088493"
   },
   {
     "id": 5090919,
