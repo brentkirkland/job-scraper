@@ -376,6 +376,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4901976"
   },
   {
+    "id": 4913000,
+    "title": "Product Manager, Revenue Foundations ",
+    "location": {
+      "name": "US"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4913000"
+  },
+  {
     "id": 4913667,
     "title": "Manager, Americas Paid Support",
     "location": {
@@ -1464,6 +1472,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5037895"
   },
   {
+    "id": 5040692,
+    "title": "Technical Program Manager, Efficiency",
+    "location": {
+      "name": "US, Canada "
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5040692"
+  },
+  {
     "id": 5042593,
     "title": "Partner Program Manager - Ecosystem Integrations Programs",
     "location": {
@@ -1640,6 +1656,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5053857"
   },
   {
+    "id": 5053860,
+    "title": "Specialist Solutions Architect, Issuing and Banking ",
+    "location": {
+      "name": "San Francisco, New York, Chicago, Remote"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5053860"
+  },
+  {
     "id": 5056419,
     "title": "Infrastructure Engineer, Relational Databases",
     "location": {
@@ -1742,14 +1766,6 @@
       "name": "Seattle, San Francisco"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5064237"
-  },
-  {
-    "id": 5064245,
-    "title": "Backend / API Engineer, Payments Platform",
-    "location": {
-      "name": "US Remote"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5064245"
   },
   {
     "id": 5064759,
