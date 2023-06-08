@@ -96,28 +96,12 @@
     "absolute_url": "https://careers.datadoghq.com/detail/1826225/?gh_jid=1826225"
   },
   {
-    "id": 1826266,
-    "title": "Senior Software Engineer - Data Visualization",
-    "location": {
-      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Montpellier, France "
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/1826266/?gh_jid=1826266"
-  },
-  {
     "id": 2147488,
     "title": "Library Software Engineer - Ruby",
     "location": {
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Tel Aviv, Israel"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/2147488/?gh_jid=2147488"
-  },
-  {
-    "id": 2190185,
-    "title": "Senior Software Engineer - Dashboards",
-    "location": {
-      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Montpellier, France; Montpellier, France"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/2190185/?gh_jid=2190185"
   },
   {
     "id": 2297901,
@@ -2070,5 +2054,21 @@
       "name": "Boston"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5092678/?gh_jid=5092678"
+  },
+  {
+    "id": 5100222,
+    "title": "Senior Software Engineer - Dashboards",
+    "location": {
+      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Montpellier,France"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5100222/?gh_jid=5100222"
+  },
+  {
+    "id": 5100246,
+    "title": "Senior Software Engineer - Data Visualization",
+    "location": {
+      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Montpellier,France"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5100246/?gh_jid=5100246"
   }
 ]
