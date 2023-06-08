@@ -144,6 +144,14 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4938853"
   },
   {
+    "id": 4948368,
+    "title": "Senior Salesforce CPQ Engineer",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4948368"
+  },
+  {
     "id": 4949321,
     "title": "Director of Public Relations ",
     "location": {
@@ -654,5 +662,29 @@
       "name": "New York City, NY"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5099503"
+  },
+  {
+    "id": 5100005,
+    "title": "Senior Salesforce CPQ Engineer",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5100005"
+  },
+  {
+    "id": 5100006,
+    "title": "Senior Salesforce CPQ Engineer",
+    "location": {
+      "name": "Los Angeles, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5100006"
+  },
+  {
+    "id": 5100007,
+    "title": "Senior Salesforce CPQ Engineer",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5100007"
   }
 ]
