@@ -17,11 +17,9 @@
 /careers/apac-content-manager--japan_01acf78c-5199-46e0-a2b2-0ea036987194
 /careers/senior-marketing-lead--japan_fd18ad90-06b6-4106-a520-5fb590ab62d4
 /careers/partner-operations-manager---channel-incentives-_e4a86fc2-b832-4a85-8674-731ba146f1d8
-/careers/solutions-engineer_0b791ee4-05b0-43d5-a22d-47d554fa32bc
-/careers/sr--revenue-operations-specialist---large---mid-market_c6accf41-1478-4502-9b94-3011c10315a5
-/careers/sr--revenue-operations-specialist---marketing-operations_d517c8a2-bf25-44ee-b134-702e5258b3a7
 /careers/sales-development-representative---inbound-_7db25023-95b3-4209-bc58-b4eb8da23b07
 /careers/enterprise-solutions-engineer-france---_fb29731a-6fc3-45dc-8803-612742ec60cd
+/careers/solutions-engineer-_0b791ee4-05b0-43d5-a22d-47d554fa32bc
 /careers/sales-representative--japan_1e66c021-ee2e-47aa-9b7c-163ea2ce6473
 /careers/partner-development-representative---japan_33f581fe-d82f-4a30-9ca2-0a574a1784f8
 /careers/enterprise-solutions-engineer_709afa91-46bf-45ad-9ad1-61db36bce0ce
