@@ -248,14 +248,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4861479"
   },
   {
-    "id": 4862078,
-    "title": "Manager, Customer Support",
-    "location": {
-      "name": "MX - Mexico City"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4862078"
-  },
-  {
     "id": 4870624,
     "title": "Software Engineer, Finance Engineering",
     "location": {
@@ -1902,5 +1894,13 @@
       "name": "Bangalore, India"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5097366"
+  },
+  {
+    "id": 5100101,
+    "title": "Customer Service Manager ",
+    "location": {
+      "name": "MX - Mexico City"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5100101"
   }
 ]
