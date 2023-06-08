@@ -384,14 +384,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4913783"
   },
   {
-    "id": 4915680,
-    "title": "Engineering Manager of Managers, Disputes",
-    "location": {
-      "name": "US-Remote, Seattle, San Francisco, NYC, Canada-Remote"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4915680"
-  },
-  {
     "id": 4919498,
     "title": "Staff Engineer, Banking as a Service",
     "location": {
@@ -1262,6 +1254,14 @@
       "name": "San Francisco, Seattle, New York, or Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5022134"
+  },
+  {
+    "id": 5023668,
+    "title": "Account Executive, Billing- Platforms",
+    "location": {
+      "name": "San Francisco, New York"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5023668"
   },
   {
     "id": 5024212,
