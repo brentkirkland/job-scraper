@@ -384,14 +384,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4913783"
   },
   {
-    "id": 4915680,
-    "title": "Engineering Manager of Managers, Disputes",
-    "location": {
-      "name": "US-Remote"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4915680"
-  },
-  {
     "id": 4919498,
     "title": "Staff Engineer, Banking as a Service",
     "location": {
@@ -1488,8 +1480,16 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5043548"
   },
   {
+    "id": 5044039,
+    "title": "Community Operations Associate ",
+    "location": {
+      "name": "India, Bangalore "
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5044039"
+  },
+  {
     "id": 5044040,
-    "title": "Operations Associate ",
+    "title": "Community Operations Associate ",
     "location": {
       "name": "India, Bangalore "
     },
@@ -1886,6 +1886,14 @@
       "name": "Remote (US or Canada)"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5090919"
+  },
+  {
+    "id": 5091177,
+    "title": "Product Support Operations Associate ",
+    "location": {
+      "name": "Bangalore, India "
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5091177"
   },
   {
     "id": 5095087,
