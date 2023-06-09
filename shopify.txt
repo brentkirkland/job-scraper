@@ -3,8 +3,10 @@
 /careers/senior-project-delivery-manager_76151939-bad4-43b7-9388-af0ef5f1413c
 /careers/launch-engineering-operations-lead_05792588-512b-45e4-9a85-592e45a2a71d
 /careers/senior-merchant-success-operations-lead_07767253-043b-498d-bc14-a1a24ca9d474
-/careers/gtm-operations-lead--one-list_6ee96f39-07b9-42fe-b759-82be484e7e55
 /careers/executive-protection-specialist--in-person-_01a4aabe-8f47-49f3-98e0-33f248a7cf17
+/careers/senior-product-marketing-manager--core-checkout_183a3fa2-ec62-4dbd-8b6b-b8e06fd3e83c
+/careers/senior-media-analyst_0e861dce-d0dd-4d13-b277-0c127b986db5
+/careers/senior-product-marketing-manager--financial-services-_46a7feb6-7160-4a84-8e1d-630d8cfcd784
 /careers/partner-marketing-manager-_48be0efd-3d99-4cc6-b87a-8c04f905c196
 /careers/demand-marketing-senior-lead--plus-_94f58417-e24d-484d-9c8a-437976a625ed
 /careers/senior-revenue-marketing-manager---retail-_def22882-b10e-40e7-a4ea-b54fe661791e
@@ -17,7 +19,6 @@
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
 /careers/apac-content-manager--japan_01acf78c-5199-46e0-a2b2-0ea036987194
 /careers/senior-marketing-lead--japan_fd18ad90-06b6-4106-a520-5fb590ab62d4
-/careers/partner-operations-manager---channel-incentives-_e4a86fc2-b832-4a85-8674-731ba146f1d8
 /careers/solutions-engineer_0b791ee4-05b0-43d5-a22d-47d554fa32bc
 /careers/sr--revenue-operations-specialist---large---mid-market_c6accf41-1478-4502-9b94-3011c10315a5
 /careers/sr--revenue-operations-specialist---marketing-operations_d517c8a2-bf25-44ee-b134-702e5258b3a7
