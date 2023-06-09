@@ -1,5 +1,8 @@
 /careers/disciplines/engineering
+/careers/staff-marketing-content-designer-_e40f9537-d5af-4980-b519-529a35576a5b
+/careers/marketing-design-manager--creative-_566a116d-bb17-42e5-b9aa-96b1174d5def
 /careers/staff-product-designer--growth-_e282a754-0a2a-469c-8650-3161da63e63b
+/careers/sr--revenue-operations-specialist---data-analytics_b9228741-f943-41ae-b1f0-1d63499d5b60
 /careers/senior-project-delivery-manager_76151939-bad4-43b7-9388-af0ef5f1413c
 /careers/launch-engineering-operations-lead_05792588-512b-45e4-9a85-592e45a2a71d
 /careers/senior-merchant-success-operations-lead_07767253-043b-498d-bc14-a1a24ca9d474
