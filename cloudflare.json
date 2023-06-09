@@ -384,14 +384,6 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4499823?gh_jid=4499823"
   },
   {
-    "id": 4503270,
-    "title": "Customer Success Engineer - Network Services",
-    "location": {
-      "name": "Remote Mexico"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4503270?gh_jid=4503270"
-  },
-  {
     "id": 4514913,
     "title": "Customer Success Engineer - Zero Trust/SASE",
     "location": {
@@ -1182,6 +1174,14 @@
       "name": "Lisbon, Portugal"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4825544?gh_jid=4825544"
+  },
+  {
+    "id": 4825550,
+    "title": "Solutions Engineering Graduate Program (Arabic, Russian, Ukrainian or Hebrew speakers)",
+    "location": {
+      "name": "Lisbon, Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4825550?gh_jid=4825550"
   },
   {
     "id": 4826888,
