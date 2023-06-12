@@ -2080,6 +2080,22 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4981948?gh_jid=4981948"
   },
   {
+    "id": 4983364,
+    "title": "Network Specialist Solutions Engineer",
+    "location": {
+      "name": "Remote US"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4983364?gh_jid=4983364"
+  },
+  {
+    "id": 4983369,
+    "title": "Network Specialist Solutions Engineer",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4983369?gh_jid=4983369"
+  },
+  {
     "id": 4983370,
     "title": "Technical Success Manager",
     "location": {
@@ -2214,6 +2230,22 @@
       "name": "Lisbon or London"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5005815?gh_jid=5005815"
+  },
+  {
+    "id": 5006366,
+    "title": "Network Specialist Solutions Engineer",
+    "location": {
+      "name": "Seattle, WA"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5006366?gh_jid=5006366"
+  },
+  {
+    "id": 5006367,
+    "title": "Network Specialist Solutions Engineer",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5006367?gh_jid=5006367"
   },
   {
     "id": 5007964,
@@ -2360,12 +2392,12 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5027857?gh_jid=5027857"
   },
   {
-    "id": 5027872,
+    "id": 5027860,
     "title": "Commercial Mid Market Account Executive - New Logo Acquisition",
     "location": {
-      "name": "Denver, CO"
+      "name": "Chicago, IL"
     },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5027872?gh_jid=5027872"
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5027860?gh_jid=5027860"
   },
   {
     "id": 5027882,
@@ -2376,20 +2408,12 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5027882?gh_jid=5027882"
   },
   {
-    "id": 5027898,
+    "id": 5027904,
     "title": "Commercial Mid Market Account Executive - New Logo Acquisition",
     "location": {
-      "name": "Salt Lake City, UT"
+      "name": "New York, NY"
     },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5027898?gh_jid=5027898"
-  },
-  {
-    "id": 5027976,
-    "title": "Commercial Mid Market Account Executive - New Logo Acquisition",
-    "location": {
-      "name": "Phoenix, AZ"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5027976?gh_jid=5027976"
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5027904?gh_jid=5027904"
   },
   {
     "id": 5033807,
@@ -2942,5 +2966,13 @@
       "name": "Austin or Remote US"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5099578?gh_jid=5099578"
+  },
+  {
+    "id": 5107263,
+    "title": "Commercial Mid Market Account Executive - New Logo Acquisition",
+    "location": {
+      "name": "Boston, MA"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5107263?gh_jid=5107263"
   }
 ]
