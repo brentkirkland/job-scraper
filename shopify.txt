@@ -2,6 +2,8 @@
 /careers/staff-product-designer--growth-_e282a754-0a2a-469c-8650-3161da63e63b
 /careers/staff-marketing-content-designer-_e40f9537-d5af-4980-b519-529a35576a5b
 /careers/marketing-design-manager--creative-_566a116d-bb17-42e5-b9aa-96b1174d5def
+/careers/sr--revenue-operations-specialist---business-systems-analyst_986776b7-674f-4cb6-8b60-2b84e5c1a05b
+/careers/revenue-operations-manager---process-and-tooling_0c988e02-73df-473e-88ec-8c00ca26699c
 /careers/sr--revenue-operations-specialist---data-analytics_b9228741-f943-41ae-b1f0-1d63499d5b60
 /careers/launch-engineering-operations-lead_05792588-512b-45e4-9a85-592e45a2a71d
 /careers/senior-merchant-success-operations-lead_07767253-043b-498d-bc14-a1a24ca9d474
@@ -19,6 +21,7 @@
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
 /careers/apac-content-manager--japan_01acf78c-5199-46e0-a2b2-0ea036987194
 /careers/senior-marketing-lead--japan_fd18ad90-06b6-4106-a520-5fb590ab62d4
+/careers/revenue-excellence-specialist---enterprise-accounts_9c06fe10-8177-47e4-a21b-52467da0b15f
 /careers/solutions-engineer_0b791ee4-05b0-43d5-a22d-47d554fa32bc
 /careers/sales-process-lead_f006a13b-9ee5-44a8-8061-f5958eeaf9e7
 /careers/sr--revenue-operations-specialist---large---mid-market_c6accf41-1478-4502-9b94-3011c10315a5
