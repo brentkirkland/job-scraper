@@ -1504,14 +1504,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5044039"
   },
   {
-    "id": 5044040,
-    "title": "Community Operations Associate ",
-    "location": {
-      "name": "India, Bangalore "
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5044040"
-  },
-  {
     "id": 5045695,
     "title": "Software Engineer, Data Platform ",
     "location": {
@@ -1686,6 +1678,14 @@
       "name": "N/A"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5058314"
+  },
+  {
+    "id": 5058316,
+    "title": "Financial Data Analyst",
+    "location": {
+      "name": "Bangalore, India"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5058316"
   },
   {
     "id": 5058410,
