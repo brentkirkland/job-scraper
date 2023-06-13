@@ -355,7 +355,7 @@
     "id": 4910654,
     "title": "Full Stack Engineer, Developer Productivity",
     "location": {
-      "name": "US/ Canada "
+      "name": "Seattle, SF, Chicago, NYC, Toronto, US Remote, CA Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4910654"
   },
@@ -736,6 +736,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4973805"
   },
   {
+    "id": 4976394,
+    "title": "Backend Engineer, Payment Flows ",
+    "location": {
+      "name": "USA, Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4976394"
+  },
+  {
     "id": 4977094,
     "title": "Staff Engineer, Workflow Engine",
     "location": {
@@ -984,14 +992,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5000720"
   },
   {
-    "id": 5000989,
-    "title": "User Policy Solutions Strategist",
-    "location": {
-      "name": "NYC, SF, Seattle, Chicago, or Remote in US or Canada"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5000989"
-  },
-  {
     "id": 5001368,
     "title": "Corporate Technology Integrations Engineer",
     "location": {
@@ -1230,6 +1230,14 @@
       "name": "San Francisco, New York"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5023668"
+  },
+  {
+    "id": 5023670,
+    "title": "Program Manager, Go-To-Market Sales Modeling & Planning ",
+    "location": {
+      "name": "Chicago"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5023670"
   },
   {
     "id": 5024212,
