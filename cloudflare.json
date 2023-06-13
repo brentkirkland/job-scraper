@@ -2376,22 +2376,6 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5034403?gh_jid=5034403"
   },
   {
-    "id": 5038444,
-    "title": "Network Deployment Engineer ",
-    "location": {
-      "name": "Lisbon, Portugal"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5038444?gh_jid=5038444"
-  },
-  {
-    "id": 5038446,
-    "title": "Network Deployment Engineer ",
-    "location": {
-      "name": "London, UK"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5038446?gh_jid=5038446"
-  },
-  {
     "id": 5041535,
     "title": "Senior Data Scientist, Web Security",
     "location": {
@@ -2918,5 +2902,13 @@
       "name": "Boston, MA"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5107263?gh_jid=5107263"
+  },
+  {
+    "id": 5109887,
+    "title": "Trust & Safety - Technical Program Manager of Hosted Content",
+    "location": {
+      "name": "Remote Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5109887?gh_jid=5109887"
   }
 ]
