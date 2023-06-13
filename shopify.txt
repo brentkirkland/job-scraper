@@ -1,5 +1,7 @@
 /careers/disciplines/engineering
 /careers/staff-product-designer--growth-_e282a754-0a2a-469c-8650-3161da63e63b
+/careers/staff-marketing-content-designer-_e40f9537-d5af-4980-b519-529a35576a5b
+/careers/marketing-design-manager--creative-_566a116d-bb17-42e5-b9aa-96b1174d5def
 /careers/sr--revenue-operations-specialist---business-systems-analyst_986776b7-674f-4cb6-8b60-2b84e5c1a05b
 /careers/revenue-operations-manager---process-and-tooling_0c988e02-73df-473e-88ec-8c00ca26699c
 /careers/sr--revenue-operations-specialist---data-analytics_b9228741-f943-41ae-b1f0-1d63499d5b60
