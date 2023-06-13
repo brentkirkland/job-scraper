@@ -1560,14 +1560,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5052530"
   },
   {
-    "id": 5053159,
-    "title": "Full Stack Engineer, Developer Productivity",
-    "location": {
-      "name": "Canada "
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5053159"
-  },
-  {
     "id": 5053660,
     "title": "Deal Lead, Global Deal Management ",
     "location": {
@@ -1974,5 +1966,13 @@
       "name": "IN-Bangalore"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5100240"
+  },
+  {
+    "id": 5110097,
+    "title": "Americas Compliance Program Manager",
+    "location": {
+      "name": "Chicago, US, Remote US "
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5110097"
   }
 ]
