@@ -1544,14 +1544,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5053860"
   },
   {
-    "id": 5056419,
-    "title": "Infrastructure Engineer, Relational Databases",
-    "location": {
-      "name": "Seattle, WA"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5056419"
-  },
-  {
     "id": 5057071,
     "title": "Operational Resilience Manager",
     "location": {
@@ -1638,6 +1630,14 @@
       "name": "Canada"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5062675"
+  },
+  {
+    "id": 5062963,
+    "title": " Data Scientist, Terminal",
+    "location": {
+      "name": "Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5062963"
   },
   {
     "id": 5063524,
@@ -1814,14 +1814,6 @@
       "name": "Sydney"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5086560"
-  },
-  {
-    "id": 5086938,
-    "title": "Program Manager, Stripe Operating Model - Planning Program",
-    "location": {
-      "name": "(US / Canada)"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5086938"
   },
   {
     "id": 5088493,
