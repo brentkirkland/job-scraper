@@ -1368,14 +1368,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5036624"
   },
   {
-    "id": 5036695,
-    "title": "Account Executive, Payment Product Sales",
-    "location": {
-      "name": "Singapore"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5036695"
-  },
-  {
     "id": 5037361,
     "title": "Credit Risk Strategy & Analytics, Capital and Small Business Risk",
     "location": {
@@ -1846,6 +1838,14 @@
       "name": "Dublin, London"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5085128"
+  },
+  {
+    "id": 5086560,
+    "title": "Account Executive, Strategic",
+    "location": {
+      "name": "Sydney"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5086560"
   },
   {
     "id": 5086938,
