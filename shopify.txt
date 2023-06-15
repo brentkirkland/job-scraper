@@ -7,6 +7,7 @@
 /careers/sr--revenue-operations-specialist---data-analytics_b9228741-f943-41ae-b1f0-1d63499d5b60
 /careers/launch-engineering-operations-lead_05792588-512b-45e4-9a85-592e45a2a71d
 /careers/senior-merchant-success-operations-lead_07767253-043b-498d-bc14-a1a24ca9d474
+/careers/executive-protection-specialist--in-person-_01a4aabe-8f47-49f3-98e0-33f248a7cf17
 /careers/technical-product-marketing-lead--commerce-components_911d4f33-a505-415f-9bba-68d642210090
 /careers/senior-product-marketing-manager--financial-services-_46a7feb6-7160-4a84-8e1d-630d8cfcd784
 /careers/partner-marketing-manager-_48be0efd-3d99-4cc6-b87a-8c04f905c196
@@ -20,9 +21,8 @@
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
 /careers/apac-content-manager--japan_01acf78c-5199-46e0-a2b2-0ea036987194
 /careers/senior-marketing-lead--japan_fd18ad90-06b6-4106-a520-5fb590ab62d4
-/careers/account-executive--plus-cross-sell---mid-market---large-accounts-_168d9738-85bc-4a9a-b9c6-8bb41ac2b86b
-/careers/merchant-success-manager_280d2313-e27e-48c1-b3cf-8cebf094919c
 /careers/sales-representative--core-cross-sell-_93c7eb56-c769-4a33-a861-e6af2f296081
+/careers/account-executive---plus-cross-sell--mid-market---large-accounts-_168d9738-85bc-4a9a-b9c6-8bb41ac2b86b
 /careers/solutions-architect-lead--professional-services_d102a10f-fca4-41a1-bff8-ec89b246d64f
 /careers/solutions-engineer_0b791ee4-05b0-43d5-a22d-47d554fa32bc
 /careers/senior-mid-market-account-executive--new-business-_7b061f27-bb9b-438e-8e26-4bae4dccbd33
