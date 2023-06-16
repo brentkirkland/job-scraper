@@ -22,7 +22,6 @@
 /careers/demand-marketing-lead--abm---database-_4e9e447e-3432-4557-9bda-47cffec04756
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
 /careers/senior-marketing-lead--japan_fd18ad90-06b6-4106-a520-5fb590ab62d4
-/careers/sales-coach--core-cross-sell--remote-_56c787fe-d3b9-4f74-a79e-a522cf2c375a
 /careers/sales-representative--core-cross-sell-_93c7eb56-c769-4a33-a861-e6af2f296081
 /careers/senior-account-executive--large-enterprise-northern-europe-_8dc1939b-59e7-4fda-9356-987a47cc825d
 /careers/senior-account-executive--mid-market--northern-europe-_e5e88f16-9f55-4737-9f13-43cb49b32965
@@ -32,6 +31,7 @@
 /careers/solutions-architect-lead--professional-services_d102a10f-fca4-41a1-bff8-ec89b246d64f
 /careers/solutions-engineer_0b791ee4-05b0-43d5-a22d-47d554fa32bc
 /careers/senior-mid-market-account-executive--new-business-_7b061f27-bb9b-438e-8e26-4bae4dccbd33
+/careers/account-executive---smb-cross-sell_34258fb2-1303-4dc3-9455-3b3435ed782b
 /careers/revenue-excellence-specialist---enterprise-accounts_9c06fe10-8177-47e4-a21b-52467da0b15f
 /careers/sales-process-lead_f006a13b-9ee5-44a8-8061-f5958eeaf9e7
 /careers/sr--revenue-operations-specialist---large---mid-market_c6accf41-1478-4502-9b94-3011c10315a5
