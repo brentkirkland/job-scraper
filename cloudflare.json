@@ -328,6 +328,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4499823?gh_jid=4499823"
   },
   {
+    "id": 4560962,
+    "title": "Solutions Engineer, French Speaker",
+    "location": {
+      "name": "Paris, France"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4560962?gh_jid=4560962"
+  },
+  {
     "id": 4561084,
     "title": "Solutions Engineer, UK Commercial",
     "location": {
@@ -2750,5 +2758,13 @@
       "name": "Remote Netherlands"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5116831?gh_jid=5116831"
+  },
+  {
+    "id": 5117147,
+    "title": "Solutions Engineer, French Speaker",
+    "location": {
+      "name": "Remote France"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5117147?gh_jid=5117147"
   }
 ]
