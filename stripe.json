@@ -936,14 +936,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5002884"
   },
   {
-    "id": 5004001,
-    "title": "Staff Full-Stack Engineer, Growth",
-    "location": {
-      "name": "Canada"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5004001"
-  },
-  {
     "id": 5004876,
     "title": "Staff ML Engineer, Conversion",
     "location": {
@@ -1347,7 +1339,7 @@
     "id": 5043591,
     "title": "Product Manager, Growth ",
     "location": {
-      "name": "Canada"
+      "name": "Canada, US Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5043591"
   },
@@ -1894,5 +1886,13 @@
       "name": "Canada"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5115598"
+  },
+  {
+    "id": 5118185,
+    "title": "Stripe Privacy Fellowship 2023",
+    "location": {
+      "name": "Remote in United States"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5118185"
   }
 ]
