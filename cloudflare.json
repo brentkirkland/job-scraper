@@ -1224,14 +1224,6 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4877570?gh_jid=4877570"
   },
   {
-    "id": 4886490,
-    "title": "Regional Sales Executive  - Japan (Enterprise)",
-    "location": {
-      "name": "Tokyo, Japan"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4886490?gh_jid=4886490"
-  },
-  {
     "id": 4886734,
     "title": "Distributed Systems Engineer - Analytical Database Platform",
     "location": {
@@ -2662,6 +2654,14 @@
       "name": "Singapore"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5112795?gh_jid=5112795"
+  },
+  {
+    "id": 5113442,
+    "title": "Enterprise Account Manager  - Japan",
+    "location": {
+      "name": "Tokyo, Japan"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5113442?gh_jid=5113442"
   },
   {
     "id": 5115618,
