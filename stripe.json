@@ -280,14 +280,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4899077"
   },
   {
-    "id": 4899646,
-    "title": "Technical Account Manager",
-    "location": {
-      "name": "Dublin "
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4899646"
-  },
-  {
     "id": 4900140,
     "title": "Trainer, Financial Crimes",
     "location": {
@@ -734,6 +726,14 @@
       "name": "Jakarta"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4979859"
+  },
+  {
+    "id": 4981023,
+    "title": "iOS / Android Engineer, Core Payments, Stripe Terminal",
+    "location": {
+      "name": "Remote (US or Canada)"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4981023"
   },
   {
     "id": 4982545,
@@ -1830,6 +1830,14 @@
       "name": "Mexico City"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5097622"
+  },
+  {
+    "id": 5099801,
+    "title": "Staff Product Manager, ML Accelerator and ML Foundations",
+    "location": {
+      "name": "Canada, US Remote, San Francisco, Chicago, New York, Seattle"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5099801"
   },
   {
     "id": 5100099,
