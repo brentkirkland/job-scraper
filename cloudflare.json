@@ -760,6 +760,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4763190?gh_jid=4763190"
   },
   {
+    "id": 4763442,
+    "title": "Solutions Engineer, Arabic Speaker",
+    "location": {
+      "name": "Dubai, United Arab Emirates"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4763442?gh_jid=4763442"
+  },
+  {
     "id": 4767699,
     "title": "Software Engineer - Developer Tooling and Productivity",
     "location": {
@@ -2600,6 +2608,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5109887?gh_jid=5109887"
   },
   {
+    "id": 5110002,
+    "title": "Solutions Engineer, Spanish speaker",
+    "location": {
+      "name": "London or Munich or Amsterdam"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5110002?gh_jid=5110002"
+  },
+  {
     "id": 5112682,
     "title": "Technical Account Manager",
     "location": {
@@ -2662,5 +2678,21 @@
       "name": "Remote France"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5117147?gh_jid=5117147"
+  },
+  {
+    "id": 5120081,
+    "title": "Solutions Engineer, Spanish speaker",
+    "location": {
+      "name": "Paris, France"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5120081?gh_jid=5120081"
+  },
+  {
+    "id": 5120082,
+    "title": "Solutions Engineer, Spanish speaker",
+    "location": {
+      "name": "Lisbon, Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5120082?gh_jid=5120082"
   }
 ]
