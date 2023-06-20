@@ -14,6 +14,7 @@
 /careers/senior-integrated-marketing-manager-_e6d75f69-65aa-4265-80d8-81e88798923c
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
 /careers/senior-marketing-lead--japan_fd18ad90-06b6-4106-a520-5fb590ab62d4
+/careers/sales-representative--singapore_e6f2098b-1076-41db-a7a0-fe6d07d1a7e8
 /careers/senior-retail-technical-onboarding-specialist_e2cc914a-bdd7-452f-ae86-92e70800cdb6
 /careers/sales-coach--core-cross-sell--remote-_56c787fe-d3b9-4f74-a79e-a522cf2c375a
 /careers/senior-account-executive--large-enterprise-northern-europe-_8dc1939b-59e7-4fda-9356-987a47cc825d
@@ -29,7 +30,6 @@
 /careers/enterprise-solutions-engineer-france---_fb29731a-6fc3-45dc-8803-612742ec60cd
 /careers/sales-representative--japan_1e66c021-ee2e-47aa-9b7c-163ea2ce6473
 /careers/partner-development-representative---japan_33f581fe-d82f-4a30-9ca2-0a574a1784f8
-/careers/sales-representative--singapore_e6f2098b-1076-41db-a7a0-fe6d07d1a7e8
 /careers/sales-development-representative---inbound_52962f58-65ea-4d8c-81b0-811ac2b6fbc0
 /careers/senior-solutions-engineer-dach-_5e39deeb-9d02-4303-b7a0-e30a35326470
 /careers/sales-representative---anz_f4a8ae6f-46fa-4631-97fb-ca6536b61be2
