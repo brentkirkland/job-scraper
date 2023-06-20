@@ -48,14 +48,6 @@
     "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4935572"
   },
   {
-    "id": 4937194,
-    "title": "Systems Engineer (Transactions)",
-    "location": {
-      "name": "UNITED STATES - Remote"
-    },
-    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4937194"
-  },
-  {
     "id": 4968035,
     "title": "Senior Full Stack Web Developer",
     "location": {
@@ -158,13 +150,5 @@
       "name": "UNITED STATES - Remote"
     },
     "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=5102255"
-  },
-  {
-    "id": 5113406,
-    "title": "Security Auditor",
-    "location": {
-      "name": "APAC - Remote, CANADA - Remote, EMEA - Remote, GLOBAL - Remote, LATAM - Remote, UNITED STATES - Remote"
-    },
-    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=5113406"
   }
 ]
