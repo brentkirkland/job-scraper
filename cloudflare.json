@@ -2694,5 +2694,21 @@
       "name": "Remote US"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5122835?gh_jid=5122835"
+  },
+  {
+    "id": 5122888,
+    "title": "Sr. Software Engineer - WARP Edge Service",
+    "location": {
+      "name": "Lisbon, Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5122888?gh_jid=5122888"
+  },
+  {
+    "id": 5123167,
+    "title": "Sr. Software Engineer - WARP Edge Service",
+    "location": {
+      "name": "Remote Germany"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5123167?gh_jid=5123167"
   }
 ]
