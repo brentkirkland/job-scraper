@@ -1870,5 +1870,21 @@
       "name": "Bangalore, India "
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5123614"
+  },
+  {
+    "id": 5125739,
+    "title": "Full Stack Engineer, Infrastructure ",
+    "location": {
+      "name": "Romania"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5125739"
+  },
+  {
+    "id": 5125764,
+    "title": "Engineering Manager, Infrastructure",
+    "location": {
+      "name": "Romania"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5125764"
   }
 ]
