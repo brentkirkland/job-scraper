@@ -792,14 +792,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4994391"
   },
   {
-    "id": 4995351,
-    "title": "Workforce Capacity Planner",
-    "location": {
-      "name": "Dublin, Singapore "
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4995351"
-  },
-  {
     "id": 4995851,
     "title": "Account Executive, Startups &SMB (Italian speaking)",
     "location": {
@@ -1798,6 +1790,14 @@
       "name": "Chicago, US, Remote US "
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5110097"
+  },
+  {
+    "id": 5112274,
+    "title": "Machine Learning Engineer, Risk",
+    "location": {
+      "name": "Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5112274"
   },
   {
     "id": 5112279,
