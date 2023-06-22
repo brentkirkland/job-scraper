@@ -376,6 +376,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4592260?gh_jid=4592260"
   },
   {
+    "id": 4597201,
+    "title": "Field Solutions Engineer (Pre-sales Canada)",
+    "location": {
+      "name": "Vancouver, BC"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4597201?gh_jid=4597201"
+  },
+  {
     "id": 4614886,
     "title": "Enterprise Account Executive - Gaming Nordics & Benelux",
     "location": {
@@ -590,38 +598,6 @@
       "name": "Remote Netherlands"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4726386?gh_jid=4726386"
-  },
-  {
-    "id": 4728089,
-    "title": "Network Security Engineer",
-    "location": {
-      "name": "Lisbon, Portugal"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4728089?gh_jid=4728089"
-  },
-  {
-    "id": 4728256,
-    "title": "Network Security Engineer",
-    "location": {
-      "name": "London, UK"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4728256?gh_jid=4728256"
-  },
-  {
-    "id": 4728258,
-    "title": "Network Security Engineer",
-    "location": {
-      "name": "Remote Portugal"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4728258?gh_jid=4728258"
-  },
-  {
-    "id": 4728259,
-    "title": "Network Security Engineer",
-    "location": {
-      "name": "Remote UK"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4728259?gh_jid=4728259"
   },
   {
     "id": 4734765,
@@ -1296,6 +1272,22 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4914097?gh_jid=4914097"
   },
   {
+    "id": 4914372,
+    "title": "Technical Support Engineer - HTTP/DNS/SSL focused",
+    "location": {
+      "name": "Lisbon, Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4914372?gh_jid=4914372"
+  },
+  {
+    "id": 4914374,
+    "title": "Technical Support Engineer - HTTP/DNS/SSL focused",
+    "location": {
+      "name": "Remote Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4914374?gh_jid=4914374"
+  },
+  {
     "id": 4915787,
     "title": "Distributed Systems Engineer - Analytical Database Platform",
     "location": {
@@ -1662,6 +1654,30 @@
       "name": "Remote US"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4991240?gh_jid=4991240"
+  },
+  {
+    "id": 4993054,
+    "title": "Field Solutions Engineer (Canada)",
+    "location": {
+      "name": "Ottawa, ON"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4993054?gh_jid=4993054"
+  },
+  {
+    "id": 4993065,
+    "title": "Field Solutions Engineer (Canada)",
+    "location": {
+      "name": "Calgary, AB"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4993065?gh_jid=4993065"
+  },
+  {
+    "id": 4993066,
+    "title": "Field Solutions Engineer (Canada)",
+    "location": {
+      "name": "Montreal, QC"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4993066?gh_jid=4993066"
   },
   {
     "id": 4995680,
