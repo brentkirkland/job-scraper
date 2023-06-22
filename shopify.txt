@@ -2,7 +2,6 @@
 /careers/staff-product-designer--growth-_e282a754-0a2a-469c-8650-3161da63e63b
 /careers/senior-marketing-operations-lead_ba9f0b2d-b6dc-443b-b1ad-d20685483e64
 /careers/launch-engineering-operations-lead_05792588-512b-45e4-9a85-592e45a2a71d
-/careers/compliance-lead_83927af5-a307-465c-9e2e-6f61fd554a2c
 /careers/growth-marketing-manager---_736170b6-b1a9-49da-8dd8-c898de2bdb93
 /careers/channel-marketing-manager-_48be0efd-3d99-4cc6-b87a-8c04f905c196
 /careers/senior-growth-marketer--shop_8fb38acf-ba8e-4bb8-9ac5-0fb2a39e9935
@@ -15,7 +14,6 @@
 /careers/senior-integrated-marketing-manager-_e6d75f69-65aa-4265-80d8-81e88798923c
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
 /careers/senior-marketing-lead--japan_fd18ad90-06b6-4106-a520-5fb590ab62d4
-/careers/enterprise-success-manager-_1dae5ade-09b5-4f4c-bd76-e7e2fe789dbb
 /careers/senior-technical-onboarding-specialist_a8706340-85bf-4081-bed2-4c597ba75ad4
 /careers/deal-desk-analyst_d89410c2-e934-40f5-bb5b-3e47414dc245
 /careers/senior-account-executive--dach-_c8210e60-5596-4ec3-a6f1-a1495aac1c9a
