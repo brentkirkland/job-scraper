@@ -136,6 +136,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4829705"
   },
   {
+    "id": 4832613,
+    "title": "Head of Engineering, Stripe Identity",
+    "location": {
+      "name": "Vancouver, Toronto, Chicago, Atlanta, Denver, Austin"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4832613"
+  },
+  {
     "id": 4835086,
     "title": "Software Engineer, Test Infrastructure",
     "location": {
@@ -1014,14 +1022,6 @@
       "name": "San Francisco, Seattle, New York, or Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5022134"
-  },
-  {
-    "id": 5023668,
-    "title": "Account Executive, Billing- Platforms",
-    "location": {
-      "name": "San Francisco, New York"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5023668"
   },
   {
     "id": 5024212,
