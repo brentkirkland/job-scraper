@@ -2160,14 +2160,6 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5082217?gh_jid=5082217"
   },
   {
-    "id": 5083151,
-    "title": "Senior Marketing Operations Manager, Martech",
-    "location": {
-      "name": "Remote US"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5083151?gh_jid=5083151"
-  },
-  {
     "id": 5085548,
     "title": "Manager, Revenue Accounting",
     "location": {
@@ -2662,5 +2654,13 @@
       "name": "Remote US"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5125137?gh_jid=5125137"
+  },
+  {
+    "id": 5132646,
+    "title": "Field Solutions Engineer - Portuguese Speaking ",
+    "location": {
+      "name": "Remote Mexico"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5132646?gh_jid=5132646"
   }
 ]
