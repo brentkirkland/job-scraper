@@ -1,7 +1,6 @@
 /careers/disciplines/engineering
 /careers/staff-product-designer--growth-_e282a754-0a2a-469c-8650-3161da63e63b
 /careers/senior-marketing-operations-lead_ba9f0b2d-b6dc-443b-b1ad-d20685483e64
-/careers/launch-engineering-operations-lead_05792588-512b-45e4-9a85-592e45a2a71d
 /careers/compliance-lead_83927af5-a307-465c-9e2e-6f61fd554a2c
 /careers/channel-marketing-manager-_48be0efd-3d99-4cc6-b87a-8c04f905c196
 /careers/senior-growth-marketer--shop_8fb38acf-ba8e-4bb8-9ac5-0fb2a39e9935
