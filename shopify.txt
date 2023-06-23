@@ -15,6 +15,7 @@
 /careers/senior-integrated-marketing-manager-_e6d75f69-65aa-4265-80d8-81e88798923c
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
 /careers/senior-marketing-lead--japan_fd18ad90-06b6-4106-a520-5fb590ab62d4
+/careers/enterprise-solutions-engineer-france---_fb29731a-6fc3-45dc-8803-612742ec60cd
 /careers/enterprise-solutions-engineer_709afa91-46bf-45ad-9ad1-61db36bce0ce
 /careers/senior-partner-manager---france-_f3f6068d-9969-48e2-9477-3d6e18dca6a7
 /careers/sr--account-executive---large-accounts----southern-europe-spain_cf8daaf6-9529-46a1-a73f-09401ebc0d34
@@ -39,7 +40,6 @@
 /careers/revenue-excellence-specialist---enterprise-accounts_9c06fe10-8177-47e4-a21b-52467da0b15f
 /careers/sales-process-lead_f006a13b-9ee5-44a8-8061-f5958eeaf9e7
 /careers/sr--revenue-operations-specialist---marketing-operations_d517c8a2-bf25-44ee-b134-702e5258b3a7
-/careers/enterprise-solutions-engineer-france---_fb29731a-6fc3-45dc-8803-612742ec60cd
 /careers/sales-representative--japan_1e66c021-ee2e-47aa-9b7c-163ea2ce6473
 /careers/partner-development-representative---japan_33f581fe-d82f-4a30-9ca2-0a574a1784f8
 /careers/sales-development-representative---inbound_52962f58-65ea-4d8c-81b0-811ac2b6fbc0
