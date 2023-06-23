@@ -502,5 +502,21 @@
       "name": "San Francisco, CA • New York, NY • United States"
     },
     "absolute_url": "https://boards.greenhouse.io/figma/jobs/4912181004"
+  },
+  {
+    "id": 4915086004,
+    "title": "Customer Enablement Manager (London, UK)",
+    "location": {
+      "name": "London, England"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4915086004"
+  },
+  {
+    "id": 4916451004,
+    "title": "Customer Enablement Manager (London, UK)",
+    "location": {
+      "name": "Paris, France"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4916451004"
   }
 ]
