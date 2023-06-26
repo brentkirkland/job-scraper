@@ -1240,6 +1240,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5058410"
   },
   {
+    "id": 5058462,
+    "title": "Product Designer, Climate ",
+    "location": {
+      "name": "Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5058462"
+  },
+  {
     "id": 5058734,
     "title": "Staff Engineer, Payins",
     "location": {
@@ -1702,5 +1710,13 @@
       "name": "Seattle, SF, Chicago, NYC, Toronto"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5128289"
+  },
+  {
+    "id": 5136800,
+    "title": "Product Designer, Internal Tools ",
+    "location": {
+      "name": "Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5136800"
   }
 ]
