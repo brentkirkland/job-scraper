@@ -734,5 +734,29 @@
       "name": "Los Angeles, CA"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5128924"
+  },
+  {
+    "id": 5136265,
+    "title": "Security Technical Account Manager",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5136265"
+  },
+  {
+    "id": 5136270,
+    "title": "Security Technical Account Manager",
+    "location": {
+      "name": "Los Angeles, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5136270"
+  },
+  {
+    "id": 5136274,
+    "title": "Security Technical Account Manager",
+    "location": {
+      "name": "London, United Kingdom"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5136274"
   }
 ]
