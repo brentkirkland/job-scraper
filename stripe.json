@@ -168,14 +168,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4874770"
   },
   {
-    "id": 4877170,
-    "title": "Senior Advisory Solutions Architect ",
-    "location": {
-      "name": "San Francisco "
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4877170"
-  },
-  {
     "id": 4878850,
     "title": "Program Manager, Technology Risk",
     "location": {
@@ -486,14 +478,6 @@
       "name": "Ireland"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4966594"
-  },
-  {
-    "id": 4969898,
-    "title": "Partner Development Manager - Chicago",
-    "location": {
-      "name": "Chicago"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4969898"
   },
   {
     "id": 4972613,
@@ -840,14 +824,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5011777"
   },
   {
-    "id": 5012409,
-    "title": "Frontend Engineer, Growth",
-    "location": {
-      "name": "Canada"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5012409"
-  },
-  {
     "id": 5013845,
     "title": "Integration Engineer",
     "location": {
@@ -1088,14 +1064,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5042224"
   },
   {
-    "id": 5042593,
-    "title": "Partner Program Manager - Ecosystem Integrations Programs",
-    "location": {
-      "name": "Chicago"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5042593"
-  },
-  {
     "id": 5043533,
     "title": "Software Engineer, SEO, Web Presence & Platform (Canada Only)",
     "location": {
@@ -1222,22 +1190,6 @@
       "name": "Chicago"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5053670"
-  },
-  {
-    "id": 5053857,
-    "title": "Specialist Solutions Architect, Payments",
-    "location": {
-      "name": "San Francisco, New York, Seattle, Remote "
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5053857"
-  },
-  {
-    "id": 5053860,
-    "title": "Specialist Solutions Architect, Issuing and Banking ",
-    "location": {
-      "name": "San Francisco, New York, Chicago, Remote"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5053860"
   },
   {
     "id": 5057071,
