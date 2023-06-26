@@ -456,14 +456,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4901196/?gh_jid=4901196"
   },
   {
-    "id": 4901718,
-    "title": "Software Engineer - Early Career",
-    "location": {
-      "name": "Paris, France; Madrid, Spain"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4901718/?gh_jid=4901718"
-  },
-  {
     "id": 4903179,
     "title": "Enterprise Sales Executive (New York)",
     "location": {
@@ -1630,6 +1622,14 @@
       "name": "Boston, Massachusetts, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5092609/?gh_jid=5092609"
+  },
+  {
+    "id": 5097310,
+    "title": "Enterprise Sales Executive (Middle East)",
+    "location": {
+      "name": "Dubai, United Arab Emirates"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5097310/?gh_jid=5097310"
   },
   {
     "id": 5097339,
