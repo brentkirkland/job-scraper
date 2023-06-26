@@ -352,14 +352,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4935898"
   },
   {
-    "id": 4938824,
-    "title": "Product Lead, UX Platform",
-    "location": {
-      "name": "Americas"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4938824"
-  },
-  {
     "id": 4943143,
     "title": "Staff Engineer, Login Experience and Authentication Platform",
     "location": {
@@ -1688,10 +1680,18 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5114833"
   },
   {
+    "id": 5115107,
+    "title": "Data Scientist, Terminal",
+    "location": {
+      "name": "Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5115107"
+  },
+  {
     "id": 5115598,
     "title": "Data Scientist, Terminal",
     "location": {
-      "name": "San Francisco, Seattle, New York, or Canada"
+      "name": "San Francisco, Seattle, New York"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5115598"
   },
