@@ -2,11 +2,11 @@
 /careers/staff-product-designer--growth-_e282a754-0a2a-469c-8650-3161da63e63b
 /careers/senior-marketing-operations-lead_ba9f0b2d-b6dc-443b-b1ad-d20685483e64
 /careers/compliance-lead_83927af5-a307-465c-9e2e-6f61fd554a2c
+/careers/content-manager--apac_01acf78c-5199-46e0-a2b2-0ea036987194
 /careers/channel-marketing-manager-_48be0efd-3d99-4cc6-b87a-8c04f905c196
 /careers/senior-growth-marketer--shop_8fb38acf-ba8e-4bb8-9ac5-0fb2a39e9935
 /careers/senior-lead--retail-growth-marketing-_0c31056f-e0c4-4f05-bf61-eb6c44266662
 /careers/content-manager-_48f44a6a-7385-43cf-96a5-f7a36c95eef9
-/careers/apac-content-manager--apac_01acf78c-5199-46e0-a2b2-0ea036987194
 /careers/technical-product-marketing-lead--commerce-components_911d4f33-a505-415f-9bba-68d642210090
 /careers/senior-integrated-marketing-manager-_544dff50-10f4-4848-978c-0fa74a2a812e
 /careers/senior-integrated-marketing-manager-_248bad1d-1894-4584-96e0-c290f49b24bf
@@ -30,7 +30,6 @@
 /careers/sales-development-team-lead_244ae968-ce64-4105-bd73-53a56fa29596
 /careers/sales-representative--gcr_e6f2098b-1076-41db-a7a0-fe6d07d1a7e8
 /careers/senior-retail-technical-onboarding-specialist_e2cc914a-bdd7-452f-ae86-92e70800cdb6
-/careers/sales-coach--core-cross-sell--remote-_56c787fe-d3b9-4f74-a79e-a522cf2c375a
 /careers/senior-account-executive--large-enterprise-northern-europe-_8dc1939b-59e7-4fda-9356-987a47cc825d
 /careers/senior-account-executive--mid-market--northern-europe-_e5e88f16-9f55-4737-9f13-43cb49b32965
 /careers/senior-mid-market-account-executive--new-business-_7b061f27-bb9b-438e-8e26-4bae4dccbd33

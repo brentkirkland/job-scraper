@@ -256,14 +256,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4900140"
   },
   {
-    "id": 4913000,
-    "title": "Product Manager, Revenue Foundations ",
-    "location": {
-      "name": "US"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4913000"
-  },
-  {
     "id": 4913667,
     "title": "Manager, Americas Paid Support",
     "location": {
@@ -1808,6 +1800,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5118664"
   },
   {
+    "id": 5118909,
+    "title": "iOS / Android Engineer, Core Payments, Stripe Terminal",
+    "location": {
+      "name": "Remote (US or Canada)"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5118909"
+  },
+  {
     "id": 5124923,
     "title": "Service Account Associate",
     "location": {
@@ -1838,13 +1838,5 @@
       "name": "Bangalore, India"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5127766"
-  },
-  {
-    "id": 5132902,
-    "title": " Backend Engineer, Payflows",
-    "location": {
-      "name": "N/A"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5132902"
   }
 ]
