@@ -48,14 +48,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4743420"
   },
   {
-    "id": 4746336,
-    "title": "Partner Manager, Risk",
-    "location": {
-      "name": "SF, SEA, NY or REMOTE"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4746336"
-  },
-  {
     "id": 4746653,
     "title": "Software Engineer, Network",
     "location": {
@@ -1128,14 +1120,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5058410"
   },
   {
-    "id": 5058462,
-    "title": "Product Designer, Climate ",
-    "location": {
-      "name": "Canada"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5058462"
-  },
-  {
     "id": 5058734,
     "title": "Staff Engineer, Payins",
     "location": {
@@ -1536,6 +1520,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5118909"
   },
   {
+    "id": 5122209,
+    "title": "Internal Audit Data Analytics Lead",
+    "location": {
+      "name": "San Francisco, Seattle, New York, or Remote"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5122209"
+  },
+  {
     "id": 5124923,
     "title": "Service Account Associate",
     "location": {
@@ -1558,6 +1550,14 @@
       "name": "Romania"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5125764"
+  },
+  {
+    "id": 5127629,
+    "title": "Product Designer, Climate",
+    "location": {
+      "name": "Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5127629"
   },
   {
     "id": 5127766,
