@@ -88,14 +88,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4820029"
   },
   {
-    "id": 4825062,
-    "title": "Sales Development Representative",
-    "location": {
-      "name": "US-Chicago"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4825062"
-  },
-  {
     "id": 4827467,
     "title": "Product Manager, Financial Connections",
     "location": {
@@ -936,22 +928,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5035024"
   },
   {
-    "id": 5036219,
-    "title": "Account Executive, Mid Market",
-    "location": {
-      "name": "Chicago, IL"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5036219"
-  },
-  {
-    "id": 5036620,
-    "title": "Account Executive, Financial Connections",
-    "location": {
-      "name": "Chicago"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5036620"
-  },
-  {
     "id": 5037361,
     "title": "Credit Risk Strategy & Analytics, Capital and Small Business Risk",
     "location": {
@@ -1376,14 +1352,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5092149"
   },
   {
-    "id": 5092289,
-    "title": "Technical Services, Strategy & Operations Business Analyst",
-    "location": {
-      "name": "San Francisco, New York City, Chicago, Seattle, Remote"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5092289"
-  },
-  {
     "id": 5093941,
     "title": "Employee Onboarding Specialist",
     "location": {
@@ -1630,6 +1598,14 @@
       "name": "Seattle, SF, Chicago, NYC, Toronto"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5128289"
+  },
+  {
+    "id": 5131547,
+    "title": "Integration Reliability Engineer, Technical Operations EMEA",
+    "location": {
+      "name": "EMEA"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5131547"
   },
   {
     "id": 5136800,
