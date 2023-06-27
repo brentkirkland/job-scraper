@@ -336,14 +336,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4950857"
   },
   {
-    "id": 4952004,
-    "title": "Full Stack Engineer, Radar",
-    "location": {
-      "name": "Remote, WA, CA, CO"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4952004"
-  },
-  {
     "id": 4952678,
     "title": "Full Stack Engineer, Merchant Success",
     "location": {
@@ -1051,7 +1043,7 @@
     "id": 5046446,
     "title": "Engineering Manager, Checkout",
     "location": {
-      "name": "N/A"
+      "name": "Remote, NYC"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5046446"
   },
