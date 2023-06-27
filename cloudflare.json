@@ -1568,16 +1568,8 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4991240?gh_jid=4991240"
   },
   {
-    "id": 4993054,
-    "title": "Field Solutions Engineer (Canada)",
-    "location": {
-      "name": "Ottawa, ON"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4993054?gh_jid=4993054"
-  },
-  {
     "id": 4993065,
-    "title": "Field Solutions Engineer (Canada)",
+    "title": "Field Solutions Engineer - Pre-Sales (Canada)",
     "location": {
       "name": "Calgary, AB"
     },
@@ -1585,7 +1577,7 @@
   },
   {
     "id": 4993066,
-    "title": "Field Solutions Engineer (Canada)",
+    "title": "Field Solutions Engineer Pre-Sales (Canada)",
     "location": {
       "name": "Montreal, QC"
     },
@@ -2558,6 +2550,14 @@
       "name": "Lisbon, Portugal"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5120082?gh_jid=5120082"
+  },
+  {
+    "id": 5120859,
+    "title": "Channel Account Manager, Mid-Atlantic",
+    "location": {
+      "name": "Midatlantic: Pennsylvania, West Virginia,  Maryland, Delaware, Washington D.C."
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5120859?gh_jid=5120859"
   },
   {
     "id": 5121000,
