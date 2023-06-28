@@ -12,6 +12,7 @@
 /careers/senior-integrated-marketing-manager-_e6d75f69-65aa-4265-80d8-81e88798923c
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
 /careers/senior-marketing-lead--japan_fd18ad90-06b6-4106-a520-5fb590ab62d4
+/careers/senior-account-executive--bilingual---german---english-_c8210e60-5596-4ec3-a6f1-a1495aac1c9a
 /careers/account-executive---new-business--france_fa887200-301c-4d4d-a19e-8229a2d86144
 /careers/partner-sales-representative---japan_33f581fe-d82f-4a30-9ca2-0a574a1784f8
 /careers/senior-technical-onboarding-specialist_a8706340-85bf-4081-bed2-4c597ba75ad4
@@ -34,7 +35,6 @@
 /careers/solutions-architect---payments---checkout_e8efe975-c571-4e3e-8b6d-8e96ac027b60
 /careers/enterprise-success-manager-_1dae5ade-09b5-4f4c-bd76-e7e2fe789dbb
 /careers/deal-desk-analyst_d89410c2-e934-40f5-bb5b-3e47414dc245
-/careers/senior-account-executive--dach-_c8210e60-5596-4ec3-a6f1-a1495aac1c9a
 /careers/sales-representative--gcr_e6f2098b-1076-41db-a7a0-fe6d07d1a7e8
 /careers/senior-account-executive--large-enterprise-northern-europe-_8dc1939b-59e7-4fda-9356-987a47cc825d
 /careers/senior-account-executive--mid-market--northern-europe-_e5e88f16-9f55-4737-9f13-43cb49b32965
