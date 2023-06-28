@@ -2,6 +2,8 @@
 /careers/marketing-design-manager--creative-_566a116d-bb17-42e5-b9aa-96b1174d5def
 /careers/senior-staff-product-designer--checkout-experience-_824ad396-ef85-4e5f-be63-3b486023c23d
 /careers/compliance-lead_83927af5-a307-465c-9e2e-6f61fd554a2c
+/careers/marketing-automation-specialist-_9c71cdfa-4b3a-4288-8c3c-f63e8421292f
+/careers/marketing-automation-manager--plus-_d5e21e65-e820-4177-b8c6-8e82fc4f56f2
 /careers/content-seo-specialist--remote-_6774f1b2-4e98-43f9-872e-d4808bd3e562
 /careers/social-lead--developer-_cb78a115-f5d3-495a-a224-1ff21bf983db
 /careers/content-manager--apac_01acf78c-5199-46e0-a2b2-0ea036987194
@@ -24,7 +26,6 @@
 /careers/sales-development-team-lead_244ae968-ce64-4105-bd73-53a56fa29596
 /careers/mid-market-account-executive---southern-europe-spain_bd61b71b-a5dc-47ae-becc-b87576f7b91b
 /careers/sr--account-executive---large-accounts----southern-europe-spain_cf8daaf6-9529-46a1-a73f-09401ebc0d34
-/careers/sales-development-team-lead_5083742f-0843-4055-a87d-1d4ec5472058
 /careers/sales-representative--gcr_7e2a3a87-57ac-4e1d-a5ac-f169ff765720
 /careers/investor-partner-manager-_2d5f0350-9451-4cf6-9af5-dd7431a33b4f
 /careers/enterprise-solutions-engineer-france---_fb29731a-6fc3-45dc-8803-612742ec60cd
