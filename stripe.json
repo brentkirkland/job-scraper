@@ -649,7 +649,7 @@
   },
   {
     "id": 5004876,
-    "title": "Staff ML Engineer, Conversion",
+    "title": "Staff Machine Learning Engineer, Conversion",
     "location": {
       "name": "US / Canada"
     },
@@ -1566,5 +1566,13 @@
       "name": "US / Canada"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5138396"
+  },
+  {
+    "id": 5141764,
+    "title": "Staff Engineer, Conversion",
+    "location": {
+      "name": "US/Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5141764"
   }
 ]
