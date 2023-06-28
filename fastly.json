@@ -718,5 +718,53 @@
       "name": "US (Remote)"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5136515"
+  },
+  {
+    "id": 5138047,
+    "title": "Senior Software Engineer - Fastly Build Services",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5138047"
+  },
+  {
+    "id": 5138463,
+    "title": "Senior Software Engineer - Fastly Build Services",
+    "location": {
+      "name": "London, United Kingdom"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5138463"
+  },
+  {
+    "id": 5139480,
+    "title": "Director, Security Operations",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5139480"
+  },
+  {
+    "id": 5139525,
+    "title": "Director, Security Operations",
+    "location": {
+      "name": "Los Angeles, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5139525"
+  },
+  {
+    "id": 5139527,
+    "title": "Director, Security Operations",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5139527"
+  },
+  {
+    "id": 5139530,
+    "title": "Director, Security Operations",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5139530"
   }
 ]
