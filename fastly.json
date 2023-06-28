@@ -814,5 +814,37 @@
       "name": "New York City, NY"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5141255"
+  },
+  {
+    "id": 5141883,
+    "title": "Senior Product Manager - Service Assurance Management",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5141883"
+  },
+  {
+    "id": 5142314,
+    "title": "Senior Product Manager - Service Assurance Management",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5142314"
+  },
+  {
+    "id": 5142315,
+    "title": "Senior Product Manager - Service Assurance Management",
+    "location": {
+      "name": "Los Angeles, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5142315"
+  },
+  {
+    "id": 5142316,
+    "title": "Senior Product Manager - Service Assurance Management",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5142316"
   }
 ]
