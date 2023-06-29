@@ -1,10 +1,7 @@
 /careers/disciplines/engineering
-/careers/staff-product-designer-_b6a23dc7-3d3c-4d09-bda2-7443e57e20eb
 /careers/marketing-design-manager--creative-_566a116d-bb17-42e5-b9aa-96b1174d5def
 /careers/senior-staff-product-designer--checkout-experience-_824ad396-ef85-4e5f-be63-3b486023c23d
 /careers/compliance-lead_83927af5-a307-465c-9e2e-6f61fd554a2c
-/careers/lifecycle-marketer-_460c492f-c59a-41e5-968e-84f2adedce99
-/careers/brand---social-lead--shop-_0a9b8d11-ac2a-4dd8-95c9-2d3b1301f427
 /careers/brand---social-lead--shop-_21a9c7b4-02e6-4603-9d0f-de139947cc06
 /careers/partner-marketing-manager--asia_ed0ac2e7-6871-466c-ae46-3f83e53088df
 /careers/content-manager--apac_01acf78c-5199-46e0-a2b2-0ea036987194
@@ -21,8 +18,6 @@
 /careers/senior-integrated-marketing-manager-_248bad1d-1894-4584-96e0-c290f49b24bf
 /careers/senior-integrated-marketing-manager-_e6d75f69-65aa-4265-80d8-81e88798923c
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
-/careers/senior-certifications-program-manager-_ad1cb86d-4260-46a8-b293-edfd31aa3f27
-/careers/senior-instructional-designer-_5e580565-ae17-4c1a-9a1d-39f37260c7ad
 /careers/mid-market-account-executive---italy_b429913a-341c-45b7-a42a-1c46e315a96c
 /careers/senior-partner-development-manager---italy_d1152588-95da-4c7c-ba5b-eb4345744d80
 /careers/mid-market-account-executive---southern-europe-spain_bd61b71b-a5dc-47ae-becc-b87576f7b91b
