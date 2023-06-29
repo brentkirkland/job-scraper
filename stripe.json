@@ -256,14 +256,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4926085"
   },
   {
-    "id": 4933072,
-    "title": "Product Manager, APAC",
-    "location": {
-      "name": "Sydney"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4933072"
-  },
-  {
     "id": 4934211,
     "title": "Integration Reliability Engineer, Technical Operations EMEA",
     "location": {
@@ -406,22 +398,6 @@
       "name": "Ireland"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4966594"
-  },
-  {
-    "id": 4972613,
-    "title": "Product Manager, Money Movement and Storage Experiences",
-    "location": {
-      "name": "US Remote, Canada"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4972613"
-  },
-  {
-    "id": 4973331,
-    "title": "Staff Frontend Engineer, Crypto",
-    "location": {
-      "name": "Remote in US or Canada"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4973331"
   },
   {
     "id": 4977094,
@@ -1008,14 +984,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5046345"
   },
   {
-    "id": 5046430,
-    "title": "Full Stack Engineer, Payins Offline",
-    "location": {
-      "name": "New York, Boston, Toronto, Washington DC"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5046430"
-  },
-  {
     "id": 5046446,
     "title": "Engineering Manager, Checkout",
     "location": {
@@ -1118,14 +1086,6 @@
       "name": "Jakarta, Indonesia"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5060665"
-  },
-  {
-    "id": 5064237,
-    "title": "Frontend Engineer, Money Movement UX",
-    "location": {
-      "name": "Seattle, San Francisco"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5064237"
   },
   {
     "id": 5064759,
