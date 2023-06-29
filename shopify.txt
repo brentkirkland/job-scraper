@@ -16,6 +16,7 @@
 /careers/senior-integrated-marketing-manager-_248bad1d-1894-4584-96e0-c290f49b24bf
 /careers/senior-integrated-marketing-manager-_e6d75f69-65aa-4265-80d8-81e88798923c
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
+/careers/enterprise-business-development-representative---outbound--fluent-french-and-english-_414bc101-8da8-4db9-b05c-dbb0b2e16814
 /careers/customer-success-manager--sea_c581c8ac-19d4-42f1-9ddc-26f5bfc4ea07
 /careers/revenue-excellence-lead--large---mid-market-accounts_4625100a-fa0a-43e0-914e-b12c5a9841d0
 /careers/sales-development-representative--outbound-sales--mid-market-_6c61ae4c-2a5b-4c8c-a2fd-2c090fd75c01
@@ -25,7 +26,6 @@
 /careers/account-executive---new-business--france_fa887200-301c-4d4d-a19e-8229a2d86144
 /careers/partner-sales-representative---japan_33f581fe-d82f-4a30-9ca2-0a574a1784f8
 /careers/senior-technical-onboarding-specialist_a8706340-85bf-4081-bed2-4c597ba75ad4
-/careers/enterprise-business-development-representative---outbound--fluent-french-and-english-_414bc101-8da8-4db9-b05c-dbb0b2e16814
 /careers/business-development-representative---outbound--fluent-german-and-english-_89e0922f-459b-44d2-b37a-e1af3087e9f7
 /careers/business-development-representative---outbound--fluent-english-_edce6d7f-9da7-4ab2-8b9e-c8af501a1086
 /careers/business-development-representative---outbound--fluent-spanish-and-english-_c76cb6ba-ecf4-4904-ac0b-6d46823635d3
