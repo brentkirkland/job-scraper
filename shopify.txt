@@ -2,7 +2,6 @@
 /careers/marketing-design-manager--creative-_566a116d-bb17-42e5-b9aa-96b1174d5def
 /careers/senior-staff-product-designer--checkout-experience-_824ad396-ef85-4e5f-be63-3b486023c23d
 /careers/compliance-lead_83927af5-a307-465c-9e2e-6f61fd554a2c
-/careers/content-manager--apac_01acf78c-5199-46e0-a2b2-0ea036987194
 /careers/marketing-automation-manager-_d5e21e65-e820-4177-b8c6-8e82fc4f56f2
 /careers/partner-marketing-manager--bilingual---french---english-_4fa30a17-3aec-4313-a980-c089434942bd
 /careers/partner-marketing-manager--bilingual---french---english-_d533a7b5-bc70-4e4e-a52d-0105b6614e0c
@@ -11,14 +10,13 @@
 /careers/partner-marketing-manager--bilingual---german---english-_248e7c5d-5b5c-4dee-a6d9-7ea26ea78c9b
 /careers/content-seo-specialist--remote-_6774f1b2-4e98-43f9-872e-d4808bd3e562
 /careers/social-lead--developer-_cb78a115-f5d3-495a-a224-1ff21bf983db
+/careers/content-manager--apac_01acf78c-5199-46e0-a2b2-0ea036987194
 /careers/content-manager-_48f44a6a-7385-43cf-96a5-f7a36c95eef9
 /careers/senior-integrated-marketing-manager-_544dff50-10f4-4848-978c-0fa74a2a812e
 /careers/senior-integrated-marketing-manager-_248bad1d-1894-4584-96e0-c290f49b24bf
 /careers/senior-integrated-marketing-manager-_e6d75f69-65aa-4265-80d8-81e88798923c
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
-/careers/customer-success-manager--sea_c581c8ac-19d4-42f1-9ddc-26f5bfc4ea07
-/careers/revenue-excellence-lead--large---mid-market-accounts_4625100a-fa0a-43e0-914e-b12c5a9841d0
-/careers/sales-development-representative--outbound-sales--mid-market-_6c61ae4c-2a5b-4c8c-a2fd-2c090fd75c01
+/careers/senior-marketing-lead--japan_fd18ad90-06b6-4106-a520-5fb590ab62d4
 /careers/senior-account-executive--large-enterprise-dach-_961b982a-267c-48f1-8c3a-4447c9f75fd1
 /careers/sr--account-executive---large-accounts----southern-europe-spain_cf8daaf6-9529-46a1-a73f-09401ebc0d34
 /careers/senior-account-executive--bilingual---german---english-_c8210e60-5596-4ec3-a6f1-a1495aac1c9a
