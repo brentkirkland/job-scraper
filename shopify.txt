@@ -1,10 +1,8 @@
 /careers/disciplines/engineering
-/careers/staff-product-designer--growth-_2e17f02c-7598-4d6d-8a5b-30ac8143eb2f
 /careers/staff-product-designer-_b6a23dc7-3d3c-4d09-bda2-7443e57e20eb
 /careers/marketing-design-manager--creative-_566a116d-bb17-42e5-b9aa-96b1174d5def
 /careers/senior-staff-product-designer--checkout-experience-_824ad396-ef85-4e5f-be63-3b486023c23d
 /careers/compliance-lead_83927af5-a307-465c-9e2e-6f61fd554a2c
-/careers/senior-growth-marketer--shop_8fb38acf-ba8e-4bb8-9ac5-0fb2a39e9935
 /careers/senior-integrated-marketing-manager-_544dff50-10f4-4848-978c-0fa74a2a812e
 /careers/senior-integrated-marketing-manager-_248bad1d-1894-4584-96e0-c290f49b24bf
 /careers/senior-integrated-marketing-manager-_e6d75f69-65aa-4265-80d8-81e88798923c
@@ -20,6 +18,7 @@
 /careers/partner-marketing-manager--bilingual---german---english-_4b3e9866-f6aa-44de-bfca-f6c6e2ac798f
 /careers/partner-marketing-manager--bilingual---german---english-_48be0efd-3d99-4cc6-b87a-8c04f905c196
 /careers/partner-marketing-manager--bilingual---german---english-_248e7c5d-5b5c-4dee-a6d9-7ea26ea78c9b
+/careers/content-seo-specialist--remote-_6774f1b2-4e98-43f9-872e-d4808bd3e562
 /careers/social-lead--developer-_cb78a115-f5d3-495a-a224-1ff21bf983db
 /careers/content-manager-_48f44a6a-7385-43cf-96a5-f7a36c95eef9
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
