@@ -3,6 +3,9 @@
 /careers/marketing-design-manager--creative-_566a116d-bb17-42e5-b9aa-96b1174d5def
 /careers/senior-staff-product-designer--checkout-experience-_824ad396-ef85-4e5f-be63-3b486023c23d
 /careers/compliance-lead_83927af5-a307-465c-9e2e-6f61fd554a2c
+/careers/senior-integrated-marketing-manager-_544dff50-10f4-4848-978c-0fa74a2a812e
+/careers/senior-integrated-marketing-manager-_248bad1d-1894-4584-96e0-c290f49b24bf
+/careers/senior-integrated-marketing-manager-_e6d75f69-65aa-4265-80d8-81e88798923c
 /careers/lead-content-analyst_ad996553-82c0-4b34-b2b0-82e16a2c3f12
 /careers/lifecycle-marketer-_460c492f-c59a-41e5-968e-84f2adedce99
 /careers/brand---social-lead--shop-_0a9b8d11-ac2a-4dd8-95c9-2d3b1301f427
@@ -18,9 +21,6 @@
 /careers/content-seo-specialist--remote-_6774f1b2-4e98-43f9-872e-d4808bd3e562
 /careers/social-lead--developer-_cb78a115-f5d3-495a-a224-1ff21bf983db
 /careers/content-manager-_48f44a6a-7385-43cf-96a5-f7a36c95eef9
-/careers/senior-integrated-marketing-manager-_544dff50-10f4-4848-978c-0fa74a2a812e
-/careers/senior-integrated-marketing-manager-_248bad1d-1894-4584-96e0-c290f49b24bf
-/careers/senior-integrated-marketing-manager-_e6d75f69-65aa-4265-80d8-81e88798923c
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
 /careers/senior-certifications-program-manager-_ad1cb86d-4260-46a8-b293-edfd31aa3f27
 /careers/senior-instructional-designer-_5e580565-ae17-4c1a-9a1d-39f37260c7ad
