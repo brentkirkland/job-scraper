@@ -24,8 +24,6 @@
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
 /careers/senior-certifications-program-manager-_ad1cb86d-4260-46a8-b293-edfd31aa3f27
 /careers/senior-instructional-designer-_5e580565-ae17-4c1a-9a1d-39f37260c7ad
-/careers/sales-representative---cross-sell-emerging-_bc078436-b476-4790-a119-d7d1c4d74e79
-/careers/deal-desk-analyst_d89410c2-e934-40f5-bb5b-3e47414dc245
 /careers/sales-representative--retail-_621d4e0c-0d60-4753-a3d4-4e63956dcc7f
 /careers/mid-market-account-executive---italy_b429913a-341c-45b7-a42a-1c46e315a96c
 /careers/senior-partner-development-manager---italy_d1152588-95da-4c7c-ba5b-eb4345744d80
@@ -54,6 +52,7 @@
 /careers/senior-partner-solutions-engineer_19519347-c370-4667-ba92-a4620715a468
 /careers/solutions-architect---payments---checkout_e8efe975-c571-4e3e-8b6d-8e96ac027b60
 /careers/enterprise-success-manager-_1dae5ade-09b5-4f4c-bd76-e7e2fe789dbb
+/careers/deal-desk-analyst_d89410c2-e934-40f5-bb5b-3e47414dc245
 /careers/sales-representative--gcr_e6f2098b-1076-41db-a7a0-fe6d07d1a7e8
 /careers/senior-account-executive--mid-market--northern-europe-_e5e88f16-9f55-4737-9f13-43cb49b32965
 /careers/senior-mid-market-account-executive--new-business-_7b061f27-bb9b-438e-8e26-4bae4dccbd33
