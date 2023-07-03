@@ -1,13 +1,15 @@
 /careers/disciplines/engineering
+/careers/staff-product-designer--growth-_2e17f02c-7598-4d6d-8a5b-30ac8143eb2f
 /careers/staff-product-designer-_b6a23dc7-3d3c-4d09-bda2-7443e57e20eb
 /careers/marketing-design-manager--creative-_566a116d-bb17-42e5-b9aa-96b1174d5def
 /careers/senior-staff-product-designer--checkout-experience-_824ad396-ef85-4e5f-be63-3b486023c23d
 /careers/compliance-lead_83927af5-a307-465c-9e2e-6f61fd554a2c
+/careers/lifecycle-marketer-_460c492f-c59a-41e5-968e-84f2adedce99
+/careers/senior-growth-marketer--shop_8fb38acf-ba8e-4bb8-9ac5-0fb2a39e9935
 /careers/senior-integrated-marketing-manager-_544dff50-10f4-4848-978c-0fa74a2a812e
 /careers/senior-integrated-marketing-manager-_248bad1d-1894-4584-96e0-c290f49b24bf
 /careers/senior-integrated-marketing-manager-_e6d75f69-65aa-4265-80d8-81e88798923c
 /careers/lead-content-analyst_ad996553-82c0-4b34-b2b0-82e16a2c3f12
-/careers/lifecycle-marketer-_460c492f-c59a-41e5-968e-84f2adedce99
 /careers/brand---social-lead--shop-_0a9b8d11-ac2a-4dd8-95c9-2d3b1301f427
 /careers/brand---social-lead--shop-_21a9c7b4-02e6-4603-9d0f-de139947cc06
 /careers/partner-marketing-manager--asia_ed0ac2e7-6871-466c-ae46-3f83e53088df
@@ -18,7 +20,6 @@
 /careers/partner-marketing-manager--bilingual---german---english-_4b3e9866-f6aa-44de-bfca-f6c6e2ac798f
 /careers/partner-marketing-manager--bilingual---german---english-_48be0efd-3d99-4cc6-b87a-8c04f905c196
 /careers/partner-marketing-manager--bilingual---german---english-_248e7c5d-5b5c-4dee-a6d9-7ea26ea78c9b
-/careers/content-seo-specialist--remote-_6774f1b2-4e98-43f9-872e-d4808bd3e562
 /careers/social-lead--developer-_cb78a115-f5d3-495a-a224-1ff21bf983db
 /careers/content-manager-_48f44a6a-7385-43cf-96a5-f7a36c95eef9
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
@@ -34,7 +35,6 @@
 /careers/enterprise-business-development-representative---outbound--fluent-french-and-english-_414bc101-8da8-4db9-b05c-dbb0b2e16814
 /careers/customer-success-manager--sea_c581c8ac-19d4-42f1-9ddc-26f5bfc4ea07
 /careers/revenue-excellence-lead--large---mid-market-accounts_4625100a-fa0a-43e0-914e-b12c5a9841d0
-/careers/sales-development-representative--outbound-sales--mid-market-_6c61ae4c-2a5b-4c8c-a2fd-2c090fd75c01
 /careers/senior-account-executive--large-enterprise-dach-_961b982a-267c-48f1-8c3a-4447c9f75fd1
 /careers/sr--account-executive---large-accounts----southern-europe-spain_cf8daaf6-9529-46a1-a73f-09401ebc0d34
 /careers/senior-account-executive--bilingual---german---english-_c8210e60-5596-4ec3-a6f1-a1495aac1c9a
