@@ -312,14 +312,6 @@
     "absolute_url": "https://boards.greenhouse.io/figma/jobs/4888588004"
   },
   {
-    "id": 4891165004,
-    "title": "Account Executive, Mid Market (London, UK)",
-    "location": {
-      "name": "London, England"
-    },
-    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4891165004"
-  },
-  {
     "id": 4891847004,
     "title": "Onboarding Manager, Customer Experience (Tokyo, Japan)",
     "location": {
@@ -526,5 +518,13 @@
       "name": "Paris, France"
     },
     "absolute_url": "https://boards.greenhouse.io/figma/jobs/4918695004"
+  },
+  {
+    "id": 4921807004,
+    "title": "Enterprise Solutions Architect (Berlin, Germany)",
+    "location": {
+      "name": "Berlin, Germany"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4921807004"
   }
 ]
