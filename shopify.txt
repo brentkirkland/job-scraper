@@ -4,6 +4,7 @@
 /careers/marketing-design-manager--creative-_566a116d-bb17-42e5-b9aa-96b1174d5def
 /careers/senior-staff-product-designer--checkout-experience-_824ad396-ef85-4e5f-be63-3b486023c23d
 /careers/compliance-lead_83927af5-a307-465c-9e2e-6f61fd554a2c
+/careers/content-manager--apac_01acf78c-5199-46e0-a2b2-0ea036987194
 /careers/lifecycle-marketer-_460c492f-c59a-41e5-968e-84f2adedce99
 /careers/senior-growth-marketer--shop_8fb38acf-ba8e-4bb8-9ac5-0fb2a39e9935
 /careers/senior-integrated-marketing-manager-_544dff50-10f4-4848-978c-0fa74a2a812e
@@ -13,7 +14,6 @@
 /careers/brand---social-lead--shop-_0a9b8d11-ac2a-4dd8-95c9-2d3b1301f427
 /careers/brand---social-lead--shop-_21a9c7b4-02e6-4603-9d0f-de139947cc06
 /careers/partner-marketing-manager--asia_ed0ac2e7-6871-466c-ae46-3f83e53088df
-/careers/content-manager--apac_01acf78c-5199-46e0-a2b2-0ea036987194
 /careers/marketing-automation-manager-_d5e21e65-e820-4177-b8c6-8e82fc4f56f2
 /careers/partner-marketing-manager--bilingual---french---english-_4fa30a17-3aec-4313-a980-c089434942bd
 /careers/partner-marketing-manager--bilingual---french---english-_d533a7b5-bc70-4e4e-a52d-0105b6614e0c
@@ -25,6 +25,7 @@
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
 /careers/senior-certifications-program-manager-_ad1cb86d-4260-46a8-b293-edfd31aa3f27
 /careers/senior-instructional-designer-_5e580565-ae17-4c1a-9a1d-39f37260c7ad
+/careers/senior-merchant-success-manager--anz_ef7bb5d9-f703-4124-9537-0f5d234edb58
 /careers/sales-representative---cross-sell-emerging-_bc078436-b476-4790-a119-d7d1c4d74e79
 /careers/deal-desk-analyst_d89410c2-e934-40f5-bb5b-3e47414dc245
 /careers/sales-representative--retail-_621d4e0c-0d60-4753-a3d4-4e63956dcc7f
@@ -65,4 +66,3 @@
 /careers/sales-representative---anz_f4a8ae6f-46fa-4631-97fb-ca6536b61be2
 /careers/revenue-operations-lead--incentive-compensation_14d1efbf-ea1d-47be-af7b-e6bf5e20b64d
 /careers/sales-development-representative---outbound--japan_d1f7db72-cbb3-4a9c-81f8-6f43ff84155a
-/careers/sales-development-representative---inbound--japan_94bb227b-2349-4789-8b35-f2b99d6ee203
