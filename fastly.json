@@ -49,7 +49,7 @@
   },
   {
     "id": 4853474,
-    "title": "Security Analyst ",
+    "title": "SOC Analyst ",
     "location": {
       "name": "Japan (Remote)"
     },
@@ -230,14 +230,6 @@
       "name": "Los Angeles, CA"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5027349"
-  },
-  {
-    "id": 5038128,
-    "title": "SOC Analyst ",
-    "location": {
-      "name": "Singapore (Remote)"
-    },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5038128"
   },
   {
     "id": 5050773,
@@ -470,6 +462,14 @@
       "name": "San Francisco, CA"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5092266"
+  },
+  {
+    "id": 5094684,
+    "title": "SOC Analyst（日本語）",
+    "location": {
+      "name": "Tokyo, Japan"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5094684"
   },
   {
     "id": 5096084,
