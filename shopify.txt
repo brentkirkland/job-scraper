@@ -3,7 +3,6 @@
 /careers/staff-product-designer-_b6a23dc7-3d3c-4d09-bda2-7443e57e20eb
 /careers/marketing-design-manager--creative-_566a116d-bb17-42e5-b9aa-96b1174d5def
 /careers/senior-staff-product-designer--checkout-experience-_824ad396-ef85-4e5f-be63-3b486023c23d
-/careers/analyst--business-analytics--merchant-lending-credit-_2327faca-b5ca-4951-b337-c6ed83191496
 /careers/compliance-lead_83927af5-a307-465c-9e2e-6f61fd554a2c
 /careers/senior-product-marketing-manager--financial-services-_46a7feb6-7160-4a84-8e1d-630d8cfcd784
 /careers/content-manager--apac_01acf78c-5199-46e0-a2b2-0ea036987194
@@ -13,6 +12,8 @@
 /careers/senior-integrated-marketing-manager-_248bad1d-1894-4584-96e0-c290f49b24bf
 /careers/senior-integrated-marketing-manager-_e6d75f69-65aa-4265-80d8-81e88798923c
 /careers/lead-content-analyst_ad996553-82c0-4b34-b2b0-82e16a2c3f12
+/careers/brand---social-lead--shop-_0a9b8d11-ac2a-4dd8-95c9-2d3b1301f427
+/careers/brand---social-lead--shop-_21a9c7b4-02e6-4603-9d0f-de139947cc06
 /careers/partner-marketing-manager--asia_ed0ac2e7-6871-466c-ae46-3f83e53088df
 /careers/marketing-automation-manager-_d5e21e65-e820-4177-b8c6-8e82fc4f56f2
 /careers/partner-marketing-manager--bilingual---french---english-_4fa30a17-3aec-4313-a980-c089434942bd
