@@ -496,14 +496,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4985937"
   },
   {
-    "id": 4986907,
-    "title": "Product Marketing Manager, Solution & Product Enablement",
-    "location": {
-      "name": "US Remote"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4986907"
-  },
-  {
     "id": 4990760,
     "title": "Head of Stripe Startups Program",
     "location": {
@@ -1430,6 +1422,14 @@
       "name": "Seattle, SF, Chicago, NYC, Toronto"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5128289"
+  },
+  {
+    "id": 5130098,
+    "title": "Engineering Manager, Treasury (Banking as a Service)",
+    "location": {
+      "name": "New York City"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5130098"
   },
   {
     "id": 5130441,
