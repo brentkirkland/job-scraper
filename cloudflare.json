@@ -2680,6 +2680,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5141520?gh_jid=5141520"
   },
   {
+    "id": 5142730,
+    "title": "Security Compliance Specialist (ISMAP)",
+    "location": {
+      "name": "Tokyo, Japan"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5142730?gh_jid=5142730"
+  },
+  {
     "id": 5143144,
     "title": "Legal Counsel, Privacy",
     "location": {
@@ -2726,5 +2734,21 @@
       "name": "Remote US"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5147158?gh_jid=5147158"
+  },
+  {
+    "id": 5148743,
+    "title": "Manager, Professional Services",
+    "location": {
+      "name": "Singapore"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5148743?gh_jid=5148743"
+  },
+  {
+    "id": 5149640,
+    "title": "Manager, Professional Services",
+    "location": {
+      "name": "Sydney, Australia"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5149640?gh_jid=5149640"
   }
 ]
