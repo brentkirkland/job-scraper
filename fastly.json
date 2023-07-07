@@ -830,5 +830,37 @@
       "name": "Denver, CO"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5153942"
+  },
+  {
+    "id": 5158647,
+    "title": "Senior Product Manager - Platform IAM",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5158647"
+  },
+  {
+    "id": 5160630,
+    "title": "Senior Product Manager - Platform IAM",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5160630"
+  },
+  {
+    "id": 5160632,
+    "title": "Senior Product Manager - Platform IAM",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5160632"
+  },
+  {
+    "id": 5160633,
+    "title": "Senior Product Manager - Platform IAM",
+    "location": {
+      "name": "Los Angeles, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5160633"
   }
 ]
