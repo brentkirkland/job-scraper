@@ -5,7 +5,6 @@
 /careers/senior-staff-product-designer--checkout-experience-_824ad396-ef85-4e5f-be63-3b486023c23d
 /careers/revenue-operations-analyst--emea-_d2c70400-1e45-4120-865c-9f65684dc1e0
 /careers/sr--analyst--business-analytics--merchant-lending-credit-_2327faca-b5ca-4951-b337-c6ed83191496
-/careers/compliance-lead_83927af5-a307-465c-9e2e-6f61fd554a2c
 /careers/senior-growth-marketer--shop_8fb38acf-ba8e-4bb8-9ac5-0fb2a39e9935
 /careers/partner-marketing-lead---partner-acquisition-_d57045f8-02f1-4c50-866c-adf9bcfb562a
 /careers/senior-product-marketing-manager--financial-services-_46a7feb6-7160-4a84-8e1d-630d8cfcd784
@@ -35,7 +34,6 @@
 /careers/senior-solutions-engineer---retail_9afa2f53-6860-4c79-a80a-9e7b1e4c90a1
 /careers/senior-solutions-engineer---mid-market_85fb685b-1665-49d6-8ba0-b760384791f7
 /careers/senior-merchant-success-manager--anz_ef7bb5d9-f703-4124-9537-0f5d234edb58
-/careers/sales-representative---cross-sell-emerging-_bc078436-b476-4790-a119-d7d1c4d74e79
 /careers/deal-desk-analyst_d89410c2-e934-40f5-bb5b-3e47414dc245
 /careers/mid-market-account-executive---italy_b429913a-341c-45b7-a42a-1c46e315a96c
 /careers/senior-partner-development-manager---italy_d1152588-95da-4c7c-ba5b-eb4345744d80
