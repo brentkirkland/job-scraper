@@ -13,6 +13,8 @@
 /careers/senior-integrated-marketing-manager-_544dff50-10f4-4848-978c-0fa74a2a812e
 /careers/senior-integrated-marketing-manager-_248bad1d-1894-4584-96e0-c290f49b24bf
 /careers/senior-integrated-marketing-manager-_e6d75f69-65aa-4265-80d8-81e88798923c
+/careers/lead-content-analyst_ad996553-82c0-4b34-b2b0-82e16a2c3f12
+/careers/partner-marketing-manager--asia_ed0ac2e7-6871-466c-ae46-3f83e53088df
 /careers/partner-marketing-manager--bilingual---french---english-_4fa30a17-3aec-4313-a980-c089434942bd
 /careers/partner-marketing-manager--bilingual---french---english-_d533a7b5-bc70-4e4e-a52d-0105b6614e0c
 /careers/partner-marketing-manager--bilingual---german---english-_4b3e9866-f6aa-44de-bfca-f6c6e2ac798f
@@ -53,6 +55,7 @@
 /careers/complex-deal-desk-analyst_8bea4f05-d226-41df-bd20-dd61b060b0bb
 /careers/sales-development-team-lead_244ae968-ce64-4105-bd73-53a56fa29596
 /careers/sales-representative--gcr_7e2a3a87-57ac-4e1d-a5ac-f169ff765720
+/careers/investor-partner-manager-_2d5f0350-9451-4cf6-9af5-dd7431a33b4f
 /careers/enterprise-solutions-engineer-france---_fb29731a-6fc3-45dc-8803-612742ec60cd
 /careers/enterprise-solutions-engineer_709afa91-46bf-45ad-9ad1-61db36bce0ce
 /careers/senior-partner-manager---france-_f3f6068d-9969-48e2-9477-3d6e18dca6a7
