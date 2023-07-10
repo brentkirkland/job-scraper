@@ -1,4 +1,5 @@
 /careers/disciplines/engineering
+/careers/staff-ux-designer---core-product-marketing-_000a6b19-27a4-40ab-bc4b-d84586b160dd
 /careers/staff-product-designer--growth-_2e17f02c-7598-4d6d-8a5b-30ac8143eb2f
 /careers/staff-product-designer-_b6a23dc7-3d3c-4d09-bda2-7443e57e20eb
 /careers/marketing-design-manager--creative-_566a116d-bb17-42e5-b9aa-96b1174d5def
@@ -33,7 +34,6 @@
 /careers/account-executive--retail-_621d4e0c-0d60-4753-a3d4-4e63956dcc7f
 /careers/senior-solutions-engineer---retail_9afa2f53-6860-4c79-a80a-9e7b1e4c90a1
 /careers/senior-solutions-engineer---mid-market_85fb685b-1665-49d6-8ba0-b760384791f7
-/careers/senior-merchant-success-manager--anz_ef7bb5d9-f703-4124-9537-0f5d234edb58
 /careers/deal-desk-analyst_d89410c2-e934-40f5-bb5b-3e47414dc245
 /careers/mid-market-account-executive---italy_b429913a-341c-45b7-a42a-1c46e315a96c
 /careers/senior-partner-development-manager---italy_d1152588-95da-4c7c-ba5b-eb4345744d80
