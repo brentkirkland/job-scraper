@@ -464,6 +464,14 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4936882/?gh_jid=4936882"
   },
   {
+    "id": 4949522,
+    "title": "Sales Development Representative (Denver)",
+    "location": {
+      "name": "Denver, Colorado, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4949522/?gh_jid=4949522"
+  },
+  {
     "id": 4954513,
     "title": "Senior Product Manager - Continuous & Developer Testing ",
     "location": {
@@ -1472,6 +1480,14 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5137610/?gh_jid=5137610"
   },
   {
+    "id": 5138869,
+    "title": "Manager, Customer Success - LATAM",
+    "location": {
+      "name": "Boston, Massachusetts, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5138869/?gh_jid=5138869"
+  },
+  {
     "id": 5140216,
     "title": "Engineering Manager 1 - Alerting Platform",
     "location": {
@@ -1534,5 +1550,13 @@
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5157912/?gh_jid=5157912"
+  },
+  {
+    "id": 5163912,
+    "title": "Sales Development Representative (LATAM) - Spanish Speaking",
+    "location": {
+      "name": "Boston, Massachusetts, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5163912/?gh_jid=5163912"
   }
 ]
