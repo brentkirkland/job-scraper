@@ -528,14 +528,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4975213/?gh_jid=4975213"
   },
   {
-    "id": 4975215,
-    "title": "Field Marketing Manager (ASEAN & SAARC)",
-    "location": {
-      "name": "Singapore, Singapore"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4975215/?gh_jid=4975215"
-  },
-  {
     "id": 4979173,
     "title": "Receptionist",
     "location": {
@@ -798,6 +790,22 @@
       "name": "San Francisco, California, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5023656/?gh_jid=5023656"
+  },
+  {
+    "id": 5024611,
+    "title": "Customer Success Manager",
+    "location": {
+      "name": "Denver, Colorado, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5024611/?gh_jid=5024611"
+  },
+  {
+    "id": 5024640,
+    "title": "Customer Success Manager",
+    "location": {
+      "name": "Boston, Massachusetts, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5024640/?gh_jid=5024640"
   },
   {
     "id": 5027023,
@@ -1518,6 +1526,14 @@
       "name": "London, England; Paris, France "
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5137610/?gh_jid=5137610"
+  },
+  {
+    "id": 5138869,
+    "title": "Manager, Customer Success - LATAM",
+    "location": {
+      "name": "Boston, Massachusetts, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5138869/?gh_jid=5138869"
   },
   {
     "id": 5140216,
