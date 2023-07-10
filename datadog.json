@@ -224,14 +224,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4599154/?gh_jid=4599154"
   },
   {
-    "id": 4693590,
-    "title": "Manager, Engineering I - Profiler",
-    "location": {
-      "name": "New York, NY, United States"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4693590/?gh_jid=4693590"
-  },
-  {
     "id": 4701805,
     "title": "Director, Product Management - Service Management",
     "location": {
@@ -1550,6 +1542,14 @@
       "name": "Paris, France; Grenoble, France; Lyon, France; Nantes, France; Montpellier, France; Sophia Antipolis, France; Bordeaux, France; Madrid, Spain; Lisbon, Portugal; "
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5143386/?gh_jid=5143386"
+  },
+  {
+    "id": 5147846,
+    "title": "Senior AV Engineer",
+    "location": {
+      "name": "New York, New York, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5147846/?gh_jid=5147846"
   },
   {
     "id": 5157912,
