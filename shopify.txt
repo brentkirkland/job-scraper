@@ -33,7 +33,6 @@
 /careers/account-executive--retail-_621d4e0c-0d60-4753-a3d4-4e63956dcc7f
 /careers/senior-solutions-engineer---retail_9afa2f53-6860-4c79-a80a-9e7b1e4c90a1
 /careers/senior-solutions-engineer---mid-market_85fb685b-1665-49d6-8ba0-b760384791f7
-/careers/senior-merchant-success-manager--anz_ef7bb5d9-f703-4124-9537-0f5d234edb58
 /careers/deal-desk-analyst_d89410c2-e934-40f5-bb5b-3e47414dc245
 /careers/mid-market-account-executive---italy_b429913a-341c-45b7-a42a-1c46e315a96c
 /careers/senior-partner-development-manager---italy_d1152588-95da-4c7c-ba5b-eb4345744d80
@@ -67,5 +66,4 @@
 /careers/sales-representative--japan_1e66c021-ee2e-47aa-9b7c-163ea2ce6473
 /careers/senior-solutions-engineer-dach-_5e39deeb-9d02-4303-b7a0-e30a35326470
 /careers/sales-representative---anz_f4a8ae6f-46fa-4631-97fb-ca6536b61be2
-/careers/revenue-operations-lead--incentive-compensation_14d1efbf-ea1d-47be-af7b-e6bf5e20b64d
 /careers/sales-development-representative---outbound--japan_d1f7db72-cbb3-4a9c-81f8-6f43ff84155a
