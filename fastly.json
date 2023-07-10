@@ -88,14 +88,6 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4956953"
   },
   {
-    "id": 4986957,
-    "title": "Senior Director, Inclusion & Diversity",
-    "location": {
-      "name": "San Francisco, CA"
-    },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=4986957"
-  },
-  {
     "id": 5004603,
     "title": "Enterprise Account Manager",
     "location": {
@@ -846,5 +838,37 @@
       "name": "Los Angeles, CA"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5160633"
+  },
+  {
+    "id": 5160687,
+    "title": "Senior Security Engineer",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5160687"
+  },
+  {
+    "id": 5160885,
+    "title": "Senior Security Engineer",
+    "location": {
+      "name": "Los Angeles, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5160885"
+  },
+  {
+    "id": 5160889,
+    "title": "Senior Security Engineer",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5160889"
+  },
+  {
+    "id": 5160890,
+    "title": "Senior Security Engineer",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5160890"
   }
 ]

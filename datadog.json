@@ -112,6 +112,22 @@
     "absolute_url": "https://careers.datadoghq.com/detail/3851935/?gh_jid=3851935"
   },
   {
+    "id": 3851947,
+    "title": "Software Engineer with Systems Depth",
+    "location": {
+      "name": "New York, New York, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/3851947/?gh_jid=3851947"
+  },
+  {
+    "id": 3851948,
+    "title": "Software Engineer with Systems Depth",
+    "location": {
+      "name": "Denver, Colorado, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/3851948/?gh_jid=3851948"
+  },
+  {
     "id": 4071910,
     "title": "Senior Software Engineer - Site Reliability",
     "location": {
@@ -150,6 +166,14 @@
       "name": "New York, New York, USA; Boston, Massachusetts, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4452817/?gh_jid=4452817"
+  },
+  {
+    "id": 4452834,
+    "title": "Senior Software Engineer - CI Platform ",
+    "location": {
+      "name": "New York, New York, USA; Boston, Massachusetts, USA; "
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4452834/?gh_jid=4452834"
   },
   {
     "id": 4452851,
