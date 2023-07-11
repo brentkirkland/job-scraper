@@ -1,4 +1,5 @@
 /careers/disciplines/engineering
+/careers/senior-creative-producer-_c481d138-b932-417d-8b47-62ce5fa3144a
 /careers/staff-product-designer-_b6a23dc7-3d3c-4d09-bda2-7443e57e20eb
 /careers/staff-ux-designer---core-product-marketing-_000a6b19-27a4-40ab-bc4b-d84586b160dd
 /careers/staff-product-designer--growth-_2e17f02c-7598-4d6d-8a5b-30ac8143eb2f
@@ -54,7 +55,6 @@
 /careers/enterprise-solutions-engineer_709afa91-46bf-45ad-9ad1-61db36bce0ce
 /careers/senior-partner-manager---france-_f3f6068d-9969-48e2-9477-3d6e18dca6a7
 /careers/sales-development-representative---inbound--bilingual---german-italian-french-_d3374a32-ced8-4132-84c2-2230993a14e8
-/careers/senior-partner-solutions-engineer_19519347-c370-4667-ba92-a4620715a468
 /careers/solutions-architect---payments---checkout_e8efe975-c571-4e3e-8b6d-8e96ac027b60
 /careers/sales-representative--gcr_e6f2098b-1076-41db-a7a0-fe6d07d1a7e8
 /careers/senior-account-executive--mid-market--northern-europe-_e5e88f16-9f55-4737-9f13-43cb49b32965
