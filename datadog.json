@@ -56,14 +56,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/1826072/?gh_jid=1826072"
   },
   {
-    "id": 1826164,
-    "title": "Software Engineer - Mobile SDK (iOS)",
-    "location": {
-      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/1826164/?gh_jid=1826164"
-  },
-  {
     "id": 1826201,
     "title": "Library Software Engineer - Go",
     "location": {
@@ -1072,6 +1064,14 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5062040/?gh_jid=5062040"
   },
   {
+    "id": 5065446,
+    "title": "Senior Data Scientist",
+    "location": {
+      "name": "New York, New York, USA; Boston, Massachusetts, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5065446/?gh_jid=5065446"
+  },
+  {
     "id": 5065740,
     "title": "Engineering Manager I- Detection Engineering",
     "location": {
@@ -1614,6 +1614,14 @@
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5157912/?gh_jid=5157912"
+  },
+  {
+    "id": 5158185,
+    "title": "Senior Software Engineer - Mobile iOS/Swift",
+    "location": {
+      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5158185/?gh_jid=5158185"
   },
   {
     "id": 5163912,
