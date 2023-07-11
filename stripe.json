@@ -411,7 +411,7 @@
     "id": 4977225,
     "title": "Data Analyst, Growth",
     "location": {
-      "name": "Toronto"
+      "name": "Toronto, Canada"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4977225"
   },
@@ -1510,5 +1510,13 @@
       "name": "Toronto"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5164589"
+  },
+  {
+    "id": 5167510,
+    "title": "Data Scientist, Terminal",
+    "location": {
+      "name": "Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5167510"
   }
 ]
