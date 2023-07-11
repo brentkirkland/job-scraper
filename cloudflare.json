@@ -528,14 +528,6 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4702182?gh_jid=4702182"
   },
   {
-    "id": 4704908,
-    "title": "Senior Product Designer ",
-    "location": {
-      "name": "Remote US"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4704908?gh_jid=4704908"
-  },
-  {
     "id": 4712586,
     "title": "Technical Program Manager (Mandarin Speaking)",
     "location": {
@@ -673,7 +665,7 @@
   },
   {
     "id": 4787217,
-    "title": "Senior Security Risk Management Specialist",
+    "title": "Security Risk Management Specialist",
     "location": {
       "name": "Remote US"
     },
@@ -681,7 +673,7 @@
   },
   {
     "id": 4787218,
-    "title": "Senior Security Risk Management Specialist",
+    "title": "Security Risk Management Specialist",
     "location": {
       "name": "Lisbon or London or Munich"
     },
@@ -729,7 +721,7 @@
   },
   {
     "id": 4812489,
-    "title": "Senior Security Risk Management Specialist",
+    "title": "Security Risk Management Specialist",
     "location": {
       "name": "London or Munich or Amsterdam"
     },
@@ -737,7 +729,7 @@
   },
   {
     "id": 4812490,
-    "title": "Senior Security Risk Management Specialist",
+    "title": "Security Risk Management Specialist",
     "location": {
       "name": "Paris, France"
     },
@@ -870,14 +862,6 @@
       "name": "Tokyo, Japan"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4832976?gh_jid=4832976"
-  },
-  {
-    "id": 4834261,
-    "title": "Account Executive (Latin America)",
-    "location": {
-      "name": "Miami, FL"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4834261?gh_jid=4834261"
   },
   {
     "id": 4836259,
@@ -1904,22 +1888,6 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5061761?gh_jid=5061761"
   },
   {
-    "id": 5062794,
-    "title": "Security Engineer - Detection and Response",
-    "location": {
-      "name": "Austin, TX"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5062794?gh_jid=5062794"
-  },
-  {
-    "id": 5062796,
-    "title": "Security Engineer - Detection and Response",
-    "location": {
-      "name": "Remote US"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5062796?gh_jid=5062796"
-  },
-  {
     "id": 5065204,
     "title": "Senior Manager, People Team Business Partner",
     "location": {
@@ -2742,5 +2710,13 @@
       "name": "Lisbon, Portugal"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5163949?gh_jid=5163949"
+  },
+  {
+    "id": 5168093,
+    "title": "Account Executive (Latin America)",
+    "location": {
+      "name": "Remote Mexico"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5168093?gh_jid=5168093"
   }
 ]
