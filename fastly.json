@@ -742,5 +742,37 @@
       "name": "New York City, NY"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5165162"
+  },
+  {
+    "id": 5171925,
+    "title": "Product Operations Analyst",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5171925"
+  },
+  {
+    "id": 5175898,
+    "title": "Product Operations Analyst",
+    "location": {
+      "name": "Los Angeles, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5175898"
+  },
+  {
+    "id": 5175907,
+    "title": "Product Operations Analyst",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5175907"
+  },
+  {
+    "id": 5175917,
+    "title": "Product Operations Analyst",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5175917"
   }
 ]
