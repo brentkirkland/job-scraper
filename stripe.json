@@ -1494,5 +1494,13 @@
       "name": "Bangalore"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5167655"
+  },
+  {
+    "id": 5177491,
+    "title": "Backend Engineer, Accounts",
+    "location": {
+      "name": "Toronto"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5177491"
   }
 ]
