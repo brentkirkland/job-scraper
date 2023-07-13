@@ -1299,7 +1299,7 @@
     "id": 4950327,
     "title": "Partner Solutions Engineer - EMEA (German-speaking)",
     "location": {
-      "name": "Munich, Germany"
+      "name": "Lisbon or London or Munich"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4950327?gh_jid=4950327"
   },
@@ -2654,5 +2654,13 @@
       "name": "Remote Mexico"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5168093?gh_jid=5168093"
+  },
+  {
+    "id": 5176009,
+    "title": "Partner Solutions Engineer - EMEA (German-speaking)",
+    "location": {
+      "name": "Paris, France"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5176009?gh_jid=5176009"
   }
 ]

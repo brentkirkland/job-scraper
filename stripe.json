@@ -928,14 +928,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5064237"
   },
   {
-    "id": 5064759,
-    "title": "Financial Data Analyst, EMEA",
-    "location": {
-      "name": "EMEA"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5064759"
-  },
-  {
     "id": 5064948,
     "title": "Machine Learning Engineer, Revenue and Finance Automation",
     "location": {
@@ -1414,6 +1406,14 @@
       "name": "Dublin"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5140420"
+  },
+  {
+    "id": 5141121,
+    "title": "Security Investigations Analyst",
+    "location": {
+      "name": "Remote US, Seattle, San Francisco, Remote Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5141121"
   },
   {
     "id": 5141764,
