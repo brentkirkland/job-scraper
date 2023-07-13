@@ -43,7 +43,7 @@
     "id": 1826047,
     "title": "Software Engineer - Site Reliability",
     "location": {
-      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
+      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France; Grenoble, France; Montpellier, France;"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/1826047/?gh_jid=1826047"
   },
@@ -115,7 +115,7 @@
     "id": 4071910,
     "title": "Senior Software Engineer - Site Reliability",
     "location": {
-      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
+      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Grenoble, France; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Montpellier, France; Lyon, France"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4071910/?gh_jid=4071910"
   },
@@ -366,14 +366,6 @@
       "name": "Paris, France"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4874635/?gh_jid=4874635"
-  },
-  {
-    "id": 4878787,
-    "title": "Software Engineer - Production Support",
-    "location": {
-      "name": "Paris, France; Nantes, France; Lyon, France; Sophia Antipolis, France; Bordeaux, France; Madrid, Spain; Lisbon, Portugal"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4878787/?gh_jid=4878787"
   },
   {
     "id": 4895765,
@@ -686,14 +678,6 @@
       "name": "Dublin, Ireland"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5012917/?gh_jid=5012917"
-  },
-  {
-    "id": 5012929,
-    "title": "Commercial Account Executive (Turkish)",
-    "location": {
-      "name": "Dublin, Ireland "
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/5012929/?gh_jid=5012929"
   },
   {
     "id": 5013256,
@@ -1542,6 +1526,14 @@
       "name": "Boston, Massachusetts, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5163912/?gh_jid=5163912"
+  },
+  {
+    "id": 5166516,
+    "title": "Software Engineer - Core Observability",
+    "location": {
+      "name": "Paris, France; Grenoble, France; Lyon, France; Nantes, France; Montpellier, France; Sophia Antipolis, France; Bordeaux, France; Madrid, Spain; Lisbon, Portugal; "
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5166516/?gh_jid=5166516"
   },
   {
     "id": 5168576,
