@@ -6,6 +6,7 @@
 /careers/staff-technical-project-manager--professional-services_772131e7-9810-491f-8f32-c09cbb1fab7a
 /careers/revenue-operations-analyst--emea-_d2c70400-1e45-4120-865c-9f65684dc1e0
 /careers/junior-support-advisors-_8fd278d8-f8a6-4e54-98de-b2f03fee1fab
+/careers/senior-product-marketing-manager--core-optimize_cbb78e51-e1d2-41cf-80fb-ec414f4dc063
 /careers/content-manager--apac_01acf78c-5199-46e0-a2b2-0ea036987194
 /careers/partner-marketing-lead---partner-acquisition-_d57045f8-02f1-4c50-866c-adf9bcfb562a
 /careers/lifecycle-marketer-_460c492f-c59a-41e5-968e-84f2adedce99
@@ -23,7 +24,6 @@
 /careers/partner-manager_5da6d158-e8d7-484c-ad9c-66aa4420d72b
 /careers/senior-certifications-program-manager-_ad1cb86d-4260-46a8-b293-edfd31aa3f27
 /careers/senior-instructional-designer-_5e580565-ae17-4c1a-9a1d-39f37260c7ad
-/careers/sales-representative---cross-sell-emerging-_16cc5576-7fa9-4967-bd9d-39e17b5c5a46
 /careers/senior-sales-representative-_3b00fae1-fa52-47b6-84de-173879ed4492
 /careers/senior-agency-partner-manager--dach-_d1cbbfc3-2b11-456e-ac04-5b7ffcb7c540
 /careers/senior-agency-partner-manager--dach-_d0557dbb-c062-49b5-8116-483db5b361d7
