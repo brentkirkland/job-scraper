@@ -3,6 +3,7 @@
 /careers/staff-product-designer-_b6a23dc7-3d3c-4d09-bda2-7443e57e20eb
 /careers/staff-ux-designer---core-product-marketing-_000a6b19-27a4-40ab-bc4b-d84586b160dd
 /careers/staff-product-designer--growth-_2e17f02c-7598-4d6d-8a5b-30ac8143eb2f
+/careers/staff-technical-project-manager--professional-services_772131e7-9810-491f-8f32-c09cbb1fab7a
 /careers/revenue-operations-analyst--emea-_d2c70400-1e45-4120-865c-9f65684dc1e0
 /careers/talent-management-program-specialist_92bf4324-6b79-4045-b34c-88a3a9d19fcd
 /careers/sr--analyst--business-analytics--merchant-lending-credit-_2327faca-b5ca-4951-b337-c6ed83191496
@@ -19,14 +20,16 @@
 /careers/social-lead--developer-_cb78a115-f5d3-495a-a224-1ff21bf983db
 /careers/content-manager-_48f44a6a-7385-43cf-96a5-f7a36c95eef9
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
+/careers/partner-operations-manager_bba9d38c-44fc-4f08-b980-d5870b112c92
+/careers/senior-partner-program-manager_e4a86fc2-b832-4a85-8674-731ba146f1d8
 /careers/solutions-architect--commerce-and-payments_b3d33a8b-ecb3-4b75-ace3-7bff6e30c485
 /careers/partner-manager_5da6d158-e8d7-484c-ad9c-66aa4420d72b
 /careers/senior-certifications-program-manager-_ad1cb86d-4260-46a8-b293-edfd31aa3f27
 /careers/senior-instructional-designer-_5e580565-ae17-4c1a-9a1d-39f37260c7ad
+/careers/senior-sales-representative-_3b00fae1-fa52-47b6-84de-173879ed4492
 /careers/senior-agency-partner-manager--dach-_d1cbbfc3-2b11-456e-ac04-5b7ffcb7c540
 /careers/senior-agency-partner-manager--dach-_d0557dbb-c062-49b5-8116-483db5b361d7
 /careers/senior-agency-partner-manager--dach-_c681a594-148f-4101-bfd2-9f2a42bf7e69
-/careers/senior-sales-representative-_3b00fae1-fa52-47b6-84de-173879ed4492
 /careers/sales-development-representative---inbound--bilingual---german-_52962f58-65ea-4d8c-81b0-811ac2b6fbc0
 /careers/account-executive--retail-_621d4e0c-0d60-4753-a3d4-4e63956dcc7f
 /careers/senior-solutions-engineer---retail_9afa2f53-6860-4c79-a80a-9e7b1e4c90a1
