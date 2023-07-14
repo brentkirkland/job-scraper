@@ -1,11 +1,10 @@
 /careers/disciplines/engineering
-/careers/staff-marketing-content-designer--shop-_59a42409-bada-4b25-89ef-3681c437c831
 /careers/staff-designer--web-experiences-_b6a23dc7-3d3c-4d09-bda2-7443e57e20eb
+/careers/staff-ux-designer---core-product-marketing-_000a6b19-27a4-40ab-bc4b-d84586b160dd
 /careers/staff-product-designer--growth-_2e17f02c-7598-4d6d-8a5b-30ac8143eb2f
 /careers/staff-technical-project-manager--professional-services_772131e7-9810-491f-8f32-c09cbb1fab7a
 /careers/revenue-operations-analyst--emea-_d2c70400-1e45-4120-865c-9f65684dc1e0
 /careers/junior-support-advisors-_8fd278d8-f8a6-4e54-98de-b2f03fee1fab
-/careers/associate-general-counsel--employee-relations-_b8b463e8-db0d-4428-a56b-901373a9debf
 /careers/senior-lead--government-and-public-affairs_d991f30d-fd50-4712-9ef6-75358f779008
 /careers/senior-lead--owned-content_500d0ba5-81cb-4f3f-91fc-045d025d12b8
 /careers/content-manager--apac_01acf78c-5199-46e0-a2b2-0ea036987194
@@ -17,14 +16,12 @@
 /careers/partner-marketing-manager--bilingual---german---english-_48be0efd-3d99-4cc6-b87a-8c04f905c196
 /careers/partner-marketing-manager--bilingual---german---english-_248e7c5d-5b5c-4dee-a6d9-7ea26ea78c9b
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
-/careers/partner-manager--latam-_c7631230-8d1d-484c-be2f-0413f3b40c8c
 /careers/senior-lead--systems-integrator-partnerships-_71769e00-9174-4bce-994f-86fc01e70821
 /careers/partner-operations-manager_bba9d38c-44fc-4f08-b980-d5870b112c92
 /careers/senior-partner-program-manager_e4a86fc2-b832-4a85-8674-731ba146f1d8
 /careers/partner-manager_5da6d158-e8d7-484c-ad9c-66aa4420d72b
 /careers/senior-certifications-program-manager-_ad1cb86d-4260-46a8-b293-edfd31aa3f27
 /careers/senior-instructional-designer-_5e580565-ae17-4c1a-9a1d-39f37260c7ad
-/careers/partner-manager--agency-acquisition--north-america_c2892661-278a-4eb4-87a9-1c41c67e7509
 /careers/senior-partner-manager---france---remote--uk_f3f6068d-9969-48e2-9477-3d6e18dca6a7
 /careers/business-development-representative---outbound---fluent-english-and-spanish_c76cb6ba-ecf4-4904-ac0b-6d46823635d3
 /careers/sales-development-representative---inbound---bilingual---german-italian-french_d3374a32-ced8-4132-84c2-2230993a14e8
