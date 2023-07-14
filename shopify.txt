@@ -15,7 +15,6 @@
 /careers/partner-marketing-manager--bilingual---german---english-_4b3e9866-f6aa-44de-bfca-f6c6e2ac798f
 /careers/partner-marketing-manager--bilingual---german---english-_48be0efd-3d99-4cc6-b87a-8c04f905c196
 /careers/partner-marketing-manager--bilingual---german---english-_248e7c5d-5b5c-4dee-a6d9-7ea26ea78c9b
-/careers/content-manager-_48f44a6a-7385-43cf-96a5-f7a36c95eef9
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
 /careers/senior-lead--systems-integrator-partnerships-_71769e00-9174-4bce-994f-86fc01e70821
 /careers/partner-operations-manager_bba9d38c-44fc-4f08-b980-d5870b112c92
@@ -23,6 +22,12 @@
 /careers/partner-manager_5da6d158-e8d7-484c-ad9c-66aa4420d72b
 /careers/senior-certifications-program-manager-_ad1cb86d-4260-46a8-b293-edfd31aa3f27
 /careers/senior-instructional-designer-_5e580565-ae17-4c1a-9a1d-39f37260c7ad
+/careers/senior-partner-manager---france---remote--uk_f3f6068d-9969-48e2-9477-3d6e18dca6a7
+/careers/business-development-representative---outbound---fluent-english-and-spanish_c76cb6ba-ecf4-4904-ac0b-6d46823635d3
+/careers/sales-development-representative---inbound---bilingual---german-italian-french_d3374a32-ced8-4132-84c2-2230993a14e8
+/careers/business-development-representative---outbound---fluent-german-and-english_89e0922f-459b-44d2-b37a-e1af3087e9f7
+/careers/business-development-representative---outbound---fluent-english_edce6d7f-9da7-4ab2-8b9e-c8af501a1086
+/careers/enterprise-business-development-representative---outbound---fluent-french-and-english_414bc101-8da8-4db9-b05c-dbb0b2e16814
 /careers/revenue-excellence-manager_b09f7f79-0a55-47e2-a2d2-44e8c6a596fd
 /careers/sales-representative---cross-sell-emerging-_16cc5576-7fa9-4967-bd9d-39e17b5c5a46
 /careers/senior-sales-representative-_3b00fae1-fa52-47b6-84de-173879ed4492
@@ -38,7 +43,6 @@
 /careers/senior-partner-development-manager---italy_d1152588-95da-4c7c-ba5b-eb4345744d80
 /careers/mid-market-account-executive---southern-europe-spain_bd61b71b-a5dc-47ae-becc-b87576f7b91b
 /careers/account-executive---new-business--france_fa887200-301c-4d4d-a19e-8229a2d86144
-/careers/enterprise-business-development-representative---outbound--fluent-french-and-english-_414bc101-8da8-4db9-b05c-dbb0b2e16814
 /careers/customer-success-manager--sea_c581c8ac-19d4-42f1-9ddc-26f5bfc4ea07
 /careers/revenue-excellence-lead--large---mid-market-accounts_4625100a-fa0a-43e0-914e-b12c5a9841d0
 /careers/senior-account-executive--large-enterprise-dach-_961b982a-267c-48f1-8c3a-4447c9f75fd1
@@ -46,16 +50,11 @@
 /careers/senior-account-executive--bilingual---german---english-_c8210e60-5596-4ec3-a6f1-a1495aac1c9a
 /careers/partner-sales-representative---japan_33f581fe-d82f-4a30-9ca2-0a574a1784f8
 /careers/senior-technical-onboarding-specialist_a8706340-85bf-4081-bed2-4c597ba75ad4
-/careers/business-development-representative---outbound--fluent-german-and-english-_89e0922f-459b-44d2-b37a-e1af3087e9f7
-/careers/business-development-representative---outbound--fluent-english-_edce6d7f-9da7-4ab2-8b9e-c8af501a1086
-/careers/business-development-representative---outbound--fluent-spanish-and-english-_c76cb6ba-ecf4-4904-ac0b-6d46823635d3
 /careers/complex-deal-desk-analyst_8bea4f05-d226-41df-bd20-dd61b060b0bb
 /careers/sales-development-team-lead_244ae968-ce64-4105-bd73-53a56fa29596
 /careers/sales-representative--gcr_7e2a3a87-57ac-4e1d-a5ac-f169ff765720
 /careers/enterprise-solutions-engineer-france---_fb29731a-6fc3-45dc-8803-612742ec60cd
 /careers/enterprise-solutions-engineer_709afa91-46bf-45ad-9ad1-61db36bce0ce
-/careers/senior-partner-manager---france-_f3f6068d-9969-48e2-9477-3d6e18dca6a7
-/careers/sales-development-representative---inbound--bilingual---german-italian-french-_d3374a32-ced8-4132-84c2-2230993a14e8
 /careers/solutions-architect---payments---checkout_e8efe975-c571-4e3e-8b6d-8e96ac027b60
 /careers/sales-representative--gcr_e6f2098b-1076-41db-a7a0-fe6d07d1a7e8
 /careers/senior-account-executive--mid-market--northern-europe-_e5e88f16-9f55-4737-9f13-43cb49b32965
