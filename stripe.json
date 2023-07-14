@@ -200,14 +200,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4922304"
   },
   {
-    "id": 4923324,
-    "title": "Backend Engineer, Local Payment Methods",
-    "location": {
-      "name": "Toronto"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4923324"
-  },
-  {
     "id": 4923659,
     "title": "Full Stack Engineer, Stripe Tax",
     "location": {
@@ -1569,7 +1561,7 @@
   },
   {
     "id": 5177491,
-    "title": "Backend Engineer, Accounts",
+    "title": "Backend / API Engineer, Accounts",
     "location": {
       "name": "Toronto"
     },
