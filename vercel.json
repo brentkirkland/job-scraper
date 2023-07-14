@@ -27,7 +27,7 @@
     "id": 4758834004,
     "title": "Technical Program Manager",
     "location": {
-      "name": "Remote - United States, UK, Germany"
+      "name": "Remote - UK, Germany"
     },
     "absolute_url": "https://boards.greenhouse.io/vercel/jobs/4758834004"
   },
@@ -198,5 +198,13 @@
       "name": "Remote - United States"
     },
     "absolute_url": "https://boards.greenhouse.io/vercel/jobs/4929369004"
+  },
+  {
+    "id": 4930025004,
+    "title": "Technical Consultant",
+    "location": {
+      "name": "Remote - United States"
+    },
+    "absolute_url": "https://boards.greenhouse.io/vercel/jobs/4930025004"
   }
 ]
