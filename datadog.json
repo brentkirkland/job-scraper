@@ -544,14 +544,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4987715/?gh_jid=4987715"
   },
   {
-    "id": 4987719,
-    "title": "Product Marketing Manager - Cloudcraft",
-    "location": {
-      "name": "San Francisco, California, USA; New York, New York, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4987719/?gh_jid=4987719"
-  },
-  {
     "id": 4989056,
     "title": "Senior Security Engineer - Adversary Simulation Operations",
     "location": {
@@ -1534,5 +1526,13 @@
       "name": "New York, New York, USA; Boston, Massachusetts, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5181221/?gh_jid=5181221"
+  },
+  {
+    "id": 5187997,
+    "title": "Commercial Sales Engineer",
+    "location": {
+      "name": "Brazil, Remote"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5187997/?gh_jid=5187997"
   }
 ]
