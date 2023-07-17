@@ -1,13 +1,5 @@
 [
   {
-    "id": 4795738,
-    "title": "Director of Developer Relations",
-    "location": {
-      "name": "UNITED STATES - Remote"
-    },
-    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4795738"
-  },
-  {
     "id": 4836519,
     "title": "Data Analyst",
     "location": {
@@ -62,13 +54,5 @@
       "name": "UNITED STATES - REMOTE"
     },
     "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=5128045"
-  },
-  {
-    "id": 5157449,
-    "title": " HR Program Manager",
-    "location": {
-      "name": "APAC - Remote, CANADA - Remote, EMEA - Remote, GLOBAL - Remote, LATAM - Remote, UNITED STATES - Remote"
-    },
-    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=5157449"
   }
 ]
