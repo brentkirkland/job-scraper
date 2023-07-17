@@ -256,14 +256,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4943143"
   },
   {
-    "id": 4943440,
-    "title": "Software Engineer, Observability",
-    "location": {
-      "name": "US"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4943440"
-  },
-  {
     "id": 4946823,
     "title": "Integration Reliability Engineer, Technical Operations EMEA",
     "location": {
@@ -544,14 +536,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5001368"
   },
   {
-    "id": 5001482,
-    "title": "Engineering Manager, Observability",
-    "location": {
-      "name": "US/ Canada "
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5001482"
-  },
-  {
     "id": 5002884,
     "title": "Payments Platform Strategist",
     "location": {
@@ -606,14 +590,6 @@
       "name": "IN-Bangalore"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5007233"
-  },
-  {
-    "id": 5011504,
-    "title": "Engineering Manager, Data Lake Structured Data",
-    "location": {
-      "name": "US"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5011504"
   },
   {
     "id": 5015174,
@@ -1070,14 +1046,6 @@
       "name": "Dublin "
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5089498"
-  },
-  {
-    "id": 5092149,
-    "title": "Software Engineer, Availability Improvement",
-    "location": {
-      "name": "Seattle, US Remote"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5092149"
   },
   {
     "id": 5094413,
