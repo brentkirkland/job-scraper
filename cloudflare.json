@@ -2704,6 +2704,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5176009?gh_jid=5176009"
   },
   {
+    "id": 5177080,
+    "title": "VP, Security Operations and Technology ",
+    "location": {
+      "name": "Austin, TX"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5177080?gh_jid=5177080"
+  },
+  {
     "id": 5177686,
     "title": "Senior Support Operations Engineer",
     "location": {
@@ -2718,5 +2726,29 @@
       "name": "London or Lisbon or Paris"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5177705?gh_jid=5177705"
+  },
+  {
+    "id": 5180266,
+    "title": "VP, Security Operations and Technology ",
+    "location": {
+      "name": "Lisbon, Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5180266?gh_jid=5180266"
+  },
+  {
+    "id": 5181063,
+    "title": "Director of Vulnerability Management",
+    "location": {
+      "name": "Austin, TX"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5181063?gh_jid=5181063"
+  },
+  {
+    "id": 5181065,
+    "title": "Director of Vulnerability Management",
+    "location": {
+      "name": "Lisbon, Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5181065?gh_jid=5181065"
   }
 ]

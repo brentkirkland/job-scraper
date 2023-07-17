@@ -32,14 +32,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4724350"
   },
   {
-    "id": 4743420,
-    "title": "Campaigns Manager",
-    "location": {
-      "name": "U.S. Remote"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4743420"
-  },
-  {
     "id": 4746653,
     "title": "Software Engineer, Network",
     "location": {
@@ -1289,7 +1281,7 @@
   },
   {
     "id": 5118909,
-    "title": "Android Engineer, Core Payments, Stripe Terminal",
+    "title": "Android / iOS Engineer, Core Payments, Stripe Terminal",
     "location": {
       "name": "Remote (US or Canada)"
     },
@@ -1512,14 +1504,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5154177"
   },
   {
-    "id": 5164286,
-    "title": "Android Engineer, Device Platform",
-    "location": {
-      "name": "Remote (US or Canada)"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5164286"
-  },
-  {
     "id": 5164589,
     "title": "User Risk Policy Strategist",
     "location": {
@@ -1542,6 +1526,14 @@
       "name": "Bengaluru"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5166470"
+  },
+  {
+    "id": 5166472,
+    "title": "Backend Engineer, Local Payment Methods",
+    "location": {
+      "name": "Toronto"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5166472"
   },
   {
     "id": 5167510,
