@@ -16,22 +16,6 @@
     "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4836519"
   },
   {
-    "id": 4890039,
-    "title": "Senior Strategic Finance Associate",
-    "location": {
-      "name": "UNITED STATES - Remote"
-    },
-    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4890039"
-  },
-  {
-    "id": 4968035,
-    "title": "Senior Full Stack Web Developer",
-    "location": {
-      "name": "UNITED STATES - Remote"
-    },
-    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4968035"
-  },
-  {
     "id": 4971495,
     "title": "Developer Advocate (Unity SDK)",
     "location": {
@@ -80,35 +64,11 @@
     "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=5128045"
   },
   {
-    "id": 5143431,
-    "title": "Lead Web Engineer (Infura)",
-    "location": {
-      "name": "APAC - Remote, CANADA - Remote, EMEA - Remote, GLOBAL - Remote, LATAM - Remote, UNITED STATES - Remote"
-    },
-    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=5143431"
-  },
-  {
     "id": 5157449,
     "title": " HR Program Manager",
     "location": {
       "name": "APAC - Remote, CANADA - Remote, EMEA - Remote, GLOBAL - Remote, LATAM - Remote, UNITED STATES - Remote"
     },
     "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=5157449"
-  },
-  {
-    "id": 5164117,
-    "title": "US Payroll Manager",
-    "location": {
-      "name": "UNITED STATES - Remote"
-    },
-    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=5164117"
-  },
-  {
-    "id": 5175004,
-    "title": "Data Engineer",
-    "location": {
-      "name": "CANADA - Remote, LATAM - Remote, UNITED STATES - Remote"
-    },
-    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=5175004"
   }
 ]
