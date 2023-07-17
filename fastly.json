@@ -766,5 +766,37 @@
       "name": "New York City, NY"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5175917"
+  },
+  {
+    "id": 5188457,
+    "title": "Principal Product Manager - API Security",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5188457"
+  },
+  {
+    "id": 5188520,
+    "title": "Principal Product Manager - API Security",
+    "location": {
+      "name": "Los Angeles, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5188520"
+  },
+  {
+    "id": 5188521,
+    "title": "Principal Product Manager - API Security",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5188521"
+  },
+  {
+    "id": 5188524,
+    "title": "Principal Product Manager - API Security",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5188524"
   }
 ]
