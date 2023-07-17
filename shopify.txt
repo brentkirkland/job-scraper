@@ -22,6 +22,7 @@
 /careers/partner-operations-manager_bba9d38c-44fc-4f08-b980-d5870b112c92
 /careers/senior-partner-program-manager_e4a86fc2-b832-4a85-8674-731ba146f1d8
 /careers/partner-manager_5da6d158-e8d7-484c-ad9c-66aa4420d72b
+/careers/solutions-architect---payments---checkout_19dcf219-4fcd-4d3f-9f74-8dd78dfb32b4
 /careers/partner-manager--agency-acquisition--north-america_c2892661-278a-4eb4-87a9-1c41c67e7509
 /careers/senior-partner-manager---france---remote--uk_f3f6068d-9969-48e2-9477-3d6e18dca6a7
 /careers/business-development-representative---outbound---fluent-english-and-spanish_c76cb6ba-ecf4-4904-ac0b-6d46823635d3
