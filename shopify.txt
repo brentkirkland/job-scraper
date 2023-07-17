@@ -2,6 +2,7 @@
 /careers/staff-marketing-content-designer--shop-_59a42409-bada-4b25-89ef-3681c437c831
 /careers/staff-designer--web-experiences-_b6a23dc7-3d3c-4d09-bda2-7443e57e20eb
 /careers/staff-product-designer--growth-_2e17f02c-7598-4d6d-8a5b-30ac8143eb2f
+/careers/security-engineering-manager--detection-and-response_4414c5bd-a509-43ff-a93e-731dad16cabb
 /careers/staff-technical-project-manager--professional-services_772131e7-9810-491f-8f32-c09cbb1fab7a
 /careers/revenue-operations-analyst--emea-_d2c70400-1e45-4120-865c-9f65684dc1e0
 /careers/junior-support-advisors-_8fd278d8-f8a6-4e54-98de-b2f03fee1fab
@@ -63,3 +64,4 @@
 /careers/sales-process-lead_f006a13b-9ee5-44a8-8061-f5958eeaf9e7
 /careers/sales-representative--japan_1e66c021-ee2e-47aa-9b7c-163ea2ce6473
 /careers/senior-solutions-engineer-dach-_5e39deeb-9d02-4303-b7a0-e30a35326470
+/careers/sales-representative---anz_f4a8ae6f-46fa-4631-97fb-ca6536b61be2
