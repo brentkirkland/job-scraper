@@ -3,6 +3,7 @@
 /careers/staff-designer--web-experiences-_b6a23dc7-3d3c-4d09-bda2-7443e57e20eb
 /careers/staff-product-designer--growth-_2e17f02c-7598-4d6d-8a5b-30ac8143eb2f
 /careers/product-lead--marketing-technology_f895b5ba-e1ba-41d0-9ef4-727ac84292bf
+/careers/learning---development-program-manager-_c356ea64-d770-43ba-b8e2-c07ecb662843
 /careers/revenue-operations-analyst--emea-_d2c70400-1e45-4120-865c-9f65684dc1e0
 /careers/junior-support-advisors-_8fd278d8-f8a6-4e54-98de-b2f03fee1fab
 /careers/associate-general-counsel--employee-relations-_b8b463e8-db0d-4428-a56b-901373a9debf
@@ -24,6 +25,7 @@
 /careers/partner-operations-manager_bba9d38c-44fc-4f08-b980-d5870b112c92
 /careers/senior-partner-program-manager_e4a86fc2-b832-4a85-8674-731ba146f1d8
 /careers/partner-manager_5da6d158-e8d7-484c-ad9c-66aa4420d72b
+/careers/senior-solutions-engineer---enterprise_caacc969-52e8-49a9-917d-a2b638538d50
 /careers/customer-success-manager--sea_c581c8ac-19d4-42f1-9ddc-26f5bfc4ea07
 /careers/solutions-architect---payments---checkout_19dcf219-4fcd-4d3f-9f74-8dd78dfb32b4
 /careers/partner-manager--agency-acquisition--north-america_c2892661-278a-4eb4-87a9-1c41c67e7509
