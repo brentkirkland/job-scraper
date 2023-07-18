@@ -1496,12 +1496,28 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5168592/?gh_jid=5168592"
   },
   {
+    "id": 5170119,
+    "title": "Enterprise Sales Executive (Benelux)",
+    "location": {
+      "name": "Amsterdam"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5170119/?gh_jid=5170119"
+  },
+  {
     "id": 5177451,
     "title": "Training Platform DevOps Engineer",
     "location": {
       "name": "New York, USA, Remote"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5177451/?gh_jid=5177451"
+  },
+  {
+    "id": 5177849,
+    "title": "Technical Support Engineer 2 - Dublin",
+    "location": {
+      "name": "Dublin"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5177849/?gh_jid=5177849"
   },
   {
     "id": 5181221,
