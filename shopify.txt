@@ -2,6 +2,7 @@
 /careers/staff-marketing-content-designer--shop-_59a42409-bada-4b25-89ef-3681c437c831
 /careers/staff-designer--web-experiences-_b6a23dc7-3d3c-4d09-bda2-7443e57e20eb
 /careers/staff-product-designer--growth-_2e17f02c-7598-4d6d-8a5b-30ac8143eb2f
+/careers/product-lead--marketing-technology_f895b5ba-e1ba-41d0-9ef4-727ac84292bf
 /careers/staff-technical-project-manager--professional-services_772131e7-9810-491f-8f32-c09cbb1fab7a
 /careers/revenue-operations-analyst--emea-_d2c70400-1e45-4120-865c-9f65684dc1e0
 /careers/junior-support-advisors-_8fd278d8-f8a6-4e54-98de-b2f03fee1fab
@@ -37,8 +38,6 @@
 /careers/senior-agency-partner-manager--dach-_c681a594-148f-4101-bfd2-9f2a42bf7e69
 /careers/sales-development-representative---inbound--bilingual---german-_52962f58-65ea-4d8c-81b0-811ac2b6fbc0
 /careers/account-executive--retail-_621d4e0c-0d60-4753-a3d4-4e63956dcc7f
-/careers/senior-solutions-engineer---retail_9afa2f53-6860-4c79-a80a-9e7b1e4c90a1
-/careers/senior-solutions-engineer---mid-market_85fb685b-1665-49d6-8ba0-b760384791f7
 /careers/deal-desk-analyst_d89410c2-e934-40f5-bb5b-3e47414dc245
 /careers/mid-market-account-executive---italy_b429913a-341c-45b7-a42a-1c46e315a96c
 /careers/senior-partner-development-manager---italy_d1152588-95da-4c7c-ba5b-eb4345744d80
