@@ -928,14 +928,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5067844/?gh_jid=5067844"
   },
   {
-    "id": 5068127,
-    "title": "Detection Engineer 2 - CSM",
-    "location": {
-      "name": "New York, New York, USA; Boston, Massachusetts, USA; Denver, Colorado, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/5068127/?gh_jid=5068127"
-  },
-  {
     "id": 5070966,
     "title": "Senior Software Engineer - Compliance Engineering",
     "location": {
@@ -1526,5 +1518,13 @@
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5191484/?gh_jid=5191484"
+  },
+  {
+    "id": 5202562,
+    "title": "Certifications Program Manager",
+    "location": {
+      "name": "New York, USA, Remote"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5202562/?gh_jid=5202562"
   }
 ]
