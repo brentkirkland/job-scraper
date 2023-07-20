@@ -1512,14 +1512,6 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5027434?gh_jid=5027434"
   },
   {
-    "id": 5027541,
-    "title": "Enterprise Account Executive",
-    "location": {
-      "name": "Boston, MA"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5027541?gh_jid=5027541"
-  },
-  {
     "id": 5027857,
     "title": "Commercial Mid Market Account Executive - New Logo Acquisition",
     "location": {
@@ -1926,22 +1918,6 @@
       "name": "Toronto, ON"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5104145?gh_jid=5104145"
-  },
-  {
-    "id": 5104414,
-    "title": "Enterprise Account Executive - Hartford, CT",
-    "location": {
-      "name": "Hartford, CT"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5104414?gh_jid=5104414"
-  },
-  {
-    "id": 5104773,
-    "title": "Enterprise Account Executive - Baltimore, MD",
-    "location": {
-      "name": "Baltimore, MD"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5104773?gh_jid=5104773"
   },
   {
     "id": 5104839,
@@ -2590,6 +2566,14 @@
       "name": "Seoul, South Korea"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5186434?gh_jid=5186434"
+  },
+  {
+    "id": 5187473,
+    "title": "Software Engineer - CASB",
+    "location": {
+      "name": "Remote US"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5187473?gh_jid=5187473"
   },
   {
     "id": 5188148,
