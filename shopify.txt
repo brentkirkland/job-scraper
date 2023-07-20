@@ -1,5 +1,6 @@
 /careers/disciplines/engineering
 /careers/staff-marketing-content-designer--shop-_59a42409-bada-4b25-89ef-3681c437c831
+/careers/staff-designer--web-experiences-_b6a23dc7-3d3c-4d09-bda2-7443e57e20eb
 /careers/staff-product-designer--growth-_2e17f02c-7598-4d6d-8a5b-30ac8143eb2f
 /careers/product-lead--marketing-technology_f895b5ba-e1ba-41d0-9ef4-727ac84292bf
 /careers/security-engineering-manager--detection-and-response_4414c5bd-a509-43ff-a93e-731dad16cabb
@@ -20,6 +21,7 @@
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
 /careers/content-production-lead-_98252529-483e-4c32-9aa9-32d0e7ed256c
 /careers/senior-lead--systems-integrator-partnerships-_71769e00-9174-4bce-994f-86fc01e70821
+/careers/senior-partner-program-manager_e4a86fc2-b832-4a85-8674-731ba146f1d8
 /careers/partner-manager_5da6d158-e8d7-484c-ad9c-66aa4420d72b
 /careers/account-executive---new-business--france_fa887200-301c-4d4d-a19e-8229a2d86144
 /careers/senior-solutions-engineer---enterprise_caacc969-52e8-49a9-917d-a2b638538d50
