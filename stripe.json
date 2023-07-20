@@ -299,7 +299,7 @@
     "id": 4955647,
     "title": "Staff Engineer, Financial Systems ",
     "location": {
-      "name": "US/ Canada "
+      "name": "San Francisco, Seattle"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4955647"
   },
@@ -1470,5 +1470,13 @@
       "name": "US-REM"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5188686"
+  },
+  {
+    "id": 5198958,
+    "title": "Staff Hardware Engineering Manager, Stripe Terminal",
+    "location": {
+      "name": "US"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5198958"
   }
 ]
