@@ -320,14 +320,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4868022/?gh_jid=4868022"
   },
   {
-    "id": 4870477,
-    "title": "Regional Vice President, Enterprise Sales (Central EMEA)",
-    "location": {
-      "name": "Germany, Remote"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4870477/?gh_jid=4870477"
-  },
-  {
     "id": 4874635,
     "title": "Manager 1, Engineering - Cloud Security Posture Management",
     "location": {
@@ -1350,6 +1342,14 @@
       "name": "New York, New York, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5147846/?gh_jid=5147846"
+  },
+  {
+    "id": 5157908,
+    "title": "Enterprise Customer Success Manager - Nordics",
+    "location": {
+      "name": "Dublin"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5157908/?gh_jid=5157908"
   },
   {
     "id": 5157912,
