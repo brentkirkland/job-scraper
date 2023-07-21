@@ -3,10 +3,8 @@
 /careers/staff-marketing-content-designer--shop-_59a42409-bada-4b25-89ef-3681c437c831
 /careers/staff-product-designer--growth-_2e17f02c-7598-4d6d-8a5b-30ac8143eb2f
 /careers/product-lead--marketing-technology_f895b5ba-e1ba-41d0-9ef4-727ac84292bf
-/careers/security-engineering-manager--detection-and-response_4414c5bd-a509-43ff-a93e-731dad16cabb
 /careers/learning---development-program-manager-_c356ea64-d770-43ba-b8e2-c07ecb662843
 /careers/revenue-operations-analyst--emea-_d2c70400-1e45-4120-865c-9f65684dc1e0
-/careers/associate-general-counsel--employee-relations-_b8b463e8-db0d-4428-a56b-901373a9debf
 /careers/senior-lead--government-and-public-affairs_d991f30d-fd50-4712-9ef6-75358f779008
 /careers/marketing-automation-manager-_d5e21e65-e820-4177-b8c6-8e82fc4f56f2
 /careers/social-performance-marketer-_9a2cbd68-c2e1-4b95-a521-86e3e14300e9
@@ -29,7 +27,6 @@
 /careers/senior-solutions-engineer---enterprise_caacc969-52e8-49a9-917d-a2b638538d50
 /careers/customer-success-manager--sea_c581c8ac-19d4-42f1-9ddc-26f5bfc4ea07
 /careers/solutions-architect---payments---checkout_19dcf219-4fcd-4d3f-9f74-8dd78dfb32b4
-/careers/partner-manager--agency-acquisition--north-america_c2892661-278a-4eb4-87a9-1c41c67e7509
 /careers/senior-partner-manager---france---remote--uk_f3f6068d-9969-48e2-9477-3d6e18dca6a7
 /careers/business-development-representative---outbound---fluent-english-and-spanish_c76cb6ba-ecf4-4904-ac0b-6d46823635d3
 /careers/sales-development-representative---inbound---bilingual---german-italian-french_d3374a32-ced8-4132-84c2-2230993a14e8
