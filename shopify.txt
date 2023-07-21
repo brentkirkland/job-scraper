@@ -1,11 +1,11 @@
 /careers/disciplines/engineering
 /careers/staff-designer--web-experiences-_b6a23dc7-3d3c-4d09-bda2-7443e57e20eb
 /careers/staff-marketing-content-designer--shop-_59a42409-bada-4b25-89ef-3681c437c831
+/careers/staff-product-designer--growth-_2e17f02c-7598-4d6d-8a5b-30ac8143eb2f
 /careers/product-lead--marketing-technology_f895b5ba-e1ba-41d0-9ef4-727ac84292bf
 /careers/learning---development-program-manager-_c356ea64-d770-43ba-b8e2-c07ecb662843
 /careers/revenue-operations-analyst--emea-_d2c70400-1e45-4120-865c-9f65684dc1e0
 /careers/senior-lead--government-and-public-affairs_d991f30d-fd50-4712-9ef6-75358f779008
-/careers/paid-display---video-manager--performance-marketing_05a11d83-5148-4582-b500-0942e25084d8
 /careers/marketing-automation-manager-_d5e21e65-e820-4177-b8c6-8e82fc4f56f2
 /careers/social-performance-marketer-_9a2cbd68-c2e1-4b95-a521-86e3e14300e9
 /careers/senior-lead--owned-content_500d0ba5-81cb-4f3f-91fc-045d025d12b8
@@ -18,8 +18,8 @@
 /careers/partner-marketing-manager--bilingual---german---english-_48be0efd-3d99-4cc6-b87a-8c04f905c196
 /careers/partner-marketing-manager--bilingual---german---english-_248e7c5d-5b5c-4dee-a6d9-7ea26ea78c9b
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
-/careers/senior-lead--channel-sales-_5fb8d84b-8ba4-4e3a-88cc-2b7f2ac4fd7d
 /careers/content-production-lead-_98252529-483e-4c32-9aa9-32d0e7ed256c
+/careers/senior-lead--systems-integrator-partnerships-_71769e00-9174-4bce-994f-86fc01e70821
 /careers/partner-manager_5da6d158-e8d7-484c-ad9c-66aa4420d72b
 /careers/sales-development-representative---inbound---bilingual---german-_52962f58-65ea-4d8c-81b0-811ac2b6fbc0
 /careers/enterprise-success-manager---fluent-french-and-english-_36c8ffa8-dca1-4cbb-bb7d-f3df097393bf
