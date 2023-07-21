@@ -536,6 +536,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4712586?gh_jid=4712586"
   },
   {
+    "id": 4717122,
+    "title": "Software Engineer - Content Delivery ",
+    "location": {
+      "name": "Remote and/or any of these Cloudflare Offices: San Francisco, CA, Austin, TX, Champaign, IL, New York, NY, San Jose, CA, Seattle, WA, Washington, D.C."
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4717122?gh_jid=4717122"
+  },
+  {
     "id": 4720566,
     "title": "Strategic Account Executive (UK&I)",
     "location": {
@@ -1017,7 +1025,7 @@
   },
   {
     "id": 4902816,
-    "title": "Technical Support Engineer - CDN / Developer Platform focused",
+    "title": "Technical Support Engineer - CDN / Developer Platform",
     "location": {
       "name": "Lisbon, Portugal"
     },
@@ -1025,7 +1033,7 @@
   },
   {
     "id": 4902939,
-    "title": "Technical Support Engineer - CDN / Developer Platform focused",
+    "title": "Technical Support Engineer - CDN / Developer Platform",
     "location": {
       "name": "Remote Portugal"
     },
@@ -1593,7 +1601,7 @@
   },
   {
     "id": 5034403,
-    "title": "Sr SDET - Zero Trust",
+    "title": "Senior Software Development Engineer (SDNET) - Zero Trust",
     "location": {
       "name": "Austin, TX"
     },
@@ -1633,7 +1641,7 @@
   },
   {
     "id": 5042162,
-    "title": "Sr SDET - Zero Trust",
+    "title": "SeniorSoftware Development Engineer (SDNET) - Zero Trust",
     "location": {
       "name": "Lisbon or London"
     },
@@ -2073,7 +2081,7 @@
   },
   {
     "id": 5113037,
-    "title": "Sr. Software Engineer - WARP Edge Service",
+    "title": "Senior Software Engineer - WARP Edge Service",
     "location": {
       "name": "Remote UK"
     },
@@ -2225,7 +2233,7 @@
   },
   {
     "id": 5122835,
-    "title": "Sr. Software Engineer - WARP Edge Service",
+    "title": "Senior Software Engineer - WARP Edge Service",
     "location": {
       "name": "Remote US"
     },
@@ -2233,7 +2241,7 @@
   },
   {
     "id": 5122888,
-    "title": "Sr. Software Engineer - WARP Edge Service",
+    "title": "Senior Software Engineer - WARP Edge Service",
     "location": {
       "name": "Lisbon, Portugal"
     },
@@ -2249,7 +2257,7 @@
   },
   {
     "id": 5123167,
-    "title": "Sr. Software Engineer - WARP Edge Service",
+    "title": "Senior Software Engineer - WARP Edge Service",
     "location": {
       "name": "Remote Germany"
     },
