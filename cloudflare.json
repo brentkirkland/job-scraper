@@ -633,7 +633,7 @@
   },
   {
     "id": 4763442,
-    "title": "Solutions Engineer, Arabic Speaker",
+    "title": "Solutions Engineer, Arabic speaker",
     "location": {
       "name": "Dubai, United Arab Emirates"
     },
@@ -1209,7 +1209,7 @@
   },
   {
     "id": 4950327,
-    "title": "Partner Solutions Engineer - EMEA (German-speaking)",
+    "title": "Partner Solutions Engineer - EMEA, German speaker",
     "location": {
       "name": "Lisbon or London or Munich"
     },
@@ -1249,7 +1249,7 @@
   },
   {
     "id": 4959820,
-    "title": "Partner Solutions Engineer - EMEA (German-speaking)",
+    "title": "Partner Solutions Engineer - EMEA, German speaker",
     "location": {
       "name": "Amsterdam, Netherlands"
     },
@@ -1257,7 +1257,7 @@
   },
   {
     "id": 4961743,
-    "title": "Customer Solutions Engineer (German speaker)",
+    "title": "Customer Solutions Engineer, German speaker",
     "location": {
       "name": "Lisbon, Portugal"
     },
@@ -1441,7 +1441,7 @@
   },
   {
     "id": 5005322,
-    "title": "Customer Solutions Engineer (German speaker)",
+    "title": "Customer Solutions Engineer, German speaker",
     "location": {
       "name": "Remote Germany"
     },
@@ -2113,7 +2113,7 @@
   },
   {
     "id": 5116295,
-    "title": "Administrative Assistant, Japan",
+    "title": "Administrative Assistant - Japan",
     "location": {
       "name": "Tokyo, Japan"
     },
@@ -2121,7 +2121,7 @@
   },
   {
     "id": 5116829,
-    "title": "Customer Solutions Engineer (German speaker)",
+    "title": "Customer Solutions Engineer, German speaker",
     "location": {
       "name": "Remote Netherlands"
     },
@@ -2321,7 +2321,7 @@
   },
   {
     "id": 5132646,
-    "title": "Field Solutions Engineer - Portuguese Speaking ",
+    "title": "Field Solutions Engineer - Portuguese speaker",
     "location": {
       "name": "Remote Mexico"
     },
@@ -2521,7 +2521,7 @@
   },
   {
     "id": 5176009,
-    "title": "Partner Solutions Engineer - EMEA (German-speaking)",
+    "title": "Partner Solutions Engineer - EMEA, German speaker",
     "location": {
       "name": "Paris, France"
     },
@@ -2614,6 +2614,22 @@
       "name": "Austin or Remote US"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5188148?gh_jid=5188148"
+  },
+  {
+    "id": 5194995,
+    "title": "Director, Data Strategy & Governance",
+    "location": {
+      "name": "Remote US"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5194995?gh_jid=5194995"
+  },
+  {
+    "id": 5195003,
+    "title": "Director, Data Strategy & Governance",
+    "location": {
+      "name": "Remote UK"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5195003?gh_jid=5195003"
   },
   {
     "id": 5198084,
