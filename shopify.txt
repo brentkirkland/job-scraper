@@ -3,6 +3,7 @@
 /careers/staff-marketing-content-designer--shop-_59a42409-bada-4b25-89ef-3681c437c831
 /careers/staff-product-designer--growth-_2e17f02c-7598-4d6d-8a5b-30ac8143eb2f
 /careers/product-lead--marketing-technology_f895b5ba-e1ba-41d0-9ef4-727ac84292bf
+/careers/security-engineering-manager--detection-and-response_4414c5bd-a509-43ff-a93e-731dad16cabb
 /careers/learning---development-program-manager-_c356ea64-d770-43ba-b8e2-c07ecb662843
 /careers/revenue-operations-analyst--emea-_d2c70400-1e45-4120-865c-9f65684dc1e0
 /careers/associate-general-counsel--employee-relations-_b8b463e8-db0d-4428-a56b-901373a9debf
