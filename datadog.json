@@ -1137,9 +1137,9 @@
   },
   {
     "id": 5100575,
-    "title": "Premier Support Engineer 2 - Paris",
+    "title": "Premier Support Engineer 2 - EMEA",
     "location": {
-      "name": "Paris, France"
+      "name": "Paris, France; Dublin, Ireland "
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5100575/?gh_jid=5100575"
   },
@@ -1472,6 +1472,14 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5177451/?gh_jid=5177451"
   },
   {
+    "id": 5177826,
+    "title": "Manager 1, Technical Support Engineering - Dublin",
+    "location": {
+      "name": "Dublin"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5177826/?gh_jid=5177826"
+  },
+  {
     "id": 5177849,
     "title": "Technical Support Engineer 2 - Dublin",
     "location": {
@@ -1526,6 +1534,14 @@
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5191484/?gh_jid=5191484"
+  },
+  {
+    "id": 5191540,
+    "title": "Technical Solutions Operations Engineer 2",
+    "location": {
+      "name": "Paris, France; Dublin, Ireland"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5191540/?gh_jid=5191540"
   },
   {
     "id": 5202562,
