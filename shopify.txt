@@ -16,6 +16,7 @@
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
 /careers/content-production-lead-_98252529-483e-4c32-9aa9-32d0e7ed256c
 /careers/partner-manager_5da6d158-e8d7-484c-ad9c-66aa4420d72b
+/careers/technical-partner-manager-_8ca2f6a4-5a46-49ec-93f2-21c057c27a7f
 /careers/customer-success-manager--sea_c581c8ac-19d4-42f1-9ddc-26f5bfc4ea07
 /careers/partner-manager-enterprise--dach-_661c8354-2120-46c2-b779-58e760128188
 /careers/partner-manager-enterprise--fr-_f3bf930a-71d9-42d9-b910-7a0913c7b904
@@ -55,4 +56,3 @@
 /careers/sales-representative--gcr_e6f2098b-1076-41db-a7a0-fe6d07d1a7e8
 /careers/revenue-excellence-specialist---enterprise-accounts_9c06fe10-8177-47e4-a21b-52467da0b15f
 /careers/sales-representative--japan_1e66c021-ee2e-47aa-9b7c-163ea2ce6473
-/careers/senior-solutions-engineer-dach-_5e39deeb-9d02-4303-b7a0-e30a35326470
