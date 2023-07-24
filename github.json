@@ -24,14 +24,6 @@
     "absolute_url": "https://boards.greenhouse.io/github/jobs/5021046"
   },
   {
-    "id": 5021131,
-    "title": "Corporate Sales Representative",
-    "location": {
-      "name": "Remote - Netherlands"
-    },
-    "absolute_url": "https://boards.greenhouse.io/github/jobs/5021131"
-  },
-  {
     "id": 5093493,
     "title": "Customer Reliability Engineer III",
     "location": {
@@ -102,5 +94,13 @@
       "name": "Remote - Germany"
     },
     "absolute_url": "https://boards.greenhouse.io/github/jobs/5189023"
+  },
+  {
+    "id": 5191713,
+    "title": "Senior, Enterprise Account Manager, DACH",
+    "location": {
+      "name": "Remote - Germany"
+    },
+    "absolute_url": "https://boards.greenhouse.io/github/jobs/5191713"
   }
 ]

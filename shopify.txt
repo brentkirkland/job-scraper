@@ -4,11 +4,9 @@
 /careers/product-lead--marketing-technology_f895b5ba-e1ba-41d0-9ef4-727ac84292bf
 /careers/learning---development-program-manager-_c356ea64-d770-43ba-b8e2-c07ecb662843
 /careers/revenue-operations-analyst--emea-_d2c70400-1e45-4120-865c-9f65684dc1e0
-/careers/senior-lead--government-and-public-affairs_d991f30d-fd50-4712-9ef6-75358f779008
 /careers/paid-display---video-manager--performance-marketing_05a11d83-5148-4582-b500-0942e25084d8
 /careers/marketing-automation-manager-_d5e21e65-e820-4177-b8c6-8e82fc4f56f2
 /careers/social-performance-marketer-_9a2cbd68-c2e1-4b95-a521-86e3e14300e9
-/careers/senior-lead--owned-content_500d0ba5-81cb-4f3f-91fc-045d025d12b8
 /careers/content-manager--apac_01acf78c-5199-46e0-a2b2-0ea036987194
 /careers/partner-marketing-lead---partner-acquisition-_d57045f8-02f1-4c50-866c-adf9bcfb562a
 /careers/senior-integrated-marketing-manager-_544dff50-10f4-4848-978c-0fa74a2a812e
@@ -20,6 +18,7 @@
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
 /careers/content-production-lead-_98252529-483e-4c32-9aa9-32d0e7ed256c
 /careers/partner-manager_5da6d158-e8d7-484c-ad9c-66aa4420d72b
+/careers/mid-market-account-executive--plus-cross-sell_7f1df35d-4463-4ac4-8b42-7ca20abc97ed
 /careers/senior-lead--channel-sales-_5fb8d84b-8ba4-4e3a-88cc-2b7f2ac4fd7d
 /careers/sales-development-representative---inbound---bilingual---german-_52962f58-65ea-4d8c-81b0-811ac2b6fbc0
 /careers/enterprise-success-manager---fluent-french-and-english-_36c8ffa8-dca1-4cbb-bb7d-f3df097393bf
