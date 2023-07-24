@@ -1,5 +1,4 @@
 /careers/disciplines/engineering
-/careers/staff-designer--web-experiences-_b6a23dc7-3d3c-4d09-bda2-7443e57e20eb
 /careers/staff-marketing-content-designer--shop-_59a42409-bada-4b25-89ef-3681c437c831
 /careers/product-lead--marketing-technology_f895b5ba-e1ba-41d0-9ef4-727ac84292bf
 /careers/learning---development-program-manager-_c356ea64-d770-43ba-b8e2-c07ecb662843
@@ -7,7 +6,6 @@
 /careers/paid-display---video-manager--performance-marketing_05a11d83-5148-4582-b500-0942e25084d8
 /careers/marketing-automation-manager-_d5e21e65-e820-4177-b8c6-8e82fc4f56f2
 /careers/social-performance-marketer-_9a2cbd68-c2e1-4b95-a521-86e3e14300e9
-/careers/senior-lead--owned-content_500d0ba5-81cb-4f3f-91fc-045d025d12b8
 /careers/content-manager--apac_01acf78c-5199-46e0-a2b2-0ea036987194
 /careers/partner-marketing-lead---partner-acquisition-_d57045f8-02f1-4c50-866c-adf9bcfb562a
 /careers/senior-integrated-marketing-manager-_544dff50-10f4-4848-978c-0fa74a2a812e
