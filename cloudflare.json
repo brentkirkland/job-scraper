@@ -464,6 +464,22 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4672272?gh_jid=4672272"
   },
   {
+    "id": 4687135,
+    "title": "Systems Engineer - Gateway",
+    "location": {
+      "name": "Austin or Remote US"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4687135?gh_jid=4687135"
+  },
+  {
+    "id": 4687137,
+    "title": "Systems Engineer - Gateway",
+    "location": {
+      "name": "Lisbon or London"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4687137?gh_jid=4687137"
+  },
+  {
     "id": 4687901,
     "title": "Software Engineer - Registrar ",
     "location": {
@@ -1464,14 +1480,6 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5005711?gh_jid=5005711"
   },
   {
-    "id": 5005815,
-    "title": "Data Center Design Engineer",
-    "location": {
-      "name": "Lisbon or London"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5005815?gh_jid=5005815"
-  },
-  {
     "id": 5006366,
     "title": "Network Specialist Solutions Engineer",
     "location": {
@@ -1494,14 +1502,6 @@
       "name": "London or Munich"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5007964?gh_jid=5007964"
-  },
-  {
-    "id": 5010098,
-    "title": "Data Center Design Engineer",
-    "location": {
-      "name": "Amsterdam, Netherlands"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5010098?gh_jid=5010098"
   },
   {
     "id": 5013067,
@@ -2078,14 +2078,6 @@
       "name": "Singapore"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5112682?gh_jid=5112682"
-  },
-  {
-    "id": 5112795,
-    "title": "Data Center Design Engineer",
-    "location": {
-      "name": "Singapore"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5112795?gh_jid=5112795"
   },
   {
     "id": 5113037,
