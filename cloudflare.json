@@ -936,22 +936,6 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4869857?gh_jid=4869857"
   },
   {
-    "id": 4875220,
-    "title": "Senior Software Engineer, R2 Storage",
-    "location": {
-      "name": "Remote US"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4875220?gh_jid=4875220"
-  },
-  {
-    "id": 4875221,
-    "title": "Senior Software Engineer, R2 Storage",
-    "location": {
-      "name": "Remote UK"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4875221?gh_jid=4875221"
-  },
-  {
     "id": 4884399,
     "title": "Director of Digital Customer Experience (CX)",
     "location": {
@@ -1840,14 +1824,6 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5088476?gh_jid=5088476"
   },
   {
-    "id": 5089719,
-    "title": "Senior Software Engineer, R2 Storage",
-    "location": {
-      "name": "Remote Portugal"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5089719?gh_jid=5089719"
-  },
-  {
     "id": 5091411,
     "title": "SASE Specialist, Canada",
     "location": {
@@ -2622,6 +2598,14 @@
       "name": "Amsterdam, Netherlands"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5201912?gh_jid=5201912"
+  },
+  {
+    "id": 5206799,
+    "title": "Incident Response Engineer",
+    "location": {
+      "name": "Lisbon, Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5206799?gh_jid=5206799"
   },
   {
     "id": 5207669,
