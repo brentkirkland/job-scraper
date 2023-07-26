@@ -1,4 +1,5 @@
 /careers/disciplines/engineering
+/careers/senior-staff-product-designer--shipping-_f9084705-5d0e-467f-adf4-463e355fb812
 /careers/senior-marketing-content-designer--creative-_bf1ff368-80f9-4e43-ae04-3cde641cb5ca
 /careers/staff-marketing-content-designer--creative-_8fb9f1a0-4ca6-4471-8075-48edff932db4
 /careers/senior-marketing-designer--creative-_480a6f60-fab4-4f78-9ead-7baa1acea641
@@ -24,7 +25,6 @@
 /careers/partner-manager--agency-acquisition--latam-_c7631230-8d1d-484c-be2f-0413f3b40c8c
 /careers/sales-manager--mid-market-_c9f74c88-eddf-4822-881a-60ecfed84ddb
 /careers/sales-development-representative---inbound---bilingual---german-italian-french_d3374a32-ced8-4132-84c2-2230993a14e8
-/careers/technical-partner-manager-_8ca2f6a4-5a46-49ec-93f2-21c057c27a7f
 /careers/customer-success-manager--sea_c581c8ac-19d4-42f1-9ddc-26f5bfc4ea07
 /careers/partner-manager-enterprise--dach-_661c8354-2120-46c2-b779-58e760128188
 /careers/partner-manager-enterprise--fr-_f3bf930a-71d9-42d9-b910-7a0913c7b904
