@@ -20,6 +20,10 @@
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
 /careers/content-production-lead-_98252529-483e-4c32-9aa9-32d0e7ed256c
 /careers/partner-manager_5da6d158-e8d7-484c-ad9c-66aa4420d72b
+/careers/account-executive--mid-market-cross-sell_7f1df35d-4463-4ac4-8b42-7ca20abc97ed
+/careers/partner-manager-enterprise--dach-_7135078a-5100-4131-8c5d-c1579c1b5ba6
+/careers/partner-manager-enterprise--dach-_cc5cd59b-01e9-4a21-9e19-a0eea936e7c1
+/careers/senior-agency-partner-manager--dach-_c681a594-148f-4101-bfd2-9f2a42bf7e69
 /careers/enterprise-product-enablement-program-manager_aff8bd11-1c0e-4446-8e4a-36fd31d2f377
 /careers/partner-manager--agency-acquisition--latam-_c7631230-8d1d-484c-be2f-0413f3b40c8c
 /careers/sales-manager--mid-market-_c9f74c88-eddf-4822-881a-60ecfed84ddb
@@ -28,7 +32,6 @@
 /careers/partner-manager-enterprise--dach-_661c8354-2120-46c2-b779-58e760128188
 /careers/partner-manager-enterprise--fr-_f3bf930a-71d9-42d9-b910-7a0913c7b904
 /careers/account-executive---retail---bilingual--german-_621d4e0c-0d60-4753-a3d4-4e63956dcc7f
-/careers/mid-market-account-executive--plus-cross-sell_7f1df35d-4463-4ac4-8b42-7ca20abc97ed
 /careers/senior-lead--channel-sales-_5fb8d84b-8ba4-4e3a-88cc-2b7f2ac4fd7d
 /careers/sales-development-representative---inbound---bilingual---german-_52962f58-65ea-4d8c-81b0-811ac2b6fbc0
 /careers/enterprise-success-manager---fluent-french-and-english-_36c8ffa8-dca1-4cbb-bb7d-f3df097393bf
@@ -42,7 +45,6 @@
 /careers/revenue-excellence-manager_b09f7f79-0a55-47e2-a2d2-44e8c6a596fd
 /careers/senior-agency-partner-manager--dach-_d1cbbfc3-2b11-456e-ac04-5b7ffcb7c540
 /careers/senior-agency-partner-manager--dach-_d0557dbb-c062-49b5-8116-483db5b361d7
-/careers/senior-agency-partner-manager--dach-_c681a594-148f-4101-bfd2-9f2a42bf7e69
 /careers/deal-desk-analyst_d89410c2-e934-40f5-bb5b-3e47414dc245
 /careers/mid-market-account-executive---italy_b429913a-341c-45b7-a42a-1c46e315a96c
 /careers/senior-partner-development-manager---italy_d1152588-95da-4c7c-ba5b-eb4345744d80

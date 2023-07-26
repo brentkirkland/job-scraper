@@ -1096,14 +1096,6 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4945500?gh_jid=4945500"
   },
   {
-    "id": 4946837,
-    "title": "SLED Account Executive ",
-    "location": {
-      "name": "San Francisco, CA"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4946837?gh_jid=4946837"
-  },
-  {
     "id": 4948178,
     "title": "Systems Reliability Engineer - SRE",
     "location": {
@@ -2646,5 +2638,13 @@
       "name": "Amsterdam, Netherlands"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5230370?gh_jid=5230370"
+  },
+  {
+    "id": 5231438,
+    "title": "SLED Account Executive ",
+    "location": {
+      "name": "San Francisco or San Jose"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5231438?gh_jid=5231438"
   }
 ]
