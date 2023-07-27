@@ -400,6 +400,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4979495"
   },
   {
+    "id": 4980945,
+    "title": "Account Executive, Billing Product Sales",
+    "location": {
+      "name": "US-Chicago"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4980945"
+  },
+  {
     "id": 4981538,
     "title": "Accounting Analyst -  Funds Flow",
     "location": {
@@ -590,6 +598,14 @@
       "name": "San Francisco, Seattle, New York, or Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5022134"
+  },
+  {
+    "id": 5023668,
+    "title": "Account Executive, Billing- Platforms",
+    "location": {
+      "name": "San Francisco, New York"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5023668"
   },
   {
     "id": 5024212,
@@ -798,6 +814,14 @@
       "name": "London"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5057071"
+  },
+  {
+    "id": 5057661,
+    "title": "Manager, Billing Product Sales",
+    "location": {
+      "name": "San Francisco, New York "
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5057661"
   },
   {
     "id": 5058314,
@@ -1334,14 +1358,6 @@
       "name": "Canada"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5167510"
-  },
-  {
-    "id": 5169035,
-    "title": "Backend / API Engineer, Payment Flows",
-    "location": {
-      "name": "N/A"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5169035"
   },
   {
     "id": 5177491,
