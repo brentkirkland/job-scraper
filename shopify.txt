@@ -1,5 +1,4 @@
 /careers/disciplines/engineering
-/careers/staff-product-designer--shipping-_96330993-08be-42bb-b3af-330a625a428e
 /careers/senior-marketing-content-designer--creative-_bf1ff368-80f9-4e43-ae04-3cde641cb5ca
 /careers/staff-marketing-content-designer--creative-_8fb9f1a0-4ca6-4471-8075-48edff932db4
 /careers/senior-marketing-designer--creative-_480a6f60-fab4-4f78-9ead-7baa1acea641
@@ -15,6 +14,7 @@
 /careers/product-marketing-lead-_e46428af-a531-49d6-90dd-7ba39602f06f
 /careers/paid-display---video-manager--performance-marketing_05a11d83-5148-4582-b500-0942e25084d8
 /careers/marketing-automation-manager-_d5e21e65-e820-4177-b8c6-8e82fc4f56f2
+/careers/social-performance-marketer-_9a2cbd68-c2e1-4b95-a521-86e3e14300e9
 /careers/content-manager--apac_01acf78c-5199-46e0-a2b2-0ea036987194
 /careers/partner-marketing-lead---partner-acquisition-_d57045f8-02f1-4c50-866c-adf9bcfb562a
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
