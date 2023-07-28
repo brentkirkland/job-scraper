@@ -816,28 +816,12 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5065740/?gh_jid=5065740"
   },
   {
-    "id": 5067787,
-    "title": "Staff Security Engineer - Remote Configuration",
-    "location": {
-      "name": "New York, New York, USA; Boston, Massachusetts, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/5067787/?gh_jid=5067787"
-  },
-  {
     "id": 5067828,
     "title": "Engineering Manager I - Frontend Developer Experience",
     "location": {
       "name": "New York, New York, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5067828/?gh_jid=5067828"
-  },
-  {
-    "id": 5067844,
-    "title": "Senior Security Analyst - Federal Programs",
-    "location": {
-      "name": "New York, New York, USA; Boston, Massachusetts, USA; Denver, Colorado, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/5067844/?gh_jid=5067844"
   },
   {
     "id": 5070966,
@@ -1566,5 +1550,21 @@
       "name": "New York, New York, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5232566/?gh_jid=5232566"
+  },
+  {
+    "id": 5250425,
+    "title": "Senior Security Analyst - Federal Programs",
+    "location": {
+      "name": "New York, New York, USA; Boston, Massachusetts, USA; Denver, Colorado, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5250425/?gh_jid=5250425"
+  },
+  {
+    "id": 5250434,
+    "title": "Staff Security Engineer - Remote Configuration",
+    "location": {
+      "name": "New York, New York, USA; Boston, Massachusetts, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5250434/?gh_jid=5250434"
   }
 ]
