@@ -40,7 +40,9 @@
 /careers/account-executive---new-business--france_fa887200-301c-4d4d-a19e-8229a2d86144
 /careers/solutions-architect---payments---checkout_19dcf219-4fcd-4d3f-9f74-8dd78dfb32b4
 /careers/senior-partner-manager---france---remote--uk_f3f6068d-9969-48e2-9477-3d6e18dca6a7
+/careers/business-development-representative---outbound---fluent-english-and-spanish_c76cb6ba-ecf4-4904-ac0b-6d46823635d3
 /careers/business-development-representative---outbound---fluent-german-and-english_89e0922f-459b-44d2-b37a-e1af3087e9f7
+/careers/business-development-representative---outbound---fluent-english_edce6d7f-9da7-4ab2-8b9e-c8af501a1086
 /careers/enterprise-business-development-representative---outbound---fluent-french-and-english_414bc101-8da8-4db9-b05c-dbb0b2e16814
 /careers/senior-agency-partner-manager--dach-_d1cbbfc3-2b11-456e-ac04-5b7ffcb7c540
 /careers/senior-agency-partner-manager--dach-_d0557dbb-c062-49b5-8116-483db5b361d7
@@ -50,6 +52,7 @@
 /careers/revenue-excellence-lead--large---mid-market-accounts_4625100a-fa0a-43e0-914e-b12c5a9841d0
 /careers/senior-account-executive--large-enterprise-dach-_961b982a-267c-48f1-8c3a-4447c9f75fd1
 /careers/partner-sales-representative---japan_33f581fe-d82f-4a30-9ca2-0a574a1784f8
+/careers/senior-technical-onboarding-specialist_a8706340-85bf-4081-bed2-4c597ba75ad4
 /careers/complex-deal-desk-analyst_8bea4f05-d226-41df-bd20-dd61b060b0bb
 /careers/sales-development-team-lead_244ae968-ce64-4105-bd73-53a56fa29596
 /careers/sales-representative--gcr_7e2a3a87-57ac-4e1d-a5ac-f169ff765720
