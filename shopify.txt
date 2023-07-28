@@ -36,6 +36,7 @@
 /careers/customer-success-manager--sea_c581c8ac-19d4-42f1-9ddc-26f5bfc4ea07
 /careers/partner-manager-enterprise--dach-_661c8354-2120-46c2-b779-58e760128188
 /careers/partner-manager-enterprise--fr-_f3bf930a-71d9-42d9-b910-7a0913c7b904
+/careers/senior-lead--channel-sales-_5fb8d84b-8ba4-4e3a-88cc-2b7f2ac4fd7d
 /careers/enterprise-success-manager---fluent-french-and-english-_36c8ffa8-dca1-4cbb-bb7d-f3df097393bf
 /careers/account-executive---new-business--france_fa887200-301c-4d4d-a19e-8229a2d86144
 /careers/solutions-architect---payments---checkout_19dcf219-4fcd-4d3f-9f74-8dd78dfb32b4
