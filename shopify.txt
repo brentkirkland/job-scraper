@@ -1,5 +1,7 @@
 /careers/disciplines/engineering
 /careers/staff-designer--web-experiences-_b6a23dc7-3d3c-4d09-bda2-7443e57e20eb
+/careers/senior-product-designer--technology-systems-_a23a3dc0-0f55-40df-94c9-796c313bf74e
+/careers/staff-product-designer--shipping-_96330993-08be-42bb-b3af-330a625a428e
 /careers/senior-marketing-content-designer--creative-_bf1ff368-80f9-4e43-ae04-3cde641cb5ca
 /careers/staff-marketing-content-designer--creative-_8fb9f1a0-4ca6-4471-8075-48edff932db4
 /careers/senior-marketing-designer--creative-_480a6f60-fab4-4f78-9ead-7baa1acea641
