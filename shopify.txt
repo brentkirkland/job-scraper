@@ -1,4 +1,5 @@
 /careers/disciplines/engineering
+/careers/staff-designer--web-experiences-_b6a23dc7-3d3c-4d09-bda2-7443e57e20eb
 /careers/senior-product-designer--technology-systems-_a23a3dc0-0f55-40df-94c9-796c313bf74e
 /careers/staff-product-designer--shipping-_96330993-08be-42bb-b3af-330a625a428e
 /careers/senior-marketing-content-designer--creative-_bf1ff368-80f9-4e43-ae04-3cde641cb5ca
@@ -23,7 +24,6 @@
 /careers/partner-marketing-lead---partner-acquisition-_d57045f8-02f1-4c50-866c-adf9bcfb562a
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
 /careers/content-production-lead-_98252529-483e-4c32-9aa9-32d0e7ed256c
-/careers/partner-manager_5da6d158-e8d7-484c-ad9c-66aa4420d72b
 /careers/account-executive--large-accounts_d2759ced-7bb3-46fa-b2c8-dddf3f3151c2
 /careers/lead--sales-tech---tooling-enablement_8c287ff9-e26e-4f81-a12f-ec017e97a2da
 /careers/account-executive--bilingual-german-retail-_621d4e0c-0d60-4753-a3d4-4e63956dcc7f

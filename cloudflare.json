@@ -537,9 +537,9 @@
   },
   {
     "id": 4717122,
-    "title": "Software Engineer - Content Delivery ",
+    "title": "Distributed Systems Engineer - Cache",
     "location": {
-      "name": "Remote and/or any of these Cloudflare Offices: San Francisco, CA, Austin, TX, Champaign, IL, New York, NY, San Jose, CA, Seattle, WA, Washington, D.C."
+      "name": "Remote and/or any of these Cloudflare Offices: San Francisco, CA, Austin, TX, Champaign, IL, New York, NY, Seattle, WA, Washington, D.C."
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4717122?gh_jid=4717122"
   },
@@ -2550,5 +2550,13 @@
       "name": "Kuala Lumpur, Malaysia"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5234517?gh_jid=5234517"
+  },
+  {
+    "id": 5244153,
+    "title": "Distributed Systems Engineer - CDN (Pingora Team) ",
+    "location": {
+      "name": "Remote and/or any of these Cloudflare Offices: San Francisco, CA, Austin, TX, Champaign, IL, New York, NY, Seattle, WA, Washington, D.C."
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5244153?gh_jid=5244153"
   }
 ]
