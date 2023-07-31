@@ -1566,13 +1566,5 @@
       "name": "New York, New York, USA; Boston, Massachusetts, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5250434/?gh_jid=5250434"
-  },
-  {
-    "id": 5259173,
-    "title": "Test job pre PID",
-    "location": {
-      "name": "Test"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/5259173/?gh_jid=5259173"
   }
 ]
