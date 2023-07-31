@@ -144,14 +144,6 @@
     "absolute_url": "https://boards.greenhouse.io/figma/jobs/4798668004"
   },
   {
-    "id": 4803813004,
-    "title": "Engineering Manager - Desktop",
-    "location": {
-      "name": "San Francisco, CA • New York, NY • United States"
-    },
-    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4803813004"
-  },
-  {
     "id": 4808098004,
     "title": "Machine Learning Researcher - PhD (2023) ",
     "location": {
@@ -574,5 +566,13 @@
       "name": "San Francisco, CA • New York, NY • United States"
     },
     "absolute_url": "https://boards.greenhouse.io/figma/jobs/4941816004"
+  },
+  {
+    "id": 4944350004,
+    "title": "IT Support Specialist",
+    "location": {
+      "name": "London, England"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4944350004"
   }
 ]
