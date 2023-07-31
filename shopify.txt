@@ -1,6 +1,9 @@
 /careers/disciplines/engineering
-/careers/staff-marketing-content-designer-_e40f9537-d5af-4980-b519-529a35576a5b
 /careers/staff-designer--web-experiences-_b6a23dc7-3d3c-4d09-bda2-7443e57e20eb
+/careers/senior-marketing-content-designer--creative-_bf1ff368-80f9-4e43-ae04-3cde641cb5ca
+/careers/staff-marketing-content-designer--creative-_8fb9f1a0-4ca6-4471-8075-48edff932db4
+/careers/senior-marketing-designer--creative-_480a6f60-fab4-4f78-9ead-7baa1acea641
+/careers/staff-marketing-designer--creative-_1cfb237b-e2cb-48c5-88ca-7f386ba8ceae
 /careers/senior-product-manager--analyze_2934dde4-dc44-4467-a3be-5409f9853bc7
 /careers/business-operations-lead_b68b17a7-aa87-48c6-b422-b8844566b5b3
 /careers/learning---development-program-manager-_c356ea64-d770-43ba-b8e2-c07ecb662843
