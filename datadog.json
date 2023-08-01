@@ -785,7 +785,7 @@
   },
   {
     "id": 5061180,
-    "title": "Senior Software Engineer - Cloud Networks",
+    "title": "Senior Software Engineer - Cloud Network Engineer",
     "location": {
       "name": "Boston, Massachusetts, USA; New York, New York, USA"
     },
@@ -793,7 +793,7 @@
   },
   {
     "id": 5061258,
-    "title": "Senior Software Engineer - Cloud Networks",
+    "title": "Senior Software Engineer - Cloud Network Engineer",
     "location": {
       "name": "Colorado, USA, Remote; Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote; "
     },
@@ -1550,6 +1550,14 @@
       "name": "New York, New York, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5232566/?gh_jid=5232566"
+  },
+  {
+    "id": 5239714,
+    "title": "Senior Product Marketing Manager - Cloud Security",
+    "location": {
+      "name": "New York, New York, USA; San Francisco, California, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5239714/?gh_jid=5239714"
   },
   {
     "id": 5250425,
