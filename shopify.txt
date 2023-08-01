@@ -3,7 +3,6 @@
 /careers/staff-designer--web-experiences-_b6a23dc7-3d3c-4d09-bda2-7443e57e20eb
 /careers/senior-product-manager--analyze_2934dde4-dc44-4467-a3be-5409f9853bc7
 /careers/business-operations-lead_b68b17a7-aa87-48c6-b422-b8844566b5b3
-/careers/learning---development-program-manager-_c356ea64-d770-43ba-b8e2-c07ecb662843
 /careers/growth-marketing-manager-_736170b6-b1a9-49da-8dd8-c898de2bdb93
 /careers/enterprise-executive-program-content-lead-_67f2b0d4-067f-44f6-a66e-3e58c186e47e
 /careers/partner-marketing-manager--bilingual-german-_4b3e9866-f6aa-44de-bfca-f6c6e2ac798f
@@ -17,7 +16,6 @@
 /careers/content-manager--apac_01acf78c-5199-46e0-a2b2-0ea036987194
 /careers/partner-marketing-lead---partner-acquisition-_d57045f8-02f1-4c50-866c-adf9bcfb562a
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
-/careers/content-production-lead-_98252529-483e-4c32-9aa9-32d0e7ed256c
 /careers/account-executive--large-accounts_d2759ced-7bb3-46fa-b2c8-dddf3f3151c2
 /careers/lead--sales-tech---tooling-enablement_8c287ff9-e26e-4f81-a12f-ec017e97a2da
 /careers/account-executive--bilingual-german-retail-_621d4e0c-0d60-4753-a3d4-4e63956dcc7f
