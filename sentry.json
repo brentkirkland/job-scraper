@@ -62,5 +62,45 @@
       "name": "San Francisco, California "
     },
     "absolute_url": "https://boards.greenhouse.io/sentry/jobs/5130390"
+  },
+  {
+    "id": 5193538,
+    "title": "Software Engineer Intern (Summer 2024)",
+    "location": {
+      "name": "San Francisco, California"
+    },
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/5193538"
+  },
+  {
+    "id": 5193895,
+    "title": "Software Engineer New Grad (2024)",
+    "location": {
+      "name": "San Francisco, California"
+    },
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/5193895"
+  },
+  {
+    "id": 5226227,
+    "title": "Software Engineer, New Grad (2024)",
+    "location": {
+      "name": "Toronto, Canada "
+    },
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/5226227"
+  },
+  {
+    "id": 5226302,
+    "title": "Software Engineer, Intern (Summer 2024) ",
+    "location": {
+      "name": "Toronto, Canada "
+    },
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/5226302"
+  },
+  {
+    "id": 5226591,
+    "title": "Software Engineer, Intern (Summer 2024)",
+    "location": {
+      "name": "Vienna, Austria "
+    },
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/5226591"
   }
 ]

@@ -646,5 +646,37 @@
       "name": "New York City, NY"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5243538"
+  },
+  {
+    "id": 5250679,
+    "title": "Senior Direct Tax Manager",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5250679"
+  },
+  {
+    "id": 5250916,
+    "title": "Senior Direct Tax Manager",
+    "location": {
+      "name": "Los Angeles, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5250916"
+  },
+  {
+    "id": 5250918,
+    "title": "Senior Direct Tax Manager",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5250918"
+  },
+  {
+    "id": 5250920,
+    "title": "Senior Direct Tax Manager",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5250920"
   }
 ]
