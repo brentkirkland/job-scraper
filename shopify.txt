@@ -1,5 +1,4 @@
 /careers/disciplines/engineering
-/careers/staff-designer--web-experiences-_b6a23dc7-3d3c-4d09-bda2-7443e57e20eb
 /careers/staff-marketing-content-designer-_e40f9537-d5af-4980-b519-529a35576a5b
 /careers/senior-product-manager--analyze_2934dde4-dc44-4467-a3be-5409f9853bc7
 /careers/business-operations-lead_b68b17a7-aa87-48c6-b422-b8844566b5b3
