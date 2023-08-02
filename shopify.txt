@@ -3,7 +3,6 @@
 /careers/staff-marketing-content-designer-_e40f9537-d5af-4980-b519-529a35576a5b
 /careers/senior-product-manager--analyze_2934dde4-dc44-4467-a3be-5409f9853bc7
 /careers/business-operations-lead_b68b17a7-aa87-48c6-b422-b8844566b5b3
-/careers/executive-protection-specialist--montreal--qu-bec-_9fe766c8-bef9-4227-8003-886e47cd81cd
 /careers/senior-integrated-marketing-manager--dach-_544dff50-10f4-4848-978c-0fa74a2a812e
 /careers/senior-integrated-marketing-manager--dach-_248bad1d-1894-4584-96e0-c290f49b24bf
 /careers/senior-integrated-marketing-manager--dach-_e6d75f69-65aa-4265-80d8-81e88798923c
@@ -32,6 +31,7 @@
 /careers/partner-manager-enterprise--dach-_cc5cd59b-01e9-4a21-9e19-a0eea936e7c1
 /careers/senior-agency-partner-manager--dach-_c681a594-148f-4101-bfd2-9f2a42bf7e69
 /careers/enterprise-product-enablement-program-manager_aff8bd11-1c0e-4446-8e4a-36fd31d2f377
+/careers/sales-manager--mid-market-_c9f74c88-eddf-4822-881a-60ecfed84ddb
 /careers/sales-development-representative---inbound---bilingual---german-italian-french_d3374a32-ced8-4132-84c2-2230993a14e8
 /careers/customer-success-manager--sea_c581c8ac-19d4-42f1-9ddc-26f5bfc4ea07
 /careers/partner-manager-enterprise--dach-_661c8354-2120-46c2-b779-58e760128188
