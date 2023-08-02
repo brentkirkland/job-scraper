@@ -872,14 +872,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5073079"
   },
   {
-    "id": 5073286,
-    "title": "Account Executive, Enterprise",
-    "location": {
-      "name": "Toronto, CA"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5073286"
-  },
-  {
     "id": 5073516,
     "title": "Full Stack Engineer, Financial Connections",
     "location": {
@@ -1312,6 +1304,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5166472"
   },
   {
+    "id": 5167095,
+    "title": "Global Threat Manager",
+    "location": {
+      "name": "US Remote"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5167095"
+  },
+  {
     "id": 5167286,
     "title": "Manager, Technical Account Management",
     "location": {
@@ -1478,14 +1478,6 @@
       "name": "US-Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5207362"
-  },
-  {
-    "id": 5221018,
-    "title": "Manager, Account Manager, Growth",
-    "location": {
-      "name": "US-NYC"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5221018"
   },
   {
     "id": 5221020,
