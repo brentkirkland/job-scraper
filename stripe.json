@@ -1622,5 +1622,13 @@
       "name": "Toronto"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5267784"
+  },
+  {
+    "id": 5271202,
+    "title": "Backend / API Engineer, Payouts",
+    "location": {
+      "name": "Dublin, Ireland"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5271202"
   }
 ]
