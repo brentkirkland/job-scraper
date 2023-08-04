@@ -1291,7 +1291,7 @@
     "id": 5027434,
     "title": "Enterprise Account Executive",
     "location": {
-      "name": "San Francisco or San Jose"
+      "name": "San Francisco, CA"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5027434?gh_jid=5027434"
   },
@@ -2486,5 +2486,13 @@
       "name": "Seoul, South Korea"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5262607?gh_jid=5262607"
+  },
+  {
+    "id": 5272032,
+    "title": "Enterprise Account Executive",
+    "location": {
+      "name": "Seattle, WA"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5272032?gh_jid=5272032"
   }
 ]
