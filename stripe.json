@@ -1480,6 +1480,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5207362"
   },
   {
+    "id": 5208799,
+    "title": "Engineering Manager, Data Platform",
+    "location": {
+      "name": "Ireland"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5208799"
+  },
+  {
     "id": 5210363,
     "title": "Software Engineer, Network",
     "location": {
@@ -1598,14 +1606,6 @@
       "name": "US / Canada"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5246830"
-  },
-  {
-    "id": 5250101,
-    "title": "Engineering Leader, Infrastructure ",
-    "location": {
-      "name": "SEA, SF"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5250101"
   },
   {
     "id": 5259452,
