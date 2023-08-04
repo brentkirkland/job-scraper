@@ -606,5 +606,21 @@
       "name": "New York City, NY"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5267308"
+  },
+  {
+    "id": 5268571,
+    "title": "Senior Datacenter Engineer",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5268571"
+  },
+  {
+    "id": 5270153,
+    "title": "Senior Datacenter Engineer",
+    "location": {
+      "name": "Los Angeles, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5270153"
   }
 ]
