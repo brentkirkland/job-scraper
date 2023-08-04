@@ -20,7 +20,6 @@
 /careers/content-manager--apac_01acf78c-5199-46e0-a2b2-0ea036987194
 /careers/partner-marketing-lead---partner-acquisition-_d57045f8-02f1-4c50-866c-adf9bcfb562a
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
-/careers/deal-desk-analyst_d89410c2-e934-40f5-bb5b-3e47414dc245
 /careers/partner-manager--agency-acquisition--latam-_c7631230-8d1d-484c-be2f-0413f3b40c8c
 /careers/program-manager--enterprise-sales_932a6d8d-1d7d-44ac-a91e-9463397404b8
 /careers/senior-solutions-engineer--australia_72da8292-f513-4cfc-838b-530a895d3304
@@ -49,6 +48,7 @@
 /careers/enterprise-business-development-representative---outbound---fluent-french-and-english_414bc101-8da8-4db9-b05c-dbb0b2e16814
 /careers/senior-agency-partner-manager--dach-_d1cbbfc3-2b11-456e-ac04-5b7ffcb7c540
 /careers/senior-agency-partner-manager--dach-_d0557dbb-c062-49b5-8116-483db5b361d7
+/careers/deal-desk-analyst_d89410c2-e934-40f5-bb5b-3e47414dc245
 /careers/mid-market-account-executive---italy_b429913a-341c-45b7-a42a-1c46e315a96c
 /careers/senior-partner-development-manager---italy_d1152588-95da-4c7c-ba5b-eb4345744d80
 /careers/revenue-excellence-lead--large---mid-market-accounts_4625100a-fa0a-43e0-914e-b12c5a9841d0
