@@ -256,14 +256,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4959894"
   },
   {
-    "id": 4960166,
-    "title": "Staff Engineer, Connect",
-    "location": {
-      "name": "Remote in Canada"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4960166"
-  },
-  {
     "id": 4960255,
     "title": "Program Manager, Security Risk Management",
     "location": {
@@ -1678,5 +1670,13 @@
       "name": "Dublin, Ireland"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5271202"
+  },
+  {
+    "id": 5274197,
+    "title": "Global Head of Enterprise Risk Management ",
+    "location": {
+      "name": "Chicago, NYC, San Francisco, Seattle, US - Remote "
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5274197"
   }
 ]

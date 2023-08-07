@@ -4,6 +4,7 @@
 /careers/program-manager--merchant-strategy---operations_3181ede4-4d89-4dfd-9196-4695cf1f7c76
 /careers/business-operations-lead_b68b17a7-aa87-48c6-b422-b8844566b5b3
 /careers/executive-protection-specialist--montreal--qu-bec-_9fe766c8-bef9-4227-8003-886e47cd81cd
+/careers/senior-financial-analyst_1f180ab7-280c-4a32-aadb-9d73572b3d55
 /careers/growth-marketer-lead--direct-mail-_9ec4e169-663c-4f59-91c2-eeb0c97a7a80
 /careers/senior-integrated-marketing-manager--dach-_544dff50-10f4-4848-978c-0fa74a2a812e
 /careers/senior-integrated-marketing-manager--dach-_248bad1d-1894-4584-96e0-c290f49b24bf
@@ -35,7 +36,6 @@
 /careers/partner-manager-enterprise--dach-_7135078a-5100-4131-8c5d-c1579c1b5ba6
 /careers/partner-manager-enterprise--dach-_cc5cd59b-01e9-4a21-9e19-a0eea936e7c1
 /careers/senior-agency-partner-manager--dach-_c681a594-148f-4101-bfd2-9f2a42bf7e69
-/careers/enterprise-product-enablement-program-manager_aff8bd11-1c0e-4446-8e4a-36fd31d2f377
 /careers/sales-development-representative---inbound---bilingual---german-italian-french_d3374a32-ced8-4132-84c2-2230993a14e8
 /careers/customer-success-manager--sea_c581c8ac-19d4-42f1-9ddc-26f5bfc4ea07
 /careers/partner-manager-enterprise--dach-_661c8354-2120-46c2-b779-58e760128188
@@ -50,7 +50,6 @@
 /careers/senior-agency-partner-manager--dach-_d0557dbb-c062-49b5-8116-483db5b361d7
 /careers/mid-market-account-executive---italy_b429913a-341c-45b7-a42a-1c46e315a96c
 /careers/senior-partner-development-manager---italy_d1152588-95da-4c7c-ba5b-eb4345744d80
-/careers/revenue-excellence-lead--large---mid-market-accounts_4625100a-fa0a-43e0-914e-b12c5a9841d0
 /careers/senior-account-executive--large-enterprise-dach-_961b982a-267c-48f1-8c3a-4447c9f75fd1
 /careers/partner-sales-representative---japan_33f581fe-d82f-4a30-9ca2-0a574a1784f8
 /careers/complex-deal-desk-analyst_8bea4f05-d226-41df-bd20-dd61b060b0bb
