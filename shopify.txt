@@ -1,10 +1,10 @@
 /careers/disciplines/engineering
 /careers/staff-marketing-content-designer-_e40f9537-d5af-4980-b519-529a35576a5b
+/careers/senior-product-manager--analyze_2934dde4-dc44-4467-a3be-5409f9853bc7
 /careers/program-manager--merchant-strategy---operations_3181ede4-4d89-4dfd-9196-4695cf1f7c76
 /careers/business-operations-lead_b68b17a7-aa87-48c6-b422-b8844566b5b3
 /careers/executive-protection-specialist--montreal--qu-bec-_9fe766c8-bef9-4227-8003-886e47cd81cd
 /careers/senior-financial-analyst_1f180ab7-280c-4a32-aadb-9d73572b3d55
-/careers/content-manager--apac_01acf78c-5199-46e0-a2b2-0ea036987194
 /careers/growth-marketer-lead--direct-mail-_9ec4e169-663c-4f59-91c2-eeb0c97a7a80
 /careers/senior-integrated-marketing-manager--dach-_544dff50-10f4-4848-978c-0fa74a2a812e
 /careers/senior-integrated-marketing-manager--dach-_248bad1d-1894-4584-96e0-c290f49b24bf
@@ -15,12 +15,9 @@
 /careers/partner-marketing-manager--bilingual-german-_248e7c5d-5b5c-4dee-a6d9-7ea26ea78c9b
 /careers/partner-marketing-manager--bilingual-german-_48be0efd-3d99-4cc6-b87a-8c04f905c196
 /careers/paid-display---video-manager--performance-marketing_05a11d83-5148-4582-b500-0942e25084d8
+/careers/content-manager--apac_01acf78c-5199-46e0-a2b2-0ea036987194
 /careers/partner-marketing-lead---partner-acquisition-_d57045f8-02f1-4c50-866c-adf9bcfb562a
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
-/careers/account-executive---cross-sell-emerging-_16cc5576-7fa9-4967-bd9d-39e17b5c5a46
-/careers/mid-market-account-executive---fluent-french_fa887200-301c-4d4d-a19e-8229a2d86144
-/careers/account-executive--large-accounts_d2759ced-7bb3-46fa-b2c8-dddf3f3151c2
-/careers/enterprise-success-manager---fluent-french-and-english-_36c8ffa8-dca1-4cbb-bb7d-f3df097393bf
 /careers/enterprise-product-enablement-program-manager_aff8bd11-1c0e-4446-8e4a-36fd31d2f377
 /careers/lead--sales-tech---tooling-enablement_8c287ff9-e26e-4f81-a12f-ec017e97a2da
 /careers/business-development-representative---outbound---fluent-english_edce6d7f-9da7-4ab2-8b9e-c8af501a1086
@@ -36,6 +33,7 @@
 /careers/senior-solutions-engineer--australia_72da8292-f513-4cfc-838b-530a895d3304
 /careers/senior-account-executive--large-enterprise-northern-europe-_8dc1939b-59e7-4fda-9356-987a47cc825d
 /careers/sales-team-lead--large-accounts_a41063eb-aa9a-4cdc-954b-ed33c3b12cfc
+/careers/account-executive--large-accounts_d2759ced-7bb3-46fa-b2c8-dddf3f3151c2
 /careers/account-executive--bilingual-german-retail-_621d4e0c-0d60-4753-a3d4-4e63956dcc7f
 /careers/sales-development-representative--bilingual-german-inbound-_52962f58-65ea-4d8c-81b0-811ac2b6fbc0
 /careers/senior-account-executive--bilingual-german-mid-market_c8210e60-5596-4ec3-a6f1-a1495aac1c9a
@@ -46,6 +44,8 @@
 /careers/senior-agency-partner-manager--dach-_c681a594-148f-4101-bfd2-9f2a42bf7e69
 /careers/partner-manager-enterprise--dach-_661c8354-2120-46c2-b779-58e760128188
 /careers/partner-manager-enterprise--fr-_f3bf930a-71d9-42d9-b910-7a0913c7b904
+/careers/enterprise-success-manager---fluent-french-and-english-_36c8ffa8-dca1-4cbb-bb7d-f3df097393bf
+/careers/account-executive---new-business--france_fa887200-301c-4d4d-a19e-8229a2d86144
 /careers/solutions-architect---payments---checkout_19dcf219-4fcd-4d3f-9f74-8dd78dfb32b4
 /careers/senior-partner-manager---france---remote--uk_f3f6068d-9969-48e2-9477-3d6e18dca6a7
 /careers/senior-agency-partner-manager--dach-_d1cbbfc3-2b11-456e-ac04-5b7ffcb7c540
@@ -55,6 +55,7 @@
 /careers/senior-account-executive--large-enterprise-dach-_961b982a-267c-48f1-8c3a-4447c9f75fd1
 /careers/partner-sales-representative---japan_33f581fe-d82f-4a30-9ca2-0a574a1784f8
 /careers/complex-deal-desk-analyst_8bea4f05-d226-41df-bd20-dd61b060b0bb
+/careers/sales-development-team-lead_244ae968-ce64-4105-bd73-53a56fa29596
 /careers/sales-representative--gcr_7e2a3a87-57ac-4e1d-a5ac-f169ff765720
 /careers/enterprise-solutions-engineer_709afa91-46bf-45ad-9ad1-61db36bce0ce
 /careers/solutions-architect---payments---checkout_e8efe975-c571-4e3e-8b6d-8e96ac027b60
