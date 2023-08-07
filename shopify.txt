@@ -1,4 +1,5 @@
 /careers/disciplines/engineering
+/careers/staff-designer--web-experiences-_b6a23dc7-3d3c-4d09-bda2-7443e57e20eb
 /careers/staff-marketing-content-designer-_e40f9537-d5af-4980-b519-529a35576a5b
 /careers/program-manager--merchant-strategy---operations_3181ede4-4d89-4dfd-9196-4695cf1f7c76
 /careers/business-operations-lead_b68b17a7-aa87-48c6-b422-b8844566b5b3
@@ -10,6 +11,7 @@
 /careers/senior-integrated-marketing-manager--dach-_e6d75f69-65aa-4265-80d8-81e88798923c
 /careers/senior-product-pricing-manager_7431032c-bb6a-4b31-a25e-8855b1a79cac
 /careers/growth-marketing-manager-_736170b6-b1a9-49da-8dd8-c898de2bdb93
+/careers/enterprise-executive-program-content-lead-_67f2b0d4-067f-44f6-a66e-3e58c186e47e
 /careers/partner-marketing-manager--bilingual-german-_4b3e9866-f6aa-44de-bfca-f6c6e2ac798f
 /careers/partner-marketing-manager--bilingual-german-_248e7c5d-5b5c-4dee-a6d9-7ea26ea78c9b
 /careers/partner-marketing-manager--bilingual-german-_48be0efd-3d99-4cc6-b87a-8c04f905c196
