@@ -472,14 +472,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4983108/?gh_jid=4983108"
   },
   {
-    "id": 4984127,
-    "title": "Office Operations Manager",
-    "location": {
-      "name": "Tel Aviv, Israel "
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4984127/?gh_jid=4984127"
-  },
-  {
     "id": 4987715,
     "title": "Senior Product Marketing Manager - OpenTelemetry & Platform",
     "location": {
@@ -1022,14 +1014,6 @@
       "name": "New York, New York, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5112227/?gh_jid=5112227"
-  },
-  {
-    "id": 5112789,
-    "title": "Enterprise Customer Success Manager",
-    "location": {
-      "name": "Tokyo, Japan"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/5112789/?gh_jid=5112789"
   },
   {
     "id": 5119138,
@@ -1582,6 +1566,14 @@
       "name": "Singapore, Singapore"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5262356/?gh_jid=5262356"
+  },
+  {
+    "id": 5264055,
+    "title": "People Generalist",
+    "location": {
+      "name": "New York, New York, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5264055/?gh_jid=5264055"
   },
   {
     "id": 5264601,
