@@ -160,14 +160,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4921361"
   },
   {
-    "id": 4922304,
-    "title": "Financial Crimes - Sanctions Associate",
-    "location": {
-      "name": "Mexico- Mexico City"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4922304"
-  },
-  {
     "id": 4923659,
     "title": "Full Stack Engineer, Stripe Tax",
     "location": {
@@ -214,6 +206,14 @@
       "name": "Bengaluru"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4937742"
+  },
+  {
+    "id": 4943440,
+    "title": "Software Engineer, Observability",
+    "location": {
+      "name": "US"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4943440"
   },
   {
     "id": 4946823,
