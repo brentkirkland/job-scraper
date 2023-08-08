@@ -1352,6 +1352,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5052542?gh_jid=5052542"
   },
   {
+    "id": 5056527,
+    "title": "People Services Coordinator (PDT Working Hours)",
+    "location": {
+      "name": "Remote US"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5056527?gh_jid=5056527"
+  },
+  {
     "id": 5057353,
     "title": "Senior Legal Counsel, Public Sector",
     "location": {
@@ -2478,5 +2486,13 @@
       "name": "Remote UK"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5272862?gh_jid=5272862"
+  },
+  {
+    "id": 5279169,
+    "title": "People Services Coordinator (PDT Working Hours)",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5279169?gh_jid=5279169"
   }
 ]
