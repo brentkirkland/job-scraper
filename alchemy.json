@@ -1,7 +1,7 @@
 [
   {
     "id": 4018043005,
-    "title": "Backend Engineer (General)",
+    "title": "Software Engineer (Backend)",
     "location": {
       "name": "New York, New York, United States, San Francisco, California, United States"
     },
@@ -65,7 +65,7 @@
   },
   {
     "id": 4020811005,
-    "title": "Frontend Engineer",
+    "title": "Software Engineer (Frontend)",
     "location": {
       "name": "New York, New York, United States, San Francisco, California, United States"
     },
@@ -73,7 +73,7 @@
   },
   {
     "id": 4020812005,
-    "title": "Full Stack Engineer",
+    "title": "Software Engineer (Full Stack)",
     "location": {
       "name": "New York, New York, United States, San Francisco, California, United States"
     },
@@ -209,7 +209,7 @@
   },
   {
     "id": 4181718005,
-    "title": "Growth Engineer",
+    "title": "Software Engineer (Growth)",
     "location": {
       "name": "New York, New York, United States, San Francisco, California, United States"
     },
