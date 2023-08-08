@@ -56,14 +56,6 @@
     "absolute_url": "https://boards.greenhouse.io/alchemy/jobs/4020800005"
   },
   {
-    "id": 4020806005,
-    "title": "Backend Engineer (Java)",
-    "location": {
-      "name": "New York, New York, United States, San Francisco, California, United States"
-    },
-    "absolute_url": "https://boards.greenhouse.io/alchemy/jobs/4020806005"
-  },
-  {
     "id": 4020810005,
     "title": "Solidity Smart Contract Engineer",
     "location": {
@@ -190,14 +182,6 @@
       "name": "New York, New York, United States, San Francisco, California, United States"
     },
     "absolute_url": "https://boards.greenhouse.io/alchemy/jobs/4033855005"
-  },
-  {
-    "id": 4046392005,
-    "title": "Backend Engineer (Billing)",
-    "location": {
-      "name": "New York, New York, United States, San Francisco, California, United States"
-    },
-    "absolute_url": "https://boards.greenhouse.io/alchemy/jobs/4046392005"
   },
   {
     "id": 4049497005,
