@@ -1096,14 +1096,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5136531"
   },
   {
-    "id": 5138396,
-    "title": "Product Designer, Internal Tools",
-    "location": {
-      "name": "US / Canada"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5138396"
-  },
-  {
     "id": 5139069,
     "title": "Corporate Finance & Strategy Analyst",
     "location": {
@@ -1536,6 +1528,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5243359"
   },
   {
+    "id": 5243512,
+    "title": "Operations Technology Program Manager (Support Ops)",
+    "location": {
+      "name": "US-SFO"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5243512"
+  },
+  {
     "id": 5243801,
     "title": "Operations Technology Program Manager",
     "location": {
@@ -1574,6 +1574,14 @@
       "name": "Dublin"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5250103"
+  },
+  {
+    "id": 5250889,
+    "title": "Risk Business Process Program Manager",
+    "location": {
+      "name": "US-SFO, US-SEA, US-CHI"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5250889"
   },
   {
     "id": 5259452,
