@@ -64,14 +64,6 @@
     "absolute_url": "https://boards.greenhouse.io/alchemy/jobs/4020806005"
   },
   {
-    "id": 4020809005,
-    "title": "Blockchain Client Engineer",
-    "location": {
-      "name": "New York, New York, United States, San Francisco, California, United States"
-    },
-    "absolute_url": "https://boards.greenhouse.io/alchemy/jobs/4020809005"
-  },
-  {
     "id": 4020810005,
     "title": "Solidity Smart Contract Engineer",
     "location": {
@@ -230,14 +222,6 @@
       "name": "New York, New York, United States, San Francisco, California, United States"
     },
     "absolute_url": "https://boards.greenhouse.io/alchemy/jobs/4066152005"
-  },
-  {
-    "id": 4093246005,
-    "title": "Backend Engineer (Solana)",
-    "location": {
-      "name": "New York, New York, United States, San Francisco, California, United States"
-    },
-    "absolute_url": "https://boards.greenhouse.io/alchemy/jobs/4093246005"
   },
   {
     "id": 4181718005,
