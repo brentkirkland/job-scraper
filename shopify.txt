@@ -1,5 +1,4 @@
 /careers/disciplines/engineering
-/careers/senior-product-designer_012fcc6a-d93a-4151-a11c-9a6f864b6595
 /careers/staff-product-designer-_6f22c869-10b2-41bb-92d1-0d1313b33c5d
 /careers/staff-marketing-content-designer-_e40f9537-d5af-4980-b519-529a35576a5b
 /careers/program-manager--support-operations_4b423a51-c7b6-47af-bf6d-a234fda6c78e
