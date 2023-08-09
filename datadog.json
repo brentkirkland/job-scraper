@@ -264,14 +264,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4790162/?gh_jid=4790162"
   },
   {
-    "id": 4828332,
-    "title": "Enterprise Sales Executive (Canada)",
-    "location": {
-      "name": "Quebec, Remote"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4828332/?gh_jid=4828332"
-  },
-  {
     "id": 4830880,
     "title": "Design Manager - APM Core",
     "location": {
@@ -1598,5 +1590,13 @@
       "name": "Madrid, Spain"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5267416/?gh_jid=5267416"
+  },
+  {
+    "id": 5283132,
+    "title": "Commercial Account Executive (DACH)",
+    "location": {
+      "name": "Amsterdam; Netherlands"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5283132/?gh_jid=5283132"
   }
 ]
