@@ -21,7 +21,7 @@
 /careers/paid-display---video-manager--performance-marketing_05a11d83-5148-4582-b500-0942e25084d8
 /careers/partner-marketing-lead---partner-acquisition-_d57045f8-02f1-4c50-866c-adf9bcfb562a
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
-/careers/sales-development-representative---inbound---fluent-italian_d3374a32-ced8-4132-84c2-2230993a14e8
+/careers/sales-development-representative---inbound---bilingual---german-italian-french_d3374a32-ced8-4132-84c2-2230993a14e8
 /careers/account-executive---smb-cross-sell_34258fb2-1303-4dc3-9455-3b3435ed782b
 /careers/account-executive---cross-sell-emerging-_16cc5576-7fa9-4967-bd9d-39e17b5c5a46
 /careers/mid-market-account-executive---fluent-french_fa887200-301c-4d4d-a19e-8229a2d86144
@@ -34,6 +34,7 @@
 /careers/business-development-representative---outbound---fluent-german-and-english_89e0922f-459b-44d2-b37a-e1af3087e9f7
 /careers/mid-market-account-executive---fluent-french_3045617d-463e-4c1b-a6bc-107618bfbb36
 /careers/deal-desk-analyst_d89410c2-e934-40f5-bb5b-3e47414dc245
+/careers/partner-manager--agency-acquisition--latam-_c7631230-8d1d-484c-be2f-0413f3b40c8c
 /careers/senior-solutions-engineer--australia_72da8292-f513-4cfc-838b-530a895d3304
 /careers/senior-account-executive--large-enterprise-northern-europe-_8dc1939b-59e7-4fda-9356-987a47cc825d
 /careers/sales-team-lead--large-accounts_a41063eb-aa9a-4cdc-954b-ed33c3b12cfc
