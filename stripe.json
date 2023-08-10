@@ -40,6 +40,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4724350"
   },
   {
+    "id": 4746577,
+    "title": "Software Engineer, Core Infrastructure ",
+    "location": {
+      "name": "IN-Bengaluru"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4746577"
+  },
+  {
     "id": 4746655,
     "title": "Engineering Manager, Core Infrastructure",
     "location": {
@@ -54,6 +62,14 @@
       "name": "Bangalore"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4752785"
+  },
+  {
+    "id": 4785686,
+    "title": "Software Engineer, Network",
+    "location": {
+      "name": "IN-Bengaluru"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4785686"
   },
   {
     "id": 4820029,
@@ -1718,5 +1734,13 @@
       "name": "Dublin, Ireland"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5285396"
+  },
+  {
+    "id": 5285403,
+    "title": "Financial Crimes Policy & Governance Advisor, Americas",
+    "location": {
+      "name": "US-Remote"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5285403"
   }
 ]
