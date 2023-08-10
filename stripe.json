@@ -1640,14 +1640,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5265976"
   },
   {
-    "id": 5267784,
-    "title": "Backend / API Engineer, Relational Databases",
-    "location": {
-      "name": "Toronto"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5267784"
-  },
-  {
     "id": 5269005,
     "title": "Incident Response Manager",
     "location": {
@@ -1702,6 +1694,14 @@
       "name": "US-Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5282082"
+  },
+  {
+    "id": 5284606,
+    "title": "Program Manager, GTM Operations",
+    "location": {
+      "name": "SF, SEA"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5284606"
   },
   {
     "id": 5285396,
