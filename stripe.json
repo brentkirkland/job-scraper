@@ -1088,6 +1088,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5139069"
   },
   {
+    "id": 5139213,
+    "title": "Full Stack Engineer, Identity",
+    "location": {
+      "name": "Seattle, SF, US Remote"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5139213"
+  },
+  {
     "id": 5139315,
     "title": "Staff Engineer, Cards Platform",
     "location": {
@@ -1134,14 +1142,6 @@
       "name": "US Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5153418"
-  },
-  {
-    "id": 5154177,
-    "title": "Full Stack Engineer, Connect",
-    "location": {
-      "name": "US - Chicago (In office), Canada - Toronto (In office)"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5154177"
   },
   {
     "id": 5161263,
