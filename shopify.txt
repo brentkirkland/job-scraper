@@ -25,8 +25,8 @@
 /careers/paid-display---video-manager--performance-marketing_05a11d83-5148-4582-b500-0942e25084d8
 /careers/partner-marketing-lead---partner-acquisition-_d57045f8-02f1-4c50-866c-adf9bcfb562a
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
+/careers/mid-market-account-executive---france_604072ef-5170-4876-b0db-8e89f13d20b3
 /careers/sales-development-representative---inbound---fluent-italian_d3374a32-ced8-4132-84c2-2230993a14e8
-/careers/account-executive---cross-sell-emerging-_16cc5576-7fa9-4967-bd9d-39e17b5c5a46
 /careers/mid-market-account-executive---fluent-french_fa887200-301c-4d4d-a19e-8229a2d86144
 /careers/account-executive--large-accounts_d2759ced-7bb3-46fa-b2c8-dddf3f3151c2
 /careers/enterprise-success-manager---fluent-french-and-english-_36c8ffa8-dca1-4cbb-bb7d-f3df097393bf
@@ -35,7 +35,6 @@
 /careers/business-development-representative---outbound---fluent-english-and-spanish_c76cb6ba-ecf4-4904-ac0b-6d46823635d3
 /careers/enterprise-business-development-representative---outbound---fluent-french-and-english_414bc101-8da8-4db9-b05c-dbb0b2e16814
 /careers/business-development-representative---outbound---fluent-german-and-english_89e0922f-459b-44d2-b37a-e1af3087e9f7
-/careers/mid-market-account-executive---fluent-french_3045617d-463e-4c1b-a6bc-107618bfbb36
 /careers/deal-desk-analyst_d89410c2-e934-40f5-bb5b-3e47414dc245
 /careers/senior-account-executive--large-enterprise-northern-europe-_8dc1939b-59e7-4fda-9356-987a47cc825d
 /careers/sales-team-lead--large-accounts_a41063eb-aa9a-4cdc-954b-ed33c3b12cfc
