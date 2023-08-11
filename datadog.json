@@ -529,7 +529,7 @@
   },
   {
     "id": 5007736,
-    "title": "Enterprise Sales Executive (France)",
+    "title": "Strategic Account Executive (France)",
     "location": {
       "name": "Paris, France"
     },
@@ -537,7 +537,7 @@
   },
   {
     "id": 5007738,
-    "title": "Enterprise Sales Executive (UKI)",
+    "title": "Strategic Account Executive (UKI)",
     "location": {
       "name": "London, England"
     },
@@ -889,7 +889,7 @@
   },
   {
     "id": 5097310,
-    "title": "Enterprise Sales Executive (Middle East)",
+    "title": "Strategic Account Executive (Middle East)",
     "location": {
       "name": "Dubai, United Arab Emirates"
     },
@@ -1193,9 +1193,9 @@
   },
   {
     "id": 5170119,
-    "title": "Enterprise Sales Executive (Benelux)",
+    "title": "Strategic Account Executive (Benelux)",
     "location": {
-      "name": "Amsterdam"
+      "name": "Amsterdam, Netherlands"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5170119/?gh_jid=5170119"
   },
@@ -1297,7 +1297,7 @@
   },
   {
     "id": 5191264,
-    "title": "Enterprise Sales Executive (Italy)",
+    "title": "Strategic Account Executive (Italy)",
     "location": {
       "name": "Remote - Italy"
     },
@@ -1457,7 +1457,7 @@
   },
   {
     "id": 5229078,
-    "title": "Enterprise Sales Executive (Switzerland)",
+    "title": "Strategic Account Executive (Switzerland)",
     "location": {
       "name": "Remote - Switzerland"
     },
@@ -1614,6 +1614,14 @@
       "name": "Sydney, Australia"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5284949/?gh_jid=5284949"
+  },
+  {
+    "id": 5285556,
+    "title": "Enterprise Customer Success Manager - Benelux",
+    "location": {
+      "name": "Dublin; Ireland"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5285556/?gh_jid=5285556"
   },
   {
     "id": 5289945,
