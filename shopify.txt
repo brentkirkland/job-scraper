@@ -1,7 +1,6 @@
 /careers/disciplines/engineering
 /careers/senior-staff-product-designer-_6269f07f-1d52-4df5-a220-1ea25b44988f
 /careers/senior-product-designer_012fcc6a-d93a-4151-a11c-9a6f864b6595
-/careers/staff-product-designer-_6f22c869-10b2-41bb-92d1-0d1313b33c5d
 /careers/staff-marketing-content-designer-_e40f9537-d5af-4980-b519-529a35576a5b
 /careers/program-manager--support-operations_4b423a51-c7b6-47af-bf6d-a234fda6c78e
 /careers/program-manager--merchant-strategy---operations_3181ede4-4d89-4dfd-9196-4695cf1f7c76
@@ -23,6 +22,7 @@
 /careers/paid-display---video-manager--performance-marketing_05a11d83-5148-4582-b500-0942e25084d8
 /careers/partner-marketing-lead---partner-acquisition-_d57045f8-02f1-4c50-866c-adf9bcfb562a
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
+/careers/sales-representative--core-cross-sell_93c7eb56-c769-4a33-a861-e6af2f296081
 /careers/mid-market-account-executive---france_604072ef-5170-4876-b0db-8e89f13d20b3
 /careers/sales-development-representative---inbound---fluent-italian_d3374a32-ced8-4132-84c2-2230993a14e8
 /careers/mid-market-account-executive---fluent-french_fa887200-301c-4d4d-a19e-8229a2d86144
