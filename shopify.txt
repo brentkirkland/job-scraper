@@ -4,6 +4,7 @@
 /careers/staff-marketing-content-designer-_e40f9537-d5af-4980-b519-529a35576a5b
 /careers/program-manager--support-operations_4b423a51-c7b6-47af-bf6d-a234fda6c78e
 /careers/program-manager--merchant-strategy---operations_3181ede4-4d89-4dfd-9196-4695cf1f7c76
+/careers/business-operations-lead_b68b17a7-aa87-48c6-b422-b8844566b5b3
 /careers/executive-protection-specialist--montreal--qu-bec-_9fe766c8-bef9-4227-8003-886e47cd81cd
 /careers/regional-marketing-manager--large-accounts--apac_82694c0b-e05e-48aa-879f-052643f33599
 /careers/marketing-campaigns---programs-manager--apac_a40a5862-0bab-40e0-bc74-6dbdfae61883
@@ -19,11 +20,11 @@
 /careers/paid-display---video-manager--performance-marketing_05a11d83-5148-4582-b500-0942e25084d8
 /careers/partner-marketing-lead---partner-acquisition-_d57045f8-02f1-4c50-866c-adf9bcfb562a
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
-/careers/senior-solutions-engineer---retail_9afa2f53-6860-4c79-a80a-9e7b1e4c90a1
 /careers/sales-representative--core-cross-sell_93c7eb56-c769-4a33-a861-e6af2f296081
 /careers/mid-market-account-executive---france_604072ef-5170-4876-b0db-8e89f13d20b3
 /careers/sales-development-representative---inbound---fluent-italian_d3374a32-ced8-4132-84c2-2230993a14e8
 /careers/mid-market-account-executive---fluent-french_fa887200-301c-4d4d-a19e-8229a2d86144
+/careers/account-executive--large-accounts_d2759ced-7bb3-46fa-b2c8-dddf3f3151c2
 /careers/enterprise-success-manager---fluent-french-and-english-_36c8ffa8-dca1-4cbb-bb7d-f3df097393bf
 /careers/business-development-representative---outbound---fluent-english_edce6d7f-9da7-4ab2-8b9e-c8af501a1086
 /careers/business-development-representative---outbound---fluent-english-and-spanish_c76cb6ba-ecf4-4904-ac0b-6d46823635d3
