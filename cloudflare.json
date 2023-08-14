@@ -1848,14 +1848,6 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5143169?gh_jid=5143169"
   },
   {
-    "id": 5143480,
-    "title": "Director, Professional Services",
-    "location": {
-      "name": "Austin or Remote US"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5143480?gh_jid=5143480"
-  },
-  {
     "id": 5148743,
     "title": "Manager, Professional Services",
     "location": {
@@ -2414,5 +2406,13 @@
       "name": "London or Remote UK"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5286069?gh_jid=5286069"
+  },
+  {
+    "id": 5295781,
+    "title": "Account Executive - Portuguese Speaking",
+    "location": {
+      "name": "Miami, FL"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5295781?gh_jid=5295781"
   }
 ]
