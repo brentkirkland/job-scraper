@@ -1344,14 +1344,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5194982/?gh_jid=5194982"
   },
   {
-    "id": 5195293,
-    "title": "Customer Success Associate - Boston",
-    "location": {
-      "name": "Boston, Massachusetts, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/5195293/?gh_jid=5195293"
-  },
-  {
     "id": 5195300,
     "title": "Customer Success Associate - LATAM",
     "location": {
@@ -1600,6 +1592,14 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5272195/?gh_jid=5272195"
   },
   {
+    "id": 5272993,
+    "title": "Sales Systems Developer",
+    "location": {
+      "name": "New York, New York, USA; Boston, Massachusetts, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5272993/?gh_jid=5272993"
+  },
+  {
     "id": 5276673,
     "title": "Senior Technical Support Engineer",
     "location": {
@@ -1678,5 +1678,21 @@
       "name": "Paris, France"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5290751/?gh_jid=5290751"
+  },
+  {
+    "id": 5296174,
+    "title": "Sales Systems Developer",
+    "location": {
+      "name": "Massachusetts, USA, Remote"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5296174/?gh_jid=5296174"
+  },
+  {
+    "id": 5296180,
+    "title": "Sales Systems Developer",
+    "location": {
+      "name": "New York, USA, Remote"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5296180/?gh_jid=5296180"
   }
 ]
