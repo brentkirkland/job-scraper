@@ -1608,6 +1608,14 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5276673/?gh_jid=5276673"
   },
   {
+    "id": 5278533,
+    "title": "Technical Account Manager (Germany)",
+    "location": {
+      "name": "Remote - Germany"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5278533/?gh_jid=5278533"
+  },
+  {
     "id": 5278575,
     "title": "Manager, Partner Solutions",
     "location": {
@@ -1654,5 +1662,13 @@
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Tel Aviv, Israel"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5289945/?gh_jid=5289945"
+  },
+  {
+    "id": 5290751,
+    "title": "Technical Account Manager (Paris)",
+    "location": {
+      "name": "Paris, France"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5290751/?gh_jid=5290751"
   }
 ]

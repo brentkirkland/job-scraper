@@ -1,5 +1,7 @@
 /careers/disciplines/engineering
+/careers/senior-staff-product-designer-_6269f07f-1d52-4df5-a220-1ea25b44988f
 /careers/senior-product-designer_012fcc6a-d93a-4151-a11c-9a6f864b6595
+/careers/program-manager--merchant-strategy---operations_3181ede4-4d89-4dfd-9196-4695cf1f7c76
 /careers/executive-protection-specialist--montreal--qu-bec-_9fe766c8-bef9-4227-8003-886e47cd81cd
 /careers/regional-marketing-manager--large-accounts--apac_82694c0b-e05e-48aa-879f-052643f33599
 /careers/marketing-campaigns---programs-manager--apac_a40a5862-0bab-40e0-bc74-6dbdfae61883
@@ -15,7 +17,6 @@
 /careers/paid-display---video-manager--performance-marketing_05a11d83-5148-4582-b500-0942e25084d8
 /careers/partner-marketing-lead---partner-acquisition-_d57045f8-02f1-4c50-866c-adf9bcfb562a
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
-/careers/senior-launch-engineer--australia_19a3a407-01fa-41bf-abd1-3217907a07a2
 /careers/senior-solutions-engineer--china_72da8292-f513-4cfc-838b-530a895d3304
 /careers/sales-representative--core-cross-sell_93c7eb56-c769-4a33-a861-e6af2f296081
 /careers/senior-solutions-engineer---retail_9afa2f53-6860-4c79-a80a-9e7b1e4c90a1

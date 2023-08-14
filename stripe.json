@@ -128,14 +128,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4895647"
   },
   {
-    "id": 4896820,
-    "title": "Software Engineer, Developer Infrastructure",
-    "location": {
-      "name": "US / Canada"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4896820"
-  },
-  {
     "id": 4913667,
     "title": "Manager, Americas Paid Support",
     "location": {
@@ -1664,6 +1656,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5278518"
   },
   {
+    "id": 5279391,
+    "title": "Risk Finance & Strategy Analyst",
+    "location": {
+      "name": "SF, SEA, NYC"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5279391"
+  },
+  {
     "id": 5282082,
     "title": " Product Compliance Lead, Financial Partnerships",
     "location": {
@@ -1718,13 +1718,5 @@
       "name": "SF, Seattle, US-Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5290756"
-  },
-  {
-    "id": 5293447,
-    "title": "Software Engineer, Go Tools",
-    "location": {
-      "name": "US-Remote"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5293447"
   }
 ]
