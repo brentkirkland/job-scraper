@@ -104,6 +104,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4854822"
   },
   {
+    "id": 4861477,
+    "title": "Account Executive, Platforms",
+    "location": {
+      "name": "New York, San Francisco"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4861477"
+  },
+  {
     "id": 4870624,
     "title": "Software Engineer, Finance Engineering",
     "location": {
@@ -526,6 +534,14 @@
       "name": "San Francisco, New York"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5023668"
+  },
+  {
+    "id": 5024212,
+    "title": "Product Manager, Stripe Tax - Experience & Growth",
+    "location": {
+      "name": "Dublin"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5024212"
   },
   {
     "id": 5025157,
@@ -1225,7 +1241,7 @@
   },
   {
     "id": 5190033,
-    "title": "Data Scientist - Growth",
+    "title": "Data Scientist, Growth",
     "location": {
       "name": "N/A"
     },
