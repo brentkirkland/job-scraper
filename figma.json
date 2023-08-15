@@ -582,5 +582,21 @@
       "name": "San Francisco, CA • New York, NY • United States"
     },
     "absolute_url": "https://boards.greenhouse.io/figma/jobs/4951794004"
+  },
+  {
+    "id": 4954184004,
+    "title": "Security Compliance Manager",
+    "location": {
+      "name": "San Francisco, CA • New York, NY • United States"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4954184004"
+  },
+  {
+    "id": 4954919004,
+    "title": "Security Compliance Analyst",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4954919004"
   }
 ]
