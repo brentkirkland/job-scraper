@@ -1,6 +1,7 @@
 /careers/disciplines/engineering
 /careers/staff-designer--data-visualization-_b6a23dc7-3d3c-4d09-bda2-7443e57e20eb
 /careers/senior-product-designer_012fcc6a-d93a-4151-a11c-9a6f864b6595
+/careers/program-manager--shipping-carriers_6eade6a8-453a-453e-9174-c3b74b6ecf00
 /careers/executive-protection-specialist--montreal--qu-bec-_656795d8-9684-4362-993f-6bb4ab9ad6e4
 /careers/executive-protection-specialist--montreal--qu-bec-_9fe766c8-bef9-4227-8003-886e47cd81cd
 /careers/regional-marketing-manager--large-accounts--apac_82694c0b-e05e-48aa-879f-052643f33599
