@@ -1696,14 +1696,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5295105/?gh_jid=5295105"
   },
   {
-    "id": 5295679,
-    "title": "Senior Regional Manager, Sales Engineering",
-    "location": {
-      "name": "San Francisco, California, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/5295679/?gh_jid=5295679"
-  },
-  {
     "id": 5296174,
     "title": "Sales Systems Developer",
     "location": {
@@ -1750,5 +1742,29 @@
       "name": "Illinois, Remote, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5301692/?gh_jid=5301692"
+  },
+  {
+    "id": 5301906,
+    "title": "Senior Regional Manager, Sales Engineering",
+    "location": {
+      "name": "California, USA, Remote"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5301906/?gh_jid=5301906"
+  },
+  {
+    "id": 5301909,
+    "title": "Senior Regional Manager, Sales Engineering",
+    "location": {
+      "name": "Washington, USA, Remote"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5301909/?gh_jid=5301909"
+  },
+  {
+    "id": 5301911,
+    "title": "Senior Regional Manager, Sales Engineering",
+    "location": {
+      "name": "Denver, USA, Remote"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5301911/?gh_jid=5301911"
   }
 ]
