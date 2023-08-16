@@ -472,6 +472,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5007233"
   },
   {
+    "id": 5009586,
+    "title": "Marketing Systems Administrator, Go-To-Market",
+    "location": {
+      "name": "LOCATION"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5009586"
+  },
+  {
     "id": 5011504,
     "title": "Engineering Manager, Data Transformation",
     "location": {
@@ -1320,6 +1328,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5203955"
   },
   {
+    "id": 5206007,
+    "title": "Full Stack Engineer, Support Experience",
+    "location": {
+      "name": "Bangalore "
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5206007"
+  },
+  {
     "id": 5206485,
     "title": "Staff Engineer, Internationalisation",
     "location": {
@@ -1750,14 +1766,6 @@
       "name": "Dublin, Toronto, US-Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5296524"
-  },
-  {
-    "id": 5297261,
-    "title": "Software Engineering Intern",
-    "location": {
-      "name": "Job location"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5297261"
   },
   {
     "id": 5297511,
