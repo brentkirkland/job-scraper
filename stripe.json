@@ -1750,5 +1750,13 @@
       "name": "Bangalore, India "
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5297511"
+  },
+  {
+    "id": 5300142,
+    "title": "Backend Engineer, Payments",
+    "location": {
+      "name": "Toronto, CA"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5300142"
   }
 ]
