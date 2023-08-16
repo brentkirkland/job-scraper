@@ -1040,14 +1040,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5136531"
   },
   {
-    "id": 5138057,
-    "title": "Recruiting Scheduler",
-    "location": {
-      "name": "SF"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5138057"
-  },
-  {
     "id": 5139069,
     "title": "Corporate Finance & Strategy Analyst",
     "location": {
@@ -1710,6 +1702,14 @@
       "name": "US-Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5285403"
+  },
+  {
+    "id": 5285595,
+    "title": "Account Executive, Product Sales",
+    "location": {
+      "name": "San Francisco, New York City, Seattle, Chicago, US Remote"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5285595"
   },
   {
     "id": 5285690,
