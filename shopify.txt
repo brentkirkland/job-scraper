@@ -17,10 +17,10 @@
 /careers/paid-display---video-manager--performance-marketing_05a11d83-5148-4582-b500-0942e25084d8
 /careers/partner-marketing-lead---partner-acquisition-_d57045f8-02f1-4c50-866c-adf9bcfb562a
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
-/careers/deal-desk-manager_8bea4f05-d226-41df-bd20-dd61b060b0bb
-/careers/senior-launch-engineer--japan_d1f86d3e-dbb4-4819-9b43-032d93581430
 /careers/account-executive--bilingual-italian--retail-_c0c59364-3c34-4035-868d-84ece282c213
 /careers/account-executive--bilingual-german--retail-_621d4e0c-0d60-4753-a3d4-4e63956dcc7f
+/careers/deal-desk-manager_8bea4f05-d226-41df-bd20-dd61b060b0bb
+/careers/senior-launch-engineer--japan_d1f86d3e-dbb4-4819-9b43-032d93581430
 /careers/senior-launch-engineer--australia_19a3a407-01fa-41bf-abd1-3217907a07a2
 /careers/senior-solutions-engineer--china_72da8292-f513-4cfc-838b-530a895d3304
 /careers/senior-solutions-engineer---retail_9afa2f53-6860-4c79-a80a-9e7b1e4c90a1
@@ -51,7 +51,6 @@
 /careers/senior-partner-development-manager---italy_d1152588-95da-4c7c-ba5b-eb4345744d80
 /careers/senior-account-executive--large-enterprise-dach-_961b982a-267c-48f1-8c3a-4447c9f75fd1
 /careers/sales-representative--gcr_7e2a3a87-57ac-4e1d-a5ac-f169ff765720
-/careers/enterprise-solutions-engineer_709afa91-46bf-45ad-9ad1-61db36bce0ce
 /careers/solutions-architect---payments---checkout_e8efe975-c571-4e3e-8b6d-8e96ac027b60
 /careers/sales-representative--gcr_e6f2098b-1076-41db-a7a0-fe6d07d1a7e8
 /careers/sales-representative--japan_1e66c021-ee2e-47aa-9b7c-163ea2ce6473
