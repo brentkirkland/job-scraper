@@ -104,14 +104,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4854822"
   },
   {
-    "id": 4861477,
-    "title": "Account Executive, Platforms",
-    "location": {
-      "name": "New York, San Francisco"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4861477"
-  },
-  {
     "id": 4870624,
     "title": "Software Engineer, Finance Engineering",
     "location": {
@@ -1750,6 +1742,14 @@
       "name": "Bangalore, India "
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5297511"
+  },
+  {
+    "id": 5299149,
+    "title": "Operations Manager, Collections",
+    "location": {
+      "name": "Mexico City"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5299149"
   },
   {
     "id": 5300142,
