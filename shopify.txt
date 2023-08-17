@@ -1,6 +1,7 @@
 /careers/disciplines/engineering
 /careers/staff-designer--data-visualization-_b6a23dc7-3d3c-4d09-bda2-7443e57e20eb
 /careers/senior-product-designer_012fcc6a-d93a-4151-a11c-9a6f864b6595
+/careers/product-operations-lead--growth_967188af-688d-492d-836e-afeccbc485fe
 /careers/program-manager--shipping-carriers_6eade6a8-453a-453e-9174-c3b74b6ecf00
 /careers/senior-technical-program-manager---payments_49624309-9e48-4020-86bb-eaa02207744e
 /careers/executive-protection-specialist--montreal--qu-bec-_656795d8-9684-4362-993f-6bb4ab9ad6e4
@@ -12,7 +13,6 @@
 /careers/senior-integrated-marketing-manager--dach-_544dff50-10f4-4848-978c-0fa74a2a812e
 /careers/senior-integrated-marketing-manager--dach-_248bad1d-1894-4584-96e0-c290f49b24bf
 /careers/senior-integrated-marketing-manager--dach-_e6d75f69-65aa-4265-80d8-81e88798923c
-/careers/senior-product-pricing-manager_7431032c-bb6a-4b31-a25e-8855b1a79cac
 /careers/partner-marketing-manager--bilingual-german-_4b3e9866-f6aa-44de-bfca-f6c6e2ac798f
 /careers/partner-marketing-manager--bilingual-german-_248e7c5d-5b5c-4dee-a6d9-7ea26ea78c9b
 /careers/partner-marketing-manager--bilingual-german-_48be0efd-3d99-4cc6-b87a-8c04f905c196
