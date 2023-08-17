@@ -768,6 +768,22 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4901060?gh_jid=4901060"
   },
   {
+    "id": 4902816,
+    "title": "Technical Support Engineer - CDN / Developer Platform",
+    "location": {
+      "name": "Lisbon, Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4902816?gh_jid=4902816"
+  },
+  {
+    "id": 4902939,
+    "title": "Technical Support Engineer - CDN / Developer Platform",
+    "location": {
+      "name": "Remote Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4902939?gh_jid=4902939"
+  },
+  {
     "id": 4905360,
     "title": "Solutions Product Marketing Manager - Competitive ",
     "location": {
@@ -1409,7 +1425,7 @@
   },
   {
     "id": 5104145,
-    "title": "Implementation Manager- Network Services",
+    "title": "Implementation Manager- Zero Trust/SASE",
     "location": {
       "name": "Toronto, ON"
     },
