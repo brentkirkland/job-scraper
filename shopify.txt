@@ -6,6 +6,8 @@
 /careers/senior-technical-program-manager---payments_49624309-9e48-4020-86bb-eaa02207744e
 /careers/executive-protection-specialist--montreal--qu-bec-_656795d8-9684-4362-993f-6bb4ab9ad6e4
 /careers/executive-protection-specialist--montreal--qu-bec-_9fe766c8-bef9-4227-8003-886e47cd81cd
+/careers/social-lead--developer_cb78a115-f5d3-495a-a224-1ff21bf983db
+/careers/senior-growth-marketer--shop_8fb38acf-ba8e-4bb8-9ac5-0fb2a39e9935
 /careers/regional-marketing-manager--large-accounts--apac_82694c0b-e05e-48aa-879f-052643f33599
 /careers/marketing-campaigns---programs-manager--apac_a40a5862-0bab-40e0-bc74-6dbdfae61883
 /careers/content-manager--apac_01acf78c-5199-46e0-a2b2-0ea036987194
@@ -21,7 +23,6 @@
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
 /careers/sales-development-representative--bilingual-german--inbound-_52962f58-65ea-4d8c-81b0-811ac2b6fbc0
 /careers/account-executive--mid-market-cross-sell_7f1df35d-4463-4ac4-8b42-7ca20abc97ed
-/careers/enterprise-success-manager_1dae5ade-09b5-4f4c-bd76-e7e2fe789dbb
 /careers/account-executive--bilingual-italian--retail-_c0c59364-3c34-4035-868d-84ece282c213
 /careers/account-executive--bilingual-german--retail-_621d4e0c-0d60-4753-a3d4-4e63956dcc7f
 /careers/deal-desk-manager_8bea4f05-d226-41df-bd20-dd61b060b0bb
