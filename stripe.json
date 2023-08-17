@@ -1846,5 +1846,13 @@
       "name": "London"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5304464"
+  },
+  {
+    "id": 5305676,
+    "title": "Software Engineering, New Grad",
+    "location": {
+      "name": "Job location"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5305676"
   }
 ]
