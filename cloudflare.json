@@ -224,6 +224,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4408959?gh_jid=4408959"
   },
   {
+    "id": 4562287,
+    "title": "Senior Manager Solutions Engineering - Zero Trust",
+    "location": {
+      "name": "Lisbon or London or Munich"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4562287?gh_jid=4562287"
+  },
+  {
     "id": 4592260,
     "title": "Senior Sales Compensation Analyst",
     "location": {
@@ -2326,5 +2334,29 @@
       "name": "Seattle, WA"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5298061?gh_jid=5298061"
+  },
+  {
+    "id": 5304157,
+    "title": "Senior Manager Solutions Engineering - Zero Trust",
+    "location": {
+      "name": "Paris, France"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5304157?gh_jid=5304157"
+  },
+  {
+    "id": 5304163,
+    "title": "Senior Manager Solutions Engineering - Zero Trust",
+    "location": {
+      "name": "Amsterdam, Netherlands"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5304163?gh_jid=5304163"
+  },
+  {
+    "id": 5304171,
+    "title": "Salesforce Business Systems Analyst (CPQ BSA)",
+    "location": {
+      "name": "Remote Germany"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5304171?gh_jid=5304171"
   }
 ]
