@@ -1760,14 +1760,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5296524"
   },
   {
-    "id": 5297261,
-    "title": "Software Engineering Intern",
-    "location": {
-      "name": "Job location"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5297261"
-  },
-  {
     "id": 5297398,
     "title": "Sales Development Representative, AUNZ",
     "location": {
@@ -1814,13 +1806,5 @@
       "name": "London"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5304464"
-  },
-  {
-    "id": 5305676,
-    "title": "Software Engineering, New Grad",
-    "location": {
-      "name": "Job location"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5305676"
   }
 ]

@@ -552,14 +552,6 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5304882"
   },
   {
-    "id": 5304932,
-    "title": "Software Engineer Intern",
-    "location": {
-      "name": "San Francisco, CA"
-    },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5304932"
-  },
-  {
     "id": 5304959,
     "title": "Associate Software Engineer",
     "location": {
@@ -574,21 +566,5 @@
       "name": "San Francisco, CA"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5305003"
-  },
-  {
-    "id": 5305005,
-    "title": "Associate Software Engineer-3",
-    "location": {
-      "name": "San Francisco, CA"
-    },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5305005"
-  },
-  {
-    "id": 5305011,
-    "title": "Associate Software Engineer-7",
-    "location": {
-      "name": "San Francisco, CA"
-    },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5305011"
   }
 ]
