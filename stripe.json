@@ -1784,6 +1784,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5304464"
   },
   {
+    "id": 5305676,
+    "title": "Software Engineering, New Grad",
+    "location": {
+      "name": "Job location"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5305676"
+  },
+  {
     "id": 5306054,
     "title": "Software Engineering Intern",
     "location": {
@@ -1806,5 +1814,37 @@
       "name": "Job location"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5306063"
+  },
+  {
+    "id": 5306079,
+    "title": "Software Engineering, New Grad",
+    "location": {
+      "name": "Job location"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5306079"
+  },
+  {
+    "id": 5306080,
+    "title": "Software Engineering, New Grad",
+    "location": {
+      "name": "Job location"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5306080"
+  },
+  {
+    "id": 5306081,
+    "title": "Software Engineering, New Grad",
+    "location": {
+      "name": "Job location"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5306081"
+  },
+  {
+    "id": 5306085,
+    "title": "Software Engineering, New Grad",
+    "location": {
+      "name": "Job location"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5306085"
   }
 ]
