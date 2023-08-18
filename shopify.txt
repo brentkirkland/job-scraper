@@ -2,7 +2,6 @@
 /careers/senior-product-designer_012fcc6a-d93a-4151-a11c-9a6f864b6595
 /careers/product-operations-lead--growth_967188af-688d-492d-836e-afeccbc485fe
 /careers/program-manager--shipping-carriers_6eade6a8-453a-453e-9174-c3b74b6ecf00
-/careers/product-enablement-facilitator_2f05d14d-e731-4297-9d32-cbeeaf24ad27
 /careers/senior-technical-program-manager---payments_49624309-9e48-4020-86bb-eaa02207744e
 /careers/executive-protection-specialist--montreal--qu-bec-_656795d8-9684-4362-993f-6bb4ab9ad6e4
 /careers/executive-protection-specialist--montreal--qu-bec-_9fe766c8-bef9-4227-8003-886e47cd81cd
@@ -21,7 +20,6 @@
 /careers/paid-display---video-manager--performance-marketing_05a11d83-5148-4582-b500-0942e25084d8
 /careers/partner-marketing-lead---partner-acquisition-_d57045f8-02f1-4c50-866c-adf9bcfb562a
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
-/careers/sales-representative--core-cross-sell_93c7eb56-c769-4a33-a861-e6af2f296081
 /careers/sales-development-representative--bilingual-german--inbound-_52962f58-65ea-4d8c-81b0-811ac2b6fbc0
 /careers/account-executive--mid-market-cross-sell_7f1df35d-4463-4ac4-8b42-7ca20abc97ed
 /careers/account-executive--bilingual-italian--retail-_c0c59364-3c34-4035-868d-84ece282c213
