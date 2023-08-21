@@ -89,10 +89,26 @@
   },
   {
     "id": 5311507,
-    "title": "Senior Software Engineer, Ecosystem  ",
+    "title": "Senior Software Engineer, Integrations",
     "location": {
       "name": "San Francisco, California "
     },
     "absolute_url": "https://boards.greenhouse.io/sentry/jobs/5311507"
+  },
+  {
+    "id": 5311557,
+    "title": "Senior Product Designer, Codecov",
+    "location": {
+      "name": "San Francisco, California "
+    },
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/5311557"
+  },
+  {
+    "id": 5311568,
+    "title": "Senior Product Designer, Codecov",
+    "location": {
+      "name": "Toronto, Canada"
+    },
+    "absolute_url": "https://boards.greenhouse.io/sentry/jobs/5311568"
   }
 ]
