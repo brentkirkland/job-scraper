@@ -59,3 +59,4 @@
 /careers/sales-representative--gcr_7e2a3a87-57ac-4e1d-a5ac-f169ff765720
 /careers/solutions-architect---payments---checkout_e8efe975-c571-4e3e-8b6d-8e96ac027b60
 /careers/sales-representative--gcr_e6f2098b-1076-41db-a7a0-fe6d07d1a7e8
+/careers/sales-representative--japan_1e66c021-ee2e-47aa-9b7c-163ea2ce6473
