@@ -536,6 +536,22 @@
     "absolute_url": "https://boards.greenhouse.io/figma/jobs/4945349004"
   },
   {
+    "id": 4945802004,
+    "title": "Product Design Intern (2024)",
+    "location": {
+      "name": "San Francisco, CA • New York, NY • United States"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4945802004"
+  },
+  {
+    "id": 4945812004,
+    "title": "Data Scientist, Early Career (2024)",
+    "location": {
+      "name": "San Francisco, CA • New York, NY • United States"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4945812004"
+  },
+  {
     "id": 4948369004,
     "title": "Data Scientist - Product ",
     "location": {
@@ -622,5 +638,13 @@
       "name": "San Francisco, CA • New York, NY • United States"
     },
     "absolute_url": "https://boards.greenhouse.io/figma/jobs/4956255004"
+  },
+  {
+    "id": 4956894004,
+    "title": "Data Scientist Intern (2024)",
+    "location": {
+      "name": "San Francisco, CA • New York, NY • United States"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4956894004"
   }
 ]
