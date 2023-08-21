@@ -856,6 +856,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5100101"
   },
   {
+    "id": 5108109,
+    "title": "Frontend Engineer, Growth Engineering",
+    "location": {
+      "name": "Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5108109"
+  },
+  {
     "id": 5110018,
     "title": "Software Engineer, TaxJar Platform",
     "location": {
@@ -1654,6 +1662,14 @@
       "name": "SF, SEA, NYC"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5279391"
+  },
+  {
+    "id": 5282017,
+    "title": "Staff Technical Program Manager, Product",
+    "location": {
+      "name": "Seattle, San Francisco"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5282017"
   },
   {
     "id": 5282082,
