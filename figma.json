@@ -192,14 +192,6 @@
     "absolute_url": "https://boards.greenhouse.io/figma/jobs/4881313004"
   },
   {
-    "id": 4881525004,
-    "title": "Data Engineer - Finance",
-    "location": {
-      "name": "San Francisco, CA • New York, NY • United States"
-    },
-    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4881525004"
-  },
-  {
     "id": 4886871004,
     "title": "Account Executive, Mid-Market (Paris, France) French/Spanish/English Speaking",
     "location": {
@@ -646,5 +638,13 @@
       "name": "San Francisco, CA • New York, NY • United States"
     },
     "absolute_url": "https://boards.greenhouse.io/figma/jobs/4956894004"
+  },
+  {
+    "id": 4958498004,
+    "title": "Data Engineer - Product ",
+    "location": {
+      "name": "San Francisco, CA • New York, NY • United States"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4958498004"
   }
 ]
