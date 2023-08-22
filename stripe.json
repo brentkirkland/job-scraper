@@ -824,6 +824,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5091177"
   },
   {
+    "id": 5093941,
+    "title": "Employee Experience Onboarding Specialist",
+    "location": {
+      "name": "Bangalore, India"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5093941"
+  },
+  {
     "id": 5096945,
     "title": "Backend / API Engineer, Revenue Foundations",
     "location": {
@@ -1518,6 +1526,14 @@
       "name": "San Francisco, Seattle, NYC, Chicago"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5262228"
+  },
+  {
+    "id": 5262962,
+    "title": "Monetization Operations Manager",
+    "location": {
+      "name": "Bengaluru"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5262962"
   },
   {
     "id": 5264386,
