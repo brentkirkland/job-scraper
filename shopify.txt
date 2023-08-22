@@ -7,6 +7,7 @@
 /careers/product-enablement-facilitator_2f05d14d-e731-4297-9d32-cbeeaf24ad27
 /careers/executive-protection-specialist--montreal--qu-bec-_656795d8-9684-4362-993f-6bb4ab9ad6e4
 /careers/executive-protection-specialist--montreal--qu-bec-_9fe766c8-bef9-4227-8003-886e47cd81cd
+/careers/director--internal-audit--emerging-technology---infrastructure-_e35f5218-7860-4e58-86d2-dc59ebbc71d3
 /careers/social-lead--developer_cb78a115-f5d3-495a-a224-1ff21bf983db
 /careers/senior-growth-marketer--shop_8fb38acf-ba8e-4bb8-9ac5-0fb2a39e9935
 /careers/regional-marketing-manager--large-accounts--apac_82694c0b-e05e-48aa-879f-052643f33599
@@ -27,6 +28,7 @@
 /careers/account-executive--mid-market-cross-sell_7f1df35d-4463-4ac4-8b42-7ca20abc97ed
 /careers/account-executive--bilingual-italian--retail-_c0c59364-3c34-4035-868d-84ece282c213
 /careers/account-executive--bilingual-german--retail-_621d4e0c-0d60-4753-a3d4-4e63956dcc7f
+/careers/deal-desk-manager_8bea4f05-d226-41df-bd20-dd61b060b0bb
 /careers/senior-launch-engineer--japan_d1f86d3e-dbb4-4819-9b43-032d93581430
 /careers/senior-launch-engineer--australia_19a3a407-01fa-41bf-abd1-3217907a07a2
 /careers/senior-solutions-engineer--china_72da8292-f513-4cfc-838b-530a895d3304
