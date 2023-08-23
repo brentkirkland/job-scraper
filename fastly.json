@@ -473,7 +473,7 @@
   },
   {
     "id": 5282269,
-    "title": "VP, Product Management",
+    "title": "VP, Product Management - Compute and Data",
     "location": {
       "name": "San Francisco, CA"
     },
@@ -542,5 +542,13 @@
       "name": "London, United Kingdom"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5312775"
+  },
+  {
+    "id": 5317243,
+    "title": "VP, Product Management - Compute and Data",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5317243"
   }
 ]
