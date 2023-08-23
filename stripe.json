@@ -440,6 +440,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5001482"
   },
   {
+    "id": 5002884,
+    "title": "Payments Platform Strategist",
+    "location": {
+      "name": "US Remote"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5002884"
+  },
+  {
     "id": 5005731,
     "title": "Compliance Manager, Indonesia",
     "location": {
@@ -1064,6 +1072,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5164589"
   },
   {
+    "id": 5165900,
+    "title": "Product Marketing Manager, Growth",
+    "location": {
+      "name": "US / Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5165900"
+  },
+  {
     "id": 5167095,
     "title": "Global Threat Manager",
     "location": {
@@ -1128,6 +1144,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5180072"
   },
   {
+    "id": 5182567,
+    "title": "Product Marketing Manager, Fraud",
+    "location": {
+      "name": "US/Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5182567"
+  },
+  {
     "id": 5183063,
     "title": "Frontend Engineer, Link Consumer Experience",
     "location": {
@@ -1182,6 +1206,14 @@
       "name": "US Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5190038"
+  },
+  {
+    "id": 5190303,
+    "title": "Editorial Content Lead, Content Marketing",
+    "location": {
+      "name": "US / Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5190303"
   },
   {
     "id": 5195905,
@@ -1886,5 +1918,13 @@
       "name": "Toronto"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5316376"
+  },
+  {
+    "id": 5316587,
+    "title": "Software Engineering Intern",
+    "location": {
+      "name": "LOCATION"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5316587"
   }
 ]
