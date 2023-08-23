@@ -128,6 +128,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4895647"
   },
   {
+    "id": 4900140,
+    "title": "Trainer, Financial Crimes",
+    "location": {
+      "name": "Bangalore "
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4900140"
+  },
+  {
     "id": 4913667,
     "title": "Manager, Americas Paid Support",
     "location": {
@@ -1608,6 +1616,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5274197"
   },
   {
+    "id": 5276000,
+    "title": "Support Operations Manager, Stripe Delivery Center",
+    "location": {
+      "name": "Bangalore"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5276000"
+  },
+  {
     "id": 5276270,
     "title": "Program Manager, Global Risk Onboarding Operations",
     "location": {
@@ -1705,7 +1721,7 @@
   },
   {
     "id": 5287068,
-    "title": "Copy of Full Stack Engineer, Stripe Tax",
+    "title": "Full Stack Engineer, Stripe Tax",
     "location": {
       "name": "Stockholm, Sweden"
     },
