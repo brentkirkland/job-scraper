@@ -1878,5 +1878,13 @@
       "name": "Job location"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5306085"
+  },
+  {
+    "id": 5315436,
+    "title": "Integration Reliability Engineer, Technical Operations",
+    "location": {
+      "name": "US-Remote, Chicago"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5315436"
   }
 ]
