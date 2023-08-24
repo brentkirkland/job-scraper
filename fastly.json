@@ -361,7 +361,7 @@
   },
   {
     "id": 5232751,
-    "title": "Hardware (Server) Systems Architect",
+    "title": "Principal Network Hardware Systems Architect",
     "location": {
       "name": "San Francisco, CA"
     },
@@ -369,7 +369,7 @@
   },
   {
     "id": 5243536,
-    "title": "Hardware (Server) Systems Architect",
+    "title": "Principal Network Hardware Systems Architect",
     "location": {
       "name": "Denver, CO"
     },
@@ -377,7 +377,7 @@
   },
   {
     "id": 5243538,
-    "title": "Hardware (Server) Systems Architect",
+    "title": "Principal Network Hardware Systems Architect",
     "location": {
       "name": "New York City, NY"
     },
@@ -558,5 +558,13 @@
       "name": "New York City, NY"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5317243"
+  },
+  {
+    "id": 5318183,
+    "title": "Principal Network Hardware Systems Architect",
+    "location": {
+      "name": "US (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5318183"
   }
 ]
