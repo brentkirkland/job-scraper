@@ -648,14 +648,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5052530"
   },
   {
-    "id": 5057071,
-    "title": "Operational Resilience Manager",
-    "location": {
-      "name": "London"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5057071"
-  },
-  {
     "id": 5057661,
     "title": "Manager, Billing Product Sales",
     "location": {
@@ -1896,14 +1888,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5315436"
   },
   {
-    "id": 5316587,
-    "title": "Software Engineering Intern",
-    "location": {
-      "name": "LOCATION"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5316587"
-  },
-  {
     "id": 5317632,
     "title": "Integration Reliability Engineer, Technical Operations",
     "location": {
@@ -1926,5 +1910,13 @@
       "name": "Global"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5318699"
+  },
+  {
+    "id": 5318701,
+    "title": "Software Engineering, New Grad",
+    "location": {
+      "name": "Global"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5318701"
   }
 ]
