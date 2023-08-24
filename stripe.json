@@ -1856,14 +1856,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5306057"
   },
   {
-    "id": 5306063,
-    "title": "Software Engineering Intern",
-    "location": {
-      "name": "Job location"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5306063"
-  },
-  {
     "id": 5306079,
     "title": "Software Engineering, New Grad",
     "location": {
@@ -1904,14 +1896,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5315436"
   },
   {
-    "id": 5316376,
-    "title": "Integration Reliability Engineer, Technical Operations",
-    "location": {
-      "name": "Toronto"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5316376"
-  },
-  {
     "id": 5316587,
     "title": "Software Engineering Intern",
     "location": {
@@ -1934,5 +1918,13 @@
       "name": "LOCATION"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5318315"
+  },
+  {
+    "id": 5318699,
+    "title": "Software Engineering Intern",
+    "location": {
+      "name": "Global"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5318699"
   }
 ]
