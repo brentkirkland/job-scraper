@@ -1728,14 +1728,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5309000/?gh_jid=5309000"
   },
   {
-    "id": 5311862,
-    "title": "Senior Illustrator",
-    "location": {
-      "name": "New York, New York, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/5311862/?gh_jid=5311862"
-  },
-  {
     "id": 5312561,
     "title": "Senior Business Systems Engineer",
     "location": {
@@ -1758,6 +1750,14 @@
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5313876/?gh_jid=5313876"
+  },
+  {
+    "id": 5316905,
+    "title": "Privacy Analyst II",
+    "location": {
+      "name": "New York, New York, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5316905/?gh_jid=5316905"
   },
   {
     "id": 5318978,
