@@ -1720,6 +1720,22 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5309000/?gh_jid=5309000"
   },
   {
+    "id": 5310910,
+    "title": "DesignOps Specialist ",
+    "location": {
+      "name": "Paris, France"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5310910/?gh_jid=5310910"
+  },
+  {
+    "id": 5311850,
+    "title": "Senior Product Marketing Manager - RUM",
+    "location": {
+      "name": "New York, New York, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5311850/?gh_jid=5311850"
+  },
+  {
     "id": 5312561,
     "title": "Senior Business Systems Engineer",
     "location": {
@@ -1782,5 +1798,13 @@
       "name": "Paris, France"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5321412/?gh_jid=5321412"
+  },
+  {
+    "id": 5322887,
+    "title": "Product Designer II - Web Integrations",
+    "location": {
+      "name": "New York, New York, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5322887/?gh_jid=5322887"
   }
 ]
