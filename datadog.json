@@ -456,14 +456,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5005768/?gh_jid=5005768"
   },
   {
-    "id": 5006384,
-    "title": "Manager, Technical Solutions Enablement, Curriculum",
-    "location": {
-      "name": "New York, New York, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/5006384/?gh_jid=5006384"
-  },
-  {
     "id": 5006400,
     "title": "Senior Product Manager - Incident Management",
     "location": {
@@ -1779,7 +1771,7 @@
     "id": 5319167,
     "title": "Developer Advocate - Distributed Tracing",
     "location": {
-      "name": "Paris, France, Remote"
+      "name": "Paris, France; France, Remote"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5319167/?gh_jid=5319167"
   },
