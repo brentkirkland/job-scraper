@@ -80,6 +80,14 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5058484"
   },
   {
+    "id": 5063616,
+    "title": "Director, Product Management - Security",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5063616"
+  },
+  {
     "id": 5068634,
     "title": "IAM Security Architect",
     "location": {
@@ -552,11 +560,35 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5317243"
   },
   {
+    "id": 5317537,
+    "title": "Senior Director, Go-To-Market Systems",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5317537"
+  },
+  {
     "id": 5318183,
     "title": "Principal Network Hardware Systems Architect",
     "location": {
       "name": "US (Remote)"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5318183"
+  },
+  {
+    "id": 5318561,
+    "title": "Senior Director, Go-To-Market Systems",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5318561"
+  },
+  {
+    "id": 5318564,
+    "title": "Senior Director, Go-To-Market Systems",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5318564"
   }
 ]
