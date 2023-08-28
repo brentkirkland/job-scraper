@@ -1416,14 +1416,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5232934"
   },
   {
-    "id": 5233260,
-    "title": "Global Sponsorship Manager, Corporate Events",
-    "location": {
-      "name": "Chicago, IL or Remote"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5233260"
-  },
-  {
     "id": 5243166,
     "title": "Account Executive, Strategics",
     "location": {
@@ -1742,6 +1734,14 @@
       "name": "SF, NYC"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5285690"
+  },
+  {
+    "id": 5288126,
+    "title": "Partner Development Manager",
+    "location": {
+      "name": "EMEA"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5288126"
   },
   {
     "id": 5288133,
