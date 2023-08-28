@@ -51,4 +51,6 @@
 /careers/mid-market-account-executive---italy_b429913a-341c-45b7-a42a-1c46e315a96c
 /careers/senior-partner-development-manager---italy_d1152588-95da-4c7c-ba5b-eb4345744d80
 /careers/senior-account-executive--large-enterprise-dach-_961b982a-267c-48f1-8c3a-4447c9f75fd1
+/careers/sales-representative--gcr_7e2a3a87-57ac-4e1d-a5ac-f169ff765720
 /careers/solutions-architect---payments---checkout_e8efe975-c571-4e3e-8b6d-8e96ac027b60
+/careers/sales-representative--gcr_e6f2098b-1076-41db-a7a0-fe6d07d1a7e8
