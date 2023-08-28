@@ -200,14 +200,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4923659"
   },
   {
-    "id": 4926085,
-    "title": "Operations Specialist, Product Support",
-    "location": {
-      "name": "MX - Mexico City"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4926085"
-  },
-  {
     "id": 4935214,
     "title": "Data Scientist, Liquidity Management",
     "location": {
@@ -918,6 +910,14 @@
       "name": "Tokyo"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5114757"
+  },
+  {
+    "id": 5114866,
+    "title": "Operations Specialist, Product Support",
+    "location": {
+      "name": "MX - Mexico City"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5114866"
   },
   {
     "id": 5116072,
