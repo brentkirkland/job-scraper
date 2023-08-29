@@ -1936,14 +1936,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5306080"
   },
   {
-    "id": 5306085,
-    "title": "Software Engineering, New Grad",
-    "location": {
-      "name": "Job location"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5306085"
-  },
-  {
     "id": 5309424,
     "title": "Program Manager, Strategic Planning",
     "location": {
@@ -2006,6 +1998,14 @@
       "name": "Global"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5318701"
+  },
+  {
+    "id": 5318703,
+    "title": "Software Engineering, New Grad",
+    "location": {
+      "name": "Global"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5318703"
   },
   {
     "id": 5321024,
