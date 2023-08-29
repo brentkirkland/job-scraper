@@ -5,7 +5,6 @@
 /careers/executive-protection-specialist--montreal--qu-bec-_9fe766c8-bef9-4227-8003-886e47cd81cd
 /careers/senior-financial-analyst_1f180ab7-280c-4a32-aadb-9d73572b3d55
 /careers/associate-general-counsel--legal-counsel--regulatory-_c6b7fb7b-e1c4-4c51-be35-e851901a7274
-/careers/social-lead--developer_cb78a115-f5d3-495a-a224-1ff21bf983db
 /careers/content-manager--bilingual-german-_48f44a6a-7385-43cf-96a5-f7a36c95eef9
 /careers/senior-growth-marketer--shop_8fb38acf-ba8e-4bb8-9ac5-0fb2a39e9935
 /careers/regional-marketing-manager--large-accounts--apac_82694c0b-e05e-48aa-879f-052643f33599
@@ -18,7 +17,6 @@
 /careers/partner-marketing-lead---partner-acquisition-_d57045f8-02f1-4c50-866c-adf9bcfb562a
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
 /careers/manager--education-content_d930109b-9eeb-4401-989e-0e68835cb5ca
-/careers/sales-coach_a43b3b2f-91de-4930-8057-22113438e846
 /careers/account-executive--core-cross-sell_93c7eb56-c769-4a33-a861-e6af2f296081
 /careers/mid-market-account-executive---france_fa887200-301c-4d4d-a19e-8229a2d86144
 /careers/account-executive--mid-market-cross-sell_7f1df35d-4463-4ac4-8b42-7ca20abc97ed
