@@ -1136,14 +1136,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5188348/?gh_jid=5188348"
   },
   {
-    "id": 5189046,
-    "title": "Senior Product Manager - Real User Monitoring Product Offerings",
-    "location": {
-      "name": "New York, New York, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/5189046/?gh_jid=5189046"
-  },
-  {
     "id": 5190142,
     "title": "Strategic Account Executive, Enterprise Sales",
     "location": {
@@ -1830,5 +1822,13 @@
       "name": "New York, New York, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5322887/?gh_jid=5322887"
+  },
+  {
+    "id": 5326808,
+    "title": "Full-Stack Engineer - Demo Engineering",
+    "location": {
+      "name": "New York, New York, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5326808/?gh_jid=5326808"
   }
 ]
