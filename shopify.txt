@@ -1,6 +1,5 @@
 /careers/disciplines/engineering
 /careers/marketing-design-manager--creative-_566a116d-bb17-42e5-b9aa-96b1174d5def
-/careers/staff-product-designer-_6f22c869-10b2-41bb-92d1-0d1313b33c5d
 /careers/program-manager--shipping-carriers_6eade6a8-453a-453e-9174-c3b74b6ecf00
 /careers/executive-protection-specialist--montreal--qu-bec-_656795d8-9684-4362-993f-6bb4ab9ad6e4
 /careers/executive-protection-specialist--montreal--qu-bec-_9fe766c8-bef9-4227-8003-886e47cd81cd
