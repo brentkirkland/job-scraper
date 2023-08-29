@@ -216,6 +216,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4935457"
   },
   {
+    "id": 4937602,
+    "title": "Sales Development Representative, UK",
+    "location": {
+      "name": "Dublin, Ireland"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4937602"
+  },
+  {
     "id": 4937739,
     "title": "Accounting Analyst - Revenue Accounting",
     "location": {
@@ -1771,7 +1779,7 @@
     "id": 5296524,
     "title": "Global Head of Regulatory Reporting",
     "location": {
-      "name": "Dublin"
+      "name": "US Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5296524"
   },
