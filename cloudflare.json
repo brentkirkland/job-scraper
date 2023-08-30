@@ -2080,14 +2080,6 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5315658?gh_jid=5315658"
   },
   {
-    "id": 5315659,
-    "title": "Trust & Safety - Technical Program Manager of Hosted Content",
-    "location": {
-      "name": "Munich, Germany"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5315659?gh_jid=5315659"
-  },
-  {
     "id": 5315666,
     "title": "Trust & Safety - Technical Program Manager of Hosted Content",
     "location": {
@@ -2182,5 +2174,21 @@
       "name": "Remote US"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5325033?gh_jid=5325033"
+  },
+  {
+    "id": 5330298,
+    "title": "Trust & Safety - Technical Program Manager of Hosted Content",
+    "location": {
+      "name": "Remote France"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5330298?gh_jid=5330298"
+  },
+  {
+    "id": 5330299,
+    "title": "Trust & Safety - Technical Program Manager of Hosted Content",
+    "location": {
+      "name": "Remote Netherlands"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5330299?gh_jid=5330299"
   }
 ]
