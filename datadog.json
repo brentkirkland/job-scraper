@@ -1520,14 +1520,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5289945/?gh_jid=5289945"
   },
   {
-    "id": 5290751,
-    "title": "Technical Account Manager (Paris)",
-    "location": {
-      "name": "Paris, France"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/5290751/?gh_jid=5290751"
-  },
-  {
     "id": 5293535,
     "title": "Customer Success Associate",
     "location": {
@@ -1854,5 +1846,13 @@
       "name": "Paris, France; Madrid, Spain"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5329339/?gh_jid=5329339"
+  },
+  {
+    "id": 5329857,
+    "title": "Technical Solutions Operations Engineer 2 - New York",
+    "location": {
+      "name": "New York, New York USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5329857/?gh_jid=5329857"
   }
 ]
