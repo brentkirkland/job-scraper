@@ -1,7 +1,6 @@
 /careers/disciplines/engineering
 /careers/marketing-design-manager--creative-_566a116d-bb17-42e5-b9aa-96b1174d5def
 /careers/staff-product-designer-_6f22c869-10b2-41bb-92d1-0d1313b33c5d
-/careers/program-manager--shipping-carriers_6eade6a8-453a-453e-9174-c3b74b6ecf00
 /careers/senior-financial-analyst_1f180ab7-280c-4a32-aadb-9d73572b3d55
 /careers/associate-general-counsel--legal-counsel--regulatory-_c6b7fb7b-e1c4-4c51-be35-e851901a7274
 /careers/social-lead--developer_cb78a115-f5d3-495a-a224-1ff21bf983db
@@ -10,17 +9,14 @@
 /careers/regional-marketing-manager--large-accounts--apac_82694c0b-e05e-48aa-879f-052643f33599
 /careers/marketing-campaigns---programs-manager--apac_a40a5862-0bab-40e0-bc74-6dbdfae61883
 /careers/content-manager--apac_01acf78c-5199-46e0-a2b2-0ea036987194
-/careers/senior-integrated-marketing-manager--dach-_544dff50-10f4-4848-978c-0fa74a2a812e
-/careers/senior-integrated-marketing-manager--dach-_248bad1d-1894-4584-96e0-c290f49b24bf
-/careers/senior-integrated-marketing-manager--dach-_e6d75f69-65aa-4265-80d8-81e88798923c
 /careers/paid-display---video-manager--performance-marketing_05a11d83-5148-4582-b500-0942e25084d8
 /careers/partner-marketing-lead---partner-acquisition-_d57045f8-02f1-4c50-866c-adf9bcfb562a
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
 /careers/manager--education-content_d930109b-9eeb-4401-989e-0e68835cb5ca
+/careers/account-executive--mid-market-cross-sell_7f1df35d-4463-4ac4-8b42-7ca20abc97ed
 /careers/sales-coach_a43b3b2f-91de-4930-8057-22113438e846
 /careers/account-executive--core-cross-sell_93c7eb56-c769-4a33-a861-e6af2f296081
 /careers/mid-market-account-executive---france_fa887200-301c-4d4d-a19e-8229a2d86144
-/careers/account-executive--mid-market-cross-sell_7f1df35d-4463-4ac4-8b42-7ca20abc97ed
 /careers/account-executive---smb-cross-sell_34258fb2-1303-4dc3-9455-3b3435ed782b
 /careers/customer-success-manager--sea_c581c8ac-19d4-42f1-9ddc-26f5bfc4ea07
 /careers/senior-partner-manager---france---remote--uk_f3f6068d-9969-48e2-9477-3d6e18dca6a7
@@ -50,5 +46,4 @@
 /careers/senior-agency-partner-manager--dach-_d0557dbb-c062-49b5-8116-483db5b361d7
 /careers/mid-market-account-executive---italy_b429913a-341c-45b7-a42a-1c46e315a96c
 /careers/senior-partner-development-manager---italy_d1152588-95da-4c7c-ba5b-eb4345744d80
-/careers/senior-account-executive--large-enterprise-dach-_961b982a-267c-48f1-8c3a-4447c9f75fd1
 /careers/solutions-architect---payments---checkout_e8efe975-c571-4e3e-8b6d-8e96ac027b60
