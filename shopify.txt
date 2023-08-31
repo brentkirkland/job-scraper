@@ -1,7 +1,6 @@
 /careers/disciplines/engineering
 /careers/staff-product-designer-_6f22c869-10b2-41bb-92d1-0d1313b33c5d
 /careers/associate-general-counsel--legal-counsel--regulatory-_c6b7fb7b-e1c4-4c51-be35-e851901a7274
-/careers/sr--content-marketing-manager_da3981ed-87d3-47a9-a3d3-8957e7f33d55
 /careers/social-lead--developer_cb78a115-f5d3-495a-a224-1ff21bf983db
 /careers/content-manager--bilingual-german-_48f44a6a-7385-43cf-96a5-f7a36c95eef9
 /careers/senior-growth-marketer--shop_8fb38acf-ba8e-4bb8-9ac5-0fb2a39e9935
