@@ -968,14 +968,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5139213"
   },
   {
-    "id": 5139315,
-    "title": "Staff Engineer, Cards Platform",
-    "location": {
-      "name": "N/A"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5139315"
-  },
-  {
     "id": 5141121,
     "title": "Security Investigations Analyst",
     "location": {
@@ -1998,5 +1990,13 @@
       "name": "Dublin, Ireland"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5332527"
+  },
+  {
+    "id": 5334470,
+    "title": "Backend / API Engineer, Local Payment Methods   ",
+    "location": {
+      "name": "London"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5334470"
   }
 ]
