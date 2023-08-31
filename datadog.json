@@ -1800,6 +1800,14 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5325391/?gh_jid=5325391"
   },
   {
+    "id": 5326558,
+    "title": "Sales Revenue Analyst",
+    "location": {
+      "name": "New York, New York, USA; Boston, Massachusetts, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5326558/?gh_jid=5326558"
+  },
+  {
     "id": 5326808,
     "title": "Full-Stack Engineer - Demo Engineering",
     "location": {
@@ -1835,7 +1843,7 @@
     "id": 5330797,
     "title": "Software Engineer - Agent",
     "location": {
-      "name": "New York, Remote; Massachusetts, Remote"
+      "name": "New York, USA, Remote; Massachusetts, USA, Remote"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5330797/?gh_jid=5330797"
   }
