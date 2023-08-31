@@ -176,14 +176,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4921361"
   },
   {
-    "id": 4923659,
-    "title": "Full Stack Engineer, Stripe Tax",
-    "location": {
-      "name": "Ireland"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4923659"
-  },
-  {
     "id": 4935214,
     "title": "Data Scientist, Liquidity Management",
     "location": {
@@ -1696,6 +1688,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5288133"
   },
   {
+    "id": 5289202,
+    "title": "Full Stack Engineer, Stripe Tax",
+    "location": {
+      "name": "Ireland"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5289202"
+  },
+  {
     "id": 5290756,
     "title": "Staff Infrastructure Engineer, Service Frameworks",
     "location": {
@@ -2014,5 +2014,13 @@
       "name": "Chicago"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5331529"
+  },
+  {
+    "id": 5332527,
+    "title": "Deal Analyst",
+    "location": {
+      "name": "Dublin, Ireland"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5332527"
   }
 ]
