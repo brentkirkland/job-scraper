@@ -1,7 +1,7 @@
 /careers/disciplines/engineering
-/careers/program-manager--shipping-carriers_6eade6a8-453a-453e-9174-c3b74b6ecf00
+/careers/staff-product-designer-_6f22c869-10b2-41bb-92d1-0d1313b33c5d
 /careers/associate-general-counsel--legal-counsel--regulatory-_c6b7fb7b-e1c4-4c51-be35-e851901a7274
-/careers/brand-program-operations-specialist_4e5a9c8d-6235-4d8f-b642-6a90a136bbad
+/careers/sr--content-marketing-manager_da3981ed-87d3-47a9-a3d3-8957e7f33d55
 /careers/social-lead--developer_cb78a115-f5d3-495a-a224-1ff21bf983db
 /careers/content-manager--bilingual-german-_48f44a6a-7385-43cf-96a5-f7a36c95eef9
 /careers/senior-growth-marketer--shop_8fb38acf-ba8e-4bb8-9ac5-0fb2a39e9935
@@ -12,10 +12,10 @@
 /careers/partner-marketing-lead---partner-acquisition-_d57045f8-02f1-4c50-866c-adf9bcfb562a
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
 /careers/manager--education-content_d930109b-9eeb-4401-989e-0e68835cb5ca
-/careers/account-executive--core-cross-sell_93c7eb56-c769-4a33-a861-e6af2f296081
 /careers/revenue-excellence-manager_7cc348e7-92aa-43dc-aa5f-d13ad063286a
 /careers/account-executive--mid-market-cross-sell_7f1df35d-4463-4ac4-8b42-7ca20abc97ed
 /careers/sales-coach_a43b3b2f-91de-4930-8057-22113438e846
+/careers/account-executive--core-cross-sell_93c7eb56-c769-4a33-a861-e6af2f296081
 /careers/mid-market-account-executive---france_fa887200-301c-4d4d-a19e-8229a2d86144
 /careers/customer-success-manager--sea_c581c8ac-19d4-42f1-9ddc-26f5bfc4ea07
 /careers/senior-partner-manager---france---remote--uk_f3f6068d-9969-48e2-9477-3d6e18dca6a7
