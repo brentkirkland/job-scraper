@@ -2206,5 +2206,21 @@
       "name": "Atlanta, GA"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5333330?gh_jid=5333330"
+  },
+  {
+    "id": 5335333,
+    "title": "Systems Engineer - Network Automation",
+    "location": {
+      "name": "Remote Germany"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5335333?gh_jid=5335333"
+  },
+  {
+    "id": 5335340,
+    "title": "Systems Engineer - Network Automation",
+    "location": {
+      "name": "Remote Netherlands"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5335340?gh_jid=5335340"
   }
 ]
