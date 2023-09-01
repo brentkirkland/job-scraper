@@ -518,5 +518,37 @@
       "name": "London, United Kingdom"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5333425"
+  },
+  {
+    "id": 5337569,
+    "title": "Staff Software Engineer - Compute Platform",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5337569"
+  },
+  {
+    "id": 5338134,
+    "title": "Staff Software Engineer - Compute Platform",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5338134"
+  },
+  {
+    "id": 5338143,
+    "title": "Staff Software Engineer - Compute Platform",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5338143"
+  },
+  {
+    "id": 5338146,
+    "title": "Staff Software Engineer - Compute Platform",
+    "location": {
+      "name": "Los Angeles, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5338146"
   }
 ]
