@@ -256,14 +256,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4959894"
   },
   {
-    "id": 4960255,
-    "title": "Program Manager, Security Risk Management",
-    "location": {
-      "name": "US Remote"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4960255"
-  },
-  {
     "id": 4961063,
     "title": "Policy & Technical Accounting",
     "location": {
@@ -1790,6 +1782,14 @@
       "name": "US-Chicago, US-NYC, US-Seattle, US-SF-HQ"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5309424"
+  },
+  {
+    "id": 5309426,
+    "title": "Full Stack Engineer, Marketing Systems",
+    "location": {
+      "name": "US Remote"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5309426"
   },
   {
     "id": 5311456,
