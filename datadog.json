@@ -1280,14 +1280,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5249595/?gh_jid=5249595"
   },
   {
-    "id": 5250425,
-    "title": "Senior Security Analyst - Federal Programs",
-    "location": {
-      "name": "New York, New York, USA; Boston, Massachusetts, USA; Denver, Colorado, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/5250425/?gh_jid=5250425"
-  },
-  {
     "id": 5250434,
     "title": "Staff Security Engineer - Remote Configuration",
     "location": {
@@ -1702,6 +1694,14 @@
       "name": "Paris, France; Madrid, Spain; Lisbon, Portugal"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5313876/?gh_jid=5313876"
+  },
+  {
+    "id": 5314977,
+    "title": "Engineering Manager I - Internal Analytics Automated Insights",
+    "location": {
+      "name": "New York, New York, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5314977/?gh_jid=5314977"
   },
   {
     "id": 5316905,
