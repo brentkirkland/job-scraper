@@ -1,6 +1,5 @@
 /careers/disciplines/engineering
 /careers/program-manager--shipping-carriers_6eade6a8-453a-453e-9174-c3b74b6ecf00
-/careers/associate-general-counsel--legal-counsel--regulatory-_c6b7fb7b-e1c4-4c51-be35-e851901a7274
 /careers/brand-program-operations-specialist_4e5a9c8d-6235-4d8f-b642-6a90a136bbad
 /careers/social-lead--developer_cb78a115-f5d3-495a-a224-1ff21bf983db
 /careers/content-manager--bilingual-german-_48f44a6a-7385-43cf-96a5-f7a36c95eef9
