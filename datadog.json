@@ -320,6 +320,14 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4895765/?gh_jid=4895765"
   },
   {
+    "id": 4900416,
+    "title": "Senior Software Engineer - Vulnerability Management",
+    "location": {
+      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4900416/?gh_jid=4900416"
+  },
+  {
     "id": 4907598,
     "title": "Engineering Manager 1 (Data Science) - Core Models",
     "location": {
@@ -1862,5 +1870,21 @@
       "name": "New York, New York, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5335730/?gh_jid=5335730"
+  },
+  {
+    "id": 5335738,
+    "title": "Library Software Engineer - Node.js",
+    "location": {
+      "name": "Tel Aviv, Israel; Paris, France; Madrid, Spain"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5335738/?gh_jid=5335738"
+  },
+  {
+    "id": 5335838,
+    "title": "Senior Security Engineer - Core Security Response",
+    "location": {
+      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5335838/?gh_jid=5335838"
   }
 ]
