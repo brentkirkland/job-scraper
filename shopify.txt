@@ -1,6 +1,5 @@
 /careers/disciplines/engineering
 /careers/program-manager--shipping-carriers_6eade6a8-453a-453e-9174-c3b74b6ecf00
-/careers/senior-product-marketing-lead--checkout_c668b580-64ae-4632-b089-a9679ab162bb
 /careers/brand-program-operations-specialist_4e5a9c8d-6235-4d8f-b642-6a90a136bbad
 /careers/social-lead--developer_cb78a115-f5d3-495a-a224-1ff21bf983db
 /careers/content-manager--bilingual-german-_48f44a6a-7385-43cf-96a5-f7a36c95eef9
@@ -12,7 +11,6 @@
 /careers/partner-marketing-lead---partner-acquisition-_d57045f8-02f1-4c50-866c-adf9bcfb562a
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
 /careers/manager--education-content_d930109b-9eeb-4401-989e-0e68835cb5ca
-/careers/enterprise-account-executive-france---shopify-plus_b342d4dc-df12-4258-af5c-af05c1154e72
 /careers/business-development-representative---outbound---fluent-german_89e0922f-459b-44d2-b37a-e1af3087e9f7
 /careers/account-executive---cross-sell-mid-market---bilingual-german-_5d28c942-93e5-4f62-a9a7-d6d15e8a1210
 /careers/account-executive--core-cross-sell_93c7eb56-c769-4a33-a861-e6af2f296081
@@ -32,6 +30,7 @@
 /careers/business-development-representative---outbound---fluent-english-and-spanish_c76cb6ba-ecf4-4904-ac0b-6d46823635d3
 /careers/enterprise-business-development-representative---outbound---fluent-french-and-english_414bc101-8da8-4db9-b05c-dbb0b2e16814
 /careers/deal-desk-analyst_d89410c2-e934-40f5-bb5b-3e47414dc245
+/careers/pricing-analyst-_4ad64d71-31ef-448d-9ff8-7031e47ac527
 /careers/sales-development-representative---outbound--japan_d1f7db72-cbb3-4a9c-81f8-6f43ff84155a
 /careers/partner-manager-enterprise--dach-_7135078a-5100-4131-8c5d-c1579c1b5ba6
 /careers/partner-manager-enterprise--dach-_cc5cd59b-01e9-4a21-9e19-a0eea936e7c1
