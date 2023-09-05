@@ -528,6 +528,14 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5337569"
   },
   {
+    "id": 5337947,
+    "title": "Software Engineer",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5337947"
+  },
+  {
     "id": 5338000,
     "title": "Senior Software Engineer",
     "location": {
@@ -558,6 +566,14 @@
       "name": "Los Angeles, CA"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5338146"
+  },
+  {
+    "id": 5338518,
+    "title": "Software Engineer",
+    "location": {
+      "name": "Los Angeles, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5338518"
   },
   {
     "id": 5339601,
