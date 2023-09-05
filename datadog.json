@@ -256,6 +256,14 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4790162/?gh_jid=4790162"
   },
   {
+    "id": 4825718,
+    "title": "Software Engineer - Backend Generalist",
+    "location": {
+      "name": "Paris, France; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/4825718/?gh_jid=4825718"
+  },
+  {
     "id": 4830880,
     "title": "Design Manager - APM Core",
     "location": {
@@ -1902,5 +1910,29 @@
       "name": "Madrid, Spain; Paris, France; Tel Aviv, Israel"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5337638/?gh_jid=5337638"
+  },
+  {
+    "id": 5345335,
+    "title": "Software Engineer - Distributed Systems",
+    "location": {
+      "name": "Paris, France; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5345335/?gh_jid=5345335"
+  },
+  {
+    "id": 5345338,
+    "title": "Software Engineer - Distributed Systems",
+    "location": {
+      "name": "Madrid, Spain"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5345338/?gh_jid=5345338"
+  },
+  {
+    "id": 5345348,
+    "title": "Software Engineer",
+    "location": {
+      "name": "Madrid, Spain"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5345348/?gh_jid=5345348"
   }
 ]
