@@ -56,14 +56,6 @@
     "absolute_url": "https://www.nexhealth.com/careers/open-positions?gh_jid=4832726004"
   },
   {
-    "id": 4839442004,
-    "title": "Revenue Operations Lead - Customer Success",
-    "location": {
-      "name": "United States"
-    },
-    "absolute_url": "https://www.nexhealth.com/careers/open-positions?gh_jid=4839442004"
-  },
-  {
     "id": 4904081004,
     "title": "Engineering Manager",
     "location": {
@@ -110,5 +102,13 @@
       "name": "San Francisco, California, United States"
     },
     "absolute_url": "https://www.nexhealth.com/careers/open-positions?gh_jid=4952257004"
+  },
+  {
+    "id": 4968933004,
+    "title": "Revenue Operations Lead - Customer Success",
+    "location": {
+      "name": "United States"
+    },
+    "absolute_url": "https://www.nexhealth.com/careers/open-positions?gh_jid=4968933004"
   }
 ]
