@@ -1025,7 +1025,7 @@
   },
   {
     "id": 5177826,
-    "title": "Manager 1, Technical Support Engineering (Dublin)",
+    "title": "Manager 1, Technical Support Engineering",
     "location": {
       "name": "Dublin, Ireland"
     },
@@ -1438,6 +1438,14 @@
       "name": "Tokyo, Japan"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5278579/?gh_jid=5278579"
+  },
+  {
+    "id": 5281922,
+    "title": "Manager 1, Technical Support Engineering",
+    "location": {
+      "name": "Paris, France"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5281922/?gh_jid=5281922"
   },
   {
     "id": 5283132,
@@ -1910,6 +1918,14 @@
       "name": "Madrid, Spain"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5345338/?gh_jid=5345338"
+  },
+  {
+    "id": 5345343,
+    "title": "Customer Success Manager - French",
+    "location": {
+      "name": "Dublin, Ireland"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5345343/?gh_jid=5345343"
   },
   {
     "id": 5345348,
