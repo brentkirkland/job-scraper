@@ -1,6 +1,5 @@
 /careers/disciplines/engineering
 /careers/marketing-design-manager--creative-_566a116d-bb17-42e5-b9aa-96b1174d5def
-/careers/program-manager--shipping-carriers_6eade6a8-453a-453e-9174-c3b74b6ecf00
 /careers/senior-product-marketing-lead--checkout_c668b580-64ae-4632-b089-a9679ab162bb
 /careers/senior-b-b-performance-marketing-manager_fd6aa2f9-9139-4513-8dac-f8a621f0d5c9
 /careers/brand-program-operations-specialist_4e5a9c8d-6235-4d8f-b642-6a90a136bbad
