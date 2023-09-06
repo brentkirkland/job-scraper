@@ -544,6 +544,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5046446"
   },
   {
+    "id": 5047655,
+    "title": "Producer, Stripe Press",
+    "location": {
+      "name": "NYC"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5047655"
+  },
+  {
     "id": 5051200,
     "title": "Risk Partner Manager, Card Networks",
     "location": {
@@ -1590,6 +1598,22 @@
       "name": "Bangalore "
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5297545"
+  },
+  {
+    "id": 5297899,
+    "title": "Staff Engineer, Tax Filing",
+    "location": {
+      "name": "Dublin"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5297899"
+  },
+  {
+    "id": 5297902,
+    "title": "Engineering Manager, Tax Filing",
+    "location": {
+      "name": "Dublin"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5297902"
   },
   {
     "id": 5299147,
