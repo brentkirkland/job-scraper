@@ -320,14 +320,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4990760"
   },
   {
-    "id": 4994387,
-    "title": "Fraud Analyst",
-    "location": {
-      "name": "Mexico"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4994387"
-  },
-  {
     "id": 4994389,
     "title": "Operations Manager, Fraud and User Policy",
     "location": {
@@ -854,6 +846,14 @@
       "name": "Japan"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5141857"
+  },
+  {
+    "id": 5150591,
+    "title": "Fraud Analyst",
+    "location": {
+      "name": "Mexico City"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5150591"
   },
   {
     "id": 5153418,
