@@ -1,10 +1,11 @@
 /careers/disciplines/engineering
 /careers/staff-product-designer-_6f22c869-10b2-41bb-92d1-0d1313b33c5d
 /careers/marketing-design-manager--creative-_566a116d-bb17-42e5-b9aa-96b1174d5def
+/careers/associate-general-counsel--legal-counsel--regulatory-_c6b7fb7b-e1c4-4c51-be35-e851901a7274
+/careers/demand-marketing-senior-lead--abm-_d2580de3-e621-4d28-8ba7-fef140c2857b
 /careers/senior-b-b-performance-marketing-manager--sem_8c231c1f-cc7d-45f8-80d2-88ba21a7314c
 /careers/senior-product-marketing-lead--checkout_c668b580-64ae-4632-b089-a9679ab162bb
 /careers/senior-b-b-performance-marketing-manager_fd6aa2f9-9139-4513-8dac-f8a621f0d5c9
-/careers/brand-program-operations-specialist_4e5a9c8d-6235-4d8f-b642-6a90a136bbad
 /careers/social-lead--developer_cb78a115-f5d3-495a-a224-1ff21bf983db
 /careers/content-manager--bilingual-german-_48f44a6a-7385-43cf-96a5-f7a36c95eef9
 /careers/senior-growth-marketer--shop_8fb38acf-ba8e-4bb8-9ac5-0fb2a39e9935
