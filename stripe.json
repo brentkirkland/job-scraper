@@ -1368,14 +1368,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5274197"
   },
   {
-    "id": 5276000,
-    "title": "Support Operations Manager, Stripe Delivery Center",
-    "location": {
-      "name": "Bangalore"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5276000"
-  },
-  {
     "id": 5277228,
     "title": "Engineering Manager, Observability",
     "location": {
@@ -1670,6 +1662,14 @@
       "name": "Dublin"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5311742"
+  },
+  {
+    "id": 5311833,
+    "title": "Account Executive, Platforms (Australia & New Zealand)",
+    "location": {
+      "name": "Sydney"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5311833"
   },
   {
     "id": 5312477,
