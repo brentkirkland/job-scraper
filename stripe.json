@@ -1459,7 +1459,7 @@
     "id": 5288126,
     "title": "Partner Development Manager",
     "location": {
-      "name": "London, Dublin, Paris"
+      "name": "London, Dublin"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5288126"
   },
@@ -1950,13 +1950,5 @@
       "name": "US Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5355189"
-  },
-  {
-    "id": 5356690,
-    "title": "Account Executive, Startups Existing Business (French-speaking)",
-    "location": {
-      "name": "Dublin"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5356690"
   }
 ]
