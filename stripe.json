@@ -121,7 +121,7 @@
   },
   {
     "id": 4919498,
-    "title": "Staff Engineer, Banking as a Service, Issuing",
+    "title": "Staff API / Full Stack Engineer, Banking as a Service, Issuing",
     "location": {
       "name": "In-office: Seattle, New York, San Francisco, Chicago, Remote - US/Canada"
     },
@@ -638,6 +638,14 @@
       "name": "Mexico City"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5097622"
+  },
+  {
+    "id": 5099202,
+    "title": "Head of Design, Consumer Products ",
+    "location": {
+      "name": "US / Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5099202"
   },
   {
     "id": 5100101,
