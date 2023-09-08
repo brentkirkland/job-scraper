@@ -304,14 +304,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4984735"
   },
   {
-    "id": 4985937,
-    "title": "Staff Machine Learning Engineer, Identity",
-    "location": {
-      "name": "San Francisco"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4985937"
-  },
-  {
     "id": 4987398,
     "title": "Manager, Strategic Accounts, America",
     "location": {
@@ -488,14 +480,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5046026"
   },
   {
-    "id": 5046345,
-    "title": "Machine Learning Engineer, Payments ML Accelerator",
-    "location": {
-      "name": "US- Remote / Canada"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5046345"
-  },
-  {
     "id": 5046428,
     "title": "Technical Lead, Data Science",
     "location": {
@@ -507,7 +491,7 @@
     "id": 5046446,
     "title": "Engineering Manager, Checkout",
     "location": {
-      "name": "US-Remote,  CA-Remote"
+      "name": "NYC or US-Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5046446"
   },
@@ -574,14 +558,6 @@
       "name": "IN-Bangalore, IN-Hyderabad, IN-Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5064948"
-  },
-  {
-    "id": 5066727,
-    "title": "Machine Learning Engineer, Identity",
-    "location": {
-      "name": "APAC, EMEA, US / Canada"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5066727"
   },
   {
     "id": 5068566,
