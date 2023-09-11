@@ -360,14 +360,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5011504"
   },
   {
-    "id": 5011779,
-    "title": "Program Manager, Company Operations",
-    "location": {
-      "name": "US-Chicago, US-Remote"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5011779"
-  },
-  {
     "id": 5015174,
     "title": "Product Compliance Lead, Money Movement",
     "location": {
@@ -1974,5 +1966,13 @@
       "name": "Dublin, London"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5357749"
+  },
+  {
+    "id": 5360293,
+    "title": "Backend / API Engineer, EMEA Wallets",
+    "location": {
+      "name": "Dublin, Ireland"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5360293"
   }
 ]
