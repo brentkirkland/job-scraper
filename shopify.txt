@@ -1,7 +1,6 @@
 /careers/disciplines/engineering
 /careers/staff-product-designer-_6f22c869-10b2-41bb-92d1-0d1313b33c5d
 /careers/marketing-design-manager--creative-_566a116d-bb17-42e5-b9aa-96b1174d5def
-/careers/senior-lead--business-partner_62f5ed1b-7389-452d-86f0-6190ba34064b
 /careers/associate-general-counsel--legal-counsel--regulatory-_c6b7fb7b-e1c4-4c51-be35-e851901a7274
 /careers/senior-manager--brand-partnerships_1080d420-5655-47ba-a8a8-a15e29fd9b75
 /careers/sr-manager--social--_21a9c7b4-02e6-4603-9d0f-de139947cc06
