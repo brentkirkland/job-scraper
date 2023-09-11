@@ -16,7 +16,6 @@
 /careers/content-manager--apac_01acf78c-5199-46e0-a2b2-0ea036987194
 /careers/partner-marketing-lead---partner-acquisition-_d57045f8-02f1-4c50-866c-adf9bcfb562a
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
-/careers/manager--education-content_d930109b-9eeb-4401-989e-0e68835cb5ca
 /careers/senior-launch-engineer--japan_d1f86d3e-dbb4-4819-9b43-032d93581430
 /careers/senior-merchant-success-manager-_bf75083c-2b65-4148-b6e9-020b0fab78b0
 /careers/enterprise-account-executive-france---shopify-plus_b342d4dc-df12-4258-af5c-af05c1154e72
@@ -30,7 +29,6 @@
 /careers/sales-development-representative--bilingual-german--inbound-_52962f58-65ea-4d8c-81b0-811ac2b6fbc0
 /careers/account-executive--bilingual-italian--retail-_c0c59364-3c34-4035-868d-84ece282c213
 /careers/account-executive--bilingual-german--retail-_621d4e0c-0d60-4753-a3d4-4e63956dcc7f
-/careers/senior-launch-engineer--australia_19a3a407-01fa-41bf-abd1-3217907a07a2
 /careers/senior-solutions-engineer--china_72da8292-f513-4cfc-838b-530a895d3304
 /careers/senior-solutions-engineer---retail_9afa2f53-6860-4c79-a80a-9e7b1e4c90a1
 /careers/sales-development-representative---inbound---fluent-italian_d3374a32-ced8-4132-84c2-2230993a14e8
