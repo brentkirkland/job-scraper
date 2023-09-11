@@ -1696,6 +1696,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5313041"
   },
   {
+    "id": 5314442,
+    "title": "Incident Response Manager",
+    "location": {
+      "name": "Dublin "
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5314442"
+  },
+  {
     "id": 5315436,
     "title": "Integration Reliability Engineer, Technical Operations, BaaS",
     "location": {
@@ -1966,5 +1974,13 @@
       "name": "US Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5355189"
+  },
+  {
+    "id": 5357749,
+    "title": "Partner Development Manager - GTM Enablement",
+    "location": {
+      "name": "Dublin, London"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5357749"
   }
 ]
