@@ -144,14 +144,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4935214"
   },
   {
-    "id": 4935457,
-    "title": "Software Engineer, API Platform",
-    "location": {
-      "name": "Dublin, Ireland"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4935457"
-  },
-  {
     "id": 4937739,
     "title": "Accounting Analyst - Revenue Accounting",
     "location": {
@@ -1958,6 +1950,14 @@
       "name": "Dublin, London"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5357749"
+  },
+  {
+    "id": 5358773,
+    "title": "Frontend Engineer, Growth ",
+    "location": {
+      "name": "US-Remote/ Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5358773"
   },
   {
     "id": 5360293,
