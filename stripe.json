@@ -280,14 +280,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4984735"
   },
   {
-    "id": 4985937,
-    "title": "Staff Machine Learning Engineer, Identity",
-    "location": {
-      "name": "San Francisco"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4985937"
-  },
-  {
     "id": 4987398,
     "title": "Manager, Strategic Accounts, America",
     "location": {
@@ -542,14 +534,6 @@
       "name": "IN-Bangalore, IN-Hyderabad, IN-Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5064948"
-  },
-  {
-    "id": 5066727,
-    "title": "Machine Learning Engineer, Identity",
-    "location": {
-      "name": "APAC, EMEA, US / Canada"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5066727"
   },
   {
     "id": 5068566,
@@ -1598,6 +1582,14 @@
       "name": "Job location"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5305676"
+  },
+  {
+    "id": 5305879,
+    "title": "Data Analyst, Revenue Platform",
+    "location": {
+      "name": "US Remote"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5305879"
   },
   {
     "id": 5305978,
