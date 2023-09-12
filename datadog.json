@@ -56,14 +56,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/1826072/?gh_jid=1826072"
   },
   {
-    "id": 1826211,
-    "title": "Open Source Software Engineer - Integrations",
-    "location": {
-      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal; Nantes, France; Bordeaux, France; Sophia Antipolis, France; Lyon, France"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/1826211/?gh_jid=1826211"
-  },
-  {
     "id": 2297901,
     "title": "Senior Technical Program Manager - SRE",
     "location": {
@@ -1950,5 +1942,13 @@
       "name": "Madrid, Spain"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5356954/?gh_jid=5356954"
+  },
+  {
+    "id": 5362601,
+    "title": "Open Source Software Engineer - Integrations",
+    "location": {
+      "name": "Madrid, Spain; Lisbon, Portugal; Paris, France; Tel Aviv, Israel"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5362601/?gh_jid=5362601"
   }
 ]
