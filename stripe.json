@@ -1832,14 +1832,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5327962"
   },
   {
-    "id": 5327965,
-    "title": "Administrative Coordinator",
-    "location": {
-      "name": "Mexico City"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5327965"
-  },
-  {
     "id": 5328285,
     "title": "Deal Pricing Strategist, EMEA",
     "location": {
@@ -1942,6 +1934,14 @@
       "name": "NYC, Dublin"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5337572"
+  },
+  {
+    "id": 5347276,
+    "title": "Technical Recruiter - Fixed Term",
+    "location": {
+      "name": "Remote"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5347276"
   },
   {
     "id": 5348979,
