@@ -1,4 +1,6 @@
 /careers/disciplines/engineering
+/careers/staff-product-designer-_6f22c869-10b2-41bb-92d1-0d1313b33c5d
+/careers/senior-product-designer-_012fcc6a-d93a-4151-a11c-9a6f864b6595
 /careers/senior-staff-product-designer-_6269f07f-1d52-4df5-a220-1ea25b44988f
 /careers/recovery-specialist_d9d643e4-cb1a-43bf-b646-3e8b0b86dd9e
 /careers/recovery-specialist_e52b8a32-cff3-48ad-8b03-383e795d46a6
