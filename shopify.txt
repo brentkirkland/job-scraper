@@ -2,7 +2,6 @@
 /careers/senior-staff-product-designer-_6269f07f-1d52-4df5-a220-1ea25b44988f
 /careers/recovery-specialist_d9d643e4-cb1a-43bf-b646-3e8b0b86dd9e
 /careers/recovery-specialist_e52b8a32-cff3-48ad-8b03-383e795d46a6
-/careers/talent-coordinator_c605ab6b-2a8a-43b0-9fc7-414143cffb8d
 /careers/finance-transformation-senior-manager_e0226107-ef4a-4058-ac37-bad00a4260e3
 /careers/associate-general-counsel--legal-counsel--regulatory-_c6b7fb7b-e1c4-4c51-be35-e851901a7274
 /careers/writer-editor--growth--revenue-content-_18835bbb-3601-4689-a94e-80a8d55f20a2
@@ -17,6 +16,7 @@
 /careers/content-manager--apac_01acf78c-5199-46e0-a2b2-0ea036987194
 /careers/partner-marketing-lead---partner-acquisition-_d57045f8-02f1-4c50-866c-adf9bcfb562a
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
+/careers/senior-merchant-success-manager--large-accounts--anz_eabf0b31-e4bf-444b-84e7-187d1a091a5f
 /careers/senior-launch-engineer--japan_d1f86d3e-dbb4-4819-9b43-032d93581430
 /careers/enterprise-account-executive-france---shopify-plus_b342d4dc-df12-4258-af5c-af05c1154e72
 /careers/business-development-representative---outbound---fluent-german_89e0922f-459b-44d2-b37a-e1af3087e9f7
