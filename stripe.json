@@ -776,6 +776,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5139213"
   },
   {
+    "id": 5139315,
+    "title": "Staff Engineer, Payments Conversion ",
+    "location": {
+      "name": "N/A"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5139315"
+  },
+  {
     "id": 5141121,
     "title": "Security Investigations Analyst",
     "location": {
@@ -1158,14 +1166,6 @@
       "name": "Toronto, remote from Canada"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5245863"
-  },
-  {
-    "id": 5246830,
-    "title": "Staff Engineer, Payment Conversion",
-    "location": {
-      "name": "US / Canada"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5246830"
   },
   {
     "id": 5250103,
@@ -2030,5 +2030,13 @@
       "name": "Romania"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5365802"
+  },
+  {
+    "id": 5366147,
+    "title": "Staff Software Engineer, Marketing Systems",
+    "location": {
+      "name": "US Remote"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5366147"
   }
 ]
