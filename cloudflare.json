@@ -104,14 +104,6 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/3454282?gh_jid=3454282"
   },
   {
-    "id": 3496922,
-    "title": "G&A Finance Senior Manager",
-    "location": {
-      "name": "Remote US"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/3496922?gh_jid=3496922"
-  },
-  {
     "id": 3521863,
     "title": "Solutions Engineer, Strategic Accounts",
     "location": {
@@ -2310,5 +2302,13 @@
       "name": "San Diego, CA"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5369361?gh_jid=5369361"
+  },
+  {
+    "id": 5369506,
+    "title": "Billing QA Engineering Manager",
+    "location": {
+      "name": "Remote US"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5369506?gh_jid=5369506"
   }
 ]
