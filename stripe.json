@@ -856,6 +856,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5169033"
   },
   {
+    "id": 5169035,
+    "title": "Backend / API Engineer, Payment Flows",
+    "location": {
+      "name": "N/A"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5169035"
+  },
+  {
     "id": 5177491,
     "title": "Backend / API Engineer, Accounts",
     "location": {
@@ -1950,6 +1958,14 @@
       "name": "Singapore"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5351237"
+  },
+  {
+    "id": 5351673,
+    "title": "Full Stack Engineer, Internal Data Products",
+    "location": {
+      "name": "Toronto/ Canada Remote"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5351673"
   },
   {
     "id": 5352643,
