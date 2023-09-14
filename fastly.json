@@ -120,30 +120,6 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5112390"
   },
   {
-    "id": 5136533,
-    "title": "Staff SRE - Data Reliability (ElasticSearch)",
-    "location": {
-      "name": "San Francisco, CA"
-    },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5136533"
-  },
-  {
-    "id": 5136553,
-    "title": "Staff SRE - Data Reliability (ElasticSearch)",
-    "location": {
-      "name": "Los Angeles, CA"
-    },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5136553"
-  },
-  {
-    "id": 5136558,
-    "title": "Staff SRE - Data Reliability (ElasticSearch)",
-    "location": {
-      "name": "Denver, CO"
-    },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5136558"
-  },
-  {
     "id": 5138047,
     "title": "Senior Engineer - CI/CD Pipelines",
     "location": {
@@ -358,6 +334,14 @@
       "name": "New York City, NY"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5250920"
+  },
+  {
+    "id": 5261953,
+    "title": "Senior Events Manager",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5261953"
   },
   {
     "id": 5268571,
