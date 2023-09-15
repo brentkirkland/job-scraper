@@ -1648,6 +1648,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5286069?gh_jid=5286069"
   },
   {
+    "id": 5295427,
+    "title": "Senior Director of Solution Engineering, EMEA",
+    "location": {
+      "name": "London or Munich or Amsterdam"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5295427?gh_jid=5295427"
+  },
+  {
     "id": 5295781,
     "title": "Account Executive - Portuguese Speaking",
     "location": {
@@ -2310,5 +2318,21 @@
       "name": "Remote US"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5369506?gh_jid=5369506"
+  },
+  {
+    "id": 5371029,
+    "title": "Senior Director of Solution Engineering, EMEA",
+    "location": {
+      "name": "Lisbon, Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5371029?gh_jid=5371029"
+  },
+  {
+    "id": 5371034,
+    "title": "Senior Director of Solution Engineering, EMEA",
+    "location": {
+      "name": "Paris, France"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5371034?gh_jid=5371034"
   }
 ]
