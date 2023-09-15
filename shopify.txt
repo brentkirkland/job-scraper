@@ -1,5 +1,4 @@
 /careers/disciplines/engineering
-/careers/senior-staff-product-designer-_6269f07f-1d52-4df5-a220-1ea25b44988f
 /careers/senior-technical-product-lead--storefronts_907d49e4-b6e8-417c-8e07-70a003fd158b
 /careers/recovery-specialist_d9d643e4-cb1a-43bf-b646-3e8b0b86dd9e
 /careers/recovery-specialist_e52b8a32-cff3-48ad-8b03-383e795d46a6
@@ -17,6 +16,7 @@
 /careers/content-manager--apac_01acf78c-5199-46e0-a2b2-0ea036987194
 /careers/partner-marketing-lead---partner-acquisition-_d57045f8-02f1-4c50-866c-adf9bcfb562a
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
+/careers/sales-team-lead--large-accounts_a41063eb-aa9a-4cdc-954b-ed33c3b12cfc
 /careers/account-executive--large-accounts_d2759ced-7bb3-46fa-b2c8-dddf3f3151c2
 /careers/senior-launch-engineer--japan_d1f86d3e-dbb4-4819-9b43-032d93581430
 /careers/enterprise-account-executive-france---shopify-plus_b342d4dc-df12-4258-af5c-af05c1154e72
