@@ -1,4 +1,5 @@
 /careers/disciplines/engineering
+/careers/technical-product-lead--build_91f0af03-0cfb-4d1f-af2e-530b0953ea74
 /careers/senior-technical-product-lead--storefronts_907d49e4-b6e8-417c-8e07-70a003fd158b
 /careers/recovery-specialist_d9d643e4-cb1a-43bf-b646-3e8b0b86dd9e
 /careers/recovery-specialist_e52b8a32-cff3-48ad-8b03-383e795d46a6
