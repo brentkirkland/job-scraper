@@ -704,14 +704,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5127766"
   },
   {
-    "id": 5127895,
-    "title": "Program Manager, Core Operations ",
-    "location": {
-      "name": "Singapore, Bangalore "
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5127895"
-  },
-  {
     "id": 5130098,
     "title": "Engineering Manager, Issuing",
     "location": {
@@ -1830,6 +1822,14 @@
       "name": "New York, NY or Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5327962"
+  },
+  {
+    "id": 5327965,
+    "title": "Administrative Coordinator",
+    "location": {
+      "name": "Mexico City"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5327965"
   },
   {
     "id": 5328285,
