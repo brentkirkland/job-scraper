@@ -1056,6 +1056,14 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5195300/?gh_jid=5195300"
   },
   {
+    "id": 5207490,
+    "title": "Cloud Alliances Manager (LATAM)",
+    "location": {
+      "name": "Brazil, Remote"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5207490/?gh_jid=5207490"
+  },
+  {
     "id": 5208926,
     "title": "Customer Success Associate - Nordics",
     "location": {
@@ -1998,5 +2006,13 @@
       "name": "New York, New York, USA; Boston, Massachusetts, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5369834/?gh_jid=5369834"
+  },
+  {
+    "id": 5374229,
+    "title": "Manager I, Engineering - API Reliability",
+    "location": {
+      "name": "Paris, France; Madrid, Spain"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5374229/?gh_jid=5374229"
   }
 ]
