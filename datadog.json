@@ -1856,6 +1856,14 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5350292/?gh_jid=5350292"
   },
   {
+    "id": 5353308,
+    "title": "Technical Solutions Program Manager II",
+    "location": {
+      "name": "San Francisco, California, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5353308/?gh_jid=5353308"
+  },
+  {
     "id": 5353662,
     "title": "Regional Manager, Sales Engineering",
     "location": {
@@ -1936,6 +1944,14 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5360966/?gh_jid=5360966"
   },
   {
+    "id": 5360989,
+    "title": "Product Designer II - Networks",
+    "location": {
+      "name": "New York, New York"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5360989/?gh_jid=5360989"
+  },
+  {
     "id": 5361230,
     "title": "Senior Product Designer - Monitors",
     "location": {
@@ -2014,5 +2030,21 @@
       "name": "Paris, France; Madrid, Spain"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5374229/?gh_jid=5374229"
+  },
+  {
+    "id": 5374795,
+    "title": "Technical Solutions Program Manager II",
+    "location": {
+      "name": "Boston, Massachusetts, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5374795/?gh_jid=5374795"
+  },
+  {
+    "id": 5374797,
+    "title": "Technical Solutions Program Manager II",
+    "location": {
+      "name": "New York, New York, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5374797/?gh_jid=5374797"
   }
 ]
