@@ -1032,6 +1032,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5207362"
   },
   {
+    "id": 5208799,
+    "title": "Engineering Manager, Streaming Platform",
+    "location": {
+      "name": "Bucharest"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5208799"
+  },
+  {
     "id": 5210363,
     "title": "Software Engineer, Network",
     "location": {
@@ -1902,14 +1910,6 @@
       "name": "Dublin"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5332928"
-  },
-  {
-    "id": 5333756,
-    "title": "Recruiting Scheduler",
-    "location": {
-      "name": "CHI, SEA"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5333756"
   },
   {
     "id": 5334470,
