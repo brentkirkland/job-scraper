@@ -1,4 +1,5 @@
 /careers/disciplines/engineering
+/careers/senior-product-designer-_012fcc6a-d93a-4151-a11c-9a6f864b6595
 /careers/staff-product-designer-_6f22c869-10b2-41bb-92d1-0d1313b33c5d
 /careers/technical-product-lead--build_91f0af03-0cfb-4d1f-af2e-530b0953ea74
 /careers/senior-technical-product-lead--storefronts_907d49e4-b6e8-417c-8e07-70a003fd158b
@@ -16,6 +17,7 @@
 /careers/content-manager--apac_01acf78c-5199-46e0-a2b2-0ea036987194
 /careers/partner-marketing-lead---partner-acquisition-_d57045f8-02f1-4c50-866c-adf9bcfb562a
 /careers/senior-partner-marketing-manager--japan_c7a71b85-3510-43e6-a9ab-b5b970e7fb4f
+/careers/senior-enterprise-sales-representative-_c6dc02dd-d8a4-4d18-aaa6-3cb022e538be
 /careers/account-executive--mid-market-cross-sell_7f1df35d-4463-4ac4-8b42-7ca20abc97ed
 /careers/sales-team-lead--large-accounts_a41063eb-aa9a-4cdc-954b-ed33c3b12cfc
 /careers/account-executive--large-accounts_d2759ced-7bb3-46fa-b2c8-dddf3f3151c2
