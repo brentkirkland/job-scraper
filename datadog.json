@@ -976,14 +976,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5187985/?gh_jid=5187985"
   },
   {
-    "id": 5187997,
-    "title": "Commercial Sales Engineer",
-    "location": {
-      "name": "Brazil, Remote"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/5187997/?gh_jid=5187997"
-  },
-  {
     "id": 5188327,
     "title": "Senior Technical Support Engineer",
     "location": {
@@ -1483,7 +1475,7 @@
     "id": 5309000,
     "title": "Vice President, Product Marketing",
     "location": {
-      "name": "New York, NY, USA"
+      "name": "New York, New York, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5309000/?gh_jid=5309000"
   },
@@ -1899,7 +1891,7 @@
     "id": 5360855,
     "title": "Premier Support Engineer 2",
     "location": {
-      "name": "Paris, France; Amsterdam, Netherlands: Dublin, Ireland"
+      "name": "Paris, France; Amsterdam, Netherlands; Dublin, Ireland"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5360855/?gh_jid=5360855"
   },
