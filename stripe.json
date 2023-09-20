@@ -336,6 +336,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5007233"
   },
   {
+    "id": 5010956,
+    "title": "Recruiting Operations Associate",
+    "location": {
+      "name": "Bangalore"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5010956"
+  },
+  {
     "id": 5011504,
     "title": "Engineering Manager, Data Transformation",
     "location": {
@@ -446,14 +454,6 @@
       "name": "NYC or US-Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5046446"
-  },
-  {
-    "id": 5051200,
-    "title": "Risk Partner Manager, Card Networks",
-    "location": {
-      "name": "Dublin"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5051200"
   },
   {
     "id": 5052044,
@@ -1934,14 +1934,6 @@
       "name": "London, Dublin"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5352643"
-  },
-  {
-    "id": 5352714,
-    "title": "Risk Partner Manager, Local Payment Methods",
-    "location": {
-      "name": "Dublin, Ireland"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5352714"
   },
   {
     "id": 5353741,
