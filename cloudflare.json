@@ -480,14 +480,6 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4840177?gh_jid=4840177"
   },
   {
-    "id": 4847864,
-    "title": "Edge Partner Success - Program Manager",
-    "location": {
-      "name": "Lisbon, Portugal"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4847864?gh_jid=4847864"
-  },
-  {
     "id": 4854980,
     "title": "Field Solutions Engineer ",
     "location": {
@@ -2270,5 +2262,21 @@
       "name": "Seoul, South Korea"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5375890?gh_jid=5375890"
+  },
+  {
+    "id": 5379221,
+    "title": "Technical Account Manager ",
+    "location": {
+      "name": "London or Remote UK"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5379221?gh_jid=5379221"
+  },
+  {
+    "id": 5379239,
+    "title": "Technical Account Manager ",
+    "location": {
+      "name": "Remote Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5379239?gh_jid=5379239"
   }
 ]
