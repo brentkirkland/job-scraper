@@ -1704,6 +1704,22 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5318701"
   },
   {
+    "id": 5318703,
+    "title": "Software Engineering, New Grad",
+    "location": {
+      "name": "Global"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5318703"
+  },
+  {
+    "id": 5318705,
+    "title": "Software Engineering Intern",
+    "location": {
+      "name": "Global"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5318705"
+  },
+  {
     "id": 5319443,
     "title": "Staff Technical Program Manager, Global Compliance",
     "location": {
@@ -2014,6 +2030,14 @@
       "name": "Bucharest"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5365017"
+  },
+  {
+    "id": 5365802,
+    "title": "Software Engineering, New Grad",
+    "location": {
+      "name": "Romania"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5365802"
   },
   {
     "id": 5366147,
