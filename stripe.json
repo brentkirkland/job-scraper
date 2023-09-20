@@ -1641,7 +1641,7 @@
   },
   {
     "id": 5317632,
-    "title": "Integration Reliability Engineer, Technical Operations, Cards",
+    "title": "Integration Reliability Engineer, Cards Integrations",
     "location": {
       "name": "Toronto"
     },
@@ -1902,6 +1902,14 @@
       "name": "US-Chicago"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5346068"
+  },
+  {
+    "id": 5347274,
+    "title": "Integration Reliability Engineer, Reconciliation",
+    "location": {
+      "name": "Toronto"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5347274"
   },
   {
     "id": 5348979,
