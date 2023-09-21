@@ -1449,7 +1449,7 @@
   },
   {
     "id": 5298065,
-    "title": "Partner Campaigns Manager",
+    "title": "Brand Campaign Manager",
     "location": {
       "name": "US / Canada"
     },
@@ -1686,6 +1686,14 @@
       "name": "LOCATION"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5318315"
+  },
+  {
+    "id": 5318696,
+    "title": "Software Engineering, New Grad",
+    "location": {
+      "name": "Global"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5318696"
   },
   {
     "id": 5318699,
@@ -2054,6 +2062,14 @@
       "name": "San Francisco, US Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5366371"
+  },
+  {
+    "id": 5372350,
+    "title": "Software Engineer, New Grad",
+    "location": {
+      "name": "Global"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5372350"
   },
   {
     "id": 5373671,
