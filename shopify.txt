@@ -1,7 +1,6 @@
 /careers/disciplines/engineering
 /careers/senior-product-designer-_012fcc6a-d93a-4151-a11c-9a6f864b6595
 /careers/staff-product-designer-_6f22c869-10b2-41bb-92d1-0d1313b33c5d
-/careers/sr--product-manager--order_2738a24a-c51f-4883-82b8-bbff08ce513c
 /careers/technical-product-lead--build_91f0af03-0cfb-4d1f-af2e-530b0953ea74
 /careers/senior-technical-product-lead--storefronts_907d49e4-b6e8-417c-8e07-70a003fd158b
 /careers/recovery-specialist_d9d643e4-cb1a-43bf-b646-3e8b0b86dd9e
@@ -25,6 +24,7 @@
 /careers/enterprise-account-executive-france---shopify-plus_b342d4dc-df12-4258-af5c-af05c1154e72
 /careers/business-development-representative---outbound---fluent-german_89e0922f-459b-44d2-b37a-e1af3087e9f7
 /careers/account-executive---cross-sell-mid-market---bilingual-german-_5d28c942-93e5-4f62-a9a7-d6d15e8a1210
+/careers/customer-success-manager--sea_c581c8ac-19d4-42f1-9ddc-26f5bfc4ea07
 /careers/senior-solutions-engineer--china_72da8292-f513-4cfc-838b-530a895d3304
 /careers/business-development-representative---outbound---fluent-english-and-spanish_c76cb6ba-ecf4-4904-ac0b-6d46823635d3
 /careers/deal-desk-analyst_d89410c2-e934-40f5-bb5b-3e47414dc245
