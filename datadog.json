@@ -1896,6 +1896,14 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5362907/?gh_jid=5362907"
   },
   {
+    "id": 5364831,
+    "title": "Major Account Manager (UKI)",
+    "location": {
+      "name": "Remote, London"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5364831/?gh_jid=5364831"
+  },
+  {
     "id": 5364865,
     "title": "Commercial Account Executive (CEE)",
     "location": {
@@ -2070,5 +2078,13 @@
       "name": "New York, New York, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5389860/?gh_jid=5389860"
+  },
+  {
+    "id": 5391354,
+    "title": "Major Account Manager (DACH)",
+    "location": {
+      "name": "Remote, Germany"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5391354/?gh_jid=5391354"
   }
 ]
