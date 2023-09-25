@@ -2184,11 +2184,35 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5381627?gh_jid=5381627"
   },
   {
+    "id": 5383620,
+    "title": "Strategic Customer Solutions Engineer, Korea",
+    "location": {
+      "name": "Seoul, South Korea"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5383620?gh_jid=5383620"
+  },
+  {
     "id": 5384807,
     "title": "Security Compliance Specialist",
     "location": {
       "name": "London or Munich or Amsterdam"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5384807?gh_jid=5384807"
+  },
+  {
+    "id": 5390706,
+    "title": "Strategic Customer Solutions Engineer, India (Bangalore-based)",
+    "location": {
+      "name": "Remote India"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5390706?gh_jid=5390706"
+  },
+  {
+    "id": 5390854,
+    "title": "Customer Solutions Engineer - Network Services",
+    "location": {
+      "name": "Singapore"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5390854?gh_jid=5390854"
   }
 ]
