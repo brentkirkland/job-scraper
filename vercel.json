@@ -144,14 +144,6 @@
     "absolute_url": "https://boards.greenhouse.io/vercel/jobs/4947552004"
   },
   {
-    "id": 4947923004,
-    "title": "Enterprise Account Executive, Australia",
-    "location": {
-      "name": "Remote - Australia"
-    },
-    "absolute_url": "https://boards.greenhouse.io/vercel/jobs/4947923004"
-  },
-  {
     "id": 4948243004,
     "title": "Product Marketing Manager, Infra",
     "location": {
@@ -222,6 +214,14 @@
       "name": "Remote - United States"
     },
     "absolute_url": "https://boards.greenhouse.io/vercel/jobs/4968405004"
+  },
+  {
+    "id": 4971614004,
+    "title": "Technical Consultant, Europe",
+    "location": {
+      "name": "Remote - Europe"
+    },
+    "absolute_url": "https://boards.greenhouse.io/vercel/jobs/4971614004"
   },
   {
     "id": 4973158004,
