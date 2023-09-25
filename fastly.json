@@ -630,5 +630,37 @@
       "name": "London, United Kingdom"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5388157"
+  },
+  {
+    "id": 5389326,
+    "title": "Senior Software Engineer, UI - Monetization Engineering",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5389326"
+  },
+  {
+    "id": 5389355,
+    "title": "Senior UI Engineer - Observability Products",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5389355"
+  },
+  {
+    "id": 5389362,
+    "title": "Senior UI Engineer - Observability Products",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5389362"
+  },
+  {
+    "id": 5389745,
+    "title": "Senior Software Engineer, UI - Monetization Engineering",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5389745"
   }
 ]

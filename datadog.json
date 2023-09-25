@@ -176,14 +176,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/4492865/?gh_jid=4492865"
   },
   {
-    "id": 4544992,
-    "title": "Enterprise Sales Executive (Ohio Valley)",
-    "location": {
-      "name": "Ohio, USA, Remote"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/4544992/?gh_jid=4544992"
-  },
-  {
     "id": 4599111,
     "title": "Senior Software Engineer - Distributed Systems",
     "location": {
@@ -2022,6 +2014,14 @@
       "name": "Sydney, Australia"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5380126/?gh_jid=5380126"
+  },
+  {
+    "id": 5382080,
+    "title": "Sales Development Representative (LATAM) - Portuguese Speaking",
+    "location": {
+      "name": "Boston, Massachusetts, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5382080/?gh_jid=5382080"
   },
   {
     "id": 5382580,
