@@ -352,14 +352,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5007233"
   },
   {
-    "id": 5010956,
-    "title": "Recruiting Operations Associate",
-    "location": {
-      "name": "Bangalore"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5010956"
-  },
-  {
     "id": 5011504,
     "title": "Engineering Manager, Data Transformation",
     "location": {
@@ -694,6 +686,14 @@
       "name": "Romania"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5125764"
+  },
+  {
+    "id": 5127677,
+    "title": "People Operations Associate (Mobility & Benefits)",
+    "location": {
+      "name": "Bangalore"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5127677"
   },
   {
     "id": 5127766,
