@@ -12,10 +12,7 @@
 /careers/content-manager--bilingual-german-_48f44a6a-7385-43cf-96a5-f7a36c95eef9
 /careers/content-manager--apac_01acf78c-5199-46e0-a2b2-0ea036987194
 /careers/partner-marketing-lead---partner-acquisition-_d57045f8-02f1-4c50-866c-adf9bcfb562a
-/careers/senior-partner-manager--wpp--emea_34d1079e-88a5-4495-b5d4-9dce1dc45a1e
 /careers/senior-partner-manager_5da6d158-e8d7-484c-ad9c-66aa4420d72b
-/careers/head-of-dach---eastern-europe-sales_8bcbfc28-f83b-40f2-b49b-bdb661994aca
-/careers/partner-manager-enterprise--france_f3bf930a-71d9-42d9-b910-7a0913c7b904
 /careers/partner-manager-enterprise--dach_661c8354-2120-46c2-b779-58e760128188
 /careers/pricing-analyst-_4ad64d71-31ef-448d-9ff8-7031e47ac527
 /careers/staff-solutions-engineer-dach_7480b38d-ae43-490c-ad7b-e68fe6093661
@@ -33,5 +30,6 @@
 /careers/partner-manager-enterprise--dach-_7135078a-5100-4131-8c5d-c1579c1b5ba6
 /careers/partner-manager-enterprise--dach-_cc5cd59b-01e9-4a21-9e19-a0eea936e7c1
 /careers/senior-agency-partner-manager--dach-_c681a594-148f-4101-bfd2-9f2a42bf7e69
+/careers/partner-manager-enterprise--fr-_f3bf930a-71d9-42d9-b910-7a0913c7b904
 /careers/senior-agency-partner-manager--dach-_d1cbbfc3-2b11-456e-ac04-5b7ffcb7c540
 /careers/senior-agency-partner-manager--dach-_d0557dbb-c062-49b5-8116-483db5b361d7
