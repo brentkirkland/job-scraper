@@ -112,14 +112,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4913667"
   },
   {
-    "id": 4919498,
-    "title": "Staff API / Full Stack Engineer, Banking as a Service, Issuing",
-    "location": {
-      "name": "In-office: Seattle, New York, San Francisco, Chicago, Remote - US/Canada"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4919498"
-  },
-  {
     "id": 4921121,
     "title": "Product Manager, Data Services",
     "location": {
@@ -1912,14 +1904,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5346866"
   },
   {
-    "id": 5347276,
-    "title": "Technical Recruiter - Fixed Term",
-    "location": {
-      "name": "Remote"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5347276"
-  },
-  {
     "id": 5348979,
     "title": "Technical Program Manager, Financial Systems",
     "location": {
@@ -2080,6 +2064,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5366371"
   },
   {
+    "id": 5372296,
+    "title": "Staff API / Full Stack Engineer, Accounts",
+    "location": {
+      "name": "Remote, US or Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5372296"
+  },
+  {
     "id": 5372999,
     "title": "Sales Development Productivity Program Manager",
     "location": {
@@ -2118,5 +2110,13 @@
       "name": "London"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5379294"
+  },
+  {
+    "id": 5379552,
+    "title": "Integration Reliability Engineer, Reconciliation",
+    "location": {
+      "name": "Toronto"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5379552"
   }
 ]
