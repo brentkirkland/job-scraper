@@ -1,13 +1,5 @@
 [
   {
-    "id": 4968044,
-    "title": "Frontend Web Developer",
-    "location": {
-      "name": "UNITED STATES - Remote"
-    },
-    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=4968044"
-  },
-  {
     "id": 4971495,
     "title": "Developer Advocate (Unity SDK)",
     "location": {
@@ -22,14 +14,6 @@
       "name": "UNITED STATES - Remote"
     },
     "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=5013457"
-  },
-  {
-    "id": 5057464,
-    "title": " dApp Success Manager",
-    "location": {
-      "name": "EMEA - Remote, UNITED STATES - Remote"
-    },
-    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=5057464"
   },
   {
     "id": 5085224,
@@ -54,14 +38,6 @@
       "name": "UNITED STATES - Remote"
     },
     "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=5231389"
-  },
-  {
-    "id": 5241222,
-    "title": "Ecosystem Engagement Program Manager",
-    "location": {
-      "name": "CANADA - Remote, EMEA - Remote, LATAM - Remote, UNITED STATES - Remote"
-    },
-    "absolute_url": "https://consensys.net/open-roles/gh_jid?gh_jid=5241222"
   },
   {
     "id": 5295282,
