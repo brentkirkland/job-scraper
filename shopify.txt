@@ -1,9 +1,7 @@
 /careers/disciplines/engineering
-/careers/senior-creative-producer-_c481d138-b932-417d-8b47-62ce5fa3144a
 /careers/staff-marketing-designer--web-experiences-_b6a23dc7-3d3c-4d09-bda2-7443e57e20eb
 /careers/staff-product-designer-_6f22c869-10b2-41bb-92d1-0d1313b33c5d
 /careers/sr--product-manager--order_2738a24a-c51f-4883-82b8-bbff08ce513c
-/careers/revenue-enablement-lead--apac_a9f46b69-ec2b-4740-be60-cd5e4a847783
 /careers/lead--growth-monetization_68141a19-3687-44e0-93fe-0d2556f49291
 /careers/senior-lead--business-partner_62f5ed1b-7389-452d-86f0-6190ba34064b
 /careers/associate-general-counsel--legal-counsel--regulatory-_c6b7fb7b-e1c4-4c51-be35-e851901a7274
@@ -16,7 +14,6 @@
 /careers/partner-marketing-lead---partner-acquisition-_d57045f8-02f1-4c50-866c-adf9bcfb562a
 /careers/senior-partner-manager--wpp--emea_34d1079e-88a5-4495-b5d4-9dce1dc45a1e
 /careers/senior-partner-manager_5da6d158-e8d7-484c-ad9c-66aa4420d72b
-/careers/senior-merchant-success-manager--large-accounts--anz_eabf0b31-e4bf-444b-84e7-187d1a091a5f
 /careers/head-of-dach---eastern-europe-sales_8bcbfc28-f83b-40f2-b49b-bdb661994aca
 /careers/partner-manager-enterprise--france_f3bf930a-71d9-42d9-b910-7a0913c7b904
 /careers/partner-manager-enterprise--dach_661c8354-2120-46c2-b779-58e760128188
