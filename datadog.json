@@ -2096,6 +2096,14 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5385579/?gh_jid=5385579"
   },
   {
+    "id": 5388872,
+    "title": "Senior Product Designer - Profiling",
+    "location": {
+      "name": "New York, New York"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5388872/?gh_jid=5388872"
+  },
+  {
     "id": 5389860,
     "title": "Senior People Business Partner - New York",
     "location": {
@@ -2118,5 +2126,13 @@
       "name": "Paris, France"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5393624/?gh_jid=5393624"
+  },
+  {
+    "id": 5393627,
+    "title": "Strategic Account Executive (Nordics)",
+    "location": {
+      "name": "Stockholm, Sweden"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5393627/?gh_jid=5393627"
   }
 ]
