@@ -654,5 +654,45 @@
       "name": "Denver, CO"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5389745"
+  },
+  {
+    "id": 5390275,
+    "title": "Senior Manager, Product Management",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5390275"
+  },
+  {
+    "id": 5392512,
+    "title": "Senior Manager, Product Management",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5392512"
+  },
+  {
+    "id": 5392513,
+    "title": "Senior Manager, Product Management",
+    "location": {
+      "name": "Los Angeles, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5392513"
+  },
+  {
+    "id": 5392514,
+    "title": "Senior Manager, Product Management",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5392514"
+  },
+  {
+    "id": 5392518,
+    "title": "Senior Manager, Product Management",
+    "location": {
+      "name": "London, United Kingdom"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5392518"
   }
 ]
