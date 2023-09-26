@@ -64,6 +64,14 @@
     "absolute_url": "https://careers.datadoghq.com/detail/2297901/?gh_jid=2297901"
   },
   {
+    "id": 3448445,
+    "title": "Staff Software Engineer - Frontend",
+    "location": {
+      "name": "New York, New York, USA; Boston, Massachusetts, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/3448445/?gh_jid=3448445"
+  },
+  {
     "id": 3851927,
     "title": "Software Engineer - Distributed Systems",
     "location": {
@@ -219,7 +227,7 @@
     "id": 4732393,
     "title": "Software Engineer - Frontend",
     "location": {
-      "name": "New York, New York, USA"
+      "name": "New York, New York, USA; Boston, Massachusetts, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4732393/?gh_jid=4732393"
   },
