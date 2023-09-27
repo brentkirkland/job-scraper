@@ -56,14 +56,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4805841"
   },
   {
-    "id": 4835086,
-    "title": "Software Engineer, Test Infrastructure",
-    "location": {
-      "name": "Dublin, IE; Berlin, GE"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4835086"
-  },
-  {
     "id": 4854828,
     "title": "Engineering Manager, Core Infrastructure ",
     "location": {
@@ -1600,14 +1592,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5319762"
   },
   {
-    "id": 5321024,
-    "title": "Infrastructure Engineer, Developer Infrastructure, Python",
-    "location": {
-      "name": "Dublin, Ireland"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5321024"
-  },
-  {
     "id": 5322217,
     "title": "Product Counsel (Payments)",
     "location": {
@@ -2038,5 +2022,13 @@
       "name": "Chicago, IL"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5396141"
+  },
+  {
+    "id": 5397770,
+    "title": "Marketing Copywriter",
+    "location": {
+      "name": "US"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5397770"
   }
 ]
