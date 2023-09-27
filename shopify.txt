@@ -3,6 +3,7 @@
 /careers/staff-marketing-designer--web-experiences-_b6a23dc7-3d3c-4d09-bda2-7443e57e20eb
 /careers/staff-product-designer-_6f22c869-10b2-41bb-92d1-0d1313b33c5d
 /careers/sr--product-manager--order_2738a24a-c51f-4883-82b8-bbff08ce513c
+/careers/launch-engineering-operations-lead_05792588-512b-45e4-9a85-592e45a2a71d
 /careers/revenue-enablement-lead--apac_a9f46b69-ec2b-4740-be60-cd5e4a847783
 /careers/lead--growth-monetization_68141a19-3687-44e0-93fe-0d2556f49291
 /careers/senior-lead--business-partner_62f5ed1b-7389-452d-86f0-6190ba34064b
@@ -15,8 +16,9 @@
 /careers/content-manager--bilingual-german-_48f44a6a-7385-43cf-96a5-f7a36c95eef9
 /careers/content-manager--apac_01acf78c-5199-46e0-a2b2-0ea036987194
 /careers/partner-marketing-lead---partner-acquisition-_d57045f8-02f1-4c50-866c-adf9bcfb562a
-/careers/senior-partner-manager--wpp--emea_34d1079e-88a5-4495-b5d4-9dce1dc45a1e
+/careers/senior-partner-manager--emea_34d1079e-88a5-4495-b5d4-9dce1dc45a1e
 /careers/senior-partner-manager_5da6d158-e8d7-484c-ad9c-66aa4420d72b
+/careers/customer-success-manager--sea_c581c8ac-19d4-42f1-9ddc-26f5bfc4ea07
 /careers/sales-coach_a43b3b2f-91de-4930-8057-22113438e846
 /careers/product-consultant---west-north-america_4fa8800a-7f95-4fa7-805f-7fc13040f14a
 /careers/senior-sales-representative--large-accounts_51e9cbe3-74c1-43c3-9a70-4e089e20158d
