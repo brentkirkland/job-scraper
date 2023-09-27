@@ -280,14 +280,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4985937"
   },
   {
-    "id": 4987398,
-    "title": "Manager, Strategic Accounts, America",
-    "location": {
-      "name": "New York, San Francisco"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4987398"
-  },
-  {
     "id": 4990760,
     "title": "Head of Stripe Startups Program",
     "location": {
@@ -1958,6 +1950,14 @@
       "name": "Bengaluru"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5373671"
+  },
+  {
+    "id": 5375574,
+    "title": "Manager, Strategic Accounts, America",
+    "location": {
+      "name": "New York, Chicago, San Francisco, Seattle"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5375574"
   },
   {
     "id": 5375665,
