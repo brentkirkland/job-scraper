@@ -662,5 +662,21 @@
       "name": "London, United Kingdom"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5392518"
+  },
+  {
+    "id": 5397774,
+    "title": "Principal Software Engineer, Network Control and Optimization",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5397774"
+  },
+  {
+    "id": 5397854,
+    "title": "Principal Software Engineer, Network Control and Optimization",
+    "location": {
+      "name": "US (Remote)"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5397854"
   }
 ]
