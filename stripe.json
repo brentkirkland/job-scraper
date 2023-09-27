@@ -1480,14 +1480,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5311833"
   },
   {
-    "id": 5311835,
-    "title": "Manager, Platform Sales ",
-    "location": {
-      "name": "San Francisco, NYC"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5311835"
-  },
-  {
     "id": 5314442,
     "title": "Incident Response Manager",
     "location": {
@@ -1961,7 +1953,7 @@
   },
   {
     "id": 5375665,
-    "title": "Advisory Solutions Architect",
+    "title": "Solutions Architect",
     "location": {
       "name": "US-NYC"
     },
