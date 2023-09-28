@@ -344,14 +344,6 @@
     "absolute_url": "https://boards.greenhouse.io/figma/jobs/4945802004"
   },
   {
-    "id": 4945812004,
-    "title": "Data Scientist - Early Career (2024)",
-    "location": {
-      "name": "San Francisco, CA • New York, NY • United States"
-    },
-    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4945812004"
-  },
-  {
     "id": 4945819004,
     "title": "Product Design - Early Career (2024) ",
     "location": {
@@ -526,5 +518,13 @@
       "name": "San Francisco, CA • New York, NY • United States"
     },
     "absolute_url": "https://boards.greenhouse.io/figma/jobs/4981375004"
+  },
+  {
+    "id": 4985943004,
+    "title": "Business Data Scientist - Early Career (2024)",
+    "location": {
+      "name": "San Francisco, CA • New York, NY • United States"
+    },
+    "absolute_url": "https://boards.greenhouse.io/figma/jobs/4985943004"
   }
 ]
