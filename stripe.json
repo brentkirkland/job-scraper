@@ -1840,6 +1840,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5372999"
   },
   {
+    "id": 5373051,
+    "title": "Staff Engineer, Billing, Growth Engineering",
+    "location": {
+      "name": "US or Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5373051"
+  },
+  {
     "id": 5373671,
     "title": "Financial Crimes Operations Associate, Sanctions",
     "location": {
@@ -1902,6 +1910,14 @@
       "name": "Remote - US"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5382084"
+  },
+  {
+    "id": 5383053,
+    "title": "Backend Engineer, Connect",
+    "location": {
+      "name": "Toronto"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5383053"
   },
   {
     "id": 5383261,
