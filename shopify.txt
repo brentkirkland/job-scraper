@@ -2,6 +2,7 @@
 /careers/senior-creative-producer-_c481d138-b932-417d-8b47-62ce5fa3144a
 /careers/staff-marketing-designer--web-experiences-_b6a23dc7-3d3c-4d09-bda2-7443e57e20eb
 /careers/staff-product-designer-_6f22c869-10b2-41bb-92d1-0d1313b33c5d
+/careers/technical-product-lead--build_91f0af03-0cfb-4d1f-af2e-530b0953ea74
 /careers/launch-engineering-operations-lead_05792588-512b-45e4-9a85-592e45a2a71d
 /careers/revenue-enablement-lead--apac_a9f46b69-ec2b-4740-be60-cd5e4a847783
 /careers/lead--growth-monetization_68141a19-3687-44e0-93fe-0d2556f49291
