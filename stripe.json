@@ -680,6 +680,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5139213"
   },
   {
+    "id": 5139315,
+    "title": "Staff Engineer, Payment Conversion, (Optimization / Applied Machine Learning)",
+    "location": {
+      "name": "US or Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5139315"
+  },
+  {
     "id": 5141857,
     "title": "Head of Japan Marketing",
     "location": {
@@ -1022,14 +1030,6 @@
       "name": "Bengaluru"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5262962"
-  },
-  {
-    "id": 5264664,
-    "title": "Brand and Marketing Designer",
-    "location": {
-      "name": "Canada"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5264664"
   },
   {
     "id": 5264903,
@@ -2022,5 +2022,13 @@
       "name": "NYC, SEA, SF, CHI, US-Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5402194"
+  },
+  {
+    "id": 5404703,
+    "title": "Senior Staff Engineer, Payment Conversion, (Optimization / Applied Machine Learning)",
+    "location": {
+      "name": "US or Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5404703"
   }
 ]
