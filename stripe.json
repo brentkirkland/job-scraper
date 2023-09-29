@@ -1024,14 +1024,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5264664"
   },
   {
-    "id": 5264750,
-    "title": "Security Operations Analyst",
-    "location": {
-      "name": "Singapore"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5264750"
-  },
-  {
     "id": 5264903,
     "title": "Brand Copywriter",
     "location": {
@@ -1238,14 +1230,6 @@
       "name": "Mexico City"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5299147"
-  },
-  {
-    "id": 5299149,
-    "title": "Collections Manager",
-    "location": {
-      "name": "Mexico City"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5299149"
   },
   {
     "id": 5300142,
@@ -1678,6 +1662,14 @@
       "name": "Bangalore "
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5346866"
+  },
+  {
+    "id": 5347276,
+    "title": "Technical Recruiter - Fixed Term",
+    "location": {
+      "name": "Remote"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5347276"
   },
   {
     "id": 5349237,
