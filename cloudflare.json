@@ -552,6 +552,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4934478?gh_jid=4934478"
   },
   {
+    "id": 4945500,
+    "title": "Senior Software Engineer - Zero Trust Clients",
+    "location": {
+      "name": "Austin or Remote US"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4945500?gh_jid=4945500"
+  },
+  {
     "id": 4950327,
     "title": "Partner Solutions Engineer - EMEA",
     "location": {
@@ -2030,6 +2038,22 @@
       "name": "London or Remote UK"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5379462?gh_jid=5379462"
+  },
+  {
+    "id": 5379592,
+    "title": "Software Engineer - Zero Trust Clients",
+    "location": {
+      "name": "Calgary, AB"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5379592?gh_jid=5379592"
+  },
+  {
+    "id": 5379595,
+    "title": "Software Engineer - Zero Trust Clients",
+    "location": {
+      "name": "Montreal, QC"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5379595?gh_jid=5379595"
   },
   {
     "id": 5380661,
