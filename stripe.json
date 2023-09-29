@@ -1136,14 +1136,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5285595"
   },
   {
-    "id": 5285690,
-    "title": "Product Communications: Core Products",
-    "location": {
-      "name": "SF, NYC"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5285690"
-  },
-  {
     "id": 5288133,
     "title": "Campaigns Manager",
     "location": {
@@ -1366,6 +1358,14 @@
       "name": "Dublin "
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5314442"
+  },
+  {
+    "id": 5314523,
+    "title": "Developer Evangelist, Developer Relations",
+    "location": {
+      "name": "United States, Canada, EMEA"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5314523"
   },
   {
     "id": 5315436,
