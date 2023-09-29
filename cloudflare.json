@@ -1768,14 +1768,6 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5361770?gh_jid=5361770"
   },
   {
-    "id": 5361862,
-    "title": "Billing Engineering Manager",
-    "location": {
-      "name": "Remote US"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5361862?gh_jid=5361862"
-  },
-  {
     "id": 5361884,
     "title": "Capacity Planning Manager",
     "location": {
@@ -2166,6 +2158,14 @@
       "name": "London, UK"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5396810?gh_jid=5396810"
+  },
+  {
+    "id": 5396840,
+    "title": "Engagement Manager - Professional Services",
+    "location": {
+      "name": "Lisbon, Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5396840?gh_jid=5396840"
   },
   {
     "id": 5397716,
