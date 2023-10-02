@@ -16,14 +16,6 @@
     "absolute_url": "https://consensys.io/open-roles/5013457?gh_jid=5013457"
   },
   {
-    "id": 5085224,
-    "title": "Senior Software Engineer (Confirmations - System)",
-    "location": {
-      "name": "EMEA - Remote"
-    },
-    "absolute_url": "https://consensys.io/open-roles/5085224?gh_jid=5085224"
-  },
-  {
     "id": 5128045,
     "title": "Global Head of Communications",
     "location": {
@@ -48,22 +40,6 @@
     "absolute_url": "https://consensys.io/open-roles/5295282?gh_jid=5295282"
   },
   {
-    "id": 5326206,
-    "title": "DevOps Engineer",
-    "location": {
-      "name": "EMEA - Remote, UNITED STATES - Remote"
-    },
-    "absolute_url": "https://consensys.io/open-roles/5326206?gh_jid=5326206"
-  },
-  {
-    "id": 5332319,
-    "title": "Senior Product Marketing Manager, Snaps",
-    "location": {
-      "name": "UNITED STATES - Remote"
-    },
-    "absolute_url": "https://consensys.io/open-roles/5332319?gh_jid=5332319"
-  },
-  {
     "id": 5337208,
     "title": "Privacy Counsel ",
     "location": {
@@ -86,21 +62,5 @@
       "name": "CANADA - Remote, EMEA - Remote, LATAM - Remote, UNITED STATES - Remote"
     },
     "absolute_url": "https://consensys.io/open-roles/5357597?gh_jid=5357597"
-  },
-  {
-    "id": 5359473,
-    "title": "Community Support Manager",
-    "location": {
-      "name": "UNITED STATES - Remote"
-    },
-    "absolute_url": "https://consensys.io/open-roles/5359473?gh_jid=5359473"
-  },
-  {
-    "id": 5376825,
-    "title": "Senior Full Stack Enablement Engineer",
-    "location": {
-      "name": "APAC - Remote, CANADA - Remote, EMEA - Remote, LATAM - Remote, UNITED STATES - Remote"
-    },
-    "absolute_url": "https://consensys.io/open-roles/5376825?gh_jid=5376825"
   }
 ]
