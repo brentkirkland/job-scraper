@@ -1,12 +1,15 @@
 /careers/disciplines/engineering
+/careers/senior-creative-producer-_c481d138-b932-417d-8b47-62ce5fa3144a
 /careers/staff-marketing-designer--web-experiences-_b6a23dc7-3d3c-4d09-bda2-7443e57e20eb
 /careers/technical-product-lead--build_91f0af03-0cfb-4d1f-af2e-530b0953ea74
 /careers/launch-engineering-operations-lead_05792588-512b-45e4-9a85-592e45a2a71d
+/careers/revenue-enablement-lead--apac_a9f46b69-ec2b-4740-be60-cd5e4a847783
 /careers/lead--growth-monetization_68141a19-3687-44e0-93fe-0d2556f49291
 /careers/senior-technical-program-manager_49624309-9e48-4020-86bb-eaa02207744e
 /careers/senior-lead--business-partner_62f5ed1b-7389-452d-86f0-6190ba34064b
 /careers/director-of-litigation_bb95f278-b115-43e3-a75f-1df152ec32f5
 /careers/associate-general-counsel--legal-counsel--regulatory-_c6b7fb7b-e1c4-4c51-be35-e851901a7274
+/careers/creative-operations-lead_f777f662-5266-44d6-923c-aeb033677477
 /careers/lifecycle-marketing-lead_1fa6b293-6749-46b6-8cc4-56372bc0a5e8
 /careers/regional-marketing-manager--large-accounts--apac_82694c0b-e05e-48aa-879f-052643f33599
 /careers/senior-partner-marketing-manager_941b27f9-8b75-4378-aa08-c295bbda522c
@@ -24,6 +27,7 @@
 /careers/customer-success-manager--sea_c581c8ac-19d4-42f1-9ddc-26f5bfc4ea07
 /careers/sales-coach_a43b3b2f-91de-4930-8057-22113438e846
 /careers/senior-sales-representative--large-accounts_51e9cbe3-74c1-43c3-9a70-4e089e20158d
+/careers/sales-representative--retail-_b8c483e2-155b-413f-ab68-6479f847806b
 /careers/partner-manager-enterprise--france_f3bf930a-71d9-42d9-b910-7a0913c7b904
 /careers/partner-manager-enterprise--dach_661c8354-2120-46c2-b779-58e760128188
 /careers/partner-manager-enterprise--dach-_7135078a-5100-4131-8c5d-c1579c1b5ba6
@@ -32,6 +36,7 @@
 /careers/pricing-analyst-_4ad64d71-31ef-448d-9ff8-7031e47ac527
 /careers/staff-solutions-engineer-dach_7480b38d-ae43-490c-ad7b-e68fe6093661
 /careers/account-executive---mid-market---bilingual-italian_4796c688-11b6-4dbc-b1b1-84cb469ece1d
+/careers/senior-enterprise-sales-representative-_c6dc02dd-d8a4-4d18-aaa6-3cb022e538be
 /careers/senior-launch-engineer--japan_d1f86d3e-dbb4-4819-9b43-032d93581430
 /careers/enterprise-account-executive-france---shopify-plus_b342d4dc-df12-4258-af5c-af05c1154e72
 /careers/business-development-representative---outbound---fluent-german_89e0922f-459b-44d2-b37a-e1af3087e9f7
