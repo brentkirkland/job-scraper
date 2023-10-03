@@ -520,14 +520,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5035619/?gh_jid=5035619"
   },
   {
-    "id": 5047503,
-    "title": "Workforce Management Program Manager",
-    "location": {
-      "name": "New York, New York, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/5047503/?gh_jid=5047503"
-  },
-  {
     "id": 5049733,
     "title": "Senior Software Engineer - Frontend",
     "location": {
@@ -878,14 +870,6 @@
       "name": "San Francisco, California, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5168316/?gh_jid=5168316"
-  },
-  {
-    "id": 5168584,
-    "title": "Workforce Management Program Manager",
-    "location": {
-      "name": "San Francisco, California, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/5168584/?gh_jid=5168584"
   },
   {
     "id": 5170119,
@@ -2070,6 +2054,14 @@
       "name": "Dublin, Ireland"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5401027/?gh_jid=5401027"
+  },
+  {
+    "id": 5402357,
+    "title": "Senior Recruiter (APAC)",
+    "location": {
+      "name": "Tokyo, Japan "
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5402357/?gh_jid=5402357"
   },
   {
     "id": 5402370,
