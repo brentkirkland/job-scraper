@@ -371,7 +371,7 @@
     "id": 4991248,
     "title": "Enterprise IT Technician",
     "location": {
-      "name": "Paris, France; Dublin, Ireland"
+      "name": "Paris, France;"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/4991248/?gh_jid=4991248"
   },
@@ -2064,6 +2064,22 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5395976/?gh_jid=5395976"
   },
   {
+    "id": 5401027,
+    "title": "Enterprise IT Technician",
+    "location": {
+      "name": "Dublin, Ireland"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5401027/?gh_jid=5401027"
+  },
+  {
+    "id": 5402370,
+    "title": "Senior Cloud Engineer",
+    "location": {
+      "name": "Paris, France; Madrid, Spain; Grenoble, France; Lyon, France; Nantes, France; Montpellier, France; Sophia Antipolis, France; Bordeaux, France"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5402370/?gh_jid=5402370"
+  },
+  {
     "id": 5402395,
     "title": "Software Engineer (Frontend) - Developer Experience",
     "location": {
@@ -2078,6 +2094,14 @@
       "name": "Madrid, Spain"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5402396/?gh_jid=5402396"
+  },
+  {
+    "id": 5402848,
+    "title": "Staff Software Engineer (Backend) - Alerting",
+    "location": {
+      "name": "Paris, France"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5402848/?gh_jid=5402848"
   },
   {
     "id": 5407462,
