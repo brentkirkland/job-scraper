@@ -944,6 +944,22 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5136977?gh_jid=5136977"
   },
   {
+    "id": 5143168,
+    "title": "EMEA Marketing & Events Manager",
+    "location": {
+      "name": "Remote Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5143168?gh_jid=5143168"
+  },
+  {
+    "id": 5143186,
+    "title": "EMEA Marketing & Events Manager",
+    "location": {
+      "name": "Lisbon, Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5143186?gh_jid=5143186"
+  },
+  {
     "id": 5148743,
     "title": "Manager, Professional Services",
     "location": {
@@ -2246,5 +2262,13 @@
       "name": "London, UK"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5397737?gh_jid=5397737"
+  },
+  {
+    "id": 5410129,
+    "title": "EMEA Marketing & Events Manager",
+    "location": {
+      "name": "London or Remote UK"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5410129?gh_jid=5410129"
   }
 ]
