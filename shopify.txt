@@ -1,5 +1,4 @@
 /careers/disciplines/engineering
-/careers/staff-marketing-designer--web-experiences-_b6a23dc7-3d3c-4d09-bda2-7443e57e20eb
 /careers/revenue-enablement-lead--apac_a9f46b69-ec2b-4740-be60-cd5e4a847783
 /careers/launch-engineering-operations-lead_05792588-512b-45e4-9a85-592e45a2a71d
 /careers/senior-technical-program-manager_49624309-9e48-4020-86bb-eaa02207744e
