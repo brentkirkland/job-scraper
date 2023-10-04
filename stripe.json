@@ -136,14 +136,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4937602"
   },
   {
-    "id": 4943440,
-    "title": "Software Engineer, Observability",
-    "location": {
-      "name": "US"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4943440"
-  },
-  {
     "id": 4946823,
     "title": "Integration Reliability Engineer, Technical Operations EMEA",
     "location": {
@@ -622,6 +614,14 @@
       "name": "EMEA"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5131547"
+  },
+  {
+    "id": 5132703,
+    "title": "Data Analyst, Risk User Experience",
+    "location": {
+      "name": "Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5132703"
   },
   {
     "id": 5132988,
