@@ -3,7 +3,6 @@
 /careers/launch-engineering-operations-lead_05792588-512b-45e4-9a85-592e45a2a71d
 /careers/senior-technical-program-manager_49624309-9e48-4020-86bb-eaa02207744e
 /careers/senior-lead--business-partner_62f5ed1b-7389-452d-86f0-6190ba34064b
-/careers/director-of-litigation_bb95f278-b115-43e3-a75f-1df152ec32f5
 /careers/associate-general-counsel--commercial-revenue-legal-services-_ba071b53-3d9d-43cb-b343-dc4fcca29478
 /careers/senior-financial-analyst_1f180ab7-280c-4a32-aadb-9d73572b3d55
 /careers/associate-general-counsel--legal-counsel--regulatory-_c6b7fb7b-e1c4-4c51-be35-e851901a7274
@@ -24,6 +23,7 @@
 /careers/senior-merchant-success-manager--large-accounts--anz_eabf0b31-e4bf-444b-84e7-187d1a091a5f
 /careers/customer-success-manager--sea_c581c8ac-19d4-42f1-9ddc-26f5bfc4ea07
 /careers/sales-coach_a43b3b2f-91de-4930-8057-22113438e846
+/careers/senior-sales-representative--large-accounts_51e9cbe3-74c1-43c3-9a70-4e089e20158d
 /careers/partner-manager-enterprise--france_f3bf930a-71d9-42d9-b910-7a0913c7b904
 /careers/partner-manager-enterprise--dach_661c8354-2120-46c2-b779-58e760128188
 /careers/partner-manager-enterprise--dach-_7135078a-5100-4131-8c5d-c1579c1b5ba6
