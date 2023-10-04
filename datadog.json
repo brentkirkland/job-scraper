@@ -1992,14 +1992,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5390676/?gh_jid=5390676"
   },
   {
-    "id": 5391354,
-    "title": "Major Account Manager (DACH)",
-    "location": {
-      "name": "Remote, Germany"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/5391354/?gh_jid=5391354"
-  },
-  {
     "id": 5393624,
     "title": "Staff Software Engineer (Backend) - APM Distributed Traces",
     "location": {
@@ -2102,5 +2094,13 @@
       "name": "Madrid, Spain"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5409843/?gh_jid=5409843"
+  },
+  {
+    "id": 5412887,
+    "title": "Major Account Manager (DACH)",
+    "location": {
+      "name": "Remote, Germany"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5412887/?gh_jid=5412887"
   }
 ]
