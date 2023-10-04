@@ -5,7 +5,6 @@
 /careers/senior-lead--business-partner_62f5ed1b-7389-452d-86f0-6190ba34064b
 /careers/associate-general-counsel--commercial-revenue-legal-services-_ba071b53-3d9d-43cb-b343-dc4fcca29478
 /careers/senior-financial-analyst_1f180ab7-280c-4a32-aadb-9d73572b3d55
-/careers/director-of-litigation_bb95f278-b115-43e3-a75f-1df152ec32f5
 /careers/associate-general-counsel--legal-counsel--regulatory-_c6b7fb7b-e1c4-4c51-be35-e851901a7274
 /careers/senior-writer-editor_18835bbb-3601-4689-a94e-80a8d55f20a2
 /careers/lifecycle-marketing-lead_1fa6b293-6749-46b6-8cc4-56372bc0a5e8
@@ -16,6 +15,7 @@
 /careers/partner-marketing-lead---partner-acquisition-_d57045f8-02f1-4c50-866c-adf9bcfb562a
 /careers/senior-partner-manager--emea_34d1079e-88a5-4495-b5d4-9dce1dc45a1e
 /careers/senior-partner-manager_5da6d158-e8d7-484c-ad9c-66aa4420d72b
+/careers/sales-representative--shopify-plus--sea_b0edbc94-d0bb-40f8-980b-fda66b7dfd93
 /careers/mid-market-account-executive---france_fa887200-301c-4d4d-a19e-8229a2d86144
 /careers/account-executive---cross-sell-mid-market---bilingual-german-_5d28c942-93e5-4f62-a9a7-d6d15e8a1210
 /careers/partner-solutions-engineer-dach_0f6e084e-6399-4702-99e0-c4948ace2ee1
