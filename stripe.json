@@ -1464,14 +1464,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5328520"
   },
   {
-    "id": 5328935,
-    "title": "Frontend Engineer, Elements",
-    "location": {
-      "name": "Chicago"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5328935"
-  },
-  {
     "id": 5328939,
     "title": "Android Engineer, Payments",
     "location": {
@@ -2030,5 +2022,13 @@
       "name": "San Francisco, Seattle "
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5409513"
+  },
+  {
+    "id": 5412569,
+    "title": "Machine Learning Engineer, Transaction Risk",
+    "location": {
+      "name": "N/A"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5412569"
   }
 ]
