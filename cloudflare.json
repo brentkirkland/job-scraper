@@ -1088,14 +1088,6 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5168890?gh_jid=5168890"
   },
   {
-    "id": 5171436,
-    "title": "Deploy at Scale Software Engineer",
-    "location": {
-      "name": "Austin or Remote US"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5171436?gh_jid=5171436"
-  },
-  {
     "id": 5176009,
     "title": "Partner Solutions Engineer - EMEA",
     "location": {
@@ -2302,6 +2294,14 @@
       "name": "London or Remote UK"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5410129?gh_jid=5410129"
+  },
+  {
+    "id": 5412289,
+    "title": "Systems Engineer - Zero Trust Connectivity",
+    "location": {
+      "name": "Austin or Remote US"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5412289?gh_jid=5412289"
   },
   {
     "id": 5414682,
