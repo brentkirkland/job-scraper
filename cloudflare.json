@@ -328,14 +328,6 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4699512?gh_jid=4699512"
   },
   {
-    "id": 4702432,
-    "title": "Infrastructure Systems Optimization Engineer",
-    "location": {
-      "name": "London or Remote UK"
-    },
-    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4702432?gh_jid=4702432"
-  },
-  {
     "id": 4717122,
     "title": "Distributed Systems Engineer - Cache",
     "location": {
@@ -726,6 +718,14 @@
       "name": "Houston, TX"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5024945?gh_jid=5024945"
+  },
+  {
+    "id": 5025094,
+    "title": "Account Executive, Digital Native - Emerging",
+    "location": {
+      "name": "Remote US"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5025094?gh_jid=5025094"
   },
   {
     "id": 5025564,
@@ -2286,5 +2286,13 @@
       "name": "Remote US"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5414682?gh_jid=5414682"
+  },
+  {
+    "id": 5416601,
+    "title": "Infrastructure Systems Optimization Engineer",
+    "location": {
+      "name": "Seattle, WA"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5416601?gh_jid=5416601"
   }
 ]
