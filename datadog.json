@@ -832,14 +832,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5168316/?gh_jid=5168316"
   },
   {
-    "id": 5170119,
-    "title": "Strategic Account Executive (Benelux)",
-    "location": {
-      "name": "Amsterdam, Netherlands"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/5170119/?gh_jid=5170119"
-  },
-  {
     "id": 5171870,
     "title": "Field Marketing Manager (UK/I)",
     "location": {
@@ -2102,5 +2094,13 @@
       "name": "Remote, London"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5413411/?gh_jid=5413411"
+  },
+  {
+    "id": 5413428,
+    "title": "Strategic Account Executive (Benelux)",
+    "location": {
+      "name": "Amsterdam, Netherlands"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5413428/?gh_jid=5413428"
   }
 ]
