@@ -1944,14 +1944,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5393624/?gh_jid=5393624"
   },
   {
-    "id": 5393627,
-    "title": "Strategic Account Executive (Nordics)",
-    "location": {
-      "name": "Stockholm, Sweden"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/5393627/?gh_jid=5393627"
-  },
-  {
     "id": 5395976,
     "title": "Senior Product Marketing Manager - Network Monitoring",
     "location": {
@@ -2102,5 +2094,13 @@
       "name": "Amsterdam, Netherlands"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5413428/?gh_jid=5413428"
+  },
+  {
+    "id": 5416234,
+    "title": "Strategic Account Executive (Nordics)",
+    "location": {
+      "name": "Stockholm, Sweden"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5416234/?gh_jid=5416234"
   }
 ]
