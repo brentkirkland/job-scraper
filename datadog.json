@@ -944,14 +944,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5227710/?gh_jid=5227710"
   },
   {
-    "id": 5229078,
-    "title": "Strategic Account Executive (Switzerland)",
-    "location": {
-      "name": "Remote - Switzerland"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/5229078/?gh_jid=5229078"
-  },
-  {
     "id": 5229107,
     "title": "Strategic Account Executive",
     "location": {
@@ -2102,5 +2094,13 @@
       "name": "Stockholm, Sweden"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5416234/?gh_jid=5416234"
+  },
+  {
+    "id": 5416261,
+    "title": "Strategic Account Executive (Switzerland)",
+    "location": {
+      "name": "Remote, Switzerland"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5416261/?gh_jid=5416261"
   }
 ]
