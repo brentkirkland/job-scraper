@@ -1,7 +1,6 @@
 /careers/disciplines/engineering
 /careers/revenue-enablement-lead--apac_a9f46b69-ec2b-4740-be60-cd5e4a847783
 /careers/launch-engineering-operations-lead_05792588-512b-45e4-9a85-592e45a2a71d
-/careers/senior-technical-program-manager_49624309-9e48-4020-86bb-eaa02207744e
 /careers/senior-lead--business-partner_62f5ed1b-7389-452d-86f0-6190ba34064b
 /careers/associate-general-counsel--commercial-revenue-legal-services-_ba071b53-3d9d-43cb-b343-dc4fcca29478
 /careers/senior-financial-analyst_1f180ab7-280c-4a32-aadb-9d73572b3d55
