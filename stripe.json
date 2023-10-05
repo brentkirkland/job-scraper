@@ -184,6 +184,22 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=4977145"
   },
   {
+    "id": 4977223,
+    "title": "Data Scientist, Growth",
+    "location": {
+      "name": "Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4977223"
+  },
+  {
+    "id": 4977225,
+    "title": "Data Analyst, Growth",
+    "location": {
+      "name": "Toronto, Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=4977225"
+  },
+  {
     "id": 4978826,
     "title": "Marketing Systems Administrator, Go-To-Market",
     "location": {
@@ -358,6 +374,14 @@
       "name": "US- Remote / Canada"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5046345"
+  },
+  {
+    "id": 5046428,
+    "title": "Technical Lead, Data Science",
+    "location": {
+      "name": "North America"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5046428"
   },
   {
     "id": 5046446,
@@ -870,6 +894,14 @@
       "name": "London, Dublin"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5221020"
+  },
+  {
+    "id": 5224815,
+    "title": "Data Analyst, Growth",
+    "location": {
+      "name": "US Remote"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5224815"
   },
   {
     "id": 5225138,
