@@ -8,6 +8,7 @@
 /careers/content-manager--bilingual-german-_48f44a6a-7385-43cf-96a5-f7a36c95eef9
 /careers/senior-partner-manager--emea_34d1079e-88a5-4495-b5d4-9dce1dc45a1e
 /careers/senior-partner-manager_5da6d158-e8d7-484c-ad9c-66aa4420d72b
+/careers/account-executive--large-accounts--pst-timezone-_038848b1-94d6-45cb-8aef-4b8a94913be6
 /careers/sales-development-representative_3ee18daa-214a-47cc-893f-1e318cfaca06
 /careers/account-executive--large-accounts_7e3b27a3-eee8-400f-b7c7-35ee48790e94
 /careers/sales-representative--shopify-plus--gcr_b0edbc94-d0bb-40f8-980b-fda66b7dfd93
