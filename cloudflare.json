@@ -560,6 +560,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4934478?gh_jid=4934478"
   },
   {
+    "id": 4945500,
+    "title": "Software Engineer (Mid-level) - Zero Trust Client (low-level OS, VPN, networking)",
+    "location": {
+      "name": "Austin or Remote US"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/4945500?gh_jid=4945500"
+  },
+  {
     "id": 4950327,
     "title": "Partner Solutions Engineer - EMEA",
     "location": {
@@ -2081,7 +2089,7 @@
   },
   {
     "id": 5379592,
-    "title": "Software Engineer - Zero Trust Desktop Client",
+    "title": "Software Engineer (Mid-level) - Zero Trust Client (low-level OS, VPN, networking)",
     "location": {
       "name": "Calgary, AB"
     },
@@ -2089,7 +2097,7 @@
   },
   {
     "id": 5379595,
-    "title": "Software Engineer - Zero Trust Desktop Client",
+    "title": "Software Engineer (Mid-level) - Zero Trust Client (low-level OS, VPN, networking)",
     "location": {
       "name": "Montreal, QC"
     },
