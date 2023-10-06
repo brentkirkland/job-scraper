@@ -10,6 +10,8 @@
 /careers/manager--education-content_d930109b-9eeb-4401-989e-0e68835cb5ca
 /careers/senior-partner-manager--emea_34d1079e-88a5-4495-b5d4-9dce1dc45a1e
 /careers/senior-partner-manager_5da6d158-e8d7-484c-ad9c-66aa4420d72b
+/careers/revenue-operations-specialist---process-and-tooling_cee3f975-051e-45d7-9041-03c36bffe8cc
+/careers/senior-demo-engineer_430572e7-61d3-422f-8827-6ba9d36ecfc9
 /careers/senior-solutions-engineer--mid-market_41ff5c88-285e-4e44-be94-44100746f0fd
 /careers/lead--instructional-design-_d1ac22a3-2295-40fd-9ab3-0d8a3d337900
 /careers/senior-solutions-engineer--enterprise_b08c4a28-7e3b-4718-8f50-78fb005fccda
