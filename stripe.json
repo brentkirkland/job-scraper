@@ -648,14 +648,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5131547"
   },
   {
-    "id": 5132703,
-    "title": "Data Analyst, Risk User Experience",
-    "location": {
-      "name": "Canada"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5132703"
-  },
-  {
     "id": 5132988,
     "title": "Backend / API Engineer, Banking as a Service",
     "location": {
@@ -2150,5 +2142,13 @@
       "name": "Seattle, San Francisco "
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5424365"
+  },
+  {
+    "id": 5424929,
+    "title": "Software Engineer, Service Frameworks",
+    "location": {
+      "name": "San Francisco, Seattle, Toronto"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5424929"
   }
 ]
