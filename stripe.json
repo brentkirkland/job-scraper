@@ -920,14 +920,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5224815"
   },
   {
-    "id": 5225138,
-    "title": "Account Executive, Startups Existing Business - Italian Speaking",
-    "location": {
-      "name": "Dublin"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5225138"
-  },
-  {
     "id": 5225671,
     "title": "Account Executive, Startups Existing Business - Spanish Speaking",
     "location": {
@@ -2102,6 +2094,14 @@
       "name": "Bucharest"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5399344"
+  },
+  {
+    "id": 5399742,
+    "title": "Account Executive, Enterprise",
+    "location": {
+      "name": "London, UK"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5399742"
   },
   {
     "id": 5402194,
