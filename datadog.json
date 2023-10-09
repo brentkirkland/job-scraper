@@ -2086,5 +2086,21 @@
       "name": "New York, New York, USA"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5416538/?gh_jid=5416538"
+  },
+  {
+    "id": 5423740,
+    "title": "Manager I, Engineering - Fabric Gateways",
+    "location": {
+      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5423740/?gh_jid=5423740"
+  },
+  {
+    "id": 5423754,
+    "title": "Manager I, Engineering - Capacity Management",
+    "location": {
+      "name": "Paris, France; Madrid, Spain; Lisbon, Portugal"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5423754/?gh_jid=5423754"
   }
 ]
