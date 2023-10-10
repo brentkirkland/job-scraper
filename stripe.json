@@ -576,14 +576,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5114866"
   },
   {
-    "id": 5122209,
-    "title": "Internal Audit Data Analytics Lead",
-    "location": {
-      "name": "San Francisco, Seattle, New York, or Remote"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5122209"
-  },
-  {
     "id": 5122631,
     "title": "Engineering Manager of Managers, Web Presence and Platform",
     "location": {
@@ -934,6 +926,14 @@
       "name": "Dublin, Ireland"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5243801"
+  },
+  {
+    "id": 5245863,
+    "title": "Brand Risk Strategist ",
+    "location": {
+      "name": "US-Remote"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5245863"
   },
   {
     "id": 5251393,
