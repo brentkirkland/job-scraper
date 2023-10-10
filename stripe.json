@@ -496,14 +496,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5094054"
   },
   {
-    "id": 5097622,
-    "title": "Recruiter",
-    "location": {
-      "name": "Mexico City"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5097622"
-  },
-  {
     "id": 5099202,
     "title": "Head of Design, Consumer Products ",
     "location": {
@@ -2126,6 +2118,14 @@
       "name": "Bangalore, India "
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5415499"
+  },
+  {
+    "id": 5416858,
+    "title": "Solutions Architect",
+    "location": {
+      "name": "Seattle, WA"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5416858"
   },
   {
     "id": 5417208,
