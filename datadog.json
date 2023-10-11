@@ -1137,7 +1137,7 @@
   },
   {
     "id": 5298164,
-    "title": "Senior Technical Solutions Operations Engineer - San Francisco",
+    "title": "Technical Solutions Operations Engineer - San Francisco",
     "location": {
       "name": "San Francisco, California, USA"
     },
@@ -1361,7 +1361,7 @@
   },
   {
     "id": 5329857,
-    "title": "Senior Technical Solutions Operations Engineer - New York",
+    "title": "Technical Solutions Operations Engineer - New York",
     "location": {
       "name": "New York, New York USA"
     },
@@ -1457,7 +1457,7 @@
   },
   {
     "id": 5353308,
-    "title": "Technical Solutions Program Manager II",
+    "title": "Technical Solutions Program Manager",
     "location": {
       "name": "San Francisco, California, USA"
     },
@@ -1689,7 +1689,7 @@
   },
   {
     "id": 5374795,
-    "title": "Technical Solutions Program Manager II",
+    "title": "Technical Solutions Program Manager",
     "location": {
       "name": "Boston, Massachusetts, USA"
     },
@@ -1697,7 +1697,7 @@
   },
   {
     "id": 5374797,
-    "title": "Technical Solutions Program Manager II",
+    "title": "Technical Solutions Program Manager",
     "location": {
       "name": "New York, New York, USA"
     },
@@ -2038,6 +2038,14 @@
       "name": "Dublin"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5415601/?gh_jid=5415601"
+  },
+  {
+    "id": 5415701,
+    "title": "Manager, Customer Success - Boston",
+    "location": {
+      "name": "Boston, Massachusetts, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5415701/?gh_jid=5415701"
   },
   {
     "id": 5415741,
