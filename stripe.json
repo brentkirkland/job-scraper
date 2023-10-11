@@ -2048,6 +2048,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5402194"
   },
   {
+    "id": 5403149,
+    "title": "Account Executive, Commercial",
+    "location": {
+      "name": "Chicago"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5403149"
+  },
+  {
     "id": 5403757,
     "title": "Solutions Architect (French speaking)",
     "location": {
@@ -2190,5 +2198,21 @@
       "name": "San Francisco, Seattle, New York,  Chicago, Remote in US"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5426488"
+  },
+  {
+    "id": 5430716,
+    "title": "Sales Development Representative, Nordics",
+    "location": {
+      "name": "Dublin"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5430716"
+  },
+  {
+    "id": 5430757,
+    "title": "Sales Development Representative, UAE",
+    "location": {
+      "name": "Dublin"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5430757"
   }
 ]
