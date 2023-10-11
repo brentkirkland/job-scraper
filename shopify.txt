@@ -27,7 +27,6 @@
 /careers/account-executive--core-cross-sell_1ba052af-d518-47f1-b152-5880f66f1c7c
 /careers/account-executive--large-accounts_7e3b27a3-eee8-400f-b7c7-35ee48790e94
 /careers/sales-representative--shopify-plus--gcr_b0edbc94-d0bb-40f8-980b-fda66b7dfd93
-/careers/partner-manager--agency-acquisition--north-america_c2892661-278a-4eb4-87a9-1c41c67e7509
 /careers/mid-market-account-executive---france_fa887200-301c-4d4d-a19e-8229a2d86144
 /careers/account-executive---cross-sell-mid-market---bilingual-german-_5d28c942-93e5-4f62-a9a7-d6d15e8a1210
 /careers/partner-solutions-engineer-dach_0f6e084e-6399-4702-99e0-c4948ace2ee1
