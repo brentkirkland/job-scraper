@@ -12,7 +12,6 @@
 /careers/manager--education-content_d930109b-9eeb-4401-989e-0e68835cb5ca
 /careers/senior-partner-manager--emea_34d1079e-88a5-4495-b5d4-9dce1dc45a1e
 /careers/senior-partner-manager_5da6d158-e8d7-484c-ad9c-66aa4420d72b
-/careers/customer-success-manager--gcr_ea405b8d-868d-432b-b744-92b002b474de
 /careers/staff-demo-engineer-_430572e7-61d3-422f-8827-6ba9d36ecfc9
 /careers/sales-team-lead--large-accounts_efc70787-b5a6-4968-9c93-e6dd72ead13d
 /careers/sales-representative--retail-_b8c483e2-155b-413f-ab68-6479f847806b
