@@ -296,6 +296,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5010956"
   },
   {
+    "id": 5011504,
+    "title": "Engineering Manager, Data Transformation",
+    "location": {
+      "name": "US"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5011504"
+  },
+  {
     "id": 5017618,
     "title": "Software Engineer, Finance Engineering ",
     "location": {
@@ -598,14 +606,6 @@
       "name": "Bangalore, India"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5127766"
-  },
-  {
-    "id": 5130098,
-    "title": "Engineering Manager, Issuing",
-    "location": {
-      "name": "New York City"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5130098"
   },
   {
     "id": 5131547,
@@ -2190,6 +2190,14 @@
       "name": "LOCATION"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5426024"
+  },
+  {
+    "id": 5426311,
+    "title": "Customer Success Manager",
+    "location": {
+      "name": "SF, SEA, CHI, NYC"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5426311"
   },
   {
     "id": 5426488,
