@@ -616,14 +616,6 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5427144"
   },
   {
-    "id": 5427149,
-    "title": "SMB Account Executive",
-    "location": {
-      "name": "Denver, CO"
-    },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5427149"
-  },
-  {
     "id": 5427439,
     "title": "SMB Account Executive",
     "location": {
@@ -638,13 +630,5 @@
       "name": "Denver, CO"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5427442"
-  },
-  {
-    "id": 5427542,
-    "title": "SMB Account Executive",
-    "location": {
-      "name": "Denver, CO"
-    },
-    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5427542"
   }
 ]
