@@ -22,6 +22,9 @@
 /careers/solutions-engineer--mid-market-_41ff5c88-285e-4e44-be94-44100746f0fd
 /careers/revenue-operations-specialist---process-and-tooling_cee3f975-051e-45d7-9041-03c36bffe8cc
 /careers/lead--instructional-design-_d1ac22a3-2295-40fd-9ab3-0d8a3d337900
+/careers/account-executive--smb-cross-sell_33795470-c0c0-440d-8fce-72c0c9fe0434
+/careers/account-executive--mid-market-cross-sell_db2f4123-abfc-4430-b19f-be8a14f5dc12
+/careers/account-executive--core-cross-sell_1ba052af-d518-47f1-b152-5880f66f1c7c
 /careers/account-executive--large-accounts_7e3b27a3-eee8-400f-b7c7-35ee48790e94
 /careers/sales-representative--shopify-plus--gcr_b0edbc94-d0bb-40f8-980b-fda66b7dfd93
 /careers/mid-market-account-executive---france_fa887200-301c-4d4d-a19e-8229a2d86144
