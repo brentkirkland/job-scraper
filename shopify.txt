@@ -1,4 +1,6 @@
 /careers/disciplines/engineering
+/careers/senior-partner-operations-manager_85cb9766-3048-4c18-9eb0-c664d6efc9c1
+/careers/senior-partner-program-manager_c390623d-d592-4859-b069-2a00b76e5d2c
 /careers/solutions-architect--professional-services-_456f8170-bc37-4d8d-872b-a2a0d542d5cc
 /careers/technical-architect--web-development---professional-services-_87a76e10-0d80-4b24-99e8-3884542a7f88
 /careers/revenue-enablement-lead--apac_a9f46b69-ec2b-4740-be60-cd5e4a847783
@@ -7,6 +9,7 @@
 /careers/senior-education-program-manager_c97bdd62-55a0-4fe4-a180-ece3567d2c3a
 /careers/certifications-program-lead_6f95eb04-e805-4e00-9219-2d9292ad1fd3
 /careers/content-manager--bilingual-german-_48f44a6a-7385-43cf-96a5-f7a36c95eef9
+/careers/partner-growth-architect-_54c8893f-e7de-4b8a-b05b-0a9d235c0d33
 /careers/partner-sales-engineer--north-america--remote-_c5406961-fce3-4271-8639-df8a2be3ad10
 /careers/senior-lead--systems-integrator-partnerships-_71769e00-9174-4bce-994f-86fc01e70821
 /careers/partner-recruit--agency--north-america_7a329fac-3dc7-458e-a51d-ed58f8e1f7dd
@@ -15,6 +18,7 @@
 /careers/manager--education-content_d930109b-9eeb-4401-989e-0e68835cb5ca
 /careers/senior-partner-manager--emea_34d1079e-88a5-4495-b5d4-9dce1dc45a1e
 /careers/senior-partner-manager_5da6d158-e8d7-484c-ad9c-66aa4420d72b
+/careers/partner-solution-architect-_1417b43b-85de-4540-9368-0d874f97aa6d
 /careers/sales-lead--core-cross-sell_53e528b3-b20e-4b19-b4e5-aefe45452986
 /careers/account-executive--mid-market-cross-sell_db2f4123-abfc-4430-b19f-be8a14f5dc12
 /careers/account-executive--core-cross-sell_1ba052af-d518-47f1-b152-5880f66f1c7c
