@@ -288,6 +288,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5011504"
   },
   {
+    "id": 5011779,
+    "title": "Program Manager, Company Operations",
+    "location": {
+      "name": "US-Chicago, US-Remote"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5011779"
+  },
+  {
     "id": 5017618,
     "title": "Software Engineer, Finance Engineering ",
     "location": {
@@ -1638,14 +1646,6 @@
       "name": "Chicago, New York, San Francisco "
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5361838"
-  },
-  {
-    "id": 5363908,
-    "title": "Manager, Solutions Architecture",
-    "location": {
-      "name": "SEA, NYC, SF, CHI"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5363908"
   },
   {
     "id": 5364478,

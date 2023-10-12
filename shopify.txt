@@ -18,6 +18,7 @@
 /careers/manager--education-content_d930109b-9eeb-4401-989e-0e68835cb5ca
 /careers/senior-partner-manager--emea_34d1079e-88a5-4495-b5d4-9dce1dc45a1e
 /careers/senior-partner-manager_5da6d158-e8d7-484c-ad9c-66aa4420d72b
+/careers/lead--sales-tech---tooling-enablement_8c287ff9-e26e-4f81-a12f-ec017e97a2da
 /careers/partner-solution-architect-_1417b43b-85de-4540-9368-0d874f97aa6d
 /careers/sales-lead--core-cross-sell_53e528b3-b20e-4b19-b4e5-aefe45452986
 /careers/account-executive--mid-market-cross-sell_db2f4123-abfc-4430-b19f-be8a14f5dc12
