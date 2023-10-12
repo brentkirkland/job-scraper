@@ -7,6 +7,7 @@
 /careers/senior-education-program-manager_c97bdd62-55a0-4fe4-a180-ece3567d2c3a
 /careers/certifications-program-lead_6f95eb04-e805-4e00-9219-2d9292ad1fd3
 /careers/content-manager--bilingual-german-_48f44a6a-7385-43cf-96a5-f7a36c95eef9
+/careers/partner-sales-engineer--north-america--remote-_c5406961-fce3-4271-8639-df8a2be3ad10
 /careers/senior-lead--systems-integrator-partnerships-_71769e00-9174-4bce-994f-86fc01e70821
 /careers/partner-recruit--agency--north-america_7a329fac-3dc7-458e-a51d-ed58f8e1f7dd
 /careers/partner-development-manager--agency--north-america_2f77d415-8538-498d-a31f-3a416e53b0ee
@@ -21,7 +22,6 @@
 /careers/staff-demo-engineer-_430572e7-61d3-422f-8827-6ba9d36ecfc9
 /careers/customer-success-manager--gcr_ea405b8d-868d-432b-b744-92b002b474de
 /careers/sales-team-lead--large-accounts_efc70787-b5a6-4968-9c93-e6dd72ead13d
-/careers/sales-representative--retail-_b8c483e2-155b-413f-ab68-6479f847806b
 /careers/senior-implementation-consultant--gcr_0393849f-ead4-405b-87d5-e8540533b2db
 /careers/incubation-sales-executive---pacific-timezone-_038848b1-94d6-45cb-8aef-4b8a94913be6
 /careers/senior-solutions-engineer--enterprise-_b08c4a28-7e3b-4718-8f50-78fb005fccda
