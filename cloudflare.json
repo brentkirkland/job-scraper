@@ -337,7 +337,7 @@
   },
   {
     "id": 4790148,
-    "title": "Federal Field Account Executive - (Civillian)",
+    "title": "Federal Field Account Executive, Civilian",
     "location": {
       "name": "Washington, DC"
     },
@@ -345,7 +345,7 @@
   },
   {
     "id": 4790150,
-    "title": "Federal Field Account Executive (Civilian)",
+    "title": "Federal Field Account Executive, Civilian",
     "location": {
       "name": "Virginia"
     },
@@ -2278,6 +2278,14 @@
       "name": "Remote US"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5426757?gh_jid=5426757"
+  },
+  {
+    "id": 5426898,
+    "title": "Business Analyst (Lisbon)",
+    "location": {
+      "name": "Lisbon, Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5426898?gh_jid=5426898"
   },
   {
     "id": 5431341,
