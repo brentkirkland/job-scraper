@@ -1872,14 +1872,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5382442"
   },
   {
-    "id": 5383053,
-    "title": "Backend Engineer, Connect",
-    "location": {
-      "name": "Toronto"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5383053"
-  },
-  {
     "id": 5383261,
     "title": "Staff Software Engineer, Service Ecosystem Sustainability",
     "location": {
@@ -2238,5 +2230,13 @@
       "name": "Toronto"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5432596"
+  },
+  {
+    "id": 5432659,
+    "title": "Backend Engineer, Connect",
+    "location": {
+      "name": "Toronto, CA"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5432659"
   }
 ]
