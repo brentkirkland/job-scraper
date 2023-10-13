@@ -840,14 +840,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5222019/?gh_jid=5222019"
   },
   {
-    "id": 5227710,
-    "title": "Business Value Manager, EMEA",
-    "location": {
-      "name": "Amsterdam, Netherlands; London, United Kingdom; Paris, France"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/5227710/?gh_jid=5227710"
-  },
-  {
     "id": 5229107,
     "title": "Strategic Account Executive",
     "location": {
@@ -1864,6 +1856,54 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5402848/?gh_jid=5402848"
   },
   {
+    "id": 5403635,
+    "title": "Technical Account Manager 2 - US Northwest",
+    "location": {
+      "name": "California, USA, Remote"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5403635/?gh_jid=5403635"
+  },
+  {
+    "id": 5403641,
+    "title": "Technical Account Manager 2 - US Southeast",
+    "location": {
+      "name": "Atlanta, USA, Remote"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5403641/?gh_jid=5403641"
+  },
+  {
+    "id": 5403902,
+    "title": "Technical Account Manager 2 - US Northwest",
+    "location": {
+      "name": "Denver, USA, Remote"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5403902/?gh_jid=5403902"
+  },
+  {
+    "id": 5403911,
+    "title": "Technical Account Manager 2 - US Northwest",
+    "location": {
+      "name": "Washington, USA, Remote"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5403911/?gh_jid=5403911"
+  },
+  {
+    "id": 5403922,
+    "title": "Technical Account Manager 2 - US Northwest",
+    "location": {
+      "name": "Chicago, USA, Remote"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5403922/?gh_jid=5403922"
+  },
+  {
+    "id": 5403936,
+    "title": "Technical Account Manager 2 - US Northwest",
+    "location": {
+      "name": "Texas, USA, Remote"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5403936/?gh_jid=5403936"
+  },
+  {
     "id": 5404243,
     "title": "Strategic Account Executive (Illinois)",
     "location": {
@@ -1902,6 +1942,22 @@
       "name": "France, Remote; Spain, Remote; Portugal, Remote; Germany, Remote"
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5407462/?gh_jid=5407462"
+  },
+  {
+    "id": 5407606,
+    "title": "Technical Account Manager 2 - US Southeast",
+    "location": {
+      "name": "Washington DC, USA, Remote"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5407606/?gh_jid=5407606"
+  },
+  {
+    "id": 5407610,
+    "title": "Technical Account Manager 2 - US Southeast",
+    "location": {
+      "name": "Florida, USA, Remote"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5407610/?gh_jid=5407610"
   },
   {
     "id": 5408065,
