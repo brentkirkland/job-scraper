@@ -616,6 +616,14 @@
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5431371"
   },
   {
+    "id": 5431737,
+    "title": "Senior Software Engineer, UI - UX Platform (Product Enablement)",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5431737"
+  },
+  {
     "id": 5431830,
     "title": "Associate Brand Designer",
     "location": {
@@ -646,5 +654,13 @@
       "name": "Denver, CO"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5433753"
+  },
+  {
+    "id": 5436831,
+    "title": "Senior Software Engineer, UI - UX Platform (Product Enablement)",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5436831"
   }
 ]
