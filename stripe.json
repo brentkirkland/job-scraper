@@ -912,14 +912,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5251393"
   },
   {
-    "id": 5259707,
-    "title": "Field Marketing Manager - DACH",
-    "location": {
-      "name": "Germany "
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5259707"
-  },
-  {
     "id": 5261783,
     "title": "Fraud Strategist, EMEA & APAC",
     "location": {
@@ -2150,6 +2142,14 @@
       "name": "Seattle, San Francisco "
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5424365"
+  },
+  {
+    "id": 5424369,
+    "title": "Staff Engineer, Data Warehouse Analytics ",
+    "location": {
+      "name": "San Francisco, Seattle"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5424369"
   },
   {
     "id": 5424929,
