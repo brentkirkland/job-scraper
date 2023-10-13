@@ -2270,5 +2270,21 @@
       "name": "Dublin"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5435744"
+  },
+  {
+    "id": 5438017,
+    "title": "People Partner",
+    "location": {
+      "name": "Remote (US,Canada), SF, SEA, CHI, NYC"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5438017"
+  },
+  {
+    "id": 5438024,
+    "title": "People Specialist",
+    "location": {
+      "name": "CHI"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5438024"
   }
 ]
