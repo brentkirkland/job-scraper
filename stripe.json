@@ -320,6 +320,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5035024"
   },
   {
+    "id": 5037895,
+    "title": "Operations Associate, New Grad",
+    "location": {
+      "name": "MX - Mexico City"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5037895"
+  },
+  {
     "id": 5041472,
     "title": "Frontend Engineer, UI Platform - Barcelona",
     "location": {
@@ -590,6 +598,14 @@
       "name": "EMEA"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5131547"
+  },
+  {
+    "id": 5132703,
+    "title": "Data Analyst, Risk User Experience",
+    "location": {
+      "name": "Canada"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5132703"
   },
   {
     "id": 5132988,
