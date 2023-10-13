@@ -2222,5 +2222,13 @@
       "name": "Toronto, CA"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5432659"
+  },
+  {
+    "id": 5435744,
+    "title": "Software Engineer, Product",
+    "location": {
+      "name": "Dublin"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5435744"
   }
 ]
