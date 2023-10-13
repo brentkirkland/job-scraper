@@ -646,5 +646,29 @@
       "name": "Denver, CO"
     },
     "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5436831"
+  },
+  {
+    "id": 5437266,
+    "title": "Product Manager Observability",
+    "location": {
+      "name": "San Francisco, CA"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5437266"
+  },
+  {
+    "id": 5437572,
+    "title": "Product Manager Observability",
+    "location": {
+      "name": "Denver, CO"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5437572"
+  },
+  {
+    "id": 5437580,
+    "title": "Product Manager Observability",
+    "location": {
+      "name": "New York City, NY"
+    },
+    "absolute_url": "https://www.fastly.com/about/jobs/apply/?gh_jid=5437580"
   }
 ]
