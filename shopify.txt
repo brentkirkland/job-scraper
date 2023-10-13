@@ -34,6 +34,7 @@
 /careers/account-executive--core-cross-sell_1ba052af-d518-47f1-b152-5880f66f1c7c
 /careers/account-executive--smb-cross-sell_33795470-c0c0-440d-8fce-72c0c9fe0434
 /careers/customer-success-manager--gcr_ea405b8d-868d-432b-b744-92b002b474de
+/careers/sales-team-lead--large-accounts_efc70787-b5a6-4968-9c93-e6dd72ead13d
 /careers/senior-implementation-consultant--gcr_0393849f-ead4-405b-87d5-e8540533b2db
 /careers/incubation-sales-executive---pacific-timezone-_038848b1-94d6-45cb-8aef-4b8a94913be6
 /careers/senior-solutions-engineer--enterprise-_b08c4a28-7e3b-4718-8f50-78fb005fccda
