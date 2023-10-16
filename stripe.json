@@ -1760,14 +1760,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5375106"
   },
   {
-    "id": 5375189,
-    "title": "Frontend Engineer, Elements",
-    "location": {
-      "name": "Toronto"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5375189"
-  },
-  {
     "id": 5376047,
     "title": "Operations Manager, Stripe Delivery Center",
     "location": {
@@ -2110,6 +2102,14 @@
       "name": "Toronto, Chicago, US-Remote"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5417208"
+  },
+  {
+    "id": 5417439,
+    "title": "Frontend Engineer, Elements",
+    "location": {
+      "name": "Toronto"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5417439"
   },
   {
     "id": 5418521,
