@@ -712,14 +712,6 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5188063"
   },
   {
-    "id": 5188686,
-    "title": "Corporate Finance & Strategy",
-    "location": {
-      "name": "US-REM"
-    },
-    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5188686"
-  },
-  {
     "id": 5190029,
     "title": "GIS Analyst ",
     "location": {
@@ -2160,6 +2152,14 @@
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5424365"
   },
   {
+    "id": 5424367,
+    "title": "International Controller ",
+    "location": {
+      "name": "Dublin"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5424367"
+  },
+  {
     "id": 5424369,
     "title": "Staff Engineer, Data Warehouse Analytics ",
     "location": {
@@ -2182,6 +2182,14 @@
       "name": "LOCATION"
     },
     "absolute_url": "https://stripe.com/jobs/search?gh_jid=5426024"
+  },
+  {
+    "id": 5426428,
+    "title": "Account Executive, Enterprise",
+    "location": {
+      "name": "US-NYC"
+    },
+    "absolute_url": "https://stripe.com/jobs/search?gh_jid=5426428"
   },
   {
     "id": 5426488,
