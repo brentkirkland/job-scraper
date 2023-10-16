@@ -19,7 +19,7 @@
 /careers/senior-manager--channel-partnerships--sea_3549b68f-2522-4268-9a90-a35a86bbcecb
 /careers/manager--education-content_d930109b-9eeb-4401-989e-0e68835cb5ca
 /careers/senior-partner-manager--emea_34d1079e-88a5-4495-b5d4-9dce1dc45a1e
-/careers/senior-partner-manager_5da6d158-e8d7-484c-ad9c-66aa4420d72b
+/careers/senior-solutions-engineer--enterprise-_b08c4a28-7e3b-4718-8f50-78fb005fccda
 /careers/sr--solutions-engineer--incubation--gtm--sales_5e55c50f-9575-4f8b-88ff-b0b3ac81065d
 /careers/senior-product-consultant_4fa8800a-7f95-4fa7-805f-7fc13040f14a
 /careers/account-executive---cross-sell-mid-market---bilingual-italian-or-spanish-_22d45a1c-8e12-47b5-b802-0ea6d8b0c060
@@ -36,7 +36,6 @@
 /careers/customer-success-manager--gcr_ea405b8d-868d-432b-b744-92b002b474de
 /careers/senior-implementation-consultant--gcr_0393849f-ead4-405b-87d5-e8540533b2db
 /careers/incubation-sales-executive---pacific-timezone-_038848b1-94d6-45cb-8aef-4b8a94913be6
-/careers/senior-solutions-engineer--enterprise-_b08c4a28-7e3b-4718-8f50-78fb005fccda
 /careers/solutions-engineer--mid-market-_41ff5c88-285e-4e44-be94-44100746f0fd
 /careers/lead--instructional-design-_d1ac22a3-2295-40fd-9ab3-0d8a3d337900
 /careers/account-executive--large-accounts_7e3b27a3-eee8-400f-b7c7-35ee48790e94
