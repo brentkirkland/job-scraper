@@ -4,7 +4,6 @@
 /careers/senior-partner-program-manager_c390623d-d592-4859-b069-2a00b76e5d2c
 /careers/solutions-architect--professional-services-_456f8170-bc37-4d8d-872b-a2a0d542d5cc
 /careers/technical-architect--web-development---professional-services-_87a76e10-0d80-4b24-99e8-3884542a7f88
-/careers/launch-engineering-operations-lead_05792588-512b-45e4-9a85-592e45a2a71d
 /careers/associate-general-counsel--legal-counsel--regulatory-_c6b7fb7b-e1c4-4c51-be35-e851901a7274
 /careers/content-manager--bilingual-german-_48f44a6a-7385-43cf-96a5-f7a36c95eef9
 /careers/senior-education-program-manager_c97bdd62-55a0-4fe4-a180-ece3567d2c3a
@@ -18,11 +17,11 @@
 /careers/senior-manager--channel-partnerships--sea_3549b68f-2522-4268-9a90-a35a86bbcecb
 /careers/manager--education-content_d930109b-9eeb-4401-989e-0e68835cb5ca
 /careers/senior-partner-manager--emea_34d1079e-88a5-4495-b5d4-9dce1dc45a1e
+/careers/program-manager--enterprise-product-enablement_fb238c12-71d2-4c80-b154-81a32150c19f
 /careers/senior-solutions-engineer--enterprise-_b08c4a28-7e3b-4718-8f50-78fb005fccda
 /careers/sr--solutions-engineer--incubation--gtm--sales_5e55c50f-9575-4f8b-88ff-b0b3ac81065d
 /careers/senior-product-consultant_4fa8800a-7f95-4fa7-805f-7fc13040f14a
 /careers/account-executive---cross-sell-mid-market---bilingual-italian-or-spanish-_22d45a1c-8e12-47b5-b802-0ea6d8b0c060
-/careers/program-manager--enterprise-product-enablement_fb238c12-71d2-4c80-b154-81a32150c19f
 /careers/sr--technical-onboarding-specialist_f8fccb05-f9d0-46c0-a187-440e8aac4647
 /careers/program-manager--mid-market---large-accounts-sales-enablement_8e4e360d-b21f-4e20-90c3-2db640b9f5bb
 /careers/program-manager--tech---tooling-enablement_266a4b35-0272-40ae-87f9-664c03edd33c
