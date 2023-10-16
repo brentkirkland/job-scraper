@@ -19,6 +19,7 @@
 /careers/senior-manager--channel-partnerships--sea_3549b68f-2522-4268-9a90-a35a86bbcecb
 /careers/manager--education-content_d930109b-9eeb-4401-989e-0e68835cb5ca
 /careers/senior-partner-manager--emea_34d1079e-88a5-4495-b5d4-9dce1dc45a1e
+/careers/senior-partner-manager_5da6d158-e8d7-484c-ad9c-66aa4420d72b
 /careers/senior-solutions-engineer--enterprise-_b08c4a28-7e3b-4718-8f50-78fb005fccda
 /careers/sr--solutions-engineer--incubation--gtm--sales_5e55c50f-9575-4f8b-88ff-b0b3ac81065d
 /careers/senior-product-consultant_4fa8800a-7f95-4fa7-805f-7fc13040f14a
