@@ -408,30 +408,6 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5020434/?gh_jid=5020434"
   },
   {
-    "id": 5030876,
-    "title": "Senior SaaS Administrator - Enterprise IT Operations",
-    "location": {
-      "name": "New York, New York, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/5030876/?gh_jid=5030876"
-  },
-  {
-    "id": 5030877,
-    "title": "Senior SaaS Administrator - Enterprise IT Operations",
-    "location": {
-      "name": "Denver, Colorado, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/5030877/?gh_jid=5030877"
-  },
-  {
-    "id": 5030920,
-    "title": "Senior SaaS Administrator - Enterprise IT Operations",
-    "location": {
-      "name": "Boston, Massachusetts, USA"
-    },
-    "absolute_url": "https://careers.datadoghq.com/detail/5030920/?gh_jid=5030920"
-  },
-  {
     "id": 5035457,
     "title": "Sales Development Representative (Benelux)",
     "location": {
@@ -2088,6 +2064,14 @@
     "absolute_url": "https://careers.datadoghq.com/detail/5416538/?gh_jid=5416538"
   },
   {
+    "id": 5421164,
+    "title": "Enterprise Sales Engineer (United Kingdom)",
+    "location": {
+      "name": "Remote, United Kingdom"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5421164/?gh_jid=5421164"
+  },
+  {
     "id": 5423368,
     "title": "Strategic Account Executive (France)",
     "location": {
@@ -2198,6 +2182,22 @@
       "name": "Paris, France; Grenoble, France; Lyon, France; Nantes, France; Montpellier, France; Sophia Antipolis, France; Bordeaux, France; Madrid, Spain; Lisbon, Portugal; "
     },
     "absolute_url": "https://careers.datadoghq.com/detail/5433113/?gh_jid=5433113"
+  },
+  {
+    "id": 5433213,
+    "title": "Security Engineer - Vulnerability Management",
+    "location": {
+      "name": "New York, New York, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5433213/?gh_jid=5433213"
+  },
+  {
+    "id": 5433214,
+    "title": "Security Engineer - Vulnerability Management",
+    "location": {
+      "name": "Denver, Colorado, USA"
+    },
+    "absolute_url": "https://careers.datadoghq.com/detail/5433214/?gh_jid=5433214"
   },
   {
     "id": 5434287,
