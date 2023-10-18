@@ -1,7 +1,5 @@
 /careers/disciplines/engineering
 /careers/solutions-architect--professional-services--bilingual-_b3e0dfa6-a83b-4e9b-917b-23448774af61
-/careers/senior-partner-operations-manager_85cb9766-3048-4c18-9eb0-c664d6efc9c1
-/careers/senior-partner-program-manager_c390623d-d592-4859-b069-2a00b76e5d2c
 /careers/solutions-architect--professional-services-_456f8170-bc37-4d8d-872b-a2a0d542d5cc
 /careers/technical-architect--web-development---professional-services-_87a76e10-0d80-4b24-99e8-3884542a7f88
 /careers/associate-general-counsel--legal-counsel--regulatory-_c6b7fb7b-e1c4-4c51-be35-e851901a7274
@@ -14,8 +12,9 @@
 /careers/partner-development-manager--agency--north-america_2f77d415-8538-498d-a31f-3a416e53b0ee
 /careers/senior-manager--channel-partnerships--sea_3549b68f-2522-4268-9a90-a35a86bbcecb
 /careers/senior-partner-manager--emea_34d1079e-88a5-4495-b5d4-9dce1dc45a1e
+/careers/senior-solutions-engineer---retail_9afa2f53-6860-4c79-a80a-9e7b1e4c90a1
+/careers/senior-enterprise-success-manager---consumer-goods-_31aed032-831a-4bd5-b287-f723181703b7
 /careers/senior-mid-market-account-executive--new-business-_7b061f27-bb9b-438e-8e26-4bae4dccbd33
-/careers/senior-enterprise-success-manager-_31aed032-831a-4bd5-b287-f723181703b7
 /careers/program-manager--enterprise-product-enablement_fb238c12-71d2-4c80-b154-81a32150c19f
 /careers/senior-solutions-engineer--enterprise-_b08c4a28-7e3b-4718-8f50-78fb005fccda
 /careers/sr--solutions-engineer--incubation--gtm--sales_5e55c50f-9575-4f8b-88ff-b0b3ac81065d
