@@ -2368,6 +2368,14 @@
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5442122?gh_jid=5442122"
   },
   {
+    "id": 5444946,
+    "title": "Content Developer",
+    "location": {
+      "name": "Remote US"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5444946?gh_jid=5444946"
+  },
+  {
     "id": 5448220,
     "title": "Software Engineer",
     "location": {
@@ -2382,5 +2390,13 @@
       "name": "Remote Netherlands"
     },
     "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5448223?gh_jid=5448223"
+  },
+  {
+    "id": 5448939,
+    "title": "Content Developer",
+    "location": {
+      "name": "Lisbon, Portugal"
+    },
+    "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/5448939?gh_jid=5448939"
   }
 ]
