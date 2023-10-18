@@ -1,7 +1,5 @@
 /careers/disciplines/engineering
 /careers/solutions-architect--professional-services--bilingual-_b3e0dfa6-a83b-4e9b-917b-23448774af61
-/careers/senior-partner-operations-manager_85cb9766-3048-4c18-9eb0-c664d6efc9c1
-/careers/senior-partner-program-manager_c390623d-d592-4859-b069-2a00b76e5d2c
 /careers/solutions-architect--professional-services-_456f8170-bc37-4d8d-872b-a2a0d542d5cc
 /careers/technical-architect--web-development---professional-services-_87a76e10-0d80-4b24-99e8-3884542a7f88
 /careers/associate-general-counsel--legal-counsel--regulatory-_c6b7fb7b-e1c4-4c51-be35-e851901a7274
