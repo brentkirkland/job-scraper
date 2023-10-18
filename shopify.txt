@@ -3,7 +3,6 @@
 /careers/solutions-architect--professional-services-_456f8170-bc37-4d8d-872b-a2a0d542d5cc
 /careers/technical-architect--web-development---professional-services-_87a76e10-0d80-4b24-99e8-3884542a7f88
 /careers/associate-general-counsel--legal-counsel--regulatory-_c6b7fb7b-e1c4-4c51-be35-e851901a7274
-/careers/marketing-automation-manager-_d5e21e65-e820-4177-b8c6-8e82fc4f56f2
 /careers/marketing-funnel-optimization-lead-_35272a60-e8f3-4afb-8321-558744c222c7
 /careers/certifications-program-lead_6f95eb04-e805-4e00-9219-2d9292ad1fd3
 /careers/agency-partner-acquisition--north-america_7a329fac-3dc7-458e-a51d-ed58f8e1f7dd
@@ -31,6 +30,7 @@
 /careers/sales-lead--core-cross-sell_53e528b3-b20e-4b19-b4e5-aefe45452986
 /careers/account-executive--mid-market-cross-sell_db2f4123-abfc-4430-b19f-be8a14f5dc12
 /careers/account-executive--core-cross-sell_1ba052af-d518-47f1-b152-5880f66f1c7c
+/careers/account-executive--smb-cross-sell_33795470-c0c0-440d-8fce-72c0c9fe0434
 /careers/customer-success-manager--gcr_ea405b8d-868d-432b-b744-92b002b474de
 /careers/senior-implementation-consultant--gcr_0393849f-ead4-405b-87d5-e8540533b2db
 /careers/incubation-sales-executive---pacific-timezone-_038848b1-94d6-45cb-8aef-4b8a94913be6
